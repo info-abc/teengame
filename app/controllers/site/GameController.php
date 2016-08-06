@@ -94,28 +94,28 @@ class GameController extends SiteController {
 		$type = Type::findBySlug($slug);
 		$tag = AdminTag::findBySlug($slug);
 		if($categoryParent) {
-			// if(getDevice() == MOBILE) {
-			// 	return View::make('site.htmlpage.categoryParent_'.$slug.'_mobile');
-			// } else {
-			// 	return View::make('site.htmlpage.categoryParent_'.$slug.'_pc');
-			// }
-			return View::make('site.game.category')->with(compact('categoryParent'));
+			if(getDevice() == MOBILE) {
+				return View::make('site.htmlpage.categoryParent_'.$slug.'_mobile');
+			} else {
+				return View::make('site.htmlpage.categoryParent_'.$slug.'_pc');
+			}
+			// return View::make('site.game.category')->with(compact('categoryParent'));
 		}
 		if($type) {
-			// if(getDevice() == MOBILE) {
-			// 	return View::make('site.htmlpage.typeGame_game-'.$slug.'_mobile');
-			// } else {
-			// 	return View::make('site.htmlpage.typeGame_game-'.$slug.'_pc');
-			// }
-			return View::make('site.game.type')->with(compact('type'));
+			if(getDevice() == MOBILE) {
+				return View::make('site.htmlpage.typeGame_game-'.$slug.'_mobile');
+			} else {
+				return View::make('site.htmlpage.typeGame_game-'.$slug.'_pc');
+			}
+			// return View::make('site.game.type')->with(compact('type'));
 		}
 		if($tag) {
-			// if(getDevice() == MOBILE) {
-			// 	return View::make('site.htmlpage.tagGame_game-'.$slug.'_mobile');
-			// } else {
-			// 	return View::make('site.htmlpage.tagGame_game-'.$slug.'_pc');
-			// }
-			return View::make('site.tag.index')->with(compact('tag'));
+			if(getDevice() == MOBILE) {
+				return View::make('site.htmlpage.tagGame_game-'.$slug.'_mobile');
+			} else {
+				return View::make('site.htmlpage.tagGame_game-'.$slug.'_pc');
+			}
+			// return View::make('site.tag.index')->with(compact('tag'));
 		}
 
 		//TODO 404
@@ -236,26 +236,26 @@ class GameController extends SiteController {
     	if($parentId && $game) {
     		if(getDevice() == MOBILE) {
     			if(!(in_array($game->parent_id, [GAMEFLASH, GAMEHTML5]))) {
-    				// return View::make('site.htmlpage.game_download_'.$game->slug.'_mobile')->with(compact('game'));
-	    			return View::make('site.game.downloadmobile')->with(compact('game'));
+    				return View::make('site.htmlpage.game_download_'.$game->slug.'_mobile')->with(compact('game'));
+	    			// return View::make('site.game.downloadmobile')->with(compact('game'));
 	    		} else {
 	    			if($play == 'true') {
 	    				return View::make('site.game.onlinemobileplay')->with(compact('game'));
 	    			}
-	    			// return View::make('site.htmlpage.game_play_'.$game->slug.'_mobile')->with(compact('game'));
-	    			return View::make('site.game.onlinemobile')->with(compact('game'));
+	    			return View::make('site.htmlpage.game_play_'.$game->slug.'_mobile')->with(compact('game'));
+	    			// return View::make('site.game.onlinemobile')->with(compact('game'));
 	    		}
     		} else {
     			if(!(in_array($game->parent_id, [GAMEFLASH, GAMEHTML5]))) {
-    				// return View::make('site.htmlpage.game_download_'.$game->slug.'_pc')->with(compact('game'));
-	    			return View::make('site.game.downloadweb')->with(compact('game'));
+    				return View::make('site.htmlpage.game_download_'.$game->slug.'_pc')->with(compact('game'));
+	    			// return View::make('site.game.downloadweb')->with(compact('game'));
 	    		} else {
-	    			$gametop = $this->listGameTop();
-	    			// if($play == 'true') {
-	    			// 	return View::make('site.game.onlinewebplay')->with(compact('game'));
-	    			// }
-	    			// return View::make('site.htmlpage.game_play_'.$game->slug.'_pc')->with(compact('game'));
-	    			return View::make('site.game.onlineweb')->with(compact('game', 'gametop'));
+	    			// $gametop = $this->listGameTop();
+	    			if($play == 'true') {
+	    				return View::make('site.game.onlinewebplay')->with(compact('game'));
+	    			}
+	    			return View::make('site.htmlpage.game_play_'.$game->slug.'_pc')->with(compact('game'));
+	    			// return View::make('site.game.onlineweb')->with(compact('game', 'gametop'));
 	    		}
     		}
     	}

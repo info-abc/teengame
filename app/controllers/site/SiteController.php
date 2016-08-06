@@ -51,7 +51,7 @@ class SiteController extends HomeController {
         {
             $listTypeGameMenu = Cache::get('listTypeGameMenu');
         } else {
-			$listTypeGameMenu = CommonSearch::searchTypeGame();
+			$listTypeGameMenu = CommonSearch::getTypeGame();
             Cache::put('listTypeGameMenu', $listTypeGameMenu, CACHETIME);
         }
 

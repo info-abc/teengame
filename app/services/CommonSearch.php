@@ -183,7 +183,7 @@ class CommonSearch
 		return $data;
 	}
 	//backend search type game
-	public static function searchTypeGame($input, $count=0, $typeId=null, $field=null) {
+	public static function searchTypeGame($input=null, $count=0, $typeId=null, $field=null) {
 		$data  = DB::table('types');
 		if($count!=0) {
 			$data = $data->join('game_types', 'types.id', '=', 'game_types.type_id') 
@@ -213,6 +213,22 @@ class CommonSearch
 			$data = $data->where('games.parent_id', $input['parent_id']);
 		}
 		$data = $data->get();
+		return $data;
+	}
+
+	public static function getTypeGame(){
+		$data  = DB::table('types')
+					->join('game_types', 'types.id', '=', 'game_types.type_id') 
+					->join('games', 'game_types.game_id', '=', 'games.id')
+					// ->select(DB::raw('types.*, count(*) as count_game, 
+					// 						SUM(games.count_view) as count_view, SUM(games.count_play) as count_play,
+					//  						SUM(games.count_download) as count_download'))
+					->select('types.*')
+					->whereNull('types.deleted_at')
+					->whereNull('game_types.deleted_at')
+					->whereNull('games.deleted_at')
+				    ->groupBy('types.id')
+					->get();
 		return $data;
 	}
 
