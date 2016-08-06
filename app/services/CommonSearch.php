@@ -220,10 +220,10 @@ class CommonSearch
 		$data  = DB::table('types')
 					->join('game_types', 'types.id', '=', 'game_types.type_id') 
 					->join('games', 'game_types.game_id', '=', 'games.id')
-					// ->select(DB::raw('types.*, count(*) as count_game, 
-					// 						SUM(games.count_view) as count_view, SUM(games.count_play) as count_play,
-					//  						SUM(games.count_download) as count_download'))
-					->select('types.*')
+					->select(DB::raw('types.*, count(*) as count_game, 
+											SUM(games.count_view) as count_view, SUM(games.count_play) as count_play,
+					 						SUM(games.count_download) as count_download'))
+					// ->select('types.*')
 					->whereNull('types.deleted_at')
 					->whereNull('game_types.deleted_at')
 					->whereNull('games.deleted_at')
