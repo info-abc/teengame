@@ -1,7 +1,18 @@
-@extends('site.layout.default_mobile')
+<?php 
+$seoMeta = new stdClass();
+$seoMeta->title_site = 'Most Popular Free Flash Games - Play Most Popular Game Online Right Now!';
+$seoMeta->description_site = 'Play Most Popular Flash Games at Teengame.net. Choose Popular Free Flash Game and Play Online NOW!';
+$seoMeta->keyword_site = 'most popular flash games, most popular free flash games, most popular online games, play most popular game';
+$seoMeta->title_fb = 'Most Popular Free Flash Games - Play Most Popular Game Online Right Now!';
+$seoMeta->description_fb = 'Play Most Popular Flash Games at Teengame.net. Choose Popular Free Flash Game and Play Online NOW!';
+$seoMeta->image_url_fb = '';
+?>
+
+@extends('site.layout.default_mobile', array('seoMeta' => $seoMeta))
 
 @section('title')
-{{ $title = 'Most voted games'}}
+	<?php $title = (isset($seoMeta) && !empty($seoMeta->title_site))?$seoMeta->title_site:'Most voted games'; ?>
+	{{ $title }}
 @stop
 
 @section('content')

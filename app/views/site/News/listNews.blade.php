@@ -1,12 +1,20 @@
-@extends('site.layout.default')
-
 <?php 
 	if(isset($typeNew)) {
-		$typeNewTitle = $typeNew->name;
+		$seoMeta = CommonSite::getMetaSeo('TypeNew', $typeNew->id);
+		$typeNewTitle = (isset($seoMeta) && !empty($seoMeta->title_site))?$seoMeta->title_site:$typeNew->name;
 	} else {
-		$typeNewTitle = 'News';
+		$seoMeta = new stdClass();
+		$seoMeta->title_site = 'Free games News|Teengame.net';
+		$seoMeta->description_site = 'Check out the latest video game reviews, release dates, trailers and news. Read and watch exclusive content about your favorite video games!';
+		$seoMeta->keyword_site = 'free games news';
+		$seoMeta->title_fb = 'Free games News|Teengame.net';
+		$seoMeta->description_fb = 'Check out the latest video game reviews, release dates, trailers and news. Read and watch exclusive content about your favorite video games!';
+		$seoMeta->image_url_fb = '';
+		$typeNewTitle = $seoMeta->title_site;
 	}
 ?>
+
+@extends('site.layout.default', array('seoMeta' => $seoMeta))
 
 @section('title')
 	{{ $title = $typeNewTitle }}

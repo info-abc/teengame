@@ -5,6 +5,7 @@
 
 @section('title')
 	<?php $title = (isset($seoMeta) && !empty($seoMeta->title_site))?$seoMeta->title_site:'Game Android'; ?>
+	{{ $title }}
 @stop
 
 @section('content')

@@ -185,7 +185,7 @@ class CommonSite
     public static function getMetaSeoData($modelName, $modelId, $seoMeta, $meta, $type, $isTypeMain = null)
     {
         if($modelName == 'Game' && $isTypeMain == null) {
-            $seoMeta->title_site = 'Play game '.$meta->name.' | Teengame.net';
+            $seoMeta->title_site = 'Play '.$meta->name.'|Free Online '.$type->name.' Game on Teen game';
             // if($type) {
             //     $seoMeta->title_site = 'Chơi game '.$meta->name.' | Game '.$type->name.' | Teengame.net';     
             // } else {
@@ -197,7 +197,7 @@ class CommonSite
             }
         }
         if($modelName == 'Game' && $isTypeMain == null) {
-            $seoMeta->description_site = $meta->name.' - Game '.$meta->name.' the latest 24h selective in Teengame.net';
+            $seoMeta->description_site = $meta->name.' - A free online '.$type->name.' game brought to you by Teen Game';
             // if($type) {
             //     $seoMeta->description_site = 'Game '.convert_string_vi_to_en($meta->name).' - Trò chơi '.$type->name.' '.$meta->name.' chọn lọc hay mới nhất 24h tại Teengame.net'; 
             // } else {
@@ -209,11 +209,11 @@ class CommonSite
             }
         }
         if($modelName == 'Game' && $isTypeMain == null) {
-            $seoMeta->keyword_site = 'play game '.$meta->name.', game '.$meta->name;
+            $seoMeta->keyword_site = $meta->name.', play '.$meta->name.' , game '.$meta->name.',free online game, '.$type->name.' game';
             // $seoMeta->keyword_site = 'chơi game '.$meta->name.', tro choi '.convert_string_vi_to_en($meta->name).', game '.convert_string_vi_to_en($meta->name).' hay, '.convert_string_vi_to_en($meta->name).' 24h';
         } else {
             if($seoMeta->keyword_site == '') {
-                $seoMeta->keyword_site = 'play game '.$meta->name.', game '.$meta->name;
+                $seoMeta->keyword_site = $meta->name;
                 // $seoMeta->keyword_site = 'Game '.$meta->name.', trò chơi '.$meta->name.', game cho mobile hay nhất tại Teengame.net';
             }
         }
