@@ -7,7 +7,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta property="fb:app_id" content="1008308405878197"/>
 	<meta property="fb:admins" content="1088553914497350"/>
-	<title>			choinhanh.vn
+	<title>			teengame.net
 	</title>
 
 			<meta name="robots" content="noodp,index,follow" />
@@ -19,14 +19,14 @@
 	
 	
 	
-			<meta name="description" content="Tổng hợp các game hay nhât">
-		<meta name="keywords" content="choinhanh">
-		<meta name="title" content="choinhanh.vn">
+			<meta name="description" content="Online game mobile, Best game">
+		<meta name="keywords" content="teengame">
+		<meta name="title" content="teengame.net">
 
-							<meta property="og:url" content="http://localhost:8000" />
+							<meta property="og:url" content="http://teengame.net" />
 				<meta property="og:title" content="" />
 		<meta property="og:description" content="" />
-					<meta property="og:image" content="http://localhost:8000/images/avatar-game.jpg" />
+					<meta property="og:image" content="http://teengame.net/images/avatar-game.jpg" />
 				
 	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -36,8 +36,19 @@
 	<![endif]-->
 
 			<meta name="resource-type" content="Document" /> 
-			<meta name="generator" content="choinhanh.vn" />
-			<meta name="copyright" content="Công ty Cổ phần ABC" />
+			<meta name="generator" content="teengame.net" />
+			<meta name="copyright" content="teengame.net" />
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-44899633-8', 'auto');
+  ga('send', 'pageview');
+
+</script>
 	
 </head>	<body>
 
@@ -56,10 +67,10 @@
 	
 	.logo,.search form,.search1 form{display:inline-block}.search input[type=text],.search1 input[type=text]{letter-spacing:1px;font-style:italic;color:#000;height:34px}.logo,.menu-top{margin-left:10px}.charts-medal,.item-play i.fa,.search,i.download,i.play{float:right}body{background:url(/assets/images/bg.jpg) 100% fixed}a{text-decoration:none;color:#538e3e}a:hover{color:#538E1A}.top{padding-bottom:10px;padding-top:10px}.logo{max-width:100px}.logo img{height:auto;max-width:100%}.logo h1,.logo p{text-align:center;font-size:9px;margin-bottom:0;margin-top:0}.search{margin-top:10px;margin-bottom:5px;text-align:right;width:auto}.item-image,.title_center{text-align:center}.search form{position:relative;width:200px}.search input[type=text]{background:#fff;border:1px solid #e5e5e5;border-radius:5px;font-size:14px;max-width:100%;padding:0 30px 0 10px;width:100%}.search input[type=submit]{background:url(/assets/images/search-icon.png) center center no-repeat rgba(0,0,0,0);border:none;font-size:0;height:34px;position:absolute;right:0;top:0;width:34px}.search1 form{position:relative;width:300px}.search1 input[type=text]{background:#fff;border-left:8px solid #538e3e;border-bottom:1px solid #538e3e;font-size:14px;max-width:100%;padding:7px 13px;width:100%}.search1 input[type=submit]{background:url(/assets/images/search-icon.png) center center no-repeat rgba(0,0,0,0);border:none;font-size:0;height:36px;position:absolute;right:0;top:0;width:34px}#iconseach{display:none}a#iconseach i.fa{font-size:25px}a.iconfacebook,a.icongoogleplus{color:#538e3e;cursor:pointer;font-size:24px;padding:5px 8px;vertical-align:middle}.title_center,.title_left{border-bottom:1px solid #cbcbcb;padding-bottom:15px;padding-top:15px}.main{background:#fff}.title_center h1,.title_left h1{font-size:20px;margin-bottom:10px;margin-top:10px}.box>h1,.box>h1>a,.box>h2,.box>h2>a,.box>h3,.box>h3>a{font-size:18px;font-weight:700;color:#538e3e;text-transform:uppercase}.box{padding-left:30px;padding-right:30px}.box>h1,.box>h2,.box>h3{border-bottom:2px solid #474747;margin-bottom:10px;margin-top:10px;padding-bottom:5px;position:relative}.box>h1>a,.box>h2>a,.box>h3>a{text-decoration:none}.box>h4{color:#538e3e;text-transform:uppercase}.box a.box-more{background:#538e3e;border-radius:30px 0 0;color:#fff;float:right;font-size:16px;font-weight:400;padding:5px 30px 5px 35px;position:absolute;right:0;text-decoration:none;text-transform:none;top:-2px}.box img{max-width:100%;height:auto}.item{border:1px solid #474747;margin-bottom:10px;height:140px}.item-image{position:relative}.item-image img{height:auto;width:100%;max-width:100%}.item-image strong{color:#474747;display:block;font-size:13px;font-weight:700;margin-top:5px;padding-left:5px;padding-right:5px;text-align:left}.charts>h3,.copyright,.footer>ul,.item-star,.item-title a,.menu-hide,.menu-login a.signin,.menu-login a.signup,.menu-static ul,.menu-static ul li a,.no-for-mobile,.overlay{text-align:center}.item-image i.fa{color:#fff;font-size:30px;left:43%;position:absolute;top:40%}.overlay{background:rgba(0,0,0,.2);height:100%;opacity:0;position:absolute;top:0;width:100%;transition:opacity .25s ease 0s;-webkit-transition:opacity .25s ease;-moz-transition:opacity .25s ease}.item:hover .overlay{opacity:1}.item-star{margin-bottom:5px}.item a{text-decoration:none;display:block}.item a:focus,.item a:hover{text-decoration:none}.item-title{color:#474747;display:block;padding:5px 3px}.item-title h2{margin-top:0;margin-bottom:0}.item-title a{color:#474747;font-size:13px;font-weight:700}.item-play{padding:5px;color:#fff}.item-play a{color:#fff;display:block}.item-play span{color:#908c8c;font-size:12px}.item-play i.fa{font-size:24px;margin-top:-2px}i.download{font-size:23px;margin-top:-7px}i.play{font-size:16px;margin-top:-2px}.no-for-mobile{margin-bottom:5px;background:#E61219;display:block;border-radius:5px;font-weight:700;color:#fff;padding:10px 2px;width:100%}.footer{padding-top:20px}.footer>ul{background:#fff;border-bottom:1px solid #538e3e;list-style:none;margin-bottom:0;padding-left:0;padding-top:10px}.footer>ul li{display:inline-block;width:auto;padding-left:20px;padding-right:20px}.footer>ul li a{display:block;padding-bottom:10px;color:#474747;text-align:center;text-transform:uppercase;border-bottom:4px solid transparent}.footer>ul li a.active,.footer>ul li a:focus,.footer>ul li a:hover{color:#538e3e;text-decoration:none;border-bottom-color:#538e3e}.copyright{background:#474747;color:#fff;padding-bottom:12px;padding-top:18px}.copyright p{font-size:12px;margin-bottom:3px}.menu-top{background:#538e3e;margin-right:10px}.menu-static{padding-bottom:0;padding-top:0}.menu-static ul{list-style:none;margin-bottom:0;padding:0}.menu-static ul li{display:inline-block;padding-left:35px;padding-right:35px}.menu-static ul li a{color:#fff;display:block;padding-bottom:5px;padding-top:5px;text-transform:uppercase}.menu-static ul li a.active,.menu-static ul li a:focus,.menu-static ul li a:hover{color:#fff;text-decoration:none}.menu-static ul li a i.fa{font-size:24px}.menu-static ul li a span{display:inline-block;padding-bottom:2px;padding-left:10px;vertical-align:middle}.menu-hide{background:#538e3e}.menu-hide a{color:#fff;display:block;line-height:2!important}.menu-hide a i.fa{font-size:14px}.menu-hide a,.menu-show a{text-decoration:none;cursor:pointer}.menu-show a:focus,.menu-show a:hover{border-bottom-color:transparent!important}.menu-show a i.fa{color:#474747;font-size:20px}.menushow{visibility:visible!important}a.menu_show_list{color:#538e3e;cursor:pointer;margin-left:22px}.menu-account{background:#474747}a.account-name,a.game-favorite,a.game-played,a.signout{color:#fff;display:block;line-height:2!important}a.account-name{font-weight:700!important}a.game-favorite i.fa,a.game-played i.fa,a.signout i.fa{font-size:20px;margin-right:7px}a.game-favorite,a.game-played{background:#a9a8a6;border-bottom:1px solid #fff!important}.menu-login,a.signout{background:#a9a8a6}.menu-login a.signin,.menu-login a.signup{color:#fff;display:inline-block;line-height:2!important;width:148px}.menu-login a.signin{background:#474747}.menu-login a.signup{background:#a9a8a6}#cssmenu{background:#fff;box-shadow:0 1px 3px #474747;visibility:hidden;right:0;position:absolute!important;top:67px;width:300px;z-index:9999}#cssmenu,#cssmenu a,#cssmenu li,#cssmenu ul{border:0;font-size:14px;font-weight:400;line-height:1;list-style:none;margin:0;padding:0;position:relative;text-decoration:none}#cssmenu>ul>li,#cssmenu>ul>li:last-child{border-bottom:1px solid #538e3e}#cssmenu a{line-height:1.5;padding:10px}#cssmenu>ul>li{background:#000;cursor:pointer}#cssmenu>ul>li>a{background:#fff;border-left:8px solid #538e3e;color:#474747;display:block}#cssmenu>ul>li.has-sub.active>a::after,#cssmenu>ul>li.has-sub>a::after{-moz-border-bottom-colors:none;-moz-border-left-colors:none;-moz-border-right-colors:none;-moz-border-top-colors:none;border-image:none;border-style:solid;border-width:5px;top:10px}#cssmenu>ul>li>a:hover{text-decoration:none}#cssmenu>ul>li.has-sub>a::after{border-color:transparent transparent transparent #538e3e;content:"";position:absolute;right:10px}#cssmenu>ul>li.has-sub.active>a::after{border-color:#538e3e transparent transparent;right:14px}#cssmenu ul ul{display:none;padding:0}#cssmenu ul ul a{background:#ebebeb;border-left:8px solid #538e3e;color:#474747;display:block}.charts,.charts>h3{background:#7ea8c1}#cssmenu ul ul li{border-bottom:1px solid #ccc}#cssmenu ul ul li:last-child{border:none}#cssmenu>ul>li>a>i.fa{font-size:25px}.color1{color:#538e3e!important}.color2{color:#a3ca39!important}.color3{color:#f8a24f!important}.top .menu-show{display:none}.charts{border-radius:10px;margin-bottom:10px;margin-top:45px;padding:5px}.charts>h3{border-radius:10px 10px 0 0;color:#fff;font-size:16px;font-weight:700;margin-bottom:0;margin-top:0;padding:10px}.charts ul{list-style:none;margin:0;padding-left:5px;padding-right:5px}.charts ul li{background:#fff;border-bottom:1px solid #538e3e;border-radius:10px;margin-bottom:5px;padding:5px 10px}.charts ul li:last-child{border-bottom:none}.charts-image{width:40px;display:inline-block}.charts-image img{max-width:100%;height:auto}.charts-text{display:inline-block;margin-left:10px;vertical-align:middle}.charts-text strong{color:#538e3e;display:block;font-size:16px}a.download,a.edit-email,a.edit-password{display:inline-block;text-decoration:none;cursor:pointer}.charts-text span{color:#ed933b;font-size:16px}a.edit-email,a.edit-password{color:#474747;margin-top:3px}a.edit-email:hover,a.edit-password:hover{color:#474747}.cachar,.top-right-login a.signout,a.download{color:#fff;text-align:center}a.edit-email i.fa,a.edit-password i.fa{font-size:30px}a.download{background:#ed933b;border-radius:5px;font-weight:700;padding:8px 45px}a.download i.fa{font-size:16px}.btn-block-center{display:block;margin:10px 0;text-align:center}.btn-block-center a.download{padding:10px;width:100%}.btn-click{display:inline-block;margin-bottom:15px;margin-top:15px;width:100%}.mobile_avatar{width:40%;padding:0 15px;display:inline-block;vertical-align:top}.game_avatar,.game_title,.mobile_title{padding:0 15px 0 0;display:inline-block;vertical-align:top}.mobile_title{width:58%}.mobile_title p{margin-bottom:3px}.game_avatar{width:20%}.game_title{width:78%}#code,.cachar{width:50%}.cachar{background:#538e3e;border-radius:0;margin-top:-18px;font-size:13px;padding-top:1px;height:19px}.top-image,.top-pc .logo{width:auto;float:left}.top-image{margin-left:5px;margin-right:5px}.top-image>img{width:100%;height:auto;max-width:100%}.top-ad{float:left;width:auto}.top-right{float:right;width:auto;margin-right:10px;text-align:right}.top-right .search form{vertical-align:top;width:240px;margin-top:5px;margin-left:10px}.top-right-login>span{font-size:12px;margin-right:15px;color:#888}.top-right-login a.account-name{color:#474747;display:inline-block}.top-right-login a.signout{background:#474747;font-size:12px;padding:4px 10px;margin-left:10px;display:inline-block;width:100px;line-height:normal!important;text-decoration:none;text-transform:uppercase}.top-right-login a.signin,.top-right-login a.signup{font-size:12px;color:#fff;padding:3px 5px;width:95px;text-align:center;text-transform:uppercase;display:inline-block;text-decoration:none}.top-right-login a.signin{background:#538e3e;margin-right:10px}.top-right-login a.signup{background:#474747}.menu-top-pc{background:0 0;border-radius:5px 5px 0 0;border:1px solid #538e3e}.menu-top-pc .menu-static{padding-bottom:0;background:#538e3e;padding-top:0}.menu-top-pc ul.nav-type{padding-left:0;overflow:hidden;padding-top:15px;padding-bottom:5px}.menu-top-pc ul.nav-type li{list-style:none;float:left;width:11%;text-align:center}.menu-top-pc ul.nav-type li img{width:20px;height:20px}.menu-top-pc ul.nav-type li a{color:#474747;text-decoration:none}.menu-top-pc ul.nav-type li a.active{color:#538e3e}.menu-top-pc .menu-static ul li a{padding-bottom:7px;padding-top:7px}.sharing{margin:0;overflow-x:auto;display:inline-block}.sharing_tab{float:left;padding-top:5px;width:auto}.sharing>span{display:inline-block;font-size:10px;vertical-align:top}.boxmini-title h3,.boxmini-title h3 a{color:#484848;font-size:16px;font-weight:700}.facebook_comment{margin:25px 0 10px;overflow-x:auto}.fb-like-box{overflow-x:auto;width:100%}.boxmini{margin-bottom:10px;padding-left:5px;padding-right:5px}.boxmini-title{border-bottom:2px solid #484848;padding-bottom:10px;margin-bottom:10px;margin-top:10px}.boxmini-title h3{display:inline-block;padding:0;margin:0;position:relative;text-transform:uppercase}.boxmini-title h3 a{text-decoration:none}.boxmini-title a.boxmini-seemore{background:#484848;padding:4px 10px;border-radius:5px;font-weight:400;float:right;color:#fff;font-size:12px;display:inline-block;text-decoration:none}.boxmini .item{height:120px}@media (max-width:500px){.social,a.download2{text-align:center}.footer,.item-play span{font-size:12px}.label-text{display:none}.social a{margin-right:10px}a.download{background:#E61219;display:block}a.download2{background:#ed933b;border-radius:5px;color:#fff;display:inline-block;font-weight:700;padding:8px 20px;text-decoration:none}.top{padding-top:10px;padding-bottom:8px}.top .menu-show{margin-top:5px;display:none}.footer{padding-top:0}.item-image strong{font-size:12px;color:#908c8c;text-align:left;padding-left:3px;padding-right:3px}.box>h1>a,.box>h3>a{font-size:16px}.box>h1,.box>h3{margin-top:5px;font-size:16px}.ad img{margin-top:-10px}.search,.search1{margin-top:0}.top .menu-show a i.fa{color:#fff}.menu-static .menu-show{display:none!important}.menu-static ul li{width:18%;padding-left:0;padding-right:0}.menu-static ul li a i.fa{font-size:25px}.menu-static ul li a span{font-size:9px}.menu-static ul li a.active,.menu-static ul li a:focus,.menu-static ul li a:hover{border-bottom-color:transparent}.box,.footer>ul li{padding-left:5px;padding-right:5px}.box a.box-more{height:20px;padding-left:17px;padding-top:3px;padding-right:6px;font-size:13px;top:2px}.logo{width:40%}.logo img{height:40px}.search form{width:auto;display:none}#iconseach{display:inline-block;margin-left:3px;margin-right:5px}.search1 form{width:100%}a.report-error{margin-top:10px;padding:0 11px!important;margin-left:10px!important}a.menu_show_list{margin-left:0}a.iconfacebook,a.icongoogleplus{vertical-align:baseline;font-size:22px}div.stars{text-align:center}.startitle{left:0}h1.mobile-title{font-size:16px!important;font-weight:700}}.game,.rating{text-align:center}@media (min-width:501px) and (max-width:800px){.search form{width:auto;display:none}#iconseach{display:inline-block;margin-left:3px;margin-right:5px}a.iconfacebook,a.icongoogleplus{vertical-align:baseline}}.rate-ex2-cnt,a.report-error,div.stars form{display:inline-block}.rate-ex2-cnt{width:150px;height:30px}.rate-ex2-cnt .rate-btn{width:30px;height:30px;float:left;background:url(/assets/images/rate-btn2.png) no-repeat;cursor:pointer}.comment-button,label.star{float:right}.rate-ex2-cnt .rate-btn-active,.rate-ex2-cnt .rate-btn-hover,.rate-ex2-cnt .rate-btn:hover{background:url(/assets/images/rate-btn2-hover.png) no-repeat}.rate-result-cnt{height:18px;margin-bottom:3px;margin-top:3px;position:relative;vertical-align:middle;width:82px}.col,.web_avatar,.web_title{vertical-align:top}.rate-stars{width:82px;height:18px;background:url(/assets/images/rate-stars.png) no-repeat;position:absolute}.rate-bg{height:17px;background-color:#ffbe10;position:absolute}.startitle{position:relative;right:-10px;top:-3px}div.stars{margin-bottom:2px}div.stars strong{position:relative;top:-15px}a.report-error{border:2px solid #ed933b;border-radius:5px;color:#ed933b;font-size:12px;font-weight:700;margin-left:15px;padding:1px 10px;position:relative;text-decoration:none}input.star{display:none}label.star{padding:2px 3px;font-size:24px;color:#474747;margin:0;transition:all .2s}input.star:checked~label.star:before{content:'\f005';color:#FD4;transition:all .25s}input.star-5:checked~label.star:before{color:#FE7}input.star-1:checked~label.star:before{color:#F62}label.star:hover{transform:rotate(-15deg) scale(1.3)}label.star:before{content:'\f006';font-family:FontAwesome}.game{margin-bottom:15px}.game *{max-width:100%;height:auto}h1.title,h2.title{border:none;color:#000;display:inline-block;font-size:24px;margin-bottom:3px;margin-top:0;text-transform:none}.comment .nav-tabs{border:1px solid #538e3e;margin-bottom:10px}.comment .nav-tabs>li{width:50%;margin:0}.comment .nav-tabs>li>a{color:#538e3e;border:none;border-radius:0;font-size:18px;font-weight:700;padding:5px 10px;text-align:center;margin:0}.heading,.homenews{font-size:14px;font-weight:700}.comment .nav-tabs>li>a:hover{border-color:#538e3e}.comment .nav-tabs>li.active>a,.comment .nav-tabs>li.active>a:focus,.comment .nav-tabs>li.active>a:hover{background:#538e3e;border:none;color:#fff}.imgGamedowload,.slideGame{margin-bottom:10px;margin-top:10px;text-align:left}.detail,.list-item{margin-bottom:15px}.imgGamedowload img,.slideGame img{max-width:100%;height:auto}.imgGameContentdowload{width:50%;display:inline-block}.img_game_detail img{margin-right:24px}.imgGame img{width:76%;max-width:100%;height:auto}@media (max-width:767px){.imgGame img,.imgGamedowload img,.slideGame img{width:auto}}.table_container{display:table;width:90%;border-collapse:collapse}.heading{display:table-row;background-color:#C91622;text-align:center;line-height:25px;font-family:georgia;color:#fff}.table-row{display:table-row;text-align:left}.adsense,.center,.playbox,.social{text-align:center}.col{display:table-cell;border:0 solid #CCC;padding-left:20px}.homenews,.web_avatar,.web_title{display:inline-block}@media (max-width:480px){.row{margin-right:-10px;margin-left:-10px}}.web_avatar{width:15%;padding:0 15px}.web_title{width:83%;padding:0 15px 0 0}.col-lg-1,.col-lg-10,.col-lg-11,.col-lg-12,.col-lg-2,.col-lg-3,.col-lg-4,.col-lg-5,.col-lg-6,.col-lg-7,.col-lg-8,.col-lg-9,.col-md-1,.col-md-10,.col-md-11,.col-md-12,.col-md-2,.col-md-3,.col-md-4,.col-md-5,.col-md-6,.col-md-7,.col-md-8,.col-md-9,.col-sm-1,.col-sm-10,.col-sm-11,.col-sm-12,.col-sm-2,.col-sm-3,.col-sm-4,.col-sm-5,.col-sm-6,.col-sm-7,.col-sm-8,.col-sm-9,.col-xs-1,.col-xs-10,.col-xs-11,.col-xs-12,.col-xs-2,.col-xs-3,.col-xs-4,.col-xs-5,.col-xs-6,.col-xs-7,.col-xs-8,.col-xs-9,.container{padding-left:5px;padding-right:5px}.sapo{font-weight:700;margin-top:10px}.detail{margin-top:15px}.detail img,.detail table{max-width:100%;height:auto}.detail iframe{max-width:100%}.adsense{padding-top:5px;padding-bottom:5px}.adsense iframe,.adsense img,.adsense ins{max-width:100%!important}.homenews{color:#727272;margin-top:10px}.social div{vertical-align:middle!important}.comment-avatar,.list-image,.list-text{vertical-align:top}@media (min-width:1200px){.container{width:970px}}.row{margin-left:-5px;margin-right:-5px}.box{padding:0 10px 10px}.playbox{background:#fff;border-radius:10px;margin-top:15px;padding:10px}.social-top .social{text-align:left}.list-item{margin-top:15px;display:block}.breadcrumb ul li,.list-image,.list-text{display:inline-block}.list-image img{width:100%;max-width:100%;height:auto}.list-text h2,.list-text h3{margin-top:0;line-height:16px}.list-text h2 a,.list-text h3 a{color:#333;font-size:16px;font-weight:700;text-decoration:none}.list-text h2 a:focus,.list-text h2 a:hover,.list-text h3 a:focus,.list-text h3 a:hover{color:#538e3e}.list-text p{text-align:justify}.breadcrumb{background:0 0;border-bottom:2px solid #538e3e;border-radius:0;margin:0 0 15px;padding-left:0;padding-right:0}.breadcrumb ul{margin:0;padding-left:0}.breadcrumb ul li{list-style:none}.breadcrumb ul li a{color:#474747;font-size:13px;font-weight:700}.breadcrumb i.fa{color:#474747;padding-left:10px;padding-right:5px}.pager .disabled>a,.pager .disabled>a:focus,.pager .disabled>a:hover,.pager .disabled>span{background-color:#538e3e;color:#fff;border:1px solid #538e3e}.pager li>a,.pager li>span{color:#333}.right{text-align:right}#loadMore,.tags ul,.topgame>h3{text-align:center}.pagination>li:first-child>a,.pagination>li:first-child>span,.pagination>li:last-child>a,.pagination>li:last-child>span{border-radius:0}ul.pagination li a{border-color:#333;color:#333;margin-left:5px}ul.pagination li.current a{background:#538e3e;color:#fff;border-color:#538e3e}.pagination>li>a:focus,.pagination>li>a:hover,.pagination>li>span:focus,.pagination>li>span:hover{background-color:#fff;border-color:#333;color:#333}.related{display:block;margin-bottom:10px;margin-top:10px;overflow:hidden}.related h3{font-size:15px;font-weight:700}.related ul{padding-left:0}.related ul li{list-style:none;margin-bottom:5px}@media (max-width:768px){#cssmenu,.search form{width:200px}.search1 form{position:relative;width:200px;display:inline-block}#cssmenu{top:140px;left:20px}#cssmenu a{padding:5px 10px}.menu-login a.signin,.menu-login a.signup{width:96px;padding:5px 1px!important}}@media (min-width:769px) and (max-width:1024px){#cssmenu{top:135px;left:30px}}@media (max-width:500px){#cssmenu{top:120px;left:10px}}.login-facebook,.login-google{display:block;margin-bottom:10px}.comment-list{padding:0;margin-top:10px;margin-bottom:10px;list-style:none}.comment-list li{border-bottom:1px solid #f4f4f4;padding-bottom:5px;padding-top:5px;display:none}.comment-avatar,.comment-content{display:inline-block}#loadMore,.comment-desc,.comment-user{display:block}.comment-avatar img{width:50px;height:50px}.comment-user{font-size:12px}.comment-user span{font-size:14px;font-weight:700;color:#538e3e}.toptext{display:inline-block;padding-left:160px}@media (min-width:670px) and (max-width:1024px){.toptext{padding-left:70px}}@media (max-width:669px){.toptext{display:none}}.glass{display:none;width:100%;height:100%;position:fixed;top:0;left:0;right:0;bottom:0}.playgame .social-vote,.playgame .social-vote-label,.social-box .social,.topgame-image,.topgame-text{display:inline-block}.playgame{background:#ed933b;border-radius:10px;padding:15px 10px 10px}.playgame h1,.playgame h3{color:#fff;font-size:16px;font-weight:700;margin:0}.playgame .social-box{background:#fff;margin-bottom:15px;margin-top:15px}.playgame .social-vote-label{background:#cedfe9;border-radius:5px;color:#3b6037;font-size:13px;font-weight:700;padding:5px}a.fullscreen,input.fullscreen{background:#538e3e;border:none;border-radius:5px;color:#fff;display:inline-block;font-size:12px;font-weight:700;margin-left:40px;margin-right:40px;padding:3px 8px;text-decoration:none}.social-box .social{border:5px solid #474747;border-radius:5px;padding:15px 30px}.gamenav li a,.gamenav li.active>a{border-radius:10px 10px 0 0}.gamenav{border-bottom:0 none;margin-top:15px;padding-left:40px}.gamenav li a{color:#474747;font-weight:700;padding-bottom:5px;padding-top:5px}.gamenav li.active>a,.gamenav li.active>a:focus,.gamenav li.active>a:hover{background:#538e3e;color:#fff}.gamecontent .gameerror,.gamecontent .web{border:2px solid #538e3e;padding:10px;border-radius:10px}.gamecontent h4{color:#538e3e;text-transform:uppercase}.topgame>h3,.topgame>h3>a{color:#fff;font-size:16px;font-weight:700}.gamecontent-right{margin-left:0;margin-top:15px}.topgame{background:#474747;border-radius:10px;margin-bottom:10px;margin-top:45px;padding:7px 7px 4px}.topgame>h3{background:#474747;border-radius:10px 10px 0 0;margin-bottom:0;margin-top:0;padding:10px}.topgame>h3>a{text-decoration:none}.topgame ul{background:#fff;border-radius:10px;list-style:none;margin:0;padding-left:5px;padding-right:5px;padding-top:5px}.topgame ul li{margin-bottom:5px;margin-top:5px;padding:5px}.topgame ul li:last-child{border-bottom:none}.topgame-image{width:30%}.topgame-image img{max-width:100%;height:auto}.topgame-text{width:60%;margin-left:5px;vertical-align:middle}.topgame-text strong{color:#538e3e;display:block;font-size:16px}.topgame-text span{color:#ed933b;display:block;font-size:13px}.topgame-text a{color:grey;font-weight:700;text-decoration:none}.btn-green{background-color:#538e3e;border-color:#538e3e}.btn-green:focus,.btn-green:hover{background-color:#538E2D;border-color:#538E2D}a.vehicle-text{color:#474747}.tags{background:#538e3e;padding:10px}.tags ul{padding-left:0;overflow:hidden;padding-bottom:0;margin-bottom:0}.tags ul li{list-style:none;width:auto;display:inline-block;padding-left:0;padding-right:0}.tags ul li a{color:#fff}.tags ul li span{color:#ccc;margin-left:5px;margin-right:5px}.tipContent h2,.tipContent h2 a,div#tipDiv h2,div#tipDiv h2 a{color:#fff;font-weight:700;font-size:13px}.tags ul li:last-child span,.tipContent{display:none}.tipContent .tooltip_content .tooltip_text strong,div#tipDiv .tooltip_content .rate-result-cnt,div#tipDiv .tooltip_content .tooltip_text strong{display:inline-block}.tipContent,div#tipDiv{background:#FFF;border:1px solid #538e3e;width:300px;height:auto;padding:3px;font-size:13px}.tipContent h2,div#tipDiv h2{background:#538e3e;margin:0;padding:5px;width:100%}.tipContent .tooltip_content,div#tipDiv .tooltip_content{background:#FFF;overflow:hidden;padding:5px}.tipContent .tooltip_content img,div#tipDiv .tooltip_content img{float:left;height:auto;margin-bottom:7px;margin-right:7px;width:100px}.tipContent .tooltip_content .tooltip_text,div#tipDiv .tooltip_content .tooltip_text{font-size:13px;margin-bottom:0}.tipContent .tooltip_content .tooltip_text div,.tipContent .tooltip_content .tooltip_text span,div#tipDiv .tooltip_content .tooltip_text div,div#tipDiv .tooltip_content .tooltip_text span{color:#888;display:inline-block;padding-bottom:0}.button1,.button1:focus,.button1:hover{background:#474747;border-color:#474747}.boxgamenews{margin-top:15px}a.download_android{background:#a4c639}a.download_ios{background:#999}a.download_winphone{background:#00a1f1}
 </style>
-		<script src="http://localhost:8000/assets/js/jquery-2.1.4.min.js"></script>
-		<script src="http://localhost:8000/assets/js/bootstrap.min.js"></script>
-		<script src="http://localhost:8000/assets/js/dw.js"></script>
-		<script src="http://localhost:8000/assets/js/script.js"></script>
+		<script src="http://teengame.net/assets/js/jquery-2.1.4.min.js"></script>
+		<script src="http://teengame.net/assets/js/bootstrap.min.js"></script>
+		<script src="http://teengame.net/assets/js/dw.js"></script>
+		<script src="http://teengame.net/assets/js/script.js"></script>
 
 		<div class="container">
 			<div class="row">
@@ -70,11 +81,11 @@
 	<div class="container">
 		<div class="row">
 			<div class="logo">
-				<a href="http://localhost:8000"><img src="http://localhost:8000/assets/images/logo.png" alt="choinhanh.vn" /></a>
+				<a href="http://teengame.net"><img src="http://teengame.net/assets/images/logo.png" alt="choinhanh.vn" /></a>
 									<p>game24h | game mobile</p>
 							</div>
 			<div class="top-image">
-				<img src="http://localhost:8000/assets/images/game-cuc-hay-choi-me-ngay.jpg" alt="game-cuc-hay-choi-me-ngay" />
+				<img src="http://teengame.net/assets/images/game-cuc-hay-choi-me-ngay.jpg" alt="game-cuc-hay-choi-me-ngay" />
 			</div>
 			<div class="top-right">
 				
@@ -102,7 +113,7 @@
 						}(document, 'script', 'facebook-jssdk'));</script>
 						<span>Like fanpage Choinhanh</span>
 				    </div>
-					<form action="http://localhost:8000/search-game">
+					<form action="http://teengame.net/search-game">
 						<input type="text" name="search" value="" title="search" placeholder="Search games" />
 						<input type="submit" value="search" title="submit" />
 					</form>
@@ -114,27 +125,27 @@
 	<div class="menu-static">
 		<ul>
 			<li>
-				<a href="http://localhost:8000" >
+				<a href="http://teengame.net" >
 					<span>Home</span>
 				</a>
 			</li>
 			<li>
-				<a href="http://localhost:8000/most-voted-games" >
+				<a href="http://teengame.net/most-voted-games" >
 					<span>Most voted games</span>
 				</a>
 			</li>
 			<li>
-				<a href="http://localhost:8000/best-games" >
+				<a href="http://teengame.net/best-games" >
 					<span>Best Games</span>
 				</a>
 			</li>
 			<li>
-				<a href="http://localhost:8000/news" >
+				<a href="http://teengame.net/news" >
 					<span>News</span>
 				</a>
 			</li>
 			<li>
-				<a href="http://localhost:8000/game-android" >
+				<a href="http://teengame.net/game-android" >
 					<span>Game android</span>
 				</a>
 			</li>
@@ -145,15 +156,57 @@
 	<!-- game type has games -->
 	<ul class="nav-type">
 			<li>
-			<img src="/images/gametype/2/" alt="game-boy" />
-			<a href="http://localhost:8000/boy-games"  >
-				Boy
+			<img src="/images/gametype/1/action.png" alt="game-action" />
+			<a href="http://teengame.net/action-games"  >
+				Action
 			</a>
 		</li>
 			<li>
-			<img src="/images/gametype/3/" alt="game-girl" />
-			<a href="http://localhost:8000/girl-games"  >
+			<img src="/images/gametype/2/racing.png" alt="game-racing" />
+			<a href="http://teengame.net/racing-games"  >
+				Racing
+			</a>
+		</li>
+			<li>
+			<img src="/images/gametype/3/girl.png" alt="game-girl" />
+			<a href="http://teengame.net/girl-games"  >
 				Girl
+			</a>
+		</li>
+			<li>
+			<img src="/images/gametype/4/sport.png" alt="game-sport" />
+			<a href="http://teengame.net/sport-games"  >
+				Sport
+			</a>
+		</li>
+			<li>
+			<img src="/images/gametype/5/cooking.png" alt="game-cooking" />
+			<a href="http://teengame.net/cooking-games"  >
+				Cooking
+			</a>
+		</li>
+			<li>
+			<img src="/images/gametype/6/funny.png" alt="game-funny" />
+			<a href="http://teengame.net/funny-games"  >
+				Funny
+			</a>
+		</li>
+			<li>
+			<img src="/images/gametype/7/fashion.png" alt="game-fashion" />
+			<a href="http://teengame.net/fashion-games"  >
+				Fashion
+			</a>
+		</li>
+			<li>
+			<img src="/images/gametype/8/strategy.png" alt="game-strategy" />
+			<a href="http://teengame.net/strategy-games"  >
+				Strategy
+			</a>
+		</li>
+			<li>
+			<img src="/images/gametype/13/puzzle.png" alt="game-puzzle" />
+			<a href="http://teengame.net/puzzle-games"  >
+				Puzzle
 			</a>
 		</li>
 		</ul>
@@ -163,7 +216,7 @@
 					
 					
 <div class="box">
-					<h3><a href="#">Game Hot</a></h3>
+					<h3><a href="http://teengame.net/best-games">Best Games</a></h3>
 											<div class="swiper-container">
 					<div class="swiper-wrapper">
 													<div class="swiper-slide boxgame">
@@ -171,19 +224,1119 @@
 																											<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://localhost:8000/girl-games/duoi-hinh-bat-chu">
-				<!-- <img src="" alt="" class="showTip el_" /> -->
-				<img data-src="http://localhost:8000/images/game_avatar/____by_ajkabajka-d8kvjcf-1470384071.jpg" alt="duoi-hinh-bat-chu" class="swiper-lazy showTip el_7" />
-			</a>
+			<a href="http://teengame.net/action-games/i-am-the-ninja">
+									<img data-src="http://teengame.net/images/game_avatar/i-am-the-ninja-icon-1473213148.jpg" alt="i-am-the-ninja" class="swiper-lazy showTip el_302" />
+							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://localhost:8000/girl-games/duoi-hinh-bat-chu">duoi hinh bat chu</a></h2>
+			<h2><a href="http://teengame.net/action-games/i-am-the-ninja">I Am The Ninja</a></h2>
 		</div>
 	    	</div>
-				<div id="el_7" class="tipContent">
-        <h2><a href="http://localhost:8000/girl-games/duoi-hinh-bat-chu">duoi hinh bat chu</a></h2>
+				<div id="el_302" class="tipContent">
+        <h2><a href="http://teengame.net/action-games/i-am-the-ninja">I Am The Ninja</a></h2>
         <div class="tooltip_content">
-        	<img title="duoi hinh bat chu" alt="duoi-hinh-bat-chu" src="http://localhost:8000/images/game_avatar/____by_ajkabajka-d8kvjcf-1470384071.jpg" />
+        	<img title="I Am The Ninja" alt="i-am-the-ninja" src="http://teengame.net/images/game_avatar/i-am-the-ninja-icon-1473213148.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Action
+                                    </strong>
+            	<div>
+            		    					1 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> You are a true ninja if you can master this final mission. Use your powers to pass several barriers and traps to reach the exit in each stage of the...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/action-games/mr-timan">
+									<img data-src="http://teengame.net/images/game_avatar/mr-timan-icon-1473213051.jpg" alt="mr-timan" class="swiper-lazy showTip el_301" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/action-games/mr-timan">Mr. Timan</a></h2>
+		</div>
+	    	</div>
+				<div id="el_301" class="tipContent">
+        <h2><a href="http://teengame.net/action-games/mr-timan">Mr. Timan</a></h2>
+        <div class="tooltip_content">
+        	<img title="Mr. Timan" alt="mr-timan" src="http://teengame.net/images/game_avatar/mr-timan-icon-1473213051.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Action
+                                    </strong>
+            	<div>
+            		    					1 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> In a near future Mr. Timan is hired by the powerful institution for science that is working on time travels. The new boss just welcomed him when suddenly...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/action-games/gym-class-racers">
+									<img data-src="http://teengame.net/images/game_avatar/gym-class-racers-icon-1473212915.jpg" alt="gym-class-racers" class="swiper-lazy showTip el_300" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/action-games/gym-class-racers">Gym Class Racers</a></h2>
+		</div>
+	    	</div>
+				<div id="el_300" class="tipContent">
+        <h2><a href="http://teengame.net/action-games/gym-class-racers">Gym Class Racers</a></h2>
+        <div class="tooltip_content">
+        	<img title="Gym Class Racers" alt="gym-class-racers" src="http://teengame.net/images/game_avatar/gym-class-racers-icon-1473212915.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Action
+                                    </strong>
+            	<div>
+            		    					1 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Gym Class Racers is cool high school styled racing game. Pick one of the 5 characters and reach the finish line first. Each competitor has a special...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/racing-games/outworld-motocross">
+									<img data-src="http://teengame.net/images/game_avatar/outworld-motocross-icon-1473212683.jpg" alt="outworld-motocross" class="swiper-lazy showTip el_299" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/racing-games/outworld-motocross">Outworld Motocross</a></h2>
+		</div>
+	    	</div>
+				<div id="el_299" class="tipContent">
+        <h2><a href="http://teengame.net/racing-games/outworld-motocross">Outworld Motocross</a></h2>
+        <div class="tooltip_content">
+        	<img title="Outworld Motocross" alt="outworld-motocross" src="http://teengame.net/images/game_avatar/outworld-motocross-icon-1473212683.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Racing
+                                    </strong>
+            	<div>
+            		    					1 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Gear up for another motocross challenge and steer your dirt bike across the hilly ground of the mysterious world of silver bolts. In this cool Outworld...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/action-games/clicker-troops">
+									<img data-src="http://teengame.net/images/game_avatar/clicker-troops-icon-1473212356.jpg" alt="clicker-troops" class="swiper-lazy showTip el_298" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/action-games/clicker-troops">Clicker Troops</a></h2>
+		</div>
+	    	</div>
+				<div id="el_298" class="tipContent">
+        <h2><a href="http://teengame.net/action-games/clicker-troops">Clicker Troops</a></h2>
+        <div class="tooltip_content">
+        	<img title="Clicker Troops" alt="clicker-troops" src="http://teengame.net/images/game_avatar/clicker-troops-icon-1473212356.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Action
+                                    </strong>
+            	<div>
+            		    					1 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Your troops are under attack by evil creatures. Save them with your clicking power in this fun fantasy clicker adventure. To defeat all enemies you come...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/action-games/worlds-hardest-game-4">
+									<img data-src="http://teengame.net/images/game_avatar/worlds-hardest-game-4-icon-1473211583.jpg" alt="worlds-hardest-game-4" class="swiper-lazy showTip el_297" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/action-games/worlds-hardest-game-4">World's Hardest Game 4</a></h2>
+		</div>
+	    	</div>
+				<div id="el_297" class="tipContent">
+        <h2><a href="http://teengame.net/action-games/worlds-hardest-game-4">World's Hardest Game 4</a></h2>
+        <div class="tooltip_content">
+        	<img title="World's Hardest Game 4" alt="worlds-hardest-game-4" src="http://teengame.net/images/game_avatar/worlds-hardest-game-4-icon-1473211583.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Action
+                                    </strong>
+            	<div>
+            		    					1 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> This is the worlds hardest game number 4. It is harder than any game you have ever played. Really? Who said that? The developer of the game. OK, it&#39;s...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/racing-games/super-trucks-3d">
+									<img data-src="http://teengame.net/images/game_avatar/super-trucks-3d-icon-1473211419.jpg" alt="super-trucks-3d" class="swiper-lazy showTip el_296" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/racing-games/super-trucks-3d">Super Trucks 3D</a></h2>
+		</div>
+	    	</div>
+				<div id="el_296" class="tipContent">
+        <h2><a href="http://teengame.net/racing-games/super-trucks-3d">Super Trucks 3D</a></h2>
+        <div class="tooltip_content">
+        	<img title="Super Trucks 3D" alt="super-trucks-3d" src="http://teengame.net/images/game_avatar/super-trucks-3d-icon-1473211419.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Racing
+                                    </strong>
+            	<div>
+            		    					1 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Master the hilly track of this fast-paced monster truck racing game Super Truck 3D! Avoid obstacles and collect nitro power ups to live all competitors...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/puzzle-games/fractured-4">
+									<img data-src="http://teengame.net/images/game_avatar/fractured-4-icon-1473156019.jpg" alt="fractured-4" class="swiper-lazy showTip el_295" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/puzzle-games/fractured-4">Fractured 4</a></h2>
+		</div>
+	    	</div>
+				<div id="el_295" class="tipContent">
+        <h2><a href="http://teengame.net/puzzle-games/fractured-4">Fractured 4</a></h2>
+        <div class="tooltip_content">
+        	<img title="Fractured 4" alt="fractured-4" src="http://teengame.net/images/game_avatar/fractured-4-icon-1473156019.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Puzzle
+                                    </strong>
+            	<div>
+            		    					1 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Help these two children who are caught up in the strange world of Fractured 4. Solve puzzles and pilot both through shattered pieces to bring them...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/puzzle-games/fractured-3">
+									<img data-src="http://teengame.net/images/game_avatar/fractured-3-icon-1473155936.jpg" alt="fractured-3" class="swiper-lazy showTip el_294" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/puzzle-games/fractured-3">Fractured 3</a></h2>
+		</div>
+	    	</div>
+				<div id="el_294" class="tipContent">
+        <h2><a href="http://teengame.net/puzzle-games/fractured-3">Fractured 3</a></h2>
+        <div class="tooltip_content">
+        	<img title="Fractured 3" alt="fractured-3" src="http://teengame.net/images/game_avatar/fractured-3-icon-1473155936.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Puzzle
+                                    </strong>
+            	<div>
+            		    					1 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Put together the single pieces in the third episode of the mysterious puzzle platform game, Fractured 3. Your objective is to help a little girl and boy...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/puzzle-games/fractured-2">
+									<img data-src="http://teengame.net/images/game_avatar/fractured-2-icon-1473155769.jpg" alt="fractured-2" class="swiper-lazy showTip el_293" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/puzzle-games/fractured-2">Fractured 2</a></h2>
+		</div>
+	    	</div>
+				<div id="el_293" class="tipContent">
+        <h2><a href="http://teengame.net/puzzle-games/fractured-2">Fractured 2</a></h2>
+        <div class="tooltip_content">
+        	<img title="Fractured 2" alt="fractured-2" src="http://teengame.net/images/game_avatar/fractured-2-icon-1473155769.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Puzzle
+                                    </strong>
+            	<div>
+            		    					1 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Follow the story of a sad little girl who lost her daddy and couldn&#39;t process it. Like in the first sequel of the addicting puzzle platform game it is...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/puzzle-games/fractured">
+									<img data-src="http://teengame.net/images/game_avatar/fractured-icon-1473155635.jpg" alt="fractured" class="swiper-lazy showTip el_292" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/puzzle-games/fractured">Fractured</a></h2>
+		</div>
+	    	</div>
+				<div id="el_292" class="tipContent">
+        <h2><a href="http://teengame.net/puzzle-games/fractured">Fractured</a></h2>
+        <div class="tooltip_content">
+        	<img title="Fractured" alt="fractured" src="http://teengame.net/images/game_avatar/fractured-icon-1473155635.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Puzzle
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> In this mystical platform game the mother is separate from her son. Figure out how to move the child through all fragments and get him to his mommy. When...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/sport-games/speedplay-soccer-4">
+									<img data-src="http://teengame.net/images/game_avatar/speedplay-soccer-4-icon-1473155426.jpg" alt="speedplay-soccer-4" class="swiper-lazy showTip el_291" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/sport-games/speedplay-soccer-4">Speedplay Soccer 4</a></h2>
+		</div>
+	    	</div>
+				<div id="el_291" class="tipContent">
+        <h2><a href="http://teengame.net/sport-games/speedplay-soccer-4">Speedplay Soccer 4</a></h2>
+        <div class="tooltip_content">
+        	<img title="Speedplay Soccer 4" alt="speedplay-soccer-4" src="http://teengame.net/images/game_avatar/speedplay-soccer-4-icon-1473155426.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Sport
+                                    </strong>
+            	<div>
+            		    					1 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> SpeedPlay World Soccer 4 is a great new soccer game. Select your favorite tournament, whether it&#39;s the Euro Cup or the Copa America, and start beating...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																	</div>
+							</div>
+													<div class="swiper-slide boxgame">
+								<div class="row">
+																											<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/puzzle-games/snail-bob-8-island-story">
+									<img data-src="http://teengame.net/images/game_avatar/snail-bob-8-icon-1473069096.jpg" alt="snail-bob-8-island-story" class="swiper-lazy showTip el_290" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/puzzle-games/snail-bob-8-island-story">Snail Bob 8 Island Story</a></h2>
+		</div>
+	    	</div>
+				<div id="el_290" class="tipContent">
+        <h2><a href="http://teengame.net/puzzle-games/snail-bob-8-island-story">Snail Bob 8 Island Story</a></h2>
+        <div class="tooltip_content">
+        	<img title="Snail Bob 8 Island Story" alt="snail-bob-8-island-story" src="http://teengame.net/images/game_avatar/snail-bob-8-icon-1473069096.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Puzzle
+                                    </strong>
+            	<div>
+            		    					1 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Snail Bob 8: Island Story is another physics-based puzzle game with the lazy sluggard Bob. Help Bob the Snail back home from the island full of puzzles...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/puzzle-games/snail-bob-7-fantasy-story">
+									<img data-src="http://teengame.net/images/game_avatar/snail-bob-7-icon-1473068842.jpg" alt="snail-bob-7-fantasy-story" class="swiper-lazy showTip el_289" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/puzzle-games/snail-bob-7-fantasy-story"> Snail Bob 7 Fantasy Story</a></h2>
+		</div>
+	    	</div>
+				<div id="el_289" class="tipContent">
+        <h2><a href="http://teengame.net/puzzle-games/snail-bob-7-fantasy-story">Snail Bob 7 Fantasy Story</a></h2>
+        <div class="tooltip_content">
+        	<img title="Snail Bob 7 Fantasy Story" alt="snail-bob-7-fantasy-story" src="http://teengame.net/images/game_avatar/snail-bob-7-icon-1473068842.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Puzzle
+                                    </strong>
+            	<div>
+            		    					1 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Snail Bob returns with a new fantasy story. Help the cute slug to overcome all adventures by pointing and clicking on interactive spots. Much fun!
+
+How...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/puzzle-games/snail-bob-6-winter-story">
+									<img data-src="http://teengame.net/images/game_avatar/snail-bob-6-icon-1473068592.jpg" alt="snail-bob-6-winter-story" class="swiper-lazy showTip el_288" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/puzzle-games/snail-bob-6-winter-story">Snail Bob 6 Winter Story</a></h2>
+		</div>
+	    	</div>
+				<div id="el_288" class="tipContent">
+        <h2><a href="http://teengame.net/puzzle-games/snail-bob-6-winter-story">Snail Bob 6 Winter Story</a></h2>
+        <div class="tooltip_content">
+        	<img title="Snail Bob 6 Winter Story" alt="snail-bob-6-winter-story" src="http://teengame.net/images/game_avatar/snail-bob-6-icon-1473068592.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Puzzle
+                                    </strong>
+            	<div>
+            		    					1 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Snail Bob 6 is another cool sequel of the popular platform game from A10. Keep Snail Bob alive in this puzzle-ridden winter wonderland. Enjoy!
+
+How to...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/puzzle-games/snail-bob-5-love-story">
+									<img data-src="http://teengame.net/images/game_avatar/snail-bob-5-icon-1473069619.jpg" alt="snail-bob-5-love-story" class="swiper-lazy showTip el_287" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/puzzle-games/snail-bob-5-love-story">Snail Bob 5 Love Story</a></h2>
+		</div>
+	    	</div>
+				<div id="el_287" class="tipContent">
+        <h2><a href="http://teengame.net/puzzle-games/snail-bob-5-love-story">Snail Bob 5 Love Story</a></h2>
+        <div class="tooltip_content">
+        	<img title="Snail Bob 5 Love Story" alt="snail-bob-5-love-story" src="http://teengame.net/images/game_avatar/snail-bob-5-icon-1473069619.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Puzzle
+                                    </strong>
+            	<div>
+            		    					1 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Love is in the air for the world&#39;s most famous snail. Help Bob in this fun sequel to make his way through each stage to the exit to win his beloved...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/puzzle-games/snail-bob-4-space">
+									<img data-src="http://teengame.net/images/game_avatar/snail-bob-4-icon-1473067748.jpg" alt="snail-bob-4-space" class="swiper-lazy showTip el_286" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/puzzle-games/snail-bob-4-space">Snail Bob 4 Space</a></h2>
+		</div>
+	    	</div>
+				<div id="el_286" class="tipContent">
+        <h2><a href="http://teengame.net/puzzle-games/snail-bob-4-space">Snail Bob 4 Space</a></h2>
+        <div class="tooltip_content">
+        	<img title="Snail Bob 4 Space" alt="snail-bob-4-space" src="http://teengame.net/images/game_avatar/snail-bob-4-icon-1473067748.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Puzzle
+                                    </strong>
+            	<div>
+            		    					1 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Snail Bob 4 is here, ready to save our lovely planet one more time. In the fourth sequel you have to attend our beloved slowpoke to an adventurous mission...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/puzzle-games/snail-bob-3">
+									<img data-src="http://teengame.net/images/game_avatar/snail-bob-3-icon-1473067388.jpg" alt="snail-bob-3" class="swiper-lazy showTip el_285" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/puzzle-games/snail-bob-3">Snail Bob 3</a></h2>
+		</div>
+	    	</div>
+				<div id="el_285" class="tipContent">
+        <h2><a href="http://teengame.net/puzzle-games/snail-bob-3">Snail Bob 3</a></h2>
+        <div class="tooltip_content">
+        	<img title="Snail Bob 3" alt="snail-bob-3" src="http://teengame.net/images/game_avatar/snail-bob-3-icon-1473067388.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Puzzle
+                                    </strong>
+            	<div>
+            		    					1 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Snail Bob 3 is the brandnew sequel of the fun physics-based puzzle game, created by Andrey Kovalishin. This time the popular snail Bob traveled to the...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/puzzle-games/snail-bob-2">
+									<img data-src="http://teengame.net/images/game_avatar/snail-bob-2-icon-1473066874.jpg" alt="snail-bob-2" class="swiper-lazy showTip el_284" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/puzzle-games/snail-bob-2">Snail Bob 2</a></h2>
+		</div>
+	    	</div>
+				<div id="el_284" class="tipContent">
+        <h2><a href="http://teengame.net/puzzle-games/snail-bob-2">Snail Bob 2</a></h2>
+        <div class="tooltip_content">
+        	<img title="Snail Bob 2" alt="snail-bob-2" src="http://teengame.net/images/game_avatar/snail-bob-2-icon-1473066874.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Puzzle
+                                    </strong>
+            	<div>
+            		    					1 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Snail Bob 2 is another cool physics puzzle game made by Hunter Hamster. A dangerous forest stands between Snail Bob and his Grandpa. Guide Bob through...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/puzzle-games/snail-bob">
+									<img data-src="http://teengame.net/images/game_avatar/snail-bob-icon-1473059160.jpg" alt="snail-bob" class="swiper-lazy showTip el_283" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/puzzle-games/snail-bob">Snail Bob</a></h2>
+		</div>
+	    	</div>
+				<div id="el_283" class="tipContent">
+        <h2><a href="http://teengame.net/puzzle-games/snail-bob">Snail Bob</a></h2>
+        <div class="tooltip_content">
+        	<img title="Snail Bob" alt="snail-bob" src="http://teengame.net/images/game_avatar/snail-bob-icon-1473059160.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Puzzle
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Snail Bob is a new physics based puzzle game from Andrey Kovalishin. Snail Bob is lost, help him to find the right path. Use tools to guide Bob through...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/action-games/tu-95">
+									<img data-src="http://teengame.net/images/game_avatar/tu-95-icon-1472723911.jpg" alt="tu-95" class="swiper-lazy showTip el_282" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/action-games/tu-95">TU 95</a></h2>
+		</div>
+	    	</div>
+				<div id="el_282" class="tipContent">
+        <h2><a href="http://teengame.net/action-games/tu-95">TU 95</a></h2>
+        <div class="tooltip_content">
+        	<img title="TU 95" alt="tu-95" src="http://teengame.net/images/game_avatar/tu-95-icon-1472723911.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Action
+                                    </strong>
+            	<div>
+            		    					3 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Mission of Tupolev 95 (TU 95) is to control, fly and land this soviet bomber. Learn to steer the plane and become a successful bomber pilot in the soviet...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/action-games/tu-46">
+									<img data-src="http://teengame.net/images/game_avatar/TU-46-icon-1472723844.jpg" alt="tu-46" class="swiper-lazy showTip el_281" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/action-games/tu-46">TU 46</a></h2>
+		</div>
+	    	</div>
+				<div id="el_281" class="tipContent">
+        <h2><a href="http://teengame.net/action-games/tu-46">TU 46</a></h2>
+        <div class="tooltip_content">
+        	<img title="TU 46" alt="tu-46" src="http://teengame.net/images/game_avatar/TU-46-icon-1472723844.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Action
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> TU-46 is another cool airline simulator inspired by TU-95. You get to control the brand new passenger aircrafts from Tupolev. Deliver passengers around 6...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/strategy-games/swords-and-souls">
+									<img data-src="http://teengame.net/images/game_avatar/swords-and-souls-icon-1472723720.jpg" alt="swords-and-souls" class="swiper-lazy showTip el_280" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/strategy-games/swords-and-souls">Swords And Souls</a></h2>
+		</div>
+	    	</div>
+				<div id="el_280" class="tipContent">
+        <h2><a href="http://teengame.net/strategy-games/swords-and-souls">Swords And Souls</a></h2>
+        <div class="tooltip_content">
+        	<img title="Swords And Souls" alt="swords-and-souls" src="http://teengame.net/images/game_avatar/swords-and-souls-icon-1472723720.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Strategy
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Welcome to Soul Town! Design your Soul, train him and step into the Arena! Unlock new skills, buy new equipment and make your way to the top in this...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/action-games/stunt-pilot">
+									<img data-src="http://teengame.net/images/game_avatar/stunt-pilot-icon-1472723527.jpg" alt="stunt-pilot" class="swiper-lazy showTip el_279" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/action-games/stunt-pilot">Stunt Pilot</a></h2>
+		</div>
+	    	</div>
+				<div id="el_279" class="tipContent">
+        <h2><a href="http://teengame.net/action-games/stunt-pilot">Stunt Pilot</a></h2>
+        <div class="tooltip_content">
+        	<img title="Stunt Pilot" alt="stunt-pilot" src="http://teengame.net/images/game_avatar/stunt-pilot-icon-1472723527.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Action
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Mission of Stunt Pilot is to complete all the courses without crashing! Control the plane with the arrow keys and pilot your stunt plane through various...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																	</div>
+							</div>
+													<div class="swiper-slide boxgame">
+								<div class="row">
+																											<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/action-games/speedboat-shooting">
+									<img data-src="http://teengame.net/images/game_avatar/speedboat-shooting-icon-1472723427.jpg" alt="speedboat-shooting" class="swiper-lazy showTip el_278" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/action-games/speedboat-shooting">Speedboat Shooting</a></h2>
+		</div>
+	    	</div>
+				<div id="el_278" class="tipContent">
+        <h2><a href="http://teengame.net/action-games/speedboat-shooting">Speedboat Shooting</a></h2>
+        <div class="tooltip_content">
+        	<img title="Speedboat Shooting" alt="speedboat-shooting" src="http://teengame.net/images/game_avatar/speedboat-shooting-icon-1472723427.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Action
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Enemy chasers keep after a speedboat like crazy, ready to shoot it down. So it&#39;s up to you to guard the race boat from all attackers by using a...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/puzzle-games/shape-fold-animals">
+									<img data-src="http://teengame.net/images/game_avatar/shape-fold-animals-icon-1472723127.jpg" alt="shape-fold-animals" class="swiper-lazy showTip el_277" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/puzzle-games/shape-fold-animals">Shape Fold Animals</a></h2>
+		</div>
+	    	</div>
+				<div id="el_277" class="tipContent">
+        <h2><a href="http://teengame.net/puzzle-games/shape-fold-animals">Shape Fold Animals</a></h2>
+        <div class="tooltip_content">
+        	<img title="Shape Fold Animals" alt="shape-fold-animals" src="http://teengame.net/images/game_avatar/shape-fold-animals-icon-1472723127.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Puzzle
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Shape Fold Animals is a classic puzzle game. Your mission? Move or rotate the shapes and create animals. Can you put together each of these paper...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/fashion-games/red-riding-hood-and-snow-white-hollywood-divas">
+									<img data-src="http://teengame.net/images/game_avatar/red-riding-hood-and-snow-white-hollywood-divas-icon-1472722687.jpg" alt="red-riding-hood-and-snow-white-hollywood-divas" class="swiper-lazy showTip el_276" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/fashion-games/red-riding-hood-and-snow-white-hollywood-divas"> Red Riding Hood And Snow...</a></h2>
+		</div>
+	    	</div>
+				<div id="el_276" class="tipContent">
+        <h2><a href="http://teengame.net/fashion-games/red-riding-hood-and-snow-white-hollywood-divas">Red Riding Hood And Snow White Hollywood Divas</a></h2>
+        <div class="tooltip_content">
+        	<img title="Red Riding Hood And Snow White Hollywood Divas" alt="red-riding-hood-and-snow-white-hollywood-divas" src="http://teengame.net/images/game_avatar/red-riding-hood-and-snow-white-hollywood-divas-icon-1472722687.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Fashion
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> We would like you girls to join us today within all these interesting and cute categories, because we have uploaded nothing but the most exciting and fun...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/cooking-games/papas-cupcakeria">
+									<img data-src="http://teengame.net/images/game_avatar/papascupcakeria-icon-1472722521.jpg" alt="papas-cupcakeria" class="swiper-lazy showTip el_275" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/cooking-games/papas-cupcakeria">Papa's Cupcakeria</a></h2>
+		</div>
+	    	</div>
+				<div id="el_275" class="tipContent">
+        <h2><a href="http://teengame.net/cooking-games/papas-cupcakeria">Papa's Cupcakeria</a></h2>
+        <div class="tooltip_content">
+        	<img title="Papa's Cupcakeria" alt="papas-cupcakeria" src="http://teengame.net/images/game_avatar/papascupcakeria-icon-1472722521.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Cooking
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Bake cupcakes in Papa&#39;s Bakery to earn cash! You will begin by training at the restaurant. Learn how to take orders, mix batter, and bake cupcakes....</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/cooking-games/papas-cheeseria">
+									<img data-src="http://teengame.net/images/game_avatar/papascheeseria-icon-1472722256.jpg" alt="papas-cheeseria" class="swiper-lazy showTip el_274" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/cooking-games/papas-cheeseria">Papa's Cheeseria</a></h2>
+		</div>
+	    	</div>
+				<div id="el_274" class="tipContent">
+        <h2><a href="http://teengame.net/cooking-games/papas-cheeseria">Papa's Cheeseria</a></h2>
+        <div class="tooltip_content">
+        	<img title="Papa's Cheeseria" alt="papas-cheeseria" src="http://teengame.net/images/game_avatar/papascheeseria-icon-1472722256.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Cooking
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Cook gooey, grilled cheese sandwiches for hungry customers! Papa’s Cheeseria puts you back behind the counter, where you will serve made-to-order meals....</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/action-games/metal-slug-brutal">
+									<img data-src="http://teengame.net/images/game_avatar/metalslug-brutal-icon-1472721977.jpg" alt="metal-slug-brutal" class="swiper-lazy showTip el_273" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/action-games/metal-slug-brutal">Metal Slug Brutal</a></h2>
+		</div>
+	    	</div>
+				<div id="el_273" class="tipContent">
+        <h2><a href="http://teengame.net/action-games/metal-slug-brutal">Metal Slug Brutal</a></h2>
+        <div class="tooltip_content">
+        	<img title="Metal Slug Brutal" alt="metal-slug-brutal" src="http://teengame.net/images/game_avatar/metalslug-brutal-icon-1472721977.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Action
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Get into the skin of the bloody Metal Slug command. Eliminate all the enemy soldiers and destroy the military facilities on your way.
+
+How to...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/racing-games/max-fury-death-racer">
+									<img data-src="http://teengame.net/images/game_avatar/max_fury-icon-1472721803.jpg" alt="max-fury-death-racer" class="swiper-lazy showTip el_272" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/racing-games/max-fury-death-racer">Max Fury Death Racer</a></h2>
+		</div>
+	    	</div>
+				<div id="el_272" class="tipContent">
+        <h2><a href="http://teengame.net/racing-games/max-fury-death-racer">Max Fury Death Racer</a></h2>
+        <div class="tooltip_content">
+        	<img title="Max Fury Death Racer" alt="max-fury-death-racer" src="http://teengame.net/images/game_avatar/max_fury-icon-1472721803.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Racing
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Max Fury Death Racer is the racing game for the ultimate fun! Drive your tiny car as fast as you can, shoot other racers, perform flips, collect stuff and...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/action-games/mad-day-2">
+									<img data-src="http://teengame.net/images/game_avatar/mad-day-2-icon-1472721648.jpg" alt="mad-day-2" class="swiper-lazy showTip el_271" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/action-games/mad-day-2">Mad Day 2</a></h2>
+		</div>
+	    	</div>
+				<div id="el_271" class="tipContent">
+        <h2><a href="http://teengame.net/action-games/mad-day-2">Mad Day 2</a></h2>
+        <div class="tooltip_content">
+        	<img title="Mad Day 2" alt="mad-day-2" src="http://teengame.net/images/game_avatar/mad-day-2-icon-1472721648.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Action
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> It&#39;s the second mad day you have since the alien plague arrived mother Earth. Drive and gun your way through the whole map. Survive for as long as you...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/strategy-games/juicy-bazooka">
+									<img data-src="http://teengame.net/images/game_avatar/juicy-bazooka-icon-1472721527.jpg" alt="juicy-bazooka" class="swiper-lazy showTip el_270" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/strategy-games/juicy-bazooka">Juicy Bazooka</a></h2>
+		</div>
+	    	</div>
+				<div id="el_270" class="tipContent">
+        <h2><a href="http://teengame.net/strategy-games/juicy-bazooka">Juicy Bazooka</a></h2>
+        <div class="tooltip_content">
+        	<img title="Juicy Bazooka" alt="juicy-bazooka" src="http://teengame.net/images/game_avatar/juicy-bazooka-icon-1472721527.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Strategy
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> This rugged-looking guy with three-day stubble needs your help to get rid of baddies as vengeance for stealing his food in Juicy Bazooka, a fun shooting...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/funny-games/judy-hopps-and-nick-wilde-kissing">
+									<img data-src="http://teengame.net/images/game_avatar/judy_hopps_and_nick_wilde_kissing-icon-1472714936.jpg" alt="judy-hopps-and-nick-wilde-kissing" class="swiper-lazy showTip el_269" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/funny-games/judy-hopps-and-nick-wilde-kissing"> Judy Hopps And Nick Wilde...</a></h2>
+		</div>
+	    	</div>
+				<div id="el_269" class="tipContent">
+        <h2><a href="http://teengame.net/funny-games/judy-hopps-and-nick-wilde-kissing">Judy Hopps And Nick Wilde Kissing</a></h2>
+        <div class="tooltip_content">
+        	<img title="Judy Hopps And Nick Wilde Kissing" alt="judy-hopps-and-nick-wilde-kissing" src="http://teengame.net/images/game_avatar/judy_hopps_and_nick_wilde_kissing-icon-1472714936.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Funny
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Enjoy a new kissing game featuring your characters from Zootopia,Judy Hopps and Nick Wilde.They are living a love story and you can take part to their...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/action-games/fury-clicker">
+									<img data-src="http://teengame.net/images/game_avatar/fury-clicker-icon-1472714727.jpg" alt="fury-clicker" class="swiper-lazy showTip el_268" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/action-games/fury-clicker">Fury Clicker</a></h2>
+		</div>
+	    	</div>
+				<div id="el_268" class="tipContent">
+        <h2><a href="http://teengame.net/action-games/fury-clicker">Fury Clicker</a></h2>
+        <div class="tooltip_content">
+        	<img title="Fury Clicker" alt="fury-clicker" src="http://teengame.net/images/game_avatar/fury-clicker-icon-1472714727.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Action
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Kill all the rebels and leave no man alive. Increase and upgrade your units and defense. See how far you can go in this killing madness!
+
+How to...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/girl-games/elsa-dish-washing-realife">
+									<img data-src="http://teengame.net/images/game_avatar/ellie-dish-washing-realife-icon-1472714547.jpg" alt="elsa-dish-washing-realife" class="swiper-lazy showTip el_267" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/girl-games/elsa-dish-washing-realife"> Elsa Dish Washing Realife</a></h2>
+		</div>
+	    	</div>
+				<div id="el_267" class="tipContent">
+        <h2><a href="http://teengame.net/girl-games/elsa-dish-washing-realife">Elsa Dish Washing Realife</a></h2>
+        <div class="tooltip_content">
+        	<img title="Elsa Dish Washing Realife" alt="elsa-dish-washing-realife" src="http://teengame.net/images/game_avatar/ellie-dish-washing-realife-icon-1472714547.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
@@ -192,10 +1345,609 @@
             	<div>
             		    					2 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:80%"></div>
+        <div class="rate-bg" style="width:0%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p>ádf
+            	<p> What do you say about a new and fun online game, a new game in which you are about to spend some time with one of your favorite disney princesses. Today...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																	</div>
+							</div>
+													<div class="swiper-slide boxgame">
+								<div class="row">
+																											<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/action-games/dragon-age-legends">
+									<img data-src="http://teengame.net/images/game_avatar/dragon-age-legends-icon-1472714140.jpg" alt="dragon-age-legends" class="swiper-lazy showTip el_266" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/action-games/dragon-age-legends">Dragon Age Legends</a></h2>
+		</div>
+	    	</div>
+				<div id="el_266" class="tipContent">
+        <h2><a href="http://teengame.net/action-games/dragon-age-legends">Dragon Age Legends</a></h2>
+        <div class="tooltip_content">
+        	<img title="Dragon Age Legends" alt="dragon-age-legends" src="http://teengame.net/images/game_avatar/dragon-age-legends-icon-1472714140.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Action
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Dragon Age Legends is an awesome Hack &#39;N&#39; Slash RPG made by EA and the indie game developer Pixelante. Your mission in this side scrolling action...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/action-games/dead-samurai">
+									<img data-src="http://teengame.net/images/game_avatar/dead-samurai-icon-1472713659.jpg" alt="dead-samurai" class="swiper-lazy showTip el_265" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/action-games/dead-samurai">Dead Samurai</a></h2>
+		</div>
+	    	</div>
+				<div id="el_265" class="tipContent">
+        <h2><a href="http://teengame.net/action-games/dead-samurai">Dead Samurai</a></h2>
+        <div class="tooltip_content">
+        	<img title="Dead Samurai" alt="dead-samurai" src="http://teengame.net/images/game_avatar/dead-samurai-icon-1472713659.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Action
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Grab your blade and get ready to walk the path of the Dead Samurai in this intense hack &#39;n&#39; slash game. Your objective is to win all duels to...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/sport-games/bmx-master">
+									<img data-src="http://teengame.net/images/game_avatar/bmx-master-icon-1472712963.jpg" alt="bmx-master" class="swiper-lazy showTip el_264" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/sport-games/bmx-master">BMX Master</a></h2>
+		</div>
+	    	</div>
+				<div id="el_264" class="tipContent">
+        <h2><a href="http://teengame.net/sport-games/bmx-master">BMX Master</a></h2>
+        <div class="tooltip_content">
+        	<img title="BMX Master" alt="bmx-master" src="http://teengame.net/images/game_avatar/bmx-master-icon-1472712963.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Sport
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> BMX Master is an addictive bicycle motocross game. Try to perform as many awesome stunts with your BMX as you can and do not plant your face.
+
+How to...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/fashion-games/barbie-dates-a-celebrity">
+									<img data-src="http://teengame.net/images/game_avatar/barbie-dates-a-celebrity-icon-1472712619.jpg" alt="barbie-dates-a-celebrity" class="swiper-lazy showTip el_263" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/fashion-games/barbie-dates-a-celebrity">Barbie Dates a Celebrity</a></h2>
+		</div>
+	    	</div>
+				<div id="el_263" class="tipContent">
+        <h2><a href="http://teengame.net/fashion-games/barbie-dates-a-celebrity">Barbie Dates a Celebrity</a></h2>
+        <div class="tooltip_content">
+        	<img title="Barbie Dates a Celebrity" alt="barbie-dates-a-celebrity" src="http://teengame.net/images/game_avatar/barbie-dates-a-celebrity-icon-1472712619.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Fashion
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Barbie is single. She wants to go on a date with a great guy. On her social media page she has three different messages from three amazing guys. They are...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/girl-games/barbie-be-my-valentine">
+									<img data-src="http://teengame.net/images/game_avatar/barbie-be-my-valentine-icon-1472712358.jpg" alt="barbie-be-my-valentine" class="swiper-lazy showTip el_262" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/girl-games/barbie-be-my-valentine">Barbie Be My Valentine</a></h2>
+		</div>
+	    	</div>
+				<div id="el_262" class="tipContent">
+        <h2><a href="http://teengame.net/girl-games/barbie-be-my-valentine">Barbie Be My Valentine</a></h2>
+        <div class="tooltip_content">
+        	<img title="Barbie Be My Valentine" alt="barbie-be-my-valentine" src="http://teengame.net/images/game_avatar/barbie-be-my-valentine-icon-1472712358.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Girl
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Barbie is single on Valentine&#39;s Day, but don&#39;t worry, there are already three guys that want to take her out. Ken, Flynn and Hiccup have already...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/girl-games/ariel-moves-in-with-eric">
+									<img data-src="http://teengame.net/images/game_avatar/ariel-moves-in-with-eric-icon-1472712159.jpg" alt="ariel-moves-in-with-eric" class="swiper-lazy showTip el_261" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/girl-games/ariel-moves-in-with-eric">Ariel Moves In With Eric</a></h2>
+		</div>
+	    	</div>
+				<div id="el_261" class="tipContent">
+        <h2><a href="http://teengame.net/girl-games/ariel-moves-in-with-eric">Ariel Moves In With Eric</a></h2>
+        <div class="tooltip_content">
+        	<img title="Ariel Moves In With Eric" alt="ariel-moves-in-with-eric" src="http://teengame.net/images/game_avatar/ariel-moves-in-with-eric-icon-1472712159.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Girl
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Ariel, the great mermaid, wants to move in with Prince Eric. She is very happy about this decision, because this is a very important moment in their lives...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/action-games/action-bros">
+									<img data-src="http://teengame.net/images/game_avatar/action-bros-icon-1472711987.jpg" alt="action-bros" class="swiper-lazy showTip el_260" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/action-games/action-bros">Action Bros</a></h2>
+		</div>
+	    	</div>
+				<div id="el_260" class="tipContent">
+        <h2><a href="http://teengame.net/action-games/action-bros">Action Bros</a></h2>
+        <div class="tooltip_content">
+        	<img title="Action Bros" alt="action-bros" src="http://teengame.net/images/game_avatar/action-bros-icon-1472711987.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Action
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Accomplish your missions in this fun shooting game Action Bros. Choose your character, weapons and shoot anyone who stands in your way or they will kill...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/fashion-games/barbies-villian-makeover">
+									<img data-src="http://teengame.net/images/game_avatar/barbies-villain-makeover-icon-1472271509.jpg" alt="barbies-villian-makeover" class="swiper-lazy showTip el_259" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/fashion-games/barbies-villian-makeover"> Barbie's Villian Makeover</a></h2>
+		</div>
+	    	</div>
+				<div id="el_259" class="tipContent">
+        <h2><a href="http://teengame.net/fashion-games/barbies-villian-makeover">Barbie's Villian Makeover</a></h2>
+        <div class="tooltip_content">
+        	<img title="Barbie's Villian Makeover" alt="barbies-villian-makeover" src="http://teengame.net/images/game_avatar/barbies-villain-makeover-icon-1472271509.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Fashion
+                                    </strong>
+            	<div>
+            		    					3 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Barbie loves all things Disney and lately she began to be interested in the mysterious and interesting Disney villains. She always loves a challenge and...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/fashion-games/lucy-hale-round-the-clock-fashionista">
+									<img data-src="http://teengame.net/images/game_avatar/lucy-hale-round-the-clock-fashionista-icon-1472270744.jpg" alt="lucy-hale-round-the-clock-fashionista" class="swiper-lazy showTip el_258" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/fashion-games/lucy-hale-round-the-clock-fashionista"> Lucy Hale Round the Clock...</a></h2>
+		</div>
+	    	</div>
+				<div id="el_258" class="tipContent">
+        <h2><a href="http://teengame.net/fashion-games/lucy-hale-round-the-clock-fashionista">Lucy Hale Round the Clock Fashionista</a></h2>
+        <div class="tooltip_content">
+        	<img title="Lucy Hale Round the Clock Fashionista" alt="lucy-hale-round-the-clock-fashionista" src="http://teengame.net/images/game_avatar/lucy-hale-round-the-clock-fashionista-icon-1472270744.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Fashion
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Pretty Little Liars actress Lucy Hale is looking at a very busy day ahead! First up is lunch with her PPL co-stars. Then in the afternoon there is a...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/fashion-games/tris-date-night-dressup">
+									<img data-src="http://teengame.net/images/game_avatar/tris-date-night-dress-up-icon-1472270489.jpg" alt="tris-date-night-dressup" class="swiper-lazy showTip el_257" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/fashion-games/tris-date-night-dressup">Tris Date Night Dressup</a></h2>
+		</div>
+	    	</div>
+				<div id="el_257" class="tipContent">
+        <h2><a href="http://teengame.net/fashion-games/tris-date-night-dressup">Tris Date Night Dressup</a></h2>
+        <div class="tooltip_content">
+        	<img title="Tris Date Night Dressup" alt="tris-date-night-dressup" src="http://teengame.net/images/game_avatar/tris-date-night-dress-up-icon-1472270489.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Fashion
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Tris is going out on a date tonight. What should she wear to impress her boyfriend? Open up the secret boxes to find the most stylish clothes ever,...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/fashion-games/winter-friends">
+									<img data-src="http://teengame.net/images/game_avatar/winter_friends-icon-1472270359.jpg" alt="winter-friends" class="swiper-lazy showTip el_256" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/fashion-games/winter-friends">Winter Friends</a></h2>
+		</div>
+	    	</div>
+				<div id="el_256" class="tipContent">
+        <h2><a href="http://teengame.net/fashion-games/winter-friends">Winter Friends</a></h2>
+        <div class="tooltip_content">
+        	<img title="Winter Friends" alt="winter-friends" src="http://teengame.net/images/game_avatar/winter_friends-icon-1472270359.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Fashion
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> I think it will be a lovely winter day and the four friends are going out for a walk in the snow. Get them all dressed up, or any of the four if you like,...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/fashion-games/super-tattoo-artist-2">
+									<img data-src="http://teengame.net/images/game_avatar/super-tattoo-artist-2-icon-1472270279.jpg" alt="super-tattoo-artist-2" class="swiper-lazy showTip el_255" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/fashion-games/super-tattoo-artist-2">Super Tattoo Artist 2</a></h2>
+		</div>
+	    	</div>
+				<div id="el_255" class="tipContent">
+        <h2><a href="http://teengame.net/fashion-games/super-tattoo-artist-2">Super Tattoo Artist 2</a></h2>
+        <div class="tooltip_content">
+        	<img title="Super Tattoo Artist 2" alt="super-tattoo-artist-2" src="http://teengame.net/images/game_avatar/super-tattoo-artist-2-icon-1472270279.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Fashion
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> You are the super tattoo artist in town. Everyone wants to get inked in your tattoo shop. Today 4 clients come to your shop and want to get a tattoo. They...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																	</div>
+							</div>
+													<div class="swiper-slide boxgame">
+								<div class="row">
+																											<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/fashion-games/sery-prom-dolly-dressup">
+									<img data-src="http://teengame.net/images/game_avatar/sery-prom-dolly-dress-up-icon-1472269837.jpg" alt="sery-prom-dolly-dressup" class="swiper-lazy showTip el_254" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/fashion-games/sery-prom-dolly-dressup">Sery Prom Dolly Dressup</a></h2>
+		</div>
+	    	</div>
+				<div id="el_254" class="tipContent">
+        <h2><a href="http://teengame.net/fashion-games/sery-prom-dolly-dressup">Sery Prom Dolly Dressup</a></h2>
+        <div class="tooltip_content">
+        	<img title="Sery Prom Dolly Dressup" alt="sery-prom-dolly-dressup" src="http://teengame.net/images/game_avatar/sery-prom-dolly-dress-up-icon-1472269837.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Fashion
+                                    </strong>
+            	<div>
+            		    					1 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Sery is going to prom tonight so that means she needs a fashion adviser for her outfit! Open up mystery boxes and try out different dresses, shoes, bags...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/fashion-games/cinderellas-glittery-skirt">
+									<img data-src="http://teengame.net/images/game_avatar/cinderellas-glittery-skirt-icon-1472269580.jpg" alt="cinderellas-glittery-skirt" class="swiper-lazy showTip el_253" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/fashion-games/cinderellas-glittery-skirt"> Cinderella's Glittery...</a></h2>
+		</div>
+	    	</div>
+				<div id="el_253" class="tipContent">
+        <h2><a href="http://teengame.net/fashion-games/cinderellas-glittery-skirt">Cinderella's Glittery Skirt</a></h2>
+        <div class="tooltip_content">
+        	<img title="Cinderella's Glittery Skirt" alt="cinderellas-glittery-skirt" src="http://teengame.net/images/game_avatar/cinderellas-glittery-skirt-icon-1472269580.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Fashion
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Choose between two styles of skirts, pick from three glittery colors and you&#39;re off to create two different outfits to wear with the skirt. First...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/fashion-games/elsa-art-deco-couture">
+									<img data-src="http://teengame.net/images/game_avatar/elsa_art_deco_couture-icon-1472269325.jpg" alt="elsa-art-deco-couture" class="swiper-lazy showTip el_252" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/fashion-games/elsa-art-deco-couture">Elsa Art Deco Couture</a></h2>
+		</div>
+	    	</div>
+				<div id="el_252" class="tipContent">
+        <h2><a href="http://teengame.net/fashion-games/elsa-art-deco-couture">Elsa Art Deco Couture</a></h2>
+        <div class="tooltip_content">
+        	<img title="Elsa Art Deco Couture" alt="elsa-art-deco-couture" src="http://teengame.net/images/game_avatar/elsa_art_deco_couture-icon-1472269325.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Fashion
+                                    </strong>
+            	<div>
+            		    					1 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> The always glamourous ice queen Elsa knows a thing or two about fashion and when she discovers Art Deco she begins to try out new looks. Experiment with...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/fashion-games/arial-design-my-fedora-hat">
+									<img data-src="http://teengame.net/images/game_avatar/ariel-design-my-fedora-hat-icon-1472269238.jpg" alt="arial-design-my-fedora-hat" class="swiper-lazy showTip el_251" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/fashion-games/arial-design-my-fedora-hat"> Arial Design My Fedora...</a></h2>
+		</div>
+	    	</div>
+				<div id="el_251" class="tipContent">
+        <h2><a href="http://teengame.net/fashion-games/arial-design-my-fedora-hat">Arial Design My Fedora Hat</a></h2>
+        <div class="tooltip_content">
+        	<img title="Arial Design My Fedora Hat" alt="arial-design-my-fedora-hat" src="http://teengame.net/images/game_avatar/ariel-design-my-fedora-hat-icon-1472269238.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Fashion
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Ladies, do you know the gorgeous princess Ariel? The little mermaid enjoys modern fashion and she wants to wear a great summer hat. Help her design a...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/fashion-games/elsas-snapchat">
+									<img data-src="http://teengame.net/images/game_avatar/elsas-snapchat-icon-1472268730.jpg" alt="elsas-snapchat" class="swiper-lazy showTip el_250" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/fashion-games/elsas-snapchat">Elsa's Snapchat</a></h2>
+		</div>
+	    	</div>
+				<div id="el_250" class="tipContent">
+        <h2><a href="http://teengame.net/fashion-games/elsas-snapchat">Elsa's Snapchat</a></h2>
+        <div class="tooltip_content">
+        	<img title="Elsa's Snapchat" alt="elsas-snapchat" src="http://teengame.net/images/game_avatar/elsas-snapchat-icon-1472268730.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Fashion
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Here’s a super fun Frozen Dress Up Game for you ladies to play today! Queen Elsa has just managed to set up her Snapchat profile and right now she’s...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/fashion-games/princess-american-idol">
+									<img data-src="http://teengame.net/images/game_avatar/princess-american-idol-icon-1472268639.jpg" alt="princess-american-idol" class="swiper-lazy showTip el_249" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/fashion-games/princess-american-idol">Princess American Idol</a></h2>
+		</div>
+	    	</div>
+				<div id="el_249" class="tipContent">
+        <h2><a href="http://teengame.net/fashion-games/princess-american-idol">Princess American Idol</a></h2>
+        <div class="tooltip_content">
+        	<img title="Princess American Idol" alt="princess-american-idol" src="http://teengame.net/images/game_avatar/princess-american-idol-icon-1472268639.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Fashion
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Every teenage princess has a dream to be a American idol, especially the lovely princess Rapunzel. She would like to join contest to win. Do you want to...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/fashion-games/barbie-and-elsa-bridesmaids-rivals">
+									<img data-src="http://teengame.net/images/game_avatar/barbie-and-elsa-bridesmaids-rivals-icon-1472268431.jpg" alt="barbie-and-elsa-bridesmaids-rivals" class="swiper-lazy showTip el_248" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/fashion-games/barbie-and-elsa-bridesmaids-rivals"> Barbie And Elsa...</a></h2>
+		</div>
+	    	</div>
+				<div id="el_248" class="tipContent">
+        <h2><a href="http://teengame.net/fashion-games/barbie-and-elsa-bridesmaids-rivals">Barbie And Elsa Bridesmaids Rivals</a></h2>
+        <div class="tooltip_content">
+        	<img title="Barbie And Elsa Bridesmaids Rivals" alt="barbie-and-elsa-bridesmaids-rivals" src="http://teengame.net/images/game_avatar/barbie-and-elsa-bridesmaids-rivals-icon-1472268431.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Fashion
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p>Find out which bridesmaid is the winner and which one knows Anna best by playing this new game Barbie And Elsa Bridesmaids Rivals!
 </p>
             </div>
             <div class="clearfix"></div>
@@ -204,32 +1956,154 @@
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://localhost:8000/girl-games/2048">
-				<!-- <img src="" alt="" class="showTip el_" /> -->
-				<img data-src="http://localhost:8000/images/game_avatar/____by_ajkabajka-d8kvjcf-1470379089.jpg" alt="2048" class="swiper-lazy showTip el_6" />
-			</a>
+			<a href="http://teengame.net/fashion-games/harley-quinn-dress-up">
+									<img data-src="http://teengame.net/images/game_avatar/harley-quinn-dress-up-icon-1472268147.jpg" alt="harley-quinn-dress-up" class="swiper-lazy showTip el_247" />
+							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://localhost:8000/girl-games/2048">2048</a></h2>
+			<h2><a href="http://teengame.net/fashion-games/harley-quinn-dress-up">Harley Quinn Dress Up</a></h2>
 		</div>
 	    	</div>
-				<div id="el_6" class="tipContent">
-        <h2><a href="http://localhost:8000/girl-games/2048">2048</a></h2>
+				<div id="el_247" class="tipContent">
+        <h2><a href="http://teengame.net/fashion-games/harley-quinn-dress-up">Harley Quinn Dress Up</a></h2>
         <div class="tooltip_content">
-        	<img title="2048" alt="2048" src="http://localhost:8000/images/game_avatar/____by_ajkabajka-d8kvjcf-1470379089.jpg" />
+        	<img title="Harley Quinn Dress Up" alt="harley-quinn-dress-up" src="http://teengame.net/images/game_avatar/harley-quinn-dress-up-icon-1472268147.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Girl
+                                            Fashion
                                     </strong>
             	<div>
-            		    					10 plays
+            		    					2 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:100%"></div>
+        <div class="rate-bg" style="width:0%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p>ádf
-</p>
+            	<p> She is disorganized and a jokester, but hey, she is really fun! The resident class clown, Harley, lives for the LOL&#39;s and loves playing over-the-top...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/fashion-games/fluttershy-real-haircuts">
+									<img data-src="http://teengame.net/images/game_avatar/fluttershy-real-haircuts-icon-1472268029.jpg" alt="fluttershy-real-haircuts" class="swiper-lazy showTip el_246" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/fashion-games/fluttershy-real-haircuts">Fluttershy Real Haircuts</a></h2>
+		</div>
+	    	</div>
+				<div id="el_246" class="tipContent">
+        <h2><a href="http://teengame.net/fashion-games/fluttershy-real-haircuts">Fluttershy Real Haircuts</a></h2>
+        <div class="tooltip_content">
+        	<img title="Fluttershy Real Haircuts" alt="fluttershy-real-haircuts" src="http://teengame.net/images/game_avatar/fluttershy-real-haircuts-icon-1472268029.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Fashion
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> This cute Pegasus pony is known for her kindness and sweet nature, but today she decided she wanted a different hairstyle and thinks you would be the...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/fashion-games/tom-and-angela-real-haircuts">
+									<img data-src="http://teengame.net/images/game_avatar/tom-and-angela-real-haircuts-icon-1472267932.jpg" alt="tom-and-angela-real-haircuts" class="swiper-lazy showTip el_245" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/fashion-games/tom-and-angela-real-haircuts"> Tom And Angela Real...</a></h2>
+		</div>
+	    	</div>
+				<div id="el_245" class="tipContent">
+        <h2><a href="http://teengame.net/fashion-games/tom-and-angela-real-haircuts">Tom And Angela Real Haircuts</a></h2>
+        <div class="tooltip_content">
+        	<img title="Tom And Angela Real Haircuts" alt="tom-and-angela-real-haircuts" src="http://teengame.net/images/game_avatar/tom-and-angela-real-haircuts-icon-1472267932.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Fashion
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Tom and Angela are the perfect kitty couple and they decided to get a new haircut together! Have fun in a unique Real Haircuts game with two funtastic...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/fashion-games/minions-real-haircuts">
+									<img data-src="http://teengame.net/images/game_avatar/minions-real-haircuts-icon-1472267794.jpg" alt="minions-real-haircuts" class="swiper-lazy showTip el_244" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/fashion-games/minions-real-haircuts">Minions Real Haircuts</a></h2>
+		</div>
+	    	</div>
+				<div id="el_244" class="tipContent">
+        <h2><a href="http://teengame.net/fashion-games/minions-real-haircuts">Minions Real Haircuts</a></h2>
+        <div class="tooltip_content">
+        	<img title="Minions Real Haircuts" alt="minions-real-haircuts" src="http://teengame.net/images/game_avatar/minions-real-haircuts-icon-1472267794.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Fashion
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> The minions are on their way to rule the world, but they have to stop by the salon to get new haircuts. Help one of these lovable creatures with an...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/fashion-games/rapunzel-mommy-real-makeover">
+									<img data-src="http://teengame.net/images/game_avatar/rapunzel-mommy-real-makeover-icon-1472267613.jpg" alt="rapunzel-mommy-real-makeover" class="swiper-lazy showTip el_243" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/fashion-games/rapunzel-mommy-real-makeover"> Rapunzel Mommy Real...</a></h2>
+		</div>
+	    	</div>
+				<div id="el_243" class="tipContent">
+        <h2><a href="http://teengame.net/fashion-games/rapunzel-mommy-real-makeover">Rapunzel Mommy Real Makeover</a></h2>
+        <div class="tooltip_content">
+        	<img title="Rapunzel Mommy Real Makeover" alt="rapunzel-mommy-real-makeover" src="http://teengame.net/images/game_avatar/rapunzel-mommy-real-makeover-icon-1472267613.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Fashion
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Like mother, like daughter, princess Rapunzel`s daughter likes to explore the beauty world and see what`s like to be a grown-up. Discover the secrets of a...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -240,11 +2114,11 @@
 					<div class="swiper-pagination"></div>
 					<div class="boxgame-pagination">
 						<a class="prev"><i class="fa fa-caret-left"></i> Previous</a>
-						<div class="boxgame-pagenumber"><span class="numberPage">1</span>/1</div>
+						<div class="boxgame-pagenumber"><span class="numberPage">1</span>/5</div>
 						<a class="next">Next <i class="fa fa-caret-right"></i></a>
 					</div>
 				</div>
-													<h3><a href="http://localhost:8000/best-games">Most played games</a></h3>
+													<h3><a href="#">New Games</a></h3>
 											<div class="swiper-container">
 					<div class="swiper-wrapper">
 													<div class="swiper-slide boxgame">
@@ -252,32 +2126,30 @@
 																											<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://localhost:8000/girl-games/2048">
-				<!-- <img src="" alt="" class="showTip el_" /> -->
-				<img data-src="http://localhost:8000/images/game_avatar/____by_ajkabajka-d8kvjcf-1470379089.jpg" alt="2048" class="swiper-lazy showTip el_6" />
-			</a>
+			<a href="http://teengame.net/action-games/i-am-the-ninja">
+									<img data-src="http://teengame.net/images/game_avatar/i-am-the-ninja-icon-1473213148.jpg" alt="i-am-the-ninja" class="swiper-lazy showTip el_302" />
+							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://localhost:8000/girl-games/2048">2048</a></h2>
+			<h2><a href="http://teengame.net/action-games/i-am-the-ninja">I Am The Ninja</a></h2>
 		</div>
 	    	</div>
-				<div id="el_6" class="tipContent">
-        <h2><a href="http://localhost:8000/girl-games/2048">2048</a></h2>
+				<div id="el_302" class="tipContent">
+        <h2><a href="http://teengame.net/action-games/i-am-the-ninja">I Am The Ninja</a></h2>
         <div class="tooltip_content">
-        	<img title="2048" alt="2048" src="http://localhost:8000/images/game_avatar/____by_ajkabajka-d8kvjcf-1470379089.jpg" />
+        	<img title="I Am The Ninja" alt="i-am-the-ninja" src="http://teengame.net/images/game_avatar/i-am-the-ninja-icon-1473213148.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Girl
+                                            Action
                                     </strong>
             	<div>
-            		    					10 plays
+            		    					1 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:100%"></div>
+        <div class="rate-bg" style="width:0%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p>ádf
-</p>
+            	<p> You are a true ninja if you can master this final mission. Use your powers to pass several barriers and traps to reach the exit in each stage of the...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -285,19 +2157,1088 @@
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://localhost:8000/girl-games/duoi-hinh-bat-chu">
-				<!-- <img src="" alt="" class="showTip el_" /> -->
-				<img data-src="http://localhost:8000/images/game_avatar/____by_ajkabajka-d8kvjcf-1470384071.jpg" alt="duoi-hinh-bat-chu" class="swiper-lazy showTip el_7" />
-			</a>
+			<a href="http://teengame.net/action-games/mr-timan">
+									<img data-src="http://teengame.net/images/game_avatar/mr-timan-icon-1473213051.jpg" alt="mr-timan" class="swiper-lazy showTip el_301" />
+							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://localhost:8000/girl-games/duoi-hinh-bat-chu">duoi hinh bat chu</a></h2>
+			<h2><a href="http://teengame.net/action-games/mr-timan">Mr. Timan</a></h2>
 		</div>
 	    	</div>
-				<div id="el_7" class="tipContent">
-        <h2><a href="http://localhost:8000/girl-games/duoi-hinh-bat-chu">duoi hinh bat chu</a></h2>
+				<div id="el_301" class="tipContent">
+        <h2><a href="http://teengame.net/action-games/mr-timan">Mr. Timan</a></h2>
         <div class="tooltip_content">
-        	<img title="duoi hinh bat chu" alt="duoi-hinh-bat-chu" src="http://localhost:8000/images/game_avatar/____by_ajkabajka-d8kvjcf-1470384071.jpg" />
+        	<img title="Mr. Timan" alt="mr-timan" src="http://teengame.net/images/game_avatar/mr-timan-icon-1473213051.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Action
+                                    </strong>
+            	<div>
+            		    					1 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> In a near future Mr. Timan is hired by the powerful institution for science that is working on time travels. The new boss just welcomed him when suddenly...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/action-games/gym-class-racers">
+									<img data-src="http://teengame.net/images/game_avatar/gym-class-racers-icon-1473212915.jpg" alt="gym-class-racers" class="swiper-lazy showTip el_300" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/action-games/gym-class-racers">Gym Class Racers</a></h2>
+		</div>
+	    	</div>
+				<div id="el_300" class="tipContent">
+        <h2><a href="http://teengame.net/action-games/gym-class-racers">Gym Class Racers</a></h2>
+        <div class="tooltip_content">
+        	<img title="Gym Class Racers" alt="gym-class-racers" src="http://teengame.net/images/game_avatar/gym-class-racers-icon-1473212915.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Action
+                                    </strong>
+            	<div>
+            		    					1 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Gym Class Racers is cool high school styled racing game. Pick one of the 5 characters and reach the finish line first. Each competitor has a special...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/racing-games/outworld-motocross">
+									<img data-src="http://teengame.net/images/game_avatar/outworld-motocross-icon-1473212683.jpg" alt="outworld-motocross" class="swiper-lazy showTip el_299" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/racing-games/outworld-motocross">Outworld Motocross</a></h2>
+		</div>
+	    	</div>
+				<div id="el_299" class="tipContent">
+        <h2><a href="http://teengame.net/racing-games/outworld-motocross">Outworld Motocross</a></h2>
+        <div class="tooltip_content">
+        	<img title="Outworld Motocross" alt="outworld-motocross" src="http://teengame.net/images/game_avatar/outworld-motocross-icon-1473212683.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Racing
+                                    </strong>
+            	<div>
+            		    					1 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Gear up for another motocross challenge and steer your dirt bike across the hilly ground of the mysterious world of silver bolts. In this cool Outworld...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/action-games/clicker-troops">
+									<img data-src="http://teengame.net/images/game_avatar/clicker-troops-icon-1473212356.jpg" alt="clicker-troops" class="swiper-lazy showTip el_298" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/action-games/clicker-troops">Clicker Troops</a></h2>
+		</div>
+	    	</div>
+				<div id="el_298" class="tipContent">
+        <h2><a href="http://teengame.net/action-games/clicker-troops">Clicker Troops</a></h2>
+        <div class="tooltip_content">
+        	<img title="Clicker Troops" alt="clicker-troops" src="http://teengame.net/images/game_avatar/clicker-troops-icon-1473212356.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Action
+                                    </strong>
+            	<div>
+            		    					1 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Your troops are under attack by evil creatures. Save them with your clicking power in this fun fantasy clicker adventure. To defeat all enemies you come...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/action-games/worlds-hardest-game-4">
+									<img data-src="http://teengame.net/images/game_avatar/worlds-hardest-game-4-icon-1473211583.jpg" alt="worlds-hardest-game-4" class="swiper-lazy showTip el_297" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/action-games/worlds-hardest-game-4">World's Hardest Game 4</a></h2>
+		</div>
+	    	</div>
+				<div id="el_297" class="tipContent">
+        <h2><a href="http://teengame.net/action-games/worlds-hardest-game-4">World's Hardest Game 4</a></h2>
+        <div class="tooltip_content">
+        	<img title="World's Hardest Game 4" alt="worlds-hardest-game-4" src="http://teengame.net/images/game_avatar/worlds-hardest-game-4-icon-1473211583.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Action
+                                    </strong>
+            	<div>
+            		    					1 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> This is the worlds hardest game number 4. It is harder than any game you have ever played. Really? Who said that? The developer of the game. OK, it&#39;s...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/racing-games/super-trucks-3d">
+									<img data-src="http://teengame.net/images/game_avatar/super-trucks-3d-icon-1473211419.jpg" alt="super-trucks-3d" class="swiper-lazy showTip el_296" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/racing-games/super-trucks-3d">Super Trucks 3D</a></h2>
+		</div>
+	    	</div>
+				<div id="el_296" class="tipContent">
+        <h2><a href="http://teengame.net/racing-games/super-trucks-3d">Super Trucks 3D</a></h2>
+        <div class="tooltip_content">
+        	<img title="Super Trucks 3D" alt="super-trucks-3d" src="http://teengame.net/images/game_avatar/super-trucks-3d-icon-1473211419.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Racing
+                                    </strong>
+            	<div>
+            		    					1 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Master the hilly track of this fast-paced monster truck racing game Super Truck 3D! Avoid obstacles and collect nitro power ups to live all competitors...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/puzzle-games/fractured-4">
+									<img data-src="http://teengame.net/images/game_avatar/fractured-4-icon-1473156019.jpg" alt="fractured-4" class="swiper-lazy showTip el_295" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/puzzle-games/fractured-4">Fractured 4</a></h2>
+		</div>
+	    	</div>
+				<div id="el_295" class="tipContent">
+        <h2><a href="http://teengame.net/puzzle-games/fractured-4">Fractured 4</a></h2>
+        <div class="tooltip_content">
+        	<img title="Fractured 4" alt="fractured-4" src="http://teengame.net/images/game_avatar/fractured-4-icon-1473156019.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Puzzle
+                                    </strong>
+            	<div>
+            		    					1 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Help these two children who are caught up in the strange world of Fractured 4. Solve puzzles and pilot both through shattered pieces to bring them...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/puzzle-games/fractured-3">
+									<img data-src="http://teengame.net/images/game_avatar/fractured-3-icon-1473155936.jpg" alt="fractured-3" class="swiper-lazy showTip el_294" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/puzzle-games/fractured-3">Fractured 3</a></h2>
+		</div>
+	    	</div>
+				<div id="el_294" class="tipContent">
+        <h2><a href="http://teengame.net/puzzle-games/fractured-3">Fractured 3</a></h2>
+        <div class="tooltip_content">
+        	<img title="Fractured 3" alt="fractured-3" src="http://teengame.net/images/game_avatar/fractured-3-icon-1473155936.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Puzzle
+                                    </strong>
+            	<div>
+            		    					1 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Put together the single pieces in the third episode of the mysterious puzzle platform game, Fractured 3. Your objective is to help a little girl and boy...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/puzzle-games/fractured-2">
+									<img data-src="http://teengame.net/images/game_avatar/fractured-2-icon-1473155769.jpg" alt="fractured-2" class="swiper-lazy showTip el_293" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/puzzle-games/fractured-2">Fractured 2</a></h2>
+		</div>
+	    	</div>
+				<div id="el_293" class="tipContent">
+        <h2><a href="http://teengame.net/puzzle-games/fractured-2">Fractured 2</a></h2>
+        <div class="tooltip_content">
+        	<img title="Fractured 2" alt="fractured-2" src="http://teengame.net/images/game_avatar/fractured-2-icon-1473155769.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Puzzle
+                                    </strong>
+            	<div>
+            		    					1 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Follow the story of a sad little girl who lost her daddy and couldn&#39;t process it. Like in the first sequel of the addicting puzzle platform game it is...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/puzzle-games/fractured">
+									<img data-src="http://teengame.net/images/game_avatar/fractured-icon-1473155635.jpg" alt="fractured" class="swiper-lazy showTip el_292" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/puzzle-games/fractured">Fractured</a></h2>
+		</div>
+	    	</div>
+				<div id="el_292" class="tipContent">
+        <h2><a href="http://teengame.net/puzzle-games/fractured">Fractured</a></h2>
+        <div class="tooltip_content">
+        	<img title="Fractured" alt="fractured" src="http://teengame.net/images/game_avatar/fractured-icon-1473155635.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Puzzle
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> In this mystical platform game the mother is separate from her son. Figure out how to move the child through all fragments and get him to his mommy. When...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/sport-games/speedplay-soccer-4">
+									<img data-src="http://teengame.net/images/game_avatar/speedplay-soccer-4-icon-1473155426.jpg" alt="speedplay-soccer-4" class="swiper-lazy showTip el_291" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/sport-games/speedplay-soccer-4">Speedplay Soccer 4</a></h2>
+		</div>
+	    	</div>
+				<div id="el_291" class="tipContent">
+        <h2><a href="http://teengame.net/sport-games/speedplay-soccer-4">Speedplay Soccer 4</a></h2>
+        <div class="tooltip_content">
+        	<img title="Speedplay Soccer 4" alt="speedplay-soccer-4" src="http://teengame.net/images/game_avatar/speedplay-soccer-4-icon-1473155426.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Sport
+                                    </strong>
+            	<div>
+            		    					1 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> SpeedPlay World Soccer 4 is a great new soccer game. Select your favorite tournament, whether it&#39;s the Euro Cup or the Copa America, and start beating...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																	</div>
+							</div>
+													<div class="swiper-slide boxgame">
+								<div class="row">
+																											<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/puzzle-games/snail-bob-8-island-story">
+									<img data-src="http://teengame.net/images/game_avatar/snail-bob-8-icon-1473069096.jpg" alt="snail-bob-8-island-story" class="swiper-lazy showTip el_290" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/puzzle-games/snail-bob-8-island-story">Snail Bob 8 Island Story</a></h2>
+		</div>
+	    	</div>
+				<div id="el_290" class="tipContent">
+        <h2><a href="http://teengame.net/puzzle-games/snail-bob-8-island-story">Snail Bob 8 Island Story</a></h2>
+        <div class="tooltip_content">
+        	<img title="Snail Bob 8 Island Story" alt="snail-bob-8-island-story" src="http://teengame.net/images/game_avatar/snail-bob-8-icon-1473069096.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Puzzle
+                                    </strong>
+            	<div>
+            		    					1 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Snail Bob 8: Island Story is another physics-based puzzle game with the lazy sluggard Bob. Help Bob the Snail back home from the island full of puzzles...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/puzzle-games/snail-bob-7-fantasy-story">
+									<img data-src="http://teengame.net/images/game_avatar/snail-bob-7-icon-1473068842.jpg" alt="snail-bob-7-fantasy-story" class="swiper-lazy showTip el_289" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/puzzle-games/snail-bob-7-fantasy-story"> Snail Bob 7 Fantasy Story</a></h2>
+		</div>
+	    	</div>
+				<div id="el_289" class="tipContent">
+        <h2><a href="http://teengame.net/puzzle-games/snail-bob-7-fantasy-story">Snail Bob 7 Fantasy Story</a></h2>
+        <div class="tooltip_content">
+        	<img title="Snail Bob 7 Fantasy Story" alt="snail-bob-7-fantasy-story" src="http://teengame.net/images/game_avatar/snail-bob-7-icon-1473068842.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Puzzle
+                                    </strong>
+            	<div>
+            		    					1 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Snail Bob returns with a new fantasy story. Help the cute slug to overcome all adventures by pointing and clicking on interactive spots. Much fun!
+
+How...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/puzzle-games/snail-bob-6-winter-story">
+									<img data-src="http://teengame.net/images/game_avatar/snail-bob-6-icon-1473068592.jpg" alt="snail-bob-6-winter-story" class="swiper-lazy showTip el_288" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/puzzle-games/snail-bob-6-winter-story">Snail Bob 6 Winter Story</a></h2>
+		</div>
+	    	</div>
+				<div id="el_288" class="tipContent">
+        <h2><a href="http://teengame.net/puzzle-games/snail-bob-6-winter-story">Snail Bob 6 Winter Story</a></h2>
+        <div class="tooltip_content">
+        	<img title="Snail Bob 6 Winter Story" alt="snail-bob-6-winter-story" src="http://teengame.net/images/game_avatar/snail-bob-6-icon-1473068592.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Puzzle
+                                    </strong>
+            	<div>
+            		    					1 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Snail Bob 6 is another cool sequel of the popular platform game from A10. Keep Snail Bob alive in this puzzle-ridden winter wonderland. Enjoy!
+
+How to...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/puzzle-games/snail-bob-5-love-story">
+									<img data-src="http://teengame.net/images/game_avatar/snail-bob-5-icon-1473069619.jpg" alt="snail-bob-5-love-story" class="swiper-lazy showTip el_287" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/puzzle-games/snail-bob-5-love-story">Snail Bob 5 Love Story</a></h2>
+		</div>
+	    	</div>
+				<div id="el_287" class="tipContent">
+        <h2><a href="http://teengame.net/puzzle-games/snail-bob-5-love-story">Snail Bob 5 Love Story</a></h2>
+        <div class="tooltip_content">
+        	<img title="Snail Bob 5 Love Story" alt="snail-bob-5-love-story" src="http://teengame.net/images/game_avatar/snail-bob-5-icon-1473069619.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Puzzle
+                                    </strong>
+            	<div>
+            		    					1 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Love is in the air for the world&#39;s most famous snail. Help Bob in this fun sequel to make his way through each stage to the exit to win his beloved...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/puzzle-games/snail-bob-4-space">
+									<img data-src="http://teengame.net/images/game_avatar/snail-bob-4-icon-1473067748.jpg" alt="snail-bob-4-space" class="swiper-lazy showTip el_286" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/puzzle-games/snail-bob-4-space">Snail Bob 4 Space</a></h2>
+		</div>
+	    	</div>
+				<div id="el_286" class="tipContent">
+        <h2><a href="http://teengame.net/puzzle-games/snail-bob-4-space">Snail Bob 4 Space</a></h2>
+        <div class="tooltip_content">
+        	<img title="Snail Bob 4 Space" alt="snail-bob-4-space" src="http://teengame.net/images/game_avatar/snail-bob-4-icon-1473067748.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Puzzle
+                                    </strong>
+            	<div>
+            		    					1 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Snail Bob 4 is here, ready to save our lovely planet one more time. In the fourth sequel you have to attend our beloved slowpoke to an adventurous mission...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/puzzle-games/snail-bob-3">
+									<img data-src="http://teengame.net/images/game_avatar/snail-bob-3-icon-1473067388.jpg" alt="snail-bob-3" class="swiper-lazy showTip el_285" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/puzzle-games/snail-bob-3">Snail Bob 3</a></h2>
+		</div>
+	    	</div>
+				<div id="el_285" class="tipContent">
+        <h2><a href="http://teengame.net/puzzle-games/snail-bob-3">Snail Bob 3</a></h2>
+        <div class="tooltip_content">
+        	<img title="Snail Bob 3" alt="snail-bob-3" src="http://teengame.net/images/game_avatar/snail-bob-3-icon-1473067388.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Puzzle
+                                    </strong>
+            	<div>
+            		    					1 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Snail Bob 3 is the brandnew sequel of the fun physics-based puzzle game, created by Andrey Kovalishin. This time the popular snail Bob traveled to the...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/puzzle-games/snail-bob-2">
+									<img data-src="http://teengame.net/images/game_avatar/snail-bob-2-icon-1473066874.jpg" alt="snail-bob-2" class="swiper-lazy showTip el_284" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/puzzle-games/snail-bob-2">Snail Bob 2</a></h2>
+		</div>
+	    	</div>
+				<div id="el_284" class="tipContent">
+        <h2><a href="http://teengame.net/puzzle-games/snail-bob-2">Snail Bob 2</a></h2>
+        <div class="tooltip_content">
+        	<img title="Snail Bob 2" alt="snail-bob-2" src="http://teengame.net/images/game_avatar/snail-bob-2-icon-1473066874.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Puzzle
+                                    </strong>
+            	<div>
+            		    					1 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Snail Bob 2 is another cool physics puzzle game made by Hunter Hamster. A dangerous forest stands between Snail Bob and his Grandpa. Guide Bob through...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/puzzle-games/snail-bob">
+									<img data-src="http://teengame.net/images/game_avatar/snail-bob-icon-1473059160.jpg" alt="snail-bob" class="swiper-lazy showTip el_283" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/puzzle-games/snail-bob">Snail Bob</a></h2>
+		</div>
+	    	</div>
+				<div id="el_283" class="tipContent">
+        <h2><a href="http://teengame.net/puzzle-games/snail-bob">Snail Bob</a></h2>
+        <div class="tooltip_content">
+        	<img title="Snail Bob" alt="snail-bob" src="http://teengame.net/images/game_avatar/snail-bob-icon-1473059160.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Puzzle
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Snail Bob is a new physics based puzzle game from Andrey Kovalishin. Snail Bob is lost, help him to find the right path. Use tools to guide Bob through...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/action-games/tu-95">
+									<img data-src="http://teengame.net/images/game_avatar/tu-95-icon-1472723911.jpg" alt="tu-95" class="swiper-lazy showTip el_282" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/action-games/tu-95">TU 95</a></h2>
+		</div>
+	    	</div>
+				<div id="el_282" class="tipContent">
+        <h2><a href="http://teengame.net/action-games/tu-95">TU 95</a></h2>
+        <div class="tooltip_content">
+        	<img title="TU 95" alt="tu-95" src="http://teengame.net/images/game_avatar/tu-95-icon-1472723911.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Action
+                                    </strong>
+            	<div>
+            		    					3 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Mission of Tupolev 95 (TU 95) is to control, fly and land this soviet bomber. Learn to steer the plane and become a successful bomber pilot in the soviet...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/action-games/tu-46">
+									<img data-src="http://teengame.net/images/game_avatar/TU-46-icon-1472723844.jpg" alt="tu-46" class="swiper-lazy showTip el_281" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/action-games/tu-46">TU 46</a></h2>
+		</div>
+	    	</div>
+				<div id="el_281" class="tipContent">
+        <h2><a href="http://teengame.net/action-games/tu-46">TU 46</a></h2>
+        <div class="tooltip_content">
+        	<img title="TU 46" alt="tu-46" src="http://teengame.net/images/game_avatar/TU-46-icon-1472723844.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Action
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> TU-46 is another cool airline simulator inspired by TU-95. You get to control the brand new passenger aircrafts from Tupolev. Deliver passengers around 6...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/strategy-games/swords-and-souls">
+									<img data-src="http://teengame.net/images/game_avatar/swords-and-souls-icon-1472723720.jpg" alt="swords-and-souls" class="swiper-lazy showTip el_280" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/strategy-games/swords-and-souls">Swords And Souls</a></h2>
+		</div>
+	    	</div>
+				<div id="el_280" class="tipContent">
+        <h2><a href="http://teengame.net/strategy-games/swords-and-souls">Swords And Souls</a></h2>
+        <div class="tooltip_content">
+        	<img title="Swords And Souls" alt="swords-and-souls" src="http://teengame.net/images/game_avatar/swords-and-souls-icon-1472723720.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Strategy
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Welcome to Soul Town! Design your Soul, train him and step into the Arena! Unlock new skills, buy new equipment and make your way to the top in this...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/action-games/stunt-pilot">
+									<img data-src="http://teengame.net/images/game_avatar/stunt-pilot-icon-1472723527.jpg" alt="stunt-pilot" class="swiper-lazy showTip el_279" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/action-games/stunt-pilot">Stunt Pilot</a></h2>
+		</div>
+	    	</div>
+				<div id="el_279" class="tipContent">
+        <h2><a href="http://teengame.net/action-games/stunt-pilot">Stunt Pilot</a></h2>
+        <div class="tooltip_content">
+        	<img title="Stunt Pilot" alt="stunt-pilot" src="http://teengame.net/images/game_avatar/stunt-pilot-icon-1472723527.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Action
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Mission of Stunt Pilot is to complete all the courses without crashing! Control the plane with the arrow keys and pilot your stunt plane through various...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																	</div>
+							</div>
+													<div class="swiper-slide boxgame">
+								<div class="row">
+																											<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/action-games/speedboat-shooting">
+									<img data-src="http://teengame.net/images/game_avatar/speedboat-shooting-icon-1472723427.jpg" alt="speedboat-shooting" class="swiper-lazy showTip el_278" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/action-games/speedboat-shooting">Speedboat Shooting</a></h2>
+		</div>
+	    	</div>
+				<div id="el_278" class="tipContent">
+        <h2><a href="http://teengame.net/action-games/speedboat-shooting">Speedboat Shooting</a></h2>
+        <div class="tooltip_content">
+        	<img title="Speedboat Shooting" alt="speedboat-shooting" src="http://teengame.net/images/game_avatar/speedboat-shooting-icon-1472723427.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Action
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Enemy chasers keep after a speedboat like crazy, ready to shoot it down. So it&#39;s up to you to guard the race boat from all attackers by using a...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/puzzle-games/shape-fold-animals">
+									<img data-src="http://teengame.net/images/game_avatar/shape-fold-animals-icon-1472723127.jpg" alt="shape-fold-animals" class="swiper-lazy showTip el_277" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/puzzle-games/shape-fold-animals">Shape Fold Animals</a></h2>
+		</div>
+	    	</div>
+				<div id="el_277" class="tipContent">
+        <h2><a href="http://teengame.net/puzzle-games/shape-fold-animals">Shape Fold Animals</a></h2>
+        <div class="tooltip_content">
+        	<img title="Shape Fold Animals" alt="shape-fold-animals" src="http://teengame.net/images/game_avatar/shape-fold-animals-icon-1472723127.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Puzzle
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Shape Fold Animals is a classic puzzle game. Your mission? Move or rotate the shapes and create animals. Can you put together each of these paper...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/fashion-games/red-riding-hood-and-snow-white-hollywood-divas">
+									<img data-src="http://teengame.net/images/game_avatar/red-riding-hood-and-snow-white-hollywood-divas-icon-1472722687.jpg" alt="red-riding-hood-and-snow-white-hollywood-divas" class="swiper-lazy showTip el_276" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/fashion-games/red-riding-hood-and-snow-white-hollywood-divas"> Red Riding Hood And Snow...</a></h2>
+		</div>
+	    	</div>
+				<div id="el_276" class="tipContent">
+        <h2><a href="http://teengame.net/fashion-games/red-riding-hood-and-snow-white-hollywood-divas">Red Riding Hood And Snow White Hollywood Divas</a></h2>
+        <div class="tooltip_content">
+        	<img title="Red Riding Hood And Snow White Hollywood Divas" alt="red-riding-hood-and-snow-white-hollywood-divas" src="http://teengame.net/images/game_avatar/red-riding-hood-and-snow-white-hollywood-divas-icon-1472722687.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Fashion
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> We would like you girls to join us today within all these interesting and cute categories, because we have uploaded nothing but the most exciting and fun...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/cooking-games/papas-cupcakeria">
+									<img data-src="http://teengame.net/images/game_avatar/papascupcakeria-icon-1472722521.jpg" alt="papas-cupcakeria" class="swiper-lazy showTip el_275" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/cooking-games/papas-cupcakeria">Papa's Cupcakeria</a></h2>
+		</div>
+	    	</div>
+				<div id="el_275" class="tipContent">
+        <h2><a href="http://teengame.net/cooking-games/papas-cupcakeria">Papa's Cupcakeria</a></h2>
+        <div class="tooltip_content">
+        	<img title="Papa's Cupcakeria" alt="papas-cupcakeria" src="http://teengame.net/images/game_avatar/papascupcakeria-icon-1472722521.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Cooking
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Bake cupcakes in Papa&#39;s Bakery to earn cash! You will begin by training at the restaurant. Learn how to take orders, mix batter, and bake cupcakes....</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/cooking-games/papas-cheeseria">
+									<img data-src="http://teengame.net/images/game_avatar/papascheeseria-icon-1472722256.jpg" alt="papas-cheeseria" class="swiper-lazy showTip el_274" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/cooking-games/papas-cheeseria">Papa's Cheeseria</a></h2>
+		</div>
+	    	</div>
+				<div id="el_274" class="tipContent">
+        <h2><a href="http://teengame.net/cooking-games/papas-cheeseria">Papa's Cheeseria</a></h2>
+        <div class="tooltip_content">
+        	<img title="Papa's Cheeseria" alt="papas-cheeseria" src="http://teengame.net/images/game_avatar/papascheeseria-icon-1472722256.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Cooking
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Cook gooey, grilled cheese sandwiches for hungry customers! Papa’s Cheeseria puts you back behind the counter, where you will serve made-to-order meals....</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/action-games/metal-slug-brutal">
+									<img data-src="http://teengame.net/images/game_avatar/metalslug-brutal-icon-1472721977.jpg" alt="metal-slug-brutal" class="swiper-lazy showTip el_273" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/action-games/metal-slug-brutal">Metal Slug Brutal</a></h2>
+		</div>
+	    	</div>
+				<div id="el_273" class="tipContent">
+        <h2><a href="http://teengame.net/action-games/metal-slug-brutal">Metal Slug Brutal</a></h2>
+        <div class="tooltip_content">
+        	<img title="Metal Slug Brutal" alt="metal-slug-brutal" src="http://teengame.net/images/game_avatar/metalslug-brutal-icon-1472721977.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Action
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Get into the skin of the bloody Metal Slug command. Eliminate all the enemy soldiers and destroy the military facilities on your way.
+
+How to...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/racing-games/max-fury-death-racer">
+									<img data-src="http://teengame.net/images/game_avatar/max_fury-icon-1472721803.jpg" alt="max-fury-death-racer" class="swiper-lazy showTip el_272" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/racing-games/max-fury-death-racer">Max Fury Death Racer</a></h2>
+		</div>
+	    	</div>
+				<div id="el_272" class="tipContent">
+        <h2><a href="http://teengame.net/racing-games/max-fury-death-racer">Max Fury Death Racer</a></h2>
+        <div class="tooltip_content">
+        	<img title="Max Fury Death Racer" alt="max-fury-death-racer" src="http://teengame.net/images/game_avatar/max_fury-icon-1472721803.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Racing
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Max Fury Death Racer is the racing game for the ultimate fun! Drive your tiny car as fast as you can, shoot other racers, perform flips, collect stuff and...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/action-games/mad-day-2">
+									<img data-src="http://teengame.net/images/game_avatar/mad-day-2-icon-1472721648.jpg" alt="mad-day-2" class="swiper-lazy showTip el_271" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/action-games/mad-day-2">Mad Day 2</a></h2>
+		</div>
+	    	</div>
+				<div id="el_271" class="tipContent">
+        <h2><a href="http://teengame.net/action-games/mad-day-2">Mad Day 2</a></h2>
+        <div class="tooltip_content">
+        	<img title="Mad Day 2" alt="mad-day-2" src="http://teengame.net/images/game_avatar/mad-day-2-icon-1472721648.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Action
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> It&#39;s the second mad day you have since the alien plague arrived mother Earth. Drive and gun your way through the whole map. Survive for as long as you...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/strategy-games/juicy-bazooka">
+									<img data-src="http://teengame.net/images/game_avatar/juicy-bazooka-icon-1472721527.jpg" alt="juicy-bazooka" class="swiper-lazy showTip el_270" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/strategy-games/juicy-bazooka">Juicy Bazooka</a></h2>
+		</div>
+	    	</div>
+				<div id="el_270" class="tipContent">
+        <h2><a href="http://teengame.net/strategy-games/juicy-bazooka">Juicy Bazooka</a></h2>
+        <div class="tooltip_content">
+        	<img title="Juicy Bazooka" alt="juicy-bazooka" src="http://teengame.net/images/game_avatar/juicy-bazooka-icon-1472721527.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Strategy
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> This rugged-looking guy with three-day stubble needs your help to get rid of baddies as vengeance for stealing his food in Juicy Bazooka, a fun shooting...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/funny-games/judy-hopps-and-nick-wilde-kissing">
+									<img data-src="http://teengame.net/images/game_avatar/judy_hopps_and_nick_wilde_kissing-icon-1472714936.jpg" alt="judy-hopps-and-nick-wilde-kissing" class="swiper-lazy showTip el_269" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/funny-games/judy-hopps-and-nick-wilde-kissing"> Judy Hopps And Nick Wilde...</a></h2>
+		</div>
+	    	</div>
+				<div id="el_269" class="tipContent">
+        <h2><a href="http://teengame.net/funny-games/judy-hopps-and-nick-wilde-kissing">Judy Hopps And Nick Wilde Kissing</a></h2>
+        <div class="tooltip_content">
+        	<img title="Judy Hopps And Nick Wilde Kissing" alt="judy-hopps-and-nick-wilde-kissing" src="http://teengame.net/images/game_avatar/judy_hopps_and_nick_wilde_kissing-icon-1472714936.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Funny
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Enjoy a new kissing game featuring your characters from Zootopia,Judy Hopps and Nick Wilde.They are living a love story and you can take part to their...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/action-games/fury-clicker">
+									<img data-src="http://teengame.net/images/game_avatar/fury-clicker-icon-1472714727.jpg" alt="fury-clicker" class="swiper-lazy showTip el_268" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/action-games/fury-clicker">Fury Clicker</a></h2>
+		</div>
+	    	</div>
+				<div id="el_268" class="tipContent">
+        <h2><a href="http://teengame.net/action-games/fury-clicker">Fury Clicker</a></h2>
+        <div class="tooltip_content">
+        	<img title="Fury Clicker" alt="fury-clicker" src="http://teengame.net/images/game_avatar/fury-clicker-icon-1472714727.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Action
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Kill all the rebels and leave no man alive. Increase and upgrade your units and defense. See how far you can go in this killing madness!
+
+How to...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/girl-games/elsa-dish-washing-realife">
+									<img data-src="http://teengame.net/images/game_avatar/ellie-dish-washing-realife-icon-1472714547.jpg" alt="elsa-dish-washing-realife" class="swiper-lazy showTip el_267" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/girl-games/elsa-dish-washing-realife"> Elsa Dish Washing Realife</a></h2>
+		</div>
+	    	</div>
+				<div id="el_267" class="tipContent">
+        <h2><a href="http://teengame.net/girl-games/elsa-dish-washing-realife">Elsa Dish Washing Realife</a></h2>
+        <div class="tooltip_content">
+        	<img title="Elsa Dish Washing Realife" alt="elsa-dish-washing-realife" src="http://teengame.net/images/game_avatar/ellie-dish-washing-realife-icon-1472714547.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
@@ -306,11 +3247,765 @@
             	<div>
             		    					2 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:80%"></div>
+        <div class="rate-bg" style="width:0%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p>ádf
+            	<p> What do you say about a new and fun online game, a new game in which you are about to spend some time with one of your favorite disney princesses. Today...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																	</div>
+							</div>
+													<div class="swiper-slide boxgame">
+								<div class="row">
+																											<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/action-games/dragon-age-legends">
+									<img data-src="http://teengame.net/images/game_avatar/dragon-age-legends-icon-1472714140.jpg" alt="dragon-age-legends" class="swiper-lazy showTip el_266" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/action-games/dragon-age-legends">Dragon Age Legends</a></h2>
+		</div>
+	    	</div>
+				<div id="el_266" class="tipContent">
+        <h2><a href="http://teengame.net/action-games/dragon-age-legends">Dragon Age Legends</a></h2>
+        <div class="tooltip_content">
+        	<img title="Dragon Age Legends" alt="dragon-age-legends" src="http://teengame.net/images/game_avatar/dragon-age-legends-icon-1472714140.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Action
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Dragon Age Legends is an awesome Hack &#39;N&#39; Slash RPG made by EA and the indie game developer Pixelante. Your mission in this side scrolling action...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/action-games/dead-samurai">
+									<img data-src="http://teengame.net/images/game_avatar/dead-samurai-icon-1472713659.jpg" alt="dead-samurai" class="swiper-lazy showTip el_265" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/action-games/dead-samurai">Dead Samurai</a></h2>
+		</div>
+	    	</div>
+				<div id="el_265" class="tipContent">
+        <h2><a href="http://teengame.net/action-games/dead-samurai">Dead Samurai</a></h2>
+        <div class="tooltip_content">
+        	<img title="Dead Samurai" alt="dead-samurai" src="http://teengame.net/images/game_avatar/dead-samurai-icon-1472713659.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Action
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Grab your blade and get ready to walk the path of the Dead Samurai in this intense hack &#39;n&#39; slash game. Your objective is to win all duels to...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/sport-games/bmx-master">
+									<img data-src="http://teengame.net/images/game_avatar/bmx-master-icon-1472712963.jpg" alt="bmx-master" class="swiper-lazy showTip el_264" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/sport-games/bmx-master">BMX Master</a></h2>
+		</div>
+	    	</div>
+				<div id="el_264" class="tipContent">
+        <h2><a href="http://teengame.net/sport-games/bmx-master">BMX Master</a></h2>
+        <div class="tooltip_content">
+        	<img title="BMX Master" alt="bmx-master" src="http://teengame.net/images/game_avatar/bmx-master-icon-1472712963.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Sport
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> BMX Master is an addictive bicycle motocross game. Try to perform as many awesome stunts with your BMX as you can and do not plant your face.
+
+How to...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/fashion-games/barbie-dates-a-celebrity">
+									<img data-src="http://teengame.net/images/game_avatar/barbie-dates-a-celebrity-icon-1472712619.jpg" alt="barbie-dates-a-celebrity" class="swiper-lazy showTip el_263" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/fashion-games/barbie-dates-a-celebrity">Barbie Dates a Celebrity</a></h2>
+		</div>
+	    	</div>
+				<div id="el_263" class="tipContent">
+        <h2><a href="http://teengame.net/fashion-games/barbie-dates-a-celebrity">Barbie Dates a Celebrity</a></h2>
+        <div class="tooltip_content">
+        	<img title="Barbie Dates a Celebrity" alt="barbie-dates-a-celebrity" src="http://teengame.net/images/game_avatar/barbie-dates-a-celebrity-icon-1472712619.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Fashion
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Barbie is single. She wants to go on a date with a great guy. On her social media page she has three different messages from three amazing guys. They are...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/girl-games/barbie-be-my-valentine">
+									<img data-src="http://teengame.net/images/game_avatar/barbie-be-my-valentine-icon-1472712358.jpg" alt="barbie-be-my-valentine" class="swiper-lazy showTip el_262" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/girl-games/barbie-be-my-valentine">Barbie Be My Valentine</a></h2>
+		</div>
+	    	</div>
+				<div id="el_262" class="tipContent">
+        <h2><a href="http://teengame.net/girl-games/barbie-be-my-valentine">Barbie Be My Valentine</a></h2>
+        <div class="tooltip_content">
+        	<img title="Barbie Be My Valentine" alt="barbie-be-my-valentine" src="http://teengame.net/images/game_avatar/barbie-be-my-valentine-icon-1472712358.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Girl
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Barbie is single on Valentine&#39;s Day, but don&#39;t worry, there are already three guys that want to take her out. Ken, Flynn and Hiccup have already...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/girl-games/ariel-moves-in-with-eric">
+									<img data-src="http://teengame.net/images/game_avatar/ariel-moves-in-with-eric-icon-1472712159.jpg" alt="ariel-moves-in-with-eric" class="swiper-lazy showTip el_261" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/girl-games/ariel-moves-in-with-eric">Ariel Moves In With Eric</a></h2>
+		</div>
+	    	</div>
+				<div id="el_261" class="tipContent">
+        <h2><a href="http://teengame.net/girl-games/ariel-moves-in-with-eric">Ariel Moves In With Eric</a></h2>
+        <div class="tooltip_content">
+        	<img title="Ariel Moves In With Eric" alt="ariel-moves-in-with-eric" src="http://teengame.net/images/game_avatar/ariel-moves-in-with-eric-icon-1472712159.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Girl
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Ariel, the great mermaid, wants to move in with Prince Eric. She is very happy about this decision, because this is a very important moment in their lives...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/action-games/action-bros">
+									<img data-src="http://teengame.net/images/game_avatar/action-bros-icon-1472711987.jpg" alt="action-bros" class="swiper-lazy showTip el_260" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/action-games/action-bros">Action Bros</a></h2>
+		</div>
+	    	</div>
+				<div id="el_260" class="tipContent">
+        <h2><a href="http://teengame.net/action-games/action-bros">Action Bros</a></h2>
+        <div class="tooltip_content">
+        	<img title="Action Bros" alt="action-bros" src="http://teengame.net/images/game_avatar/action-bros-icon-1472711987.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Action
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Accomplish your missions in this fun shooting game Action Bros. Choose your character, weapons and shoot anyone who stands in your way or they will kill...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/fashion-games/barbies-villian-makeover">
+									<img data-src="http://teengame.net/images/game_avatar/barbies-villain-makeover-icon-1472271509.jpg" alt="barbies-villian-makeover" class="swiper-lazy showTip el_259" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/fashion-games/barbies-villian-makeover"> Barbie's Villian Makeover</a></h2>
+		</div>
+	    	</div>
+				<div id="el_259" class="tipContent">
+        <h2><a href="http://teengame.net/fashion-games/barbies-villian-makeover">Barbie's Villian Makeover</a></h2>
+        <div class="tooltip_content">
+        	<img title="Barbie's Villian Makeover" alt="barbies-villian-makeover" src="http://teengame.net/images/game_avatar/barbies-villain-makeover-icon-1472271509.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Fashion
+                                    </strong>
+            	<div>
+            		    					3 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Barbie loves all things Disney and lately she began to be interested in the mysterious and interesting Disney villains. She always loves a challenge and...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/fashion-games/lucy-hale-round-the-clock-fashionista">
+									<img data-src="http://teengame.net/images/game_avatar/lucy-hale-round-the-clock-fashionista-icon-1472270744.jpg" alt="lucy-hale-round-the-clock-fashionista" class="swiper-lazy showTip el_258" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/fashion-games/lucy-hale-round-the-clock-fashionista"> Lucy Hale Round the Clock...</a></h2>
+		</div>
+	    	</div>
+				<div id="el_258" class="tipContent">
+        <h2><a href="http://teengame.net/fashion-games/lucy-hale-round-the-clock-fashionista">Lucy Hale Round the Clock Fashionista</a></h2>
+        <div class="tooltip_content">
+        	<img title="Lucy Hale Round the Clock Fashionista" alt="lucy-hale-round-the-clock-fashionista" src="http://teengame.net/images/game_avatar/lucy-hale-round-the-clock-fashionista-icon-1472270744.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Fashion
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Pretty Little Liars actress Lucy Hale is looking at a very busy day ahead! First up is lunch with her PPL co-stars. Then in the afternoon there is a...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/fashion-games/tris-date-night-dressup">
+									<img data-src="http://teengame.net/images/game_avatar/tris-date-night-dress-up-icon-1472270489.jpg" alt="tris-date-night-dressup" class="swiper-lazy showTip el_257" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/fashion-games/tris-date-night-dressup">Tris Date Night Dressup</a></h2>
+		</div>
+	    	</div>
+				<div id="el_257" class="tipContent">
+        <h2><a href="http://teengame.net/fashion-games/tris-date-night-dressup">Tris Date Night Dressup</a></h2>
+        <div class="tooltip_content">
+        	<img title="Tris Date Night Dressup" alt="tris-date-night-dressup" src="http://teengame.net/images/game_avatar/tris-date-night-dress-up-icon-1472270489.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Fashion
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Tris is going out on a date tonight. What should she wear to impress her boyfriend? Open up the secret boxes to find the most stylish clothes ever,...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/fashion-games/winter-friends">
+									<img data-src="http://teengame.net/images/game_avatar/winter_friends-icon-1472270359.jpg" alt="winter-friends" class="swiper-lazy showTip el_256" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/fashion-games/winter-friends">Winter Friends</a></h2>
+		</div>
+	    	</div>
+				<div id="el_256" class="tipContent">
+        <h2><a href="http://teengame.net/fashion-games/winter-friends">Winter Friends</a></h2>
+        <div class="tooltip_content">
+        	<img title="Winter Friends" alt="winter-friends" src="http://teengame.net/images/game_avatar/winter_friends-icon-1472270359.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Fashion
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> I think it will be a lovely winter day and the four friends are going out for a walk in the snow. Get them all dressed up, or any of the four if you like,...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/fashion-games/super-tattoo-artist-2">
+									<img data-src="http://teengame.net/images/game_avatar/super-tattoo-artist-2-icon-1472270279.jpg" alt="super-tattoo-artist-2" class="swiper-lazy showTip el_255" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/fashion-games/super-tattoo-artist-2">Super Tattoo Artist 2</a></h2>
+		</div>
+	    	</div>
+				<div id="el_255" class="tipContent">
+        <h2><a href="http://teengame.net/fashion-games/super-tattoo-artist-2">Super Tattoo Artist 2</a></h2>
+        <div class="tooltip_content">
+        	<img title="Super Tattoo Artist 2" alt="super-tattoo-artist-2" src="http://teengame.net/images/game_avatar/super-tattoo-artist-2-icon-1472270279.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Fashion
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> You are the super tattoo artist in town. Everyone wants to get inked in your tattoo shop. Today 4 clients come to your shop and want to get a tattoo. They...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																	</div>
+							</div>
+													<div class="swiper-slide boxgame">
+								<div class="row">
+																											<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/fashion-games/sery-prom-dolly-dressup">
+									<img data-src="http://teengame.net/images/game_avatar/sery-prom-dolly-dress-up-icon-1472269837.jpg" alt="sery-prom-dolly-dressup" class="swiper-lazy showTip el_254" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/fashion-games/sery-prom-dolly-dressup">Sery Prom Dolly Dressup</a></h2>
+		</div>
+	    	</div>
+				<div id="el_254" class="tipContent">
+        <h2><a href="http://teengame.net/fashion-games/sery-prom-dolly-dressup">Sery Prom Dolly Dressup</a></h2>
+        <div class="tooltip_content">
+        	<img title="Sery Prom Dolly Dressup" alt="sery-prom-dolly-dressup" src="http://teengame.net/images/game_avatar/sery-prom-dolly-dress-up-icon-1472269837.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Fashion
+                                    </strong>
+            	<div>
+            		    					1 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Sery is going to prom tonight so that means she needs a fashion adviser for her outfit! Open up mystery boxes and try out different dresses, shoes, bags...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/fashion-games/cinderellas-glittery-skirt">
+									<img data-src="http://teengame.net/images/game_avatar/cinderellas-glittery-skirt-icon-1472269580.jpg" alt="cinderellas-glittery-skirt" class="swiper-lazy showTip el_253" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/fashion-games/cinderellas-glittery-skirt"> Cinderella's Glittery...</a></h2>
+		</div>
+	    	</div>
+				<div id="el_253" class="tipContent">
+        <h2><a href="http://teengame.net/fashion-games/cinderellas-glittery-skirt">Cinderella's Glittery Skirt</a></h2>
+        <div class="tooltip_content">
+        	<img title="Cinderella's Glittery Skirt" alt="cinderellas-glittery-skirt" src="http://teengame.net/images/game_avatar/cinderellas-glittery-skirt-icon-1472269580.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Fashion
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Choose between two styles of skirts, pick from three glittery colors and you&#39;re off to create two different outfits to wear with the skirt. First...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/fashion-games/elsa-art-deco-couture">
+									<img data-src="http://teengame.net/images/game_avatar/elsa_art_deco_couture-icon-1472269325.jpg" alt="elsa-art-deco-couture" class="swiper-lazy showTip el_252" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/fashion-games/elsa-art-deco-couture">Elsa Art Deco Couture</a></h2>
+		</div>
+	    	</div>
+				<div id="el_252" class="tipContent">
+        <h2><a href="http://teengame.net/fashion-games/elsa-art-deco-couture">Elsa Art Deco Couture</a></h2>
+        <div class="tooltip_content">
+        	<img title="Elsa Art Deco Couture" alt="elsa-art-deco-couture" src="http://teengame.net/images/game_avatar/elsa_art_deco_couture-icon-1472269325.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Fashion
+                                    </strong>
+            	<div>
+            		    					1 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> The always glamourous ice queen Elsa knows a thing or two about fashion and when she discovers Art Deco she begins to try out new looks. Experiment with...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/fashion-games/arial-design-my-fedora-hat">
+									<img data-src="http://teengame.net/images/game_avatar/ariel-design-my-fedora-hat-icon-1472269238.jpg" alt="arial-design-my-fedora-hat" class="swiper-lazy showTip el_251" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/fashion-games/arial-design-my-fedora-hat"> Arial Design My Fedora...</a></h2>
+		</div>
+	    	</div>
+				<div id="el_251" class="tipContent">
+        <h2><a href="http://teengame.net/fashion-games/arial-design-my-fedora-hat">Arial Design My Fedora Hat</a></h2>
+        <div class="tooltip_content">
+        	<img title="Arial Design My Fedora Hat" alt="arial-design-my-fedora-hat" src="http://teengame.net/images/game_avatar/ariel-design-my-fedora-hat-icon-1472269238.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Fashion
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Ladies, do you know the gorgeous princess Ariel? The little mermaid enjoys modern fashion and she wants to wear a great summer hat. Help her design a...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/fashion-games/elsas-snapchat">
+									<img data-src="http://teengame.net/images/game_avatar/elsas-snapchat-icon-1472268730.jpg" alt="elsas-snapchat" class="swiper-lazy showTip el_250" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/fashion-games/elsas-snapchat">Elsa's Snapchat</a></h2>
+		</div>
+	    	</div>
+				<div id="el_250" class="tipContent">
+        <h2><a href="http://teengame.net/fashion-games/elsas-snapchat">Elsa's Snapchat</a></h2>
+        <div class="tooltip_content">
+        	<img title="Elsa's Snapchat" alt="elsas-snapchat" src="http://teengame.net/images/game_avatar/elsas-snapchat-icon-1472268730.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Fashion
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Here’s a super fun Frozen Dress Up Game for you ladies to play today! Queen Elsa has just managed to set up her Snapchat profile and right now she’s...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/fashion-games/princess-american-idol">
+									<img data-src="http://teengame.net/images/game_avatar/princess-american-idol-icon-1472268639.jpg" alt="princess-american-idol" class="swiper-lazy showTip el_249" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/fashion-games/princess-american-idol">Princess American Idol</a></h2>
+		</div>
+	    	</div>
+				<div id="el_249" class="tipContent">
+        <h2><a href="http://teengame.net/fashion-games/princess-american-idol">Princess American Idol</a></h2>
+        <div class="tooltip_content">
+        	<img title="Princess American Idol" alt="princess-american-idol" src="http://teengame.net/images/game_avatar/princess-american-idol-icon-1472268639.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Fashion
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Every teenage princess has a dream to be a American idol, especially the lovely princess Rapunzel. She would like to join contest to win. Do you want to...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/fashion-games/barbie-and-elsa-bridesmaids-rivals">
+									<img data-src="http://teengame.net/images/game_avatar/barbie-and-elsa-bridesmaids-rivals-icon-1472268431.jpg" alt="barbie-and-elsa-bridesmaids-rivals" class="swiper-lazy showTip el_248" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/fashion-games/barbie-and-elsa-bridesmaids-rivals"> Barbie And Elsa...</a></h2>
+		</div>
+	    	</div>
+				<div id="el_248" class="tipContent">
+        <h2><a href="http://teengame.net/fashion-games/barbie-and-elsa-bridesmaids-rivals">Barbie And Elsa Bridesmaids Rivals</a></h2>
+        <div class="tooltip_content">
+        	<img title="Barbie And Elsa Bridesmaids Rivals" alt="barbie-and-elsa-bridesmaids-rivals" src="http://teengame.net/images/game_avatar/barbie-and-elsa-bridesmaids-rivals-icon-1472268431.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Fashion
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p>Find out which bridesmaid is the winner and which one knows Anna best by playing this new game Barbie And Elsa Bridesmaids Rivals!
 </p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/fashion-games/harley-quinn-dress-up">
+									<img data-src="http://teengame.net/images/game_avatar/harley-quinn-dress-up-icon-1472268147.jpg" alt="harley-quinn-dress-up" class="swiper-lazy showTip el_247" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/fashion-games/harley-quinn-dress-up">Harley Quinn Dress Up</a></h2>
+		</div>
+	    	</div>
+				<div id="el_247" class="tipContent">
+        <h2><a href="http://teengame.net/fashion-games/harley-quinn-dress-up">Harley Quinn Dress Up</a></h2>
+        <div class="tooltip_content">
+        	<img title="Harley Quinn Dress Up" alt="harley-quinn-dress-up" src="http://teengame.net/images/game_avatar/harley-quinn-dress-up-icon-1472268147.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Fashion
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> She is disorganized and a jokester, but hey, she is really fun! The resident class clown, Harley, lives for the LOL&#39;s and loves playing over-the-top...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/fashion-games/fluttershy-real-haircuts">
+									<img data-src="http://teengame.net/images/game_avatar/fluttershy-real-haircuts-icon-1472268029.jpg" alt="fluttershy-real-haircuts" class="swiper-lazy showTip el_246" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/fashion-games/fluttershy-real-haircuts">Fluttershy Real Haircuts</a></h2>
+		</div>
+	    	</div>
+				<div id="el_246" class="tipContent">
+        <h2><a href="http://teengame.net/fashion-games/fluttershy-real-haircuts">Fluttershy Real Haircuts</a></h2>
+        <div class="tooltip_content">
+        	<img title="Fluttershy Real Haircuts" alt="fluttershy-real-haircuts" src="http://teengame.net/images/game_avatar/fluttershy-real-haircuts-icon-1472268029.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Fashion
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> This cute Pegasus pony is known for her kindness and sweet nature, but today she decided she wanted a different hairstyle and thinks you would be the...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/fashion-games/tom-and-angela-real-haircuts">
+									<img data-src="http://teengame.net/images/game_avatar/tom-and-angela-real-haircuts-icon-1472267932.jpg" alt="tom-and-angela-real-haircuts" class="swiper-lazy showTip el_245" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/fashion-games/tom-and-angela-real-haircuts"> Tom And Angela Real...</a></h2>
+		</div>
+	    	</div>
+				<div id="el_245" class="tipContent">
+        <h2><a href="http://teengame.net/fashion-games/tom-and-angela-real-haircuts">Tom And Angela Real Haircuts</a></h2>
+        <div class="tooltip_content">
+        	<img title="Tom And Angela Real Haircuts" alt="tom-and-angela-real-haircuts" src="http://teengame.net/images/game_avatar/tom-and-angela-real-haircuts-icon-1472267932.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Fashion
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Tom and Angela are the perfect kitty couple and they decided to get a new haircut together! Have fun in a unique Real Haircuts game with two funtastic...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/fashion-games/minions-real-haircuts">
+									<img data-src="http://teengame.net/images/game_avatar/minions-real-haircuts-icon-1472267794.jpg" alt="minions-real-haircuts" class="swiper-lazy showTip el_244" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/fashion-games/minions-real-haircuts">Minions Real Haircuts</a></h2>
+		</div>
+	    	</div>
+				<div id="el_244" class="tipContent">
+        <h2><a href="http://teengame.net/fashion-games/minions-real-haircuts">Minions Real Haircuts</a></h2>
+        <div class="tooltip_content">
+        	<img title="Minions Real Haircuts" alt="minions-real-haircuts" src="http://teengame.net/images/game_avatar/minions-real-haircuts-icon-1472267794.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Fashion
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> The minions are on their way to rule the world, but they have to stop by the salon to get new haircuts. Help one of these lovable creatures with an...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://teengame.net/fashion-games/rapunzel-mommy-real-makeover">
+									<img data-src="http://teengame.net/images/game_avatar/rapunzel-mommy-real-makeover-icon-1472267613.jpg" alt="rapunzel-mommy-real-makeover" class="swiper-lazy showTip el_243" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://teengame.net/fashion-games/rapunzel-mommy-real-makeover"> Rapunzel Mommy Real...</a></h2>
+		</div>
+	    	</div>
+				<div id="el_243" class="tipContent">
+        <h2><a href="http://teengame.net/fashion-games/rapunzel-mommy-real-makeover">Rapunzel Mommy Real Makeover</a></h2>
+        <div class="tooltip_content">
+        	<img title="Rapunzel Mommy Real Makeover" alt="rapunzel-mommy-real-makeover" src="http://teengame.net/images/game_avatar/rapunzel-mommy-real-makeover-icon-1472267613.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Fashion
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Like mother, like daughter, princess Rapunzel`s daughter likes to explore the beauty world and see what`s like to be a grown-up. Discover the secrets of a...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -321,88 +4016,7 @@
 					<div class="swiper-pagination"></div>
 					<div class="boxgame-pagination">
 						<a class="prev"><i class="fa fa-caret-left"></i> Previous</a>
-						<div class="boxgame-pagenumber"><span class="numberPage">1</span>/1</div>
-						<a class="next">Next <i class="fa fa-caret-right"></i></a>
-					</div>
-				</div>
-													<h3><a href="#">Most voted games</a></h3>
-											<div class="swiper-container">
-					<div class="swiper-wrapper">
-													<div class="swiper-slide boxgame">
-								<div class="row">
-																											<div class="col-xs-4 col-sm-3 col-md-2">
-	<div class="item">
-	    <div class="item-image">
-			<a href="http://localhost:8000/girl-games/2048">
-				<!-- <img src="" alt="" class="showTip el_" /> -->
-				<img data-src="http://localhost:8000/images/game_avatar/____by_ajkabajka-d8kvjcf-1470379089.jpg" alt="2048" class="swiper-lazy showTip el_6" />
-			</a>
-	    </div>
-	    <div class="item-title">
-			<h2><a href="http://localhost:8000/girl-games/2048">2048</a></h2>
-		</div>
-	    	</div>
-				<div id="el_6" class="tipContent">
-        <h2><a href="http://localhost:8000/girl-games/2048">2048</a></h2>
-        <div class="tooltip_content">
-        	<img title="2048" alt="2048" src="http://localhost:8000/images/game_avatar/____by_ajkabajka-d8kvjcf-1470379089.jpg" />
-            <div class="tooltip_text">
-                <span>Category: </span>
-                <strong>
-                                            Girl
-                                    </strong>
-            	<div>
-            		    					10 plays
-    				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:100%"></div>
-    <div class="rate-stars"></div>
-</div>            	</div>
-            	<p>ádf
-</p>
-            </div>
-            <div class="clearfix"></div>
-        </div>
-    </div>
-	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
-	<div class="item">
-	    <div class="item-image">
-			<a href="http://localhost:8000/girl-games/duoi-hinh-bat-chu">
-				<!-- <img src="" alt="" class="showTip el_" /> -->
-				<img data-src="http://localhost:8000/images/game_avatar/____by_ajkabajka-d8kvjcf-1470384071.jpg" alt="duoi-hinh-bat-chu" class="swiper-lazy showTip el_7" />
-			</a>
-	    </div>
-	    <div class="item-title">
-			<h2><a href="http://localhost:8000/girl-games/duoi-hinh-bat-chu">duoi hinh bat chu</a></h2>
-		</div>
-	    	</div>
-				<div id="el_7" class="tipContent">
-        <h2><a href="http://localhost:8000/girl-games/duoi-hinh-bat-chu">duoi hinh bat chu</a></h2>
-        <div class="tooltip_content">
-        	<img title="duoi hinh bat chu" alt="duoi-hinh-bat-chu" src="http://localhost:8000/images/game_avatar/____by_ajkabajka-d8kvjcf-1470384071.jpg" />
-            <div class="tooltip_text">
-                <span>Category: </span>
-                <strong>
-                                            Girl
-                                    </strong>
-            	<div>
-            		    					2 plays
-    				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:80%"></div>
-    <div class="rate-stars"></div>
-</div>            	</div>
-            	<p>ádf
-</p>
-            </div>
-            <div class="clearfix"></div>
-        </div>
-    </div>
-	</div>																	</div>
-							</div>
-											</div>
-					<div class="swiper-pagination"></div>
-					<div class="boxgame-pagination">
-						<a class="prev"><i class="fa fa-caret-left"></i> Previous</a>
-						<div class="boxgame-pagenumber"><span class="numberPage">1</span>/1</div>
+						<div class="boxgame-pagenumber"><span class="numberPage">1</span>/5</div>
 						<a class="next">Next <i class="fa fa-caret-right"></i></a>
 					</div>
 				</div>
@@ -411,28 +4025,432 @@
 <div class="box">
 	<h3>Mini Games</h3>
 	<div class="row">
-														<div class="col-sm-4">
+									<div class="col-sm-4">
 					<div class="boxmini">
 						<div class="boxmini-title">
-							<h3><a href="http://localhost:8000/boy-games">Boy Games</a></h3>
-							<a href="http://localhost:8000/boy-games" class="boxmini-seemore">Show all</a>
+							<h3><a href="http://teengame.net/action-games">Action Games</a></h3>
+							<a href="http://teengame.net/action-games" class="boxmini-seemore">Show all</a>
 						</div>
 						<div class="row">
 																							<div class="col-xs-4">
 									<div class="item">
 									    <div class="item-image">
-											<a href="http://localhost:8000/boy-games/duoi-hinh-bat-chu">
-												<img src="http://localhost:8000/images/game_avatar/____by_ajkabajka-d8kvjcf-1470384071.jpg" alt="duoi hinh bat chu" class="showTip el_7" />
+											<a href="http://teengame.net/action-games/i-am-the-ninja">
+												<img src="http://teengame.net/images/game_avatar/i-am-the-ninja-icon-1473213148.jpg" alt="I Am The Ninja" class="showTip el_302" />
 											</a>
 									    </div>
 									    <div class="item-title">
-											<a href="http://localhost:8000/boy-games/duoi-hinh-bat-chu">duoi hinh bat chu</a>
+											<a href="http://teengame.net/action-games/i-am-the-ninja">I Am The Ninja</a>
 										</div>
 									</div>
-																			<div id="el_7" class="tipContent">
-        <h2><a href="http://localhost:8000/boy-games/duoi-hinh-bat-chu">duoi hinh bat chu</a></h2>
+																			<div id="el_302" class="tipContent">
+        <h2><a href="http://teengame.net/action-games/i-am-the-ninja">I Am The Ninja</a></h2>
         <div class="tooltip_content">
-        	<img title="duoi hinh bat chu" alt="duoi-hinh-bat-chu" src="http://localhost:8000/images/game_avatar/____by_ajkabajka-d8kvjcf-1470384071.jpg" />
+        	<img title="I Am The Ninja" alt="i-am-the-ninja" src="http://teengame.net/images/game_avatar/i-am-the-ninja-icon-1473213148.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Action
+                                    </strong>
+            	<div>
+            		    					1 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> You are a true ninja if you can master this final mission. Use your powers to pass several barriers and traps to reach the exit in each stage of the...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://teengame.net/action-games/mr-timan">
+												<img src="http://teengame.net/images/game_avatar/mr-timan-icon-1473213051.jpg" alt="Mr. Timan" class="showTip el_301" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://teengame.net/action-games/mr-timan">Mr. Timan</a>
+										</div>
+									</div>
+																			<div id="el_301" class="tipContent">
+        <h2><a href="http://teengame.net/action-games/mr-timan">Mr. Timan</a></h2>
+        <div class="tooltip_content">
+        	<img title="Mr. Timan" alt="mr-timan" src="http://teengame.net/images/game_avatar/mr-timan-icon-1473213051.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Action
+                                    </strong>
+            	<div>
+            		    					1 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> In a near future Mr. Timan is hired by the powerful institution for science that is working on time travels. The new boss just welcomed him when suddenly...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://teengame.net/action-games/gym-class-racers">
+												<img src="http://teengame.net/images/game_avatar/gym-class-racers-icon-1473212915.jpg" alt="Gym Class Racers" class="showTip el_300" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://teengame.net/action-games/gym-class-racers">Gym Class Racers</a>
+										</div>
+									</div>
+																			<div id="el_300" class="tipContent">
+        <h2><a href="http://teengame.net/action-games/gym-class-racers">Gym Class Racers</a></h2>
+        <div class="tooltip_content">
+        	<img title="Gym Class Racers" alt="gym-class-racers" src="http://teengame.net/images/game_avatar/gym-class-racers-icon-1473212915.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Action
+                                    </strong>
+            	<div>
+            		    					1 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Gym Class Racers is cool high school styled racing game. Pick one of the 5 characters and reach the finish line first. Each competitor has a special...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://teengame.net/action-games/clicker-troops">
+												<img src="http://teengame.net/images/game_avatar/clicker-troops-icon-1473212356.jpg" alt="Clicker Troops" class="showTip el_298" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://teengame.net/action-games/clicker-troops">Clicker Troops</a>
+										</div>
+									</div>
+																			<div id="el_298" class="tipContent">
+        <h2><a href="http://teengame.net/action-games/clicker-troops">Clicker Troops</a></h2>
+        <div class="tooltip_content">
+        	<img title="Clicker Troops" alt="clicker-troops" src="http://teengame.net/images/game_avatar/clicker-troops-icon-1473212356.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Action
+                                    </strong>
+            	<div>
+            		    					1 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Your troops are under attack by evil creatures. Save them with your clicking power in this fun fantasy clicker adventure. To defeat all enemies you come...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://teengame.net/action-games/worlds-hardest-game-4">
+												<img src="http://teengame.net/images/game_avatar/worlds-hardest-game-4-icon-1473211583.jpg" alt="World's Hardest Game 4" class="showTip el_297" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://teengame.net/action-games/worlds-hardest-game-4">World's Hardest Game 4</a>
+										</div>
+									</div>
+																			<div id="el_297" class="tipContent">
+        <h2><a href="http://teengame.net/action-games/worlds-hardest-game-4">World's Hardest Game 4</a></h2>
+        <div class="tooltip_content">
+        	<img title="World's Hardest Game 4" alt="worlds-hardest-game-4" src="http://teengame.net/images/game_avatar/worlds-hardest-game-4-icon-1473211583.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Action
+                                    </strong>
+            	<div>
+            		    					1 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> This is the worlds hardest game number 4. It is harder than any game you have ever played. Really? Who said that? The developer of the game. OK, it&#39;s...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://teengame.net/action-games/tu-95">
+												<img src="http://teengame.net/images/game_avatar/tu-95-icon-1472723911.jpg" alt="TU 95" class="showTip el_282" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://teengame.net/action-games/tu-95">TU 95</a>
+										</div>
+									</div>
+																			<div id="el_282" class="tipContent">
+        <h2><a href="http://teengame.net/action-games/tu-95">TU 95</a></h2>
+        <div class="tooltip_content">
+        	<img title="TU 95" alt="tu-95" src="http://teengame.net/images/game_avatar/tu-95-icon-1472723911.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Action
+                                    </strong>
+            	<div>
+            		    					3 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Mission of Tupolev 95 (TU 95) is to control, fly and land this soviet bomber. Learn to steer the plane and become a successful bomber pilot in the soviet...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+																	</div>
+													</div>
+					</div>
+				</div>
+												<div class="col-sm-4">
+					<div class="boxmini">
+						<div class="boxmini-title">
+							<h3><a href="http://teengame.net/racing-games">Racing Games</a></h3>
+							<a href="http://teengame.net/racing-games" class="boxmini-seemore">Show all</a>
+						</div>
+						<div class="row">
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://teengame.net/racing-games/outworld-motocross">
+												<img src="http://teengame.net/images/game_avatar/outworld-motocross-icon-1473212683.jpg" alt="Outworld Motocross" class="showTip el_299" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://teengame.net/racing-games/outworld-motocross">Outworld Motocross</a>
+										</div>
+									</div>
+																			<div id="el_299" class="tipContent">
+        <h2><a href="http://teengame.net/racing-games/outworld-motocross">Outworld Motocross</a></h2>
+        <div class="tooltip_content">
+        	<img title="Outworld Motocross" alt="outworld-motocross" src="http://teengame.net/images/game_avatar/outworld-motocross-icon-1473212683.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Racing
+                                    </strong>
+            	<div>
+            		    					1 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Gear up for another motocross challenge and steer your dirt bike across the hilly ground of the mysterious world of silver bolts. In this cool Outworld...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://teengame.net/racing-games/super-trucks-3d">
+												<img src="http://teengame.net/images/game_avatar/super-trucks-3d-icon-1473211419.jpg" alt="Super Trucks 3D" class="showTip el_296" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://teengame.net/racing-games/super-trucks-3d">Super Trucks 3D</a>
+										</div>
+									</div>
+																			<div id="el_296" class="tipContent">
+        <h2><a href="http://teengame.net/racing-games/super-trucks-3d">Super Trucks 3D</a></h2>
+        <div class="tooltip_content">
+        	<img title="Super Trucks 3D" alt="super-trucks-3d" src="http://teengame.net/images/game_avatar/super-trucks-3d-icon-1473211419.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Racing
+                                    </strong>
+            	<div>
+            		    					1 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Master the hilly track of this fast-paced monster truck racing game Super Truck 3D! Avoid obstacles and collect nitro power ups to live all competitors...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://teengame.net/racing-games/max-fury-death-racer">
+												<img src="http://teengame.net/images/game_avatar/max_fury-icon-1472721803.jpg" alt="Max Fury Death Racer" class="showTip el_272" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://teengame.net/racing-games/max-fury-death-racer">Max Fury Death Racer</a>
+										</div>
+									</div>
+																			<div id="el_272" class="tipContent">
+        <h2><a href="http://teengame.net/racing-games/max-fury-death-racer">Max Fury Death Racer</a></h2>
+        <div class="tooltip_content">
+        	<img title="Max Fury Death Racer" alt="max-fury-death-racer" src="http://teengame.net/images/game_avatar/max_fury-icon-1472721803.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Racing
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Max Fury Death Racer is the racing game for the ultimate fun! Drive your tiny car as fast as you can, shoot other racers, perform flips, collect stuff and...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://teengame.net/racing-games/american-racing-2">
+												<img src="http://teengame.net/images/game_avatar/american-racing-2-icon-1471409279.jpg" alt="American Racing 2" class="showTip el_138" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://teengame.net/racing-games/american-racing-2">American Racing 2</a>
+										</div>
+									</div>
+																			<div id="el_138" class="tipContent">
+        <h2><a href="http://teengame.net/racing-games/american-racing-2">American Racing 2</a></h2>
+        <div class="tooltip_content">
+        	<img title="American Racing 2" alt="american-racing-2" src="http://teengame.net/images/game_avatar/american-racing-2-icon-1471409279.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Racing
+                                    </strong>
+            	<div>
+            		    					3 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Play another fun-addicting and challenging racing game developed by TurboNuke. Live the american dream and go up against much opposing racing cars. Try to...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://teengame.net/racing-games/dirtbike-racing">
+												<img src="http://teengame.net/images/game_avatar/dirt-bike-racing-icon-1471409118.jpg" alt="Dirtbike Racing" class="showTip el_137" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://teengame.net/racing-games/dirtbike-racing">Dirtbike Racing</a>
+										</div>
+									</div>
+																			<div id="el_137" class="tipContent">
+        <h2><a href="http://teengame.net/racing-games/dirtbike-racing">Dirtbike Racing</a></h2>
+        <div class="tooltip_content">
+        	<img title="Dirtbike Racing" alt="dirtbike-racing" src="http://teengame.net/images/game_avatar/dirt-bike-racing-icon-1471409118.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Racing
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Race against other skilled dirt bike racers and try to reach the finish line as the first in this fast-paced motocross game. Along the way you should...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://teengame.net/racing-games/super-bikes-track-stars">
+												<img src="http://teengame.net/images/game_avatar/super-bike-track-stars-icon-1471408756.jpg" alt="Super Bikes: Track Stars" class="showTip el_136" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://teengame.net/racing-games/super-bikes-track-stars">Super Bikes: Track Stars</a>
+										</div>
+									</div>
+																			<div id="el_136" class="tipContent">
+        <h2><a href="http://teengame.net/racing-games/super-bikes-track-stars">Super Bikes: Track Stars</a></h2>
+        <div class="tooltip_content">
+        	<img title="Super Bikes: Track Stars" alt="super-bikes-track-stars" src="http://teengame.net/images/game_avatar/super-bike-track-stars-icon-1471408756.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Racing
+                                    </strong>
+            	<div>
+            		    					5 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Challenge your skills in this fast-paced two-wheeler racing action! In Superbikes: Track Stars you have to ride your super nitro powered motorcycle past...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+																	</div>
+													</div>
+					</div>
+				</div>
+												<div class="col-sm-4">
+					<div class="boxmini">
+						<div class="boxmini-title">
+							<h3><a href="http://teengame.net/girl-games">Girl Games</a></h3>
+							<a href="http://teengame.net/girl-games" class="boxmini-seemore">Show all</a>
+						</div>
+						<div class="row">
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://teengame.net/girl-games/elsa-dish-washing-realife">
+												<img src="http://teengame.net/images/game_avatar/ellie-dish-washing-realife-icon-1472714547.jpg" alt="Elsa Dish Washing Realife" class="showTip el_267" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://teengame.net/girl-games/elsa-dish-washing-realife">Elsa Dish Washing Realife</a>
+										</div>
+									</div>
+																			<div id="el_267" class="tipContent">
+        <h2><a href="http://teengame.net/girl-games/elsa-dish-washing-realife">Elsa Dish Washing Realife</a></h2>
+        <div class="tooltip_content">
+        	<img title="Elsa Dish Washing Realife" alt="elsa-dish-washing-realife" src="http://teengame.net/images/game_avatar/ellie-dish-washing-realife-icon-1472714547.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
@@ -441,10 +4459,788 @@
             	<div>
             		    					2 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:80%"></div>
+        <div class="rate-bg" style="width:0%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p>ádf
+            	<p> What do you say about a new and fun online game, a new game in which you are about to spend some time with one of your favorite disney princesses. Today...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://teengame.net/girl-games/barbie-be-my-valentine">
+												<img src="http://teengame.net/images/game_avatar/barbie-be-my-valentine-icon-1472712358.jpg" alt="Barbie Be My Valentine" class="showTip el_262" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://teengame.net/girl-games/barbie-be-my-valentine">Barbie Be My Valentine</a>
+										</div>
+									</div>
+																			<div id="el_262" class="tipContent">
+        <h2><a href="http://teengame.net/girl-games/barbie-be-my-valentine">Barbie Be My Valentine</a></h2>
+        <div class="tooltip_content">
+        	<img title="Barbie Be My Valentine" alt="barbie-be-my-valentine" src="http://teengame.net/images/game_avatar/barbie-be-my-valentine-icon-1472712358.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Girl
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Barbie is single on Valentine&#39;s Day, but don&#39;t worry, there are already three guys that want to take her out. Ken, Flynn and Hiccup have already...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://teengame.net/girl-games/ariel-moves-in-with-eric">
+												<img src="http://teengame.net/images/game_avatar/ariel-moves-in-with-eric-icon-1472712159.jpg" alt="Ariel Moves In With Eric" class="showTip el_261" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://teengame.net/girl-games/ariel-moves-in-with-eric">Ariel Moves In With Eric</a>
+										</div>
+									</div>
+																			<div id="el_261" class="tipContent">
+        <h2><a href="http://teengame.net/girl-games/ariel-moves-in-with-eric">Ariel Moves In With Eric</a></h2>
+        <div class="tooltip_content">
+        	<img title="Ariel Moves In With Eric" alt="ariel-moves-in-with-eric" src="http://teengame.net/images/game_avatar/ariel-moves-in-with-eric-icon-1472712159.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Girl
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Ariel, the great mermaid, wants to move in with Prince Eric. She is very happy about this decision, because this is a very important moment in their lives...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://teengame.net/girl-games/bad-kid-babysitter-carnival">
+												<img src="http://teengame.net/images/game_avatar/bad-kids-babysitter-carnival-icon-1470909002.jpg" alt="Bad Kid Babysitter Carnival" class="showTip el_104" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://teengame.net/girl-games/bad-kid-babysitter-carnival">Bad Kid Babysitter Carnival</a>
+										</div>
+									</div>
+																			<div id="el_104" class="tipContent">
+        <h2><a href="http://teengame.net/girl-games/bad-kid-babysitter-carnival">Bad Kid Babysitter Carnival</a></h2>
+        <div class="tooltip_content">
+        	<img title="Bad Kid Babysitter Carnival" alt="bad-kid-babysitter-carnival" src="http://teengame.net/images/game_avatar/bad-kids-babysitter-carnival-icon-1470909002.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Girl
+                                    </strong>
+            	<div>
+            		    					6 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Tink is going on an adventure to the ccarnival with her babysitter Wendy. Help Wendy be a good babysitter to Tink who loves to be bad. Girl games, Bad Kid...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://teengame.net/girl-games/cinderella-tailor-ball-dress">
+												<img src="http://teengame.net/images/game_avatar/cinderella-tailor-ball-dress-icon-1470906170.jpg" alt="Cinderella Tailor Ball Dress" class="showTip el_101" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://teengame.net/girl-games/cinderella-tailor-ball-dress">Cinderella Tailor Ball Dress</a>
+										</div>
+									</div>
+																			<div id="el_101" class="tipContent">
+        <h2><a href="http://teengame.net/girl-games/cinderella-tailor-ball-dress">Cinderella Tailor Ball Dress</a></h2>
+        <div class="tooltip_content">
+        	<img title="Cinderella Tailor Ball Dress" alt="cinderella-tailor-ball-dress" src="http://teengame.net/images/game_avatar/cinderella-tailor-ball-dress-icon-1470906170.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Girl
+                                    </strong>
+            	<div>
+            		    					5 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> The Fairy Godmother has an important task to complete and that is to make Cinderella a ball gown, but the studio is messy. Clean up the room by finding...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://teengame.net/girl-games/elsa-real-dentist">
+												<img src="http://teengame.net/images/game_avatar/elsa-real-dentist-icon-1470906063.jpg" alt="Elsa Real Dentist" class="showTip el_100" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://teengame.net/girl-games/elsa-real-dentist">Elsa Real Dentist</a>
+										</div>
+									</div>
+																			<div id="el_100" class="tipContent">
+        <h2><a href="http://teengame.net/girl-games/elsa-real-dentist">Elsa Real Dentist</a></h2>
+        <div class="tooltip_content">
+        	<img title="Elsa Real Dentist" alt="elsa-real-dentist" src="http://teengame.net/images/game_avatar/elsa-real-dentist-icon-1470906063.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Girl
+                                    </strong>
+            	<div>
+            		    					4 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> The ice queen has a toothache and it`s because she has a cavity, rush to the dentist office and help her out. Do a regular check-up to see which tooth is...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+																	</div>
+													</div>
+					</div>
+				</div>
+												<div class="col-sm-4">
+					<div class="boxmini">
+						<div class="boxmini-title">
+							<h3><a href="http://teengame.net/sport-games">Sport Games</a></h3>
+							<a href="http://teengame.net/sport-games" class="boxmini-seemore">Show all</a>
+						</div>
+						<div class="row">
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://teengame.net/sport-games/speedplay-soccer-4">
+												<img src="http://teengame.net/images/game_avatar/speedplay-soccer-4-icon-1473155426.jpg" alt="Speedplay Soccer 4" class="showTip el_291" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://teengame.net/sport-games/speedplay-soccer-4">Speedplay Soccer 4</a>
+										</div>
+									</div>
+																			<div id="el_291" class="tipContent">
+        <h2><a href="http://teengame.net/sport-games/speedplay-soccer-4">Speedplay Soccer 4</a></h2>
+        <div class="tooltip_content">
+        	<img title="Speedplay Soccer 4" alt="speedplay-soccer-4" src="http://teengame.net/images/game_avatar/speedplay-soccer-4-icon-1473155426.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Sport
+                                    </strong>
+            	<div>
+            		    					1 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> SpeedPlay World Soccer 4 is a great new soccer game. Select your favorite tournament, whether it&#39;s the Euro Cup or the Copa America, and start beating...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://teengame.net/sport-games/bmx-master">
+												<img src="http://teengame.net/images/game_avatar/bmx-master-icon-1472712963.jpg" alt="BMX Master" class="showTip el_264" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://teengame.net/sport-games/bmx-master">BMX Master</a>
+										</div>
+									</div>
+																			<div id="el_264" class="tipContent">
+        <h2><a href="http://teengame.net/sport-games/bmx-master">BMX Master</a></h2>
+        <div class="tooltip_content">
+        	<img title="BMX Master" alt="bmx-master" src="http://teengame.net/images/game_avatar/bmx-master-icon-1472712963.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Sport
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> BMX Master is an addictive bicycle motocross game. Try to perform as many awesome stunts with your BMX as you can and do not plant your face.
+
+How to...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://teengame.net/sport-games/billiard-blitz-3">
+												<img src="http://teengame.net/images/game_avatar/billiard-blitz-3-icon-1471589391.jpg" alt="Billiard Blitz 3" class="showTip el_153" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://teengame.net/sport-games/billiard-blitz-3">Billiard Blitz 3</a>
+										</div>
+									</div>
+																			<div id="el_153" class="tipContent">
+        <h2><a href="http://teengame.net/sport-games/billiard-blitz-3">Billiard Blitz 3</a></h2>
+        <div class="tooltip_content">
+        	<img title="Billiard Blitz 3" alt="billiard-blitz-3" src="http://teengame.net/images/game_avatar/billiard-blitz-3-icon-1471589391.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Sport
+                                    </strong>
+            	<div>
+            		    					1 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> This game was built to be the slickest, most realistic and most engaging Flash pool game available. The game features 3D ball rotation, realistic physics...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://teengame.net/sport-games/upstream-kayak">
+												<img src="http://teengame.net/images/game_avatar/upstream-kayak-icon-1471589277.jpg" alt="Upstream Kayak" class="showTip el_152" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://teengame.net/sport-games/upstream-kayak">Upstream Kayak</a>
+										</div>
+									</div>
+																			<div id="el_152" class="tipContent">
+        <h2><a href="http://teengame.net/sport-games/upstream-kayak">Upstream Kayak</a></h2>
+        <div class="tooltip_content">
+        	<img title="Upstream Kayak" alt="upstream-kayak" src="http://teengame.net/images/game_avatar/upstream-kayak-icon-1471589277.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Sport
+                                    </strong>
+            	<div>
+            		    					1 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Upstream Kayak is a funny kayaking game. Aim of the game is to conquer the river up stream. Can you do it?
+
+How to play
+
+Control your Kayak with the...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://teengame.net/sport-games/football-legends-2016">
+												<img src="http://teengame.net/images/game_avatar/football-legends-2016-icon-1471572770.jpg" alt="Football Legends 2016" class="showTip el_151" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://teengame.net/sport-games/football-legends-2016">Football Legends 2016</a>
+										</div>
+									</div>
+																			<div id="el_151" class="tipContent">
+        <h2><a href="http://teengame.net/sport-games/football-legends-2016">Football Legends 2016</a></h2>
+        <div class="tooltip_content">
+        	<img title="Football Legends 2016" alt="football-legends-2016" src="http://teengame.net/images/game_avatar/football-legends-2016-icon-1471572770.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Sport
+                                    </strong>
+            	<div>
+            		    					3 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> The fabulous Football Legends 2016 are ready to play a game of soccer with you. Choose your desired gods of soccer and make some awesome goals to win the...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://teengame.net/sport-games/basket-balls">
+												<img src="http://teengame.net/images/game_avatar/basketballs-icon-1471572654.jpg" alt="Basket Balls" class="showTip el_150" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://teengame.net/sport-games/basket-balls">Basket Balls</a>
+										</div>
+									</div>
+																			<div id="el_150" class="tipContent">
+        <h2><a href="http://teengame.net/sport-games/basket-balls">Basket Balls</a></h2>
+        <div class="tooltip_content">
+        	<img title="Basket Balls" alt="basket-balls" src="http://teengame.net/images/game_avatar/basketballs-icon-1471572654.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Sport
+                                    </strong>
+            	<div>
+            		    					3 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Basketballs is an addictive sports game made by Turbo Nuke. Throw basketballs into the basket as fast as you can. You need to score in every basket to...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+																	</div>
+													</div>
+					</div>
+				</div>
+												<div class="col-sm-4">
+					<div class="boxmini">
+						<div class="boxmini-title">
+							<h3><a href="http://teengame.net/cooking-games">Cooking Games</a></h3>
+							<a href="http://teengame.net/cooking-games" class="boxmini-seemore">Show all</a>
+						</div>
+						<div class="row">
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://teengame.net/cooking-games/papas-cupcakeria">
+												<img src="http://teengame.net/images/game_avatar/papascupcakeria-icon-1472722521.jpg" alt="Papa's Cupcakeria" class="showTip el_275" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://teengame.net/cooking-games/papas-cupcakeria">Papa's Cupcakeria</a>
+										</div>
+									</div>
+																			<div id="el_275" class="tipContent">
+        <h2><a href="http://teengame.net/cooking-games/papas-cupcakeria">Papa's Cupcakeria</a></h2>
+        <div class="tooltip_content">
+        	<img title="Papa's Cupcakeria" alt="papas-cupcakeria" src="http://teengame.net/images/game_avatar/papascupcakeria-icon-1472722521.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Cooking
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Bake cupcakes in Papa&#39;s Bakery to earn cash! You will begin by training at the restaurant. Learn how to take orders, mix batter, and bake cupcakes....</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://teengame.net/cooking-games/papas-cheeseria">
+												<img src="http://teengame.net/images/game_avatar/papascheeseria-icon-1472722256.jpg" alt="Papa's Cheeseria" class="showTip el_274" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://teengame.net/cooking-games/papas-cheeseria">Papa's Cheeseria</a>
+										</div>
+									</div>
+																			<div id="el_274" class="tipContent">
+        <h2><a href="http://teengame.net/cooking-games/papas-cheeseria">Papa's Cheeseria</a></h2>
+        <div class="tooltip_content">
+        	<img title="Papa's Cheeseria" alt="papas-cheeseria" src="http://teengame.net/images/game_avatar/papascheeseria-icon-1472722256.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Cooking
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Cook gooey, grilled cheese sandwiches for hungry customers! Papa’s Cheeseria puts you back behind the counter, where you will serve made-to-order meals....</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://teengame.net/cooking-games/owl-cake-saras-cooking-class">
+												<img src="http://teengame.net/images/game_avatar/owl-cake-saras-cooking-class-icon-1471662830.jpg" alt="Owl Cake: Sara's Cooking Class" class="showTip el_178" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://teengame.net/cooking-games/owl-cake-saras-cooking-class">Owl Cake: Sara's Cooking Class</a>
+										</div>
+									</div>
+																			<div id="el_178" class="tipContent">
+        <h2><a href="http://teengame.net/cooking-games/owl-cake-saras-cooking-class">Owl Cake: Sara's Cooking Class</a></h2>
+        <div class="tooltip_content">
+        	<img title="Owl Cake: Sara's Cooking Class" alt="owl-cake-saras-cooking-class" src="http://teengame.net/images/game_avatar/owl-cake-saras-cooking-class-icon-1471662830.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Cooking
+                                    </strong>
+            	<div>
+            		    					6 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Have you ever tasted an owl cake? Well, Sara did and right now she will teach you the secret recipe. Play this game and follow properly her steps, to cook...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://teengame.net/cooking-games/chocolate-churros-saras-cooking-class">
+												<img src="http://teengame.net/images/game_avatar/chocolata-churros-saras-cooking-class-icon-1471662658.jpg" alt="Chocolate Churros: Sara's Cooking Class" class="showTip el_177" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://teengame.net/cooking-games/chocolate-churros-saras-cooking-class">Chocolate Churros: Sara's Cooking Class</a>
+										</div>
+									</div>
+																			<div id="el_177" class="tipContent">
+        <h2><a href="http://teengame.net/cooking-games/chocolate-churros-saras-cooking-class">Chocolate Churros: Sara's Cooking Class</a></h2>
+        <div class="tooltip_content">
+        	<img title="Chocolate Churros: Sara's Cooking Class" alt="chocolate-churros-saras-cooking-class" src="http://teengame.net/images/game_avatar/chocolata-churros-saras-cooking-class-icon-1471662658.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Cooking
+                                    </strong>
+            	<div>
+            		    					4 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Yep. A fried doughnuty treat dipped in chocolate sauce. FEED ME!Churros are popular all over the world and people love to dip them in chocolate. Ready to...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://teengame.net/cooking-games/chocolate-pizza-saras-cooking-class">
+												<img src="http://teengame.net/images/game_avatar/chocolate-pizza-sarah-cooking-class-icon-1471662516.jpg" alt="Chocolate Pizza: Sara's Cooking Class" class="showTip el_176" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://teengame.net/cooking-games/chocolate-pizza-saras-cooking-class">Chocolate Pizza: Sara's Cooking Class</a>
+										</div>
+									</div>
+																			<div id="el_176" class="tipContent">
+        <h2><a href="http://teengame.net/cooking-games/chocolate-pizza-saras-cooking-class">Chocolate Pizza: Sara's Cooking Class</a></h2>
+        <div class="tooltip_content">
+        	<img title="Chocolate Pizza: Sara's Cooking Class" alt="chocolate-pizza-saras-cooking-class" src="http://teengame.net/images/game_avatar/chocolate-pizza-sarah-cooking-class-icon-1471662516.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Cooking
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Welcome to Saras Cooking Class. Today she will teach you how to make delicious "Chocolate Pizza". Follow Saras directions to make a delicious Chocolate...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://teengame.net/cooking-games/key-lime-pie-saras-cooking-class">
+												<img src="http://teengame.net/images/game_avatar/key-lime-pie-saras-cooking-class-icon-1471662366.jpg" alt="Key Lime Pie: Sara's Cooking Class" class="showTip el_175" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://teengame.net/cooking-games/key-lime-pie-saras-cooking-class">Key Lime Pie: Sara's Cooking Class</a>
+										</div>
+									</div>
+																			<div id="el_175" class="tipContent">
+        <h2><a href="http://teengame.net/cooking-games/key-lime-pie-saras-cooking-class">Key Lime Pie: Sara's Cooking Class</a></h2>
+        <div class="tooltip_content">
+        	<img title="Key Lime Pie: Sara's Cooking Class" alt="key-lime-pie-saras-cooking-class" src="http://teengame.net/images/game_avatar/key-lime-pie-saras-cooking-class-icon-1471662366.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Cooking
+                                    </strong>
+            	<div>
+            		    					4 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Welcome to Saras Cooking Class. Today she will teach you how to make delicious "Key Lime Pie". Follow Saras directions to make a delicious Key Lime Pie....</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+																	</div>
+													</div>
+					</div>
+				</div>
+												<div class="col-sm-4">
+					<div class="boxmini">
+						<div class="boxmini-title">
+							<h3><a href="http://teengame.net/funny-games">Funny Games</a></h3>
+							<a href="http://teengame.net/funny-games" class="boxmini-seemore">Show all</a>
+						</div>
+						<div class="row">
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://teengame.net/funny-games/judy-hopps-and-nick-wilde-kissing">
+												<img src="http://teengame.net/images/game_avatar/judy_hopps_and_nick_wilde_kissing-icon-1472714936.jpg" alt="Judy Hopps And Nick Wilde Kissing" class="showTip el_269" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://teengame.net/funny-games/judy-hopps-and-nick-wilde-kissing">Judy Hopps And Nick Wilde Kissing</a>
+										</div>
+									</div>
+																			<div id="el_269" class="tipContent">
+        <h2><a href="http://teengame.net/funny-games/judy-hopps-and-nick-wilde-kissing">Judy Hopps And Nick Wilde Kissing</a></h2>
+        <div class="tooltip_content">
+        	<img title="Judy Hopps And Nick Wilde Kissing" alt="judy-hopps-and-nick-wilde-kissing" src="http://teengame.net/images/game_avatar/judy_hopps_and_nick_wilde_kissing-icon-1472714936.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Funny
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Enjoy a new kissing game featuring your characters from Zootopia,Judy Hopps and Nick Wilde.They are living a love story and you can take part to their...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://teengame.net/funny-games/zootopia-investigation-mischief">
+												<img src="http://teengame.net/images/game_avatar/zootopia-investigation-mischief-icon-1472091702.jpg" alt="Zootopia Investigation Mischief" class="showTip el_215" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://teengame.net/funny-games/zootopia-investigation-mischief">Zootopia Investigation Mischief</a>
+										</div>
+									</div>
+																			<div id="el_215" class="tipContent">
+        <h2><a href="http://teengame.net/funny-games/zootopia-investigation-mischief">Zootopia Investigation Mischief</a></h2>
+        <div class="tooltip_content">
+        	<img title="Zootopia Investigation Mischief" alt="zootopia-investigation-mischief" src="http://teengame.net/images/game_avatar/zootopia-investigation-mischief-icon-1472091702.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Funny
+                                    </strong>
+            	<div>
+            		    					1 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Judy and Nick have no time to waste on their investigation of a missing otter, help them run a license plate sneakily at the DMV, before the sloths catch...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://teengame.net/funny-games/my-dear-bosses">
+												<img src="http://teengame.net/images/game_avatar/my-dear-bosses-icon-1472090314.jpg" alt="My Dear Bosses" class="showTip el_214" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://teengame.net/funny-games/my-dear-bosses">My Dear Bosses</a>
+										</div>
+									</div>
+																			<div id="el_214" class="tipContent">
+        <h2><a href="http://teengame.net/funny-games/my-dear-bosses">My Dear Bosses</a></h2>
+        <div class="tooltip_content">
+        	<img title="My Dear Bosses" alt="my-dear-bosses" src="http://teengame.net/images/game_avatar/my-dear-bosses-icon-1472090314.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Funny
+                                    </strong>
+            	<div>
+            		    					3 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> My Dear Bosses is the sequel to the funny distance game, in which you must shoot your boss through the window over the maximal distance. Much fun!
+
+How...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://teengame.net/funny-games/my-dear-boss">
+												<img src="http://teengame.net/images/game_avatar/my-dear-boss-icon-1472089857.jpg" alt="My Dear Boss" class="showTip el_213" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://teengame.net/funny-games/my-dear-boss">My Dear Boss</a>
+										</div>
+									</div>
+																			<div id="el_213" class="tipContent">
+        <h2><a href="http://teengame.net/funny-games/my-dear-boss">My Dear Boss</a></h2>
+        <div class="tooltip_content">
+        	<img title="My Dear Boss" alt="my-dear-boss" src="http://teengame.net/images/game_avatar/my-dear-boss-icon-1472089857.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Funny
+                                    </strong>
+            	<div>
+            		    					3 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> My Dear Boss is a funny distance game presented by agame.com. Do you think you&#39;re a good employee? Think your boss hates you? You&#39;re probably...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://teengame.net/funny-games/naughty-vacation">
+												<img src="http://teengame.net/images/game_avatar/naughty-vacation-icon-1472089709.jpg" alt="Naughty Vacation" class="showTip el_212" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://teengame.net/funny-games/naughty-vacation">Naughty Vacation</a>
+										</div>
+									</div>
+																			<div id="el_212" class="tipContent">
+        <h2><a href="http://teengame.net/funny-games/naughty-vacation">Naughty Vacation</a></h2>
+        <div class="tooltip_content">
+        	<img title="Naughty Vacation" alt="naughty-vacation" src="http://teengame.net/images/game_avatar/naughty-vacation-icon-1472089709.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Funny
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Pull pranks on girls at the airport, beach, pool and the water park. Use wits and hints to trigger funny events. Click on the prankster and embarrass the...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://teengame.net/funny-games/naughty-gym">
+												<img src="http://teengame.net/images/game_avatar/naughty-gym-icon-1472089575.jpg" alt="Naughty Gym" class="showTip el_211" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://teengame.net/funny-games/naughty-gym">Naughty Gym</a>
+										</div>
+									</div>
+																			<div id="el_211" class="tipContent">
+        <h2><a href="http://teengame.net/funny-games/naughty-gym">Naughty Gym</a></h2>
+        <div class="tooltip_content">
+        	<img title="Naughty Gym" alt="naughty-gym" src="http://teengame.net/images/game_avatar/naughty-gym-icon-1472089575.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Funny
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p>Play this online naughty game and get ready for a naughty work out!
+
+How to play
+
+Use your mouse to play
 </p>
             </div>
             <div class="clearfix"></div>
@@ -457,38 +5253,37 @@
 												<div class="col-sm-4">
 					<div class="boxmini">
 						<div class="boxmini-title">
-							<h3><a href="http://localhost:8000/girl-games">Girl Games</a></h3>
-							<a href="http://localhost:8000/girl-games" class="boxmini-seemore">Show all</a>
+							<h3><a href="http://teengame.net/fashion-games">Fashion Games</a></h3>
+							<a href="http://teengame.net/fashion-games" class="boxmini-seemore">Show all</a>
 						</div>
 						<div class="row">
 																							<div class="col-xs-4">
 									<div class="item">
 									    <div class="item-image">
-											<a href="http://localhost:8000/girl-games/duoi-hinh-bat-chu">
-												<img src="http://localhost:8000/images/game_avatar/____by_ajkabajka-d8kvjcf-1470384071.jpg" alt="duoi hinh bat chu" class="showTip el_7" />
+											<a href="http://teengame.net/fashion-games/red-riding-hood-and-snow-white-hollywood-divas">
+												<img src="http://teengame.net/images/game_avatar/red-riding-hood-and-snow-white-hollywood-divas-icon-1472722687.jpg" alt="Red Riding Hood And Snow White Hollywood Divas" class="showTip el_276" />
 											</a>
 									    </div>
 									    <div class="item-title">
-											<a href="http://localhost:8000/girl-games/duoi-hinh-bat-chu">duoi hinh bat chu</a>
+											<a href="http://teengame.net/fashion-games/red-riding-hood-and-snow-white-hollywood-divas">Red Riding Hood And Snow White Hollywood Divas</a>
 										</div>
 									</div>
-																			<div id="el_7" class="tipContent">
-        <h2><a href="http://localhost:8000/girl-games/duoi-hinh-bat-chu">duoi hinh bat chu</a></h2>
+																			<div id="el_276" class="tipContent">
+        <h2><a href="http://teengame.net/fashion-games/red-riding-hood-and-snow-white-hollywood-divas">Red Riding Hood And Snow White Hollywood Divas</a></h2>
         <div class="tooltip_content">
-        	<img title="duoi hinh bat chu" alt="duoi-hinh-bat-chu" src="http://localhost:8000/images/game_avatar/____by_ajkabajka-d8kvjcf-1470384071.jpg" />
+        	<img title="Red Riding Hood And Snow White Hollywood Divas" alt="red-riding-hood-and-snow-white-hollywood-divas" src="http://teengame.net/images/game_avatar/red-riding-hood-and-snow-white-hollywood-divas-icon-1472722687.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Girl
+                                            Fashion
                                     </strong>
             	<div>
             		    					2 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:80%"></div>
+        <div class="rate-bg" style="width:0%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p>ádf
-</p>
+            	<p> We would like you girls to join us today within all these interesting and cute categories, because we have uploaded nothing but the most exciting and fun...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -497,31 +5292,564 @@
 																							<div class="col-xs-4">
 									<div class="item">
 									    <div class="item-image">
-											<a href="http://localhost:8000/girl-games/2048">
-												<img src="http://localhost:8000/images/game_avatar/____by_ajkabajka-d8kvjcf-1470379089.jpg" alt="2048" class="showTip el_6" />
+											<a href="http://teengame.net/fashion-games/barbie-dates-a-celebrity">
+												<img src="http://teengame.net/images/game_avatar/barbie-dates-a-celebrity-icon-1472712619.jpg" alt="Barbie Dates a Celebrity" class="showTip el_263" />
 											</a>
 									    </div>
 									    <div class="item-title">
-											<a href="http://localhost:8000/girl-games/2048">2048</a>
+											<a href="http://teengame.net/fashion-games/barbie-dates-a-celebrity">Barbie Dates a Celebrity</a>
 										</div>
 									</div>
-																			<div id="el_6" class="tipContent">
-        <h2><a href="http://localhost:8000/girl-games/2048">2048</a></h2>
+																			<div id="el_263" class="tipContent">
+        <h2><a href="http://teengame.net/fashion-games/barbie-dates-a-celebrity">Barbie Dates a Celebrity</a></h2>
         <div class="tooltip_content">
-        	<img title="2048" alt="2048" src="http://localhost:8000/images/game_avatar/____by_ajkabajka-d8kvjcf-1470379089.jpg" />
+        	<img title="Barbie Dates a Celebrity" alt="barbie-dates-a-celebrity" src="http://teengame.net/images/game_avatar/barbie-dates-a-celebrity-icon-1472712619.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Girl
+                                            Fashion
                                     </strong>
             	<div>
-            		    					10 plays
+            		    					2 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:100%"></div>
+        <div class="rate-bg" style="width:0%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p>ádf
-</p>
+            	<p> Barbie is single. She wants to go on a date with a great guy. On her social media page she has three different messages from three amazing guys. They are...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://teengame.net/fashion-games/barbies-villian-makeover">
+												<img src="http://teengame.net/images/game_avatar/barbies-villain-makeover-icon-1472271509.jpg" alt="Barbie's Villian Makeover" class="showTip el_259" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://teengame.net/fashion-games/barbies-villian-makeover">Barbie's Villian Makeover</a>
+										</div>
+									</div>
+																			<div id="el_259" class="tipContent">
+        <h2><a href="http://teengame.net/fashion-games/barbies-villian-makeover">Barbie's Villian Makeover</a></h2>
+        <div class="tooltip_content">
+        	<img title="Barbie's Villian Makeover" alt="barbies-villian-makeover" src="http://teengame.net/images/game_avatar/barbies-villain-makeover-icon-1472271509.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Fashion
+                                    </strong>
+            	<div>
+            		    					3 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Barbie loves all things Disney and lately she began to be interested in the mysterious and interesting Disney villains. She always loves a challenge and...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://teengame.net/fashion-games/lucy-hale-round-the-clock-fashionista">
+												<img src="http://teengame.net/images/game_avatar/lucy-hale-round-the-clock-fashionista-icon-1472270744.jpg" alt="Lucy Hale Round the Clock Fashionista" class="showTip el_258" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://teengame.net/fashion-games/lucy-hale-round-the-clock-fashionista">Lucy Hale Round the Clock Fashionista</a>
+										</div>
+									</div>
+																			<div id="el_258" class="tipContent">
+        <h2><a href="http://teengame.net/fashion-games/lucy-hale-round-the-clock-fashionista">Lucy Hale Round the Clock Fashionista</a></h2>
+        <div class="tooltip_content">
+        	<img title="Lucy Hale Round the Clock Fashionista" alt="lucy-hale-round-the-clock-fashionista" src="http://teengame.net/images/game_avatar/lucy-hale-round-the-clock-fashionista-icon-1472270744.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Fashion
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Pretty Little Liars actress Lucy Hale is looking at a very busy day ahead! First up is lunch with her PPL co-stars. Then in the afternoon there is a...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://teengame.net/fashion-games/tris-date-night-dressup">
+												<img src="http://teengame.net/images/game_avatar/tris-date-night-dress-up-icon-1472270489.jpg" alt="Tris Date Night Dressup" class="showTip el_257" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://teengame.net/fashion-games/tris-date-night-dressup">Tris Date Night Dressup</a>
+										</div>
+									</div>
+																			<div id="el_257" class="tipContent">
+        <h2><a href="http://teengame.net/fashion-games/tris-date-night-dressup">Tris Date Night Dressup</a></h2>
+        <div class="tooltip_content">
+        	<img title="Tris Date Night Dressup" alt="tris-date-night-dressup" src="http://teengame.net/images/game_avatar/tris-date-night-dress-up-icon-1472270489.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Fashion
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Tris is going out on a date tonight. What should she wear to impress her boyfriend? Open up the secret boxes to find the most stylish clothes ever,...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://teengame.net/fashion-games/winter-friends">
+												<img src="http://teengame.net/images/game_avatar/winter_friends-icon-1472270359.jpg" alt="Winter Friends" class="showTip el_256" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://teengame.net/fashion-games/winter-friends">Winter Friends</a>
+										</div>
+									</div>
+																			<div id="el_256" class="tipContent">
+        <h2><a href="http://teengame.net/fashion-games/winter-friends">Winter Friends</a></h2>
+        <div class="tooltip_content">
+        	<img title="Winter Friends" alt="winter-friends" src="http://teengame.net/images/game_avatar/winter_friends-icon-1472270359.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Fashion
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> I think it will be a lovely winter day and the four friends are going out for a walk in the snow. Get them all dressed up, or any of the four if you like,...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+																	</div>
+													</div>
+					</div>
+				</div>
+												<div class="col-sm-4">
+					<div class="boxmini">
+						<div class="boxmini-title">
+							<h3><a href="http://teengame.net/strategy-games">Strategy Games</a></h3>
+							<a href="http://teengame.net/strategy-games" class="boxmini-seemore">Show all</a>
+						</div>
+						<div class="row">
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://teengame.net/strategy-games/swords-and-souls">
+												<img src="http://teengame.net/images/game_avatar/swords-and-souls-icon-1472723720.jpg" alt="Swords And Souls" class="showTip el_280" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://teengame.net/strategy-games/swords-and-souls">Swords And Souls</a>
+										</div>
+									</div>
+																			<div id="el_280" class="tipContent">
+        <h2><a href="http://teengame.net/strategy-games/swords-and-souls">Swords And Souls</a></h2>
+        <div class="tooltip_content">
+        	<img title="Swords And Souls" alt="swords-and-souls" src="http://teengame.net/images/game_avatar/swords-and-souls-icon-1472723720.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Strategy
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Welcome to Soul Town! Design your Soul, train him and step into the Arena! Unlock new skills, buy new equipment and make your way to the top in this...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://teengame.net/strategy-games/juicy-bazooka">
+												<img src="http://teengame.net/images/game_avatar/juicy-bazooka-icon-1472721527.jpg" alt="Juicy Bazooka" class="showTip el_270" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://teengame.net/strategy-games/juicy-bazooka">Juicy Bazooka</a>
+										</div>
+									</div>
+																			<div id="el_270" class="tipContent">
+        <h2><a href="http://teengame.net/strategy-games/juicy-bazooka">Juicy Bazooka</a></h2>
+        <div class="tooltip_content">
+        	<img title="Juicy Bazooka" alt="juicy-bazooka" src="http://teengame.net/images/game_avatar/juicy-bazooka-icon-1472721527.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Strategy
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> This rugged-looking guy with three-day stubble needs your help to get rid of baddies as vengeance for stealing his food in Juicy Bazooka, a fun shooting...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://teengame.net/strategy-games/cursed-treasure-2">
+												<img src="http://teengame.net/images/game_avatar/cursed-treasure-2-icon-1472119553.jpg" alt="Cursed Treasure 2" class="showTip el_237" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://teengame.net/strategy-games/cursed-treasure-2">Cursed Treasure 2</a>
+										</div>
+									</div>
+																			<div id="el_237" class="tipContent">
+        <h2><a href="http://teengame.net/strategy-games/cursed-treasure-2">Cursed Treasure 2</a></h2>
+        <div class="tooltip_content">
+        	<img title="Cursed Treasure 2" alt="cursed-treasure-2" src="http://teengame.net/images/game_avatar/cursed-treasure-2-icon-1472119553.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Strategy
+                                    </strong>
+            	<div>
+            		    					3 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Cursed Treasure 2 is here. They are coming! And you say: Hey! Heroes! Leave my gems alone! Or you are damned! Certainly you will need some more power to...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://teengame.net/strategy-games/incursion-2-the-artifact">
+												<img src="http://teengame.net/images/game_avatar/incursion-2-the-artifact-icon-1472119487.jpg" alt="Incursion 2: The Artifact" class="showTip el_236" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://teengame.net/strategy-games/incursion-2-the-artifact">Incursion 2: The Artifact</a>
+										</div>
+									</div>
+																			<div id="el_236" class="tipContent">
+        <h2><a href="http://teengame.net/strategy-games/incursion-2-the-artifact">Incursion 2: The Artifact</a></h2>
+        <div class="tooltip_content">
+        	<img title="Incursion 2: The Artifact" alt="incursion-2-the-artifact" src="http://teengame.net/images/game_avatar/incursion-2-the-artifact-icon-1472119487.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Strategy
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Protect the kingdom from dark forces in Incursion 2 The Artefact. Create an army and place your troops along the path to stop all incomming waves. Good...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://teengame.net/strategy-games/age-of-war-2">
+												<img src="http://teengame.net/images/game_avatar/age-of-war-2-icon-1472119408.jpg" alt="Age Of War 2" class="showTip el_235" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://teengame.net/strategy-games/age-of-war-2">Age Of War 2</a>
+										</div>
+									</div>
+																			<div id="el_235" class="tipContent">
+        <h2><a href="http://teengame.net/strategy-games/age-of-war-2">Age Of War 2</a></h2>
+        <div class="tooltip_content">
+        	<img title="Age Of War 2" alt="age-of-war-2" src="http://teengame.net/images/game_avatar/age-of-war-2-icon-1472119408.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Strategy
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Age of War 2 is a strategic defense game. Aim of the game is to destroy the enemy base while defending your own. Build turrets to defend your base and...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://teengame.net/strategy-games/tech-and-magic">
+												<img src="http://teengame.net/images/game_avatar/tech-and-magic-icon-1472119333.jpg" alt="Tech And Magic" class="showTip el_234" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://teengame.net/strategy-games/tech-and-magic">Tech And Magic</a>
+										</div>
+									</div>
+																			<div id="el_234" class="tipContent">
+        <h2><a href="http://teengame.net/strategy-games/tech-and-magic">Tech And Magic</a></h2>
+        <div class="tooltip_content">
+        	<img title="Tech And Magic" alt="tech-and-magic" src="http://teengame.net/images/game_avatar/tech-and-magic-icon-1472119333.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Strategy
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> In this fun strategy game you have to fight against waves of attacking robots. Use your wand to blast all enemies away before they destroy your squat....</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+																	</div>
+													</div>
+					</div>
+				</div>
+												<div class="col-sm-4">
+					<div class="boxmini">
+						<div class="boxmini-title">
+							<h3><a href="http://teengame.net/puzzle-games">Puzzle Games</a></h3>
+							<a href="http://teengame.net/puzzle-games" class="boxmini-seemore">Show all</a>
+						</div>
+						<div class="row">
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://teengame.net/puzzle-games/fractured-4">
+												<img src="http://teengame.net/images/game_avatar/fractured-4-icon-1473156019.jpg" alt="Fractured 4" class="showTip el_295" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://teengame.net/puzzle-games/fractured-4">Fractured 4</a>
+										</div>
+									</div>
+																			<div id="el_295" class="tipContent">
+        <h2><a href="http://teengame.net/puzzle-games/fractured-4">Fractured 4</a></h2>
+        <div class="tooltip_content">
+        	<img title="Fractured 4" alt="fractured-4" src="http://teengame.net/images/game_avatar/fractured-4-icon-1473156019.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Puzzle
+                                    </strong>
+            	<div>
+            		    					1 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Help these two children who are caught up in the strange world of Fractured 4. Solve puzzles and pilot both through shattered pieces to bring them...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://teengame.net/puzzle-games/fractured-3">
+												<img src="http://teengame.net/images/game_avatar/fractured-3-icon-1473155936.jpg" alt="Fractured 3" class="showTip el_294" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://teengame.net/puzzle-games/fractured-3">Fractured 3</a>
+										</div>
+									</div>
+																			<div id="el_294" class="tipContent">
+        <h2><a href="http://teengame.net/puzzle-games/fractured-3">Fractured 3</a></h2>
+        <div class="tooltip_content">
+        	<img title="Fractured 3" alt="fractured-3" src="http://teengame.net/images/game_avatar/fractured-3-icon-1473155936.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Puzzle
+                                    </strong>
+            	<div>
+            		    					1 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Put together the single pieces in the third episode of the mysterious puzzle platform game, Fractured 3. Your objective is to help a little girl and boy...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://teengame.net/puzzle-games/fractured-2">
+												<img src="http://teengame.net/images/game_avatar/fractured-2-icon-1473155769.jpg" alt="Fractured 2" class="showTip el_293" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://teengame.net/puzzle-games/fractured-2">Fractured 2</a>
+										</div>
+									</div>
+																			<div id="el_293" class="tipContent">
+        <h2><a href="http://teengame.net/puzzle-games/fractured-2">Fractured 2</a></h2>
+        <div class="tooltip_content">
+        	<img title="Fractured 2" alt="fractured-2" src="http://teengame.net/images/game_avatar/fractured-2-icon-1473155769.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Puzzle
+                                    </strong>
+            	<div>
+            		    					1 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Follow the story of a sad little girl who lost her daddy and couldn&#39;t process it. Like in the first sequel of the addicting puzzle platform game it is...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://teengame.net/puzzle-games/fractured">
+												<img src="http://teengame.net/images/game_avatar/fractured-icon-1473155635.jpg" alt="Fractured" class="showTip el_292" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://teengame.net/puzzle-games/fractured">Fractured</a>
+										</div>
+									</div>
+																			<div id="el_292" class="tipContent">
+        <h2><a href="http://teengame.net/puzzle-games/fractured">Fractured</a></h2>
+        <div class="tooltip_content">
+        	<img title="Fractured" alt="fractured" src="http://teengame.net/images/game_avatar/fractured-icon-1473155635.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Puzzle
+                                    </strong>
+            	<div>
+            		    					2 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> In this mystical platform game the mother is separate from her son. Figure out how to move the child through all fragments and get him to his mommy. When...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://teengame.net/puzzle-games/snail-bob-8-island-story">
+												<img src="http://teengame.net/images/game_avatar/snail-bob-8-icon-1473069096.jpg" alt="Snail Bob 8 Island Story" class="showTip el_290" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://teengame.net/puzzle-games/snail-bob-8-island-story">Snail Bob 8 Island Story</a>
+										</div>
+									</div>
+																			<div id="el_290" class="tipContent">
+        <h2><a href="http://teengame.net/puzzle-games/snail-bob-8-island-story">Snail Bob 8 Island Story</a></h2>
+        <div class="tooltip_content">
+        	<img title="Snail Bob 8 Island Story" alt="snail-bob-8-island-story" src="http://teengame.net/images/game_avatar/snail-bob-8-icon-1473069096.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Puzzle
+                                    </strong>
+            	<div>
+            		    					1 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Snail Bob 8: Island Story is another physics-based puzzle game with the lazy sluggard Bob. Help Bob the Snail back home from the island full of puzzles...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://teengame.net/puzzle-games/snail-bob-7-fantasy-story">
+												<img src="http://teengame.net/images/game_avatar/snail-bob-7-icon-1473068842.jpg" alt="Snail Bob 7 Fantasy Story" class="showTip el_289" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://teengame.net/puzzle-games/snail-bob-7-fantasy-story">Snail Bob 7 Fantasy Story</a>
+										</div>
+									</div>
+																			<div id="el_289" class="tipContent">
+        <h2><a href="http://teengame.net/puzzle-games/snail-bob-7-fantasy-story">Snail Bob 7 Fantasy Story</a></h2>
+        <div class="tooltip_content">
+        	<img title="Snail Bob 7 Fantasy Story" alt="snail-bob-7-fantasy-story" src="http://teengame.net/images/game_avatar/snail-bob-7-icon-1473068842.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Puzzle
+                                    </strong>
+            	<div>
+            		    					1 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Snail Bob returns with a new fantasy story. Help the cute slug to overcome all adventures by pointing and clicking on interactive spots. Much fun!
+
+How...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -533,9 +5861,9 @@
 						</div>
 </div>
 
-<script src="http://localhost:8000/assets/js/swiper.min.js"></script>
+<script src="http://teengame.net/assets/js/swiper.min.js"></script>
 
-<link media="all" type="text/css" rel="stylesheet" href="http://localhost:8000/assets/css/swiper.min.css">
+<link media="all" type="text/css" rel="stylesheet" href="http://teengame.net/assets/css/swiper.min.css">
 
 <style rel="stylesheet" type="text/css" media="all">
 	.boxgame-pagination {
@@ -617,9 +5945,9 @@
 </div>
 <div class="footer">
 	<ul>
-	  <li><a href="http://localhost:8000" >Home</a></li>
-	  <li><a href="http://localhost:8000/feedback" >Feedback</a></li>
-	  <li><a href="http://localhost:8000/policy" >Policy</a></li>
+	  <li><a href="http://teengame.net" >Home</a></li>
+	  <li><a href="http://teengame.net/feedback" >Feedback</a></li>
+	  <li><a href="http://teengame.net/policy" >Policy</a></li>
 	</ul>
 	<div class="copyright">
 	  	<p>Copyright 2016 by Teengame.net</p>
@@ -631,9 +5959,7 @@
 
 	  	<div class="glass"></div>
 
-					<meta name="resource-type" content="Document" /> 
-			<meta name="generator" content="choinhanh.vn" />
-			<meta name="copyright" content="Công ty Cổ phần ABC" />
+					
 		
 		<div id="fb-root"></div>
 		<script>(function(d, s, id) {

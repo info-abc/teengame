@@ -55,9 +55,9 @@ return array(
 		'mysql' => array(
 			'driver'    => 'mysql',
 			'host'      => 'localhost',
-			'database'  => 'testchoinhanh',
-			'username'  => 'root',
-			'password'  => '', //@bcc0m@555
+			'database'  => 'u834979085_mgame',
+			'username'  => 'u834979085_mgame',
+			'password'  => 'mgameabc',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',
