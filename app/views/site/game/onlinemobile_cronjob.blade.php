@@ -4,12 +4,13 @@
 	} else {
 		$gameUrl = null;
 	}
+	$seoMeta = CommonSite::getMetaSeo('Game', $game->id);
 ?>
-@extends('site.layout.default_mobile', array('seoMeta' => CommonSite::getMetaSeo('Game', $game->id), 'seoImage' => FOLDER_SEO_GAME . '/' . $game->id, 'gameUrl' => $gameUrl))
+@extends('site.layout.default_mobile', array('seoMeta' => $seoMeta, 'seoImage' => FOLDER_SEO_GAME . '/' . $game->id, 'gameUrl' => $gameUrl))
 
 @section('title')
-	@if($title = CommonSite::getMetaSeo('Game', $game->id)->title_site)
-		{{ $title= $title }}
+	@if(isset($seoMeta))
+		{{ $title = $seoMeta->title_site }}
 	@else
 		{{ $title = $game->name }}
 	@endif

@@ -1,8 +1,11 @@
-@extends('site.layout.default_pc', array('seoMeta' => CommonSite::getMetaSeo('Game', $game->id), 'seoImage' => FOLDER_SEO_GAME . '/' . $game->id, 'gameUrl' => CommonGame::getUrlGame($game)))
+<?php 
+	$seoMeta = CommonSite::getMetaSeo('Game', $game->id);
+?>
+@extends('site.layout.default_pc', array('seoMeta' => $seoMeta, 'seoImage' => FOLDER_SEO_GAME . '/' . $game->id, 'gameUrl' => CommonGame::getUrlGame($game)))
 
 @section('title')
-	@if($title = CommonSite::getMetaSeo('Game', $game->id)->title_site)
-		{{ $title= $title }}
+	@if(isset($seoMeta))
+		{{ $title = $seoMeta->title_site }}
 	@else
 		{{ $title = $game->name }}
 	@endif

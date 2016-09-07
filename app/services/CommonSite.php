@@ -170,8 +170,13 @@ class CommonSite
                         $isTypeMain = null;
                     }
                 } else {
-                    $type = null;
-                    $isTypeMain = null;
+                    if(isset($typeByTypeMain)) {
+                        $type = $typeByTypeMain;
+                        $isTypeMain = null;
+                    } else {
+                        $type = null;
+                        $isTypeMain = null;    
+                    }
                 }
             } else {
                 $type = null;
@@ -258,7 +263,7 @@ class CommonSite
     public static function getSlugTypeByUrl()
     {
         $segment1 = Request::segment(1);
-        $slugType = substr($segment1, 5);
+        $slugType = substr($segment1, 0, -6);
         return $slugType;
     }
 
