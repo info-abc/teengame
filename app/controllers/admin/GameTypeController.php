@@ -112,7 +112,7 @@ class GameTypeController extends AdminController {
         	$type = Type::find($id);
         	//SEO cant update
         	if(!Admin::isSeo()) {
-				$inputCategory = Input::only('name');
+				$inputCategory = Input::only('name', 'status');
 				CommonNormal::update($id,$inputCategory);
 				$input['image_url'] = CommonSeo::uploadImage($id, UPLOADIMG, 'image_url', UPLOAD_GAME_TYPE, $type->image_url);
 				CommonNormal::update($id, ['image_url' => $input['image_url']] );
@@ -164,9 +164,15 @@ class GameTypeController extends AdminController {
 		$viewPath = app_path().'/views/site/htmlpage';
 		$html = View::make('site.game.type_mobile')->with(compact('type'))->render();
     	$filePath = $viewPath.'/'.'typeGame_game-'.$type->slug.'_mobile.blade.php';
+    	if(file_exists($filePath)) {
+    		@chmod($filePath, 0777);
+    	}
     	file_put_contents($filePath, $html);
     	$html = View::make('site.game.type_pc')->with(compact('type'))->render();
     	$filePath = $viewPath.'/'.'typeGame_game-'.$type->slug.'_pc.blade.php';
+    	if(file_exists($filePath)) {
+    		@chmod($filePath, 0777);
+    	}
     	file_put_contents($filePath, $html);
 
     	// trang chu
@@ -179,12 +185,10 @@ class GameTypeController extends AdminController {
 		$viewPath = app_path().'/views/site/htmlpage';
 
     	$html = View::make($viewMobile)->render();
-    	// $filePath = public_path().FOLDER_HTML_CODE.'/index_mobile.php';
     	$filePath = $viewPath.'/'.$fileMobile;
     	file_put_contents($filePath, $html);
 
     	$html = View::make($viewPc)->render();
-    	// $filePath = public_path().FOLDER_HTML_CODE.'/index_pc.php';
     	$filePath = $viewPath.'/'.$filePc;
     	file_put_contents($filePath, $html);
 	}

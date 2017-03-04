@@ -32,6 +32,7 @@
 			  <th>Tổng số view</th>
 			  <th>Tổng số play</th>
 			  <th>Tổng số download</th>
+			  <th>Trạng thái</th>
 			  <th>Trạng thái Seo</th>
 			  <th style="width:200px;">&nbsp;</th>
 			</tr>
@@ -39,10 +40,11 @@
 				<tr>
 				  <td>{{ $value->id }}</td>
 				  <td>{{ $value->name }}</td>
-				  <td>{{ CommonSearch::searchTypeGame(null,1,$value->id,'count_game') }}</td>
-				  <td>{{ CommonSearch::searchTypeGame(null,1,$value->id,'count_view') }}</td>
-				  <td>{{ CommonSearch::searchTypeGame(null,1,$value->id,'count_play') }}</td>
-				  <td>{{ CommonSearch::searchTypeGame(null,1,$value->id,'count_download') }}</td>
+				  <td>{{ CommonSearch::searchTypeGame(null,1,1,$value->id,'count_game') }}</td>
+				  <td>{{ CommonSearch::searchTypeGame(null,1,1,$value->id,'count_view') }}</td>
+				  <td>{{ CommonSearch::searchTypeGame(null,1,1,$value->id,'count_play') }}</td>
+				  <td>{{ CommonSearch::searchTypeGame(null,1,1,$value->id,'count_download') }}</td>
+				  <td>{{ getStatusGame($value->status) }}</td>
 				  <td>{{ getStatusSeoParent($value, 'Type') }}</td>
 				  <td>
 				  	{{-- <a href="#" class="btn btn-success">Xem</a> --}}

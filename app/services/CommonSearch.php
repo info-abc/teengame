@@ -183,7 +183,7 @@ class CommonSearch
 		return $data;
 	}
 	//backend search type game
-	public static function searchTypeGame($input=null, $count=0, $typeId=null, $field=null) {
+	public static function searchTypeGame($input=null, $isStatus = 1, $count=0, $typeId=null, $field=null) {
 		$data  = DB::table('types');
 		if($count!=0) {
 			$data = $data->join('game_types', 'types.id', '=', 'game_types.type_id') 
@@ -203,6 +203,9 @@ class CommonSearch
 			}
 		} else {
 			$data = $data->whereNull('types.deleted_at');
+		}
+		if($isStatus == 2) {
+			$data = $data->where('types.status', ENABLED);
 		}
 		if($input['type_id'] != '')
 		{

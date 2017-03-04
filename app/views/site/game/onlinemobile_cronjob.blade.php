@@ -41,8 +41,8 @@
 	  	<div class="col-xs-12">
 
 	  		@if($game->parent_id != GAMEFLASH)
-	  			<div class="btn-block-center">
-					<a onclick="countplay()" class="download"><i class="fa fa-play-circle-o"></i> Play now</a>
+				<div class="btn-block-center">
+					<a onclick="countplay({{ $game->id }},'{{ CommonGame::getLinkPlayGameHtml5($game, $gameUrl, 1) }}')" class="download"><i class="fa fa-play-circle-o"></i> Play now</a>
 				</div>
 			@else
 				<div class="btn-block-center">
@@ -59,8 +59,8 @@
 			@include('site.common.ads', array('adPosition' => POSITION_MOBILE_PLAYBUTTON2))
 
 			@if($game->parent_id != GAMEFLASH)
-	  			<div class="btn-block-center">
-					<a onclick="countplay()" class="download"><i class="fa fa-play-circle-o"></i> Play now</a>
+				<div class="btn-block-center">
+					<a onclick="countplay({{ $game->id }},'{{ CommonGame::getLinkPlayGameHtml5($game, $gameUrl, 1) }}')" class="download"><i class="fa fa-play-circle-o"></i> Play now</a>
 				</div>
 			@else
 				<div class="btn-block-center">
@@ -71,7 +71,7 @@
 			{{-- @include('site.game.scriptcountplay', array('id' => $game->id, 'url' => Request::url() . '?play=true')) --}}
 
 			@if($game->parent_id != GAMEFLASH)
-				@include('site.game.scriptcountplay', array('id' => $game->id, 'url' => CommonGame::getLinkPlayGameHtml5($game, $gameUrl, 1)))
+				<script src="{{ url('assets/js/scriptcountplay.js') }}"></script>
 			@endif
 
 			@include('site.game.vote', array('id' => $game->id))

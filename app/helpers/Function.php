@@ -418,7 +418,7 @@ function selectArrange()
 		);
 }
 
-function getArrange($arrange)
+function getArrange($arrange=0)
 {
 	$arrangeArray = array(
 			HOT => 'count_play',
@@ -428,6 +428,7 @@ function getArrange($arrange)
 			GAME_DOWNLOAD => 'count_download',
 			GAME_NEWEST => 'start_date',
 			'' => 'id',
+			'0' => 'id',
 		);
 	return $arrangeArray[$arrange];
 }

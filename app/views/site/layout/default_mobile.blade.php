@@ -19,7 +19,7 @@
 
 				<div class="main">
 
-					@include('site.common.menu_cronjob')
+					<?php echo '@include("site.common.menu")'; ?>
 					@include('site.common.topbar_mobile')
 					@include('site.common.navbar_mobile')
 					
@@ -38,9 +38,15 @@
 
 	  	<div class="glass"></div>
 
-		@if($script = AdminSeo::where('model_name', SEO_SCRIPT)->first())
-			{{ $script->footer_script }}
-		@endif
+	  	<div class="container">
+			<div class="row">
+				<div class="col-xs-12 center">
+					@if($script = AdminSeo::where('model_name', SEO_SCRIPT)->first())
+						{{ $script->footer_script }}
+					@endif
+				</div>
+			</div>
+		</div>
 
 		<div id="fb-root"></div>
 		<script>(function(d, s, id) {

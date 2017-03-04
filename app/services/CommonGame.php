@@ -859,7 +859,11 @@ class CommonGame
 				->where('status', ENABLED)
 				->where('start_date', '<=', $now);
 			if($view != 'android') {
-				$games = $games->whereIn('parent_id', [GAMEFLASH, GAMEHTML5]);
+				if($device == MOBILE) {
+					$games = $games->whereIn('parent_id', [GAMEHTML5]);
+				} else {
+					$games = $games->whereIn('parent_id', [GAMEFLASH, GAMEHTML5]);
+				}
 			}
 				// ->where('parent_id', GAMEHTML5)
 				// ->orWhere(function($games)
@@ -878,7 +882,11 @@ class CommonGame
 		}
 		//to do: vote, play for gamehtml5 only
 		if($view == 'vote' || $view == 'play') {
-			$games = $games->whereIn('parent_id', [GAMEFLASH, GAMEHTML5]);
+			if($device == MOBILE) {
+				$games = $games->whereIn('parent_id', [GAMEHTML5]);
+			} else {
+				$games = $games->whereIn('parent_id', [GAMEFLASH, GAMEHTML5]);
+			}
 		}
 		return $games;
 	}
@@ -962,7 +970,7 @@ class CommonGame
 	            $result = Cache::get('getBoxMiniGame');
 	        } else {
 	        	$result = array();
-				$types = Type::all();
+				$types = Type::where('status', ENABLED)->get();
 				if($types) {
 					foreach($types as $key => $value) {
 						$games = self::getGameByType($value->id);
@@ -978,7 +986,7 @@ class CommonGame
 	        }
 		} else {
 			$result = array();
-			$types = Type::all();
+			$types = Type::where('status', ENABLED)->get();
 			if($types) {
 				foreach($types as $key => $value) {
 					$games = self::getGameByType($value->id, $noCache, $device);
@@ -1019,12 +1027,18 @@ class CommonGame
 		if($device == MOBILE) {
 			$games = $games->where('games.parent_id', '!=', GAMEFLASH)
 				->whereIn('game_tags.tag_id', $tags)
-				->orderBy(DB::raw('RAND()'))
+				->orderBy('games.count_play', 'desc')
+				->orderBy('games.count_view', 'desc')
+				->orderBy('games.count_download', 'desc')
+				->orderBy('games.count_vote', 'desc')
 				->take($limit)
 				->get();
 		} else {
 			$games = $games->whereIn('game_tags.tag_id', $tags)
-				->orderBy(DB::raw('RAND()'))
+				->orderBy('games.count_play', 'desc')
+				->orderBy('games.count_view', 'desc')
+				->orderBy('games.count_download', 'desc')
+				->orderBy('games.count_vote', 'desc')
 				->take($limit)
 				->get();
 		}
@@ -1044,7 +1058,10 @@ class CommonGame
 					->where('start_date', '<=', $now)
 					->where('games.id', '!=', $game->id)
 					->where('type_main', $game->type_main)
-		    		->orderBy('start_date', 'desc')
+		    		->orderBy('count_play', 'desc')
+		    		->orderBy('count_view', 'desc')
+		    		->orderBy('count_download', 'desc')
+		    		->orderBy('count_vote', 'desc')
 		    		->take($dataListLimit)
 		    		->get();
 			} else {
@@ -1053,7 +1070,10 @@ class CommonGame
 					->where('games.id', '!=', $game->id)
 					->where('type_main', $game->type_main)
 					// ->whereNotIn('id', $games->lists('games.id'))
-		    		->orderBy('start_date', 'desc')
+		    		->orderBy('count_play', 'desc')
+		    		->orderBy('count_view', 'desc')
+		    		->orderBy('count_download', 'desc')
+		    		->orderBy('count_vote', 'desc')
 		    		->take($dataListLimit)
 		    		->get();
 			}

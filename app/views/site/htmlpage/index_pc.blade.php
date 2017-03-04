@@ -7,7 +7,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta property="fb:app_id" content="1008308405878197"/>
 	<meta property="fb:admins" content="1088553914497350"/>
-	<title>			teengame.net
+	<title>			Chơi game vui | Game online 24h hay nhất | choinhanh.vn
 	</title>
 
 			<meta name="robots" content="noodp,index,follow" />
@@ -19,14 +19,14 @@
 	
 	
 	
-			<meta name="description" content="Online game mobile, Best game">
-		<meta name="keywords" content="teengame">
-		<meta name="title" content="teengame.net">
+			<meta name="description" content="Choi game online - Tai tro choi moi và hot nhat 24h. Giải trí với kho game mini với nhiều thể loại game hấp dẫn, cùng choi game và đua top với choinhanh.vn nhé!">
+		<meta name="keywords" content="game, game 24h, tro choi, choi game, game online, game 24h, game hay">
+		<meta name="title" content="Chơi game vui | Game online 24h hay nhất | choinhanh.vn">
 
-							<meta property="og:url" content="http://teengame.net" />
-				<meta property="og:title" content="" />
-		<meta property="og:description" content="" />
-					<meta property="og:image" content="http://teengame.net/images/avatar-game.jpg" />
+							<meta property="og:url" content="http://localhost:8000" />
+				<meta property="og:title" content="Game hay mỗi ngày | Choinhanh.vn" />
+		<meta property="og:description" content="Cổng game mini viet hoa danh cho mobile hay nhất, tham gia đọ sức và tranh đua giải thưởng. Chơi game vui hàng ngày, game cập nhật liên tục, càng chơi càng vui" />
+					<meta property="og:image" content="http://localhost:8000/images/avatar-game.jpg" />
 				
 	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -36,18 +36,28 @@
 	<![endif]-->
 
 			<meta name="resource-type" content="Document" /> 
-			<meta name="generator" content="teengame.net" />
-			<meta name="copyright" content="teengame.net" />
+<meta name="generator" content="choinhanh.vn" />
+<meta name="copyright" content="choinhanh.vn" />
+<meta content='www.altaVista.com, www.aol.com, www.infoseek.com, www.excite.com, www.hotbot.com, www.lycos.com, www.magellan.com, www.looksmart.com, www.cnet.com, www.voila.com, www.google.fr, www.google.com, www.google.com.vn, www.yahoo.fr, www.yahoo.com, www.alltheweb.com, www.msn.com, www.netscape.com, www.nomade.com' name='Search Engines'/>
 
+<link rel="shortcut icon" href="/images/favicon.png" />
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-44899633-8', 'auto');
+  ga('create', 'UA-71587519-1', 'auto');
   ga('send', 'pageview');
 
+</script>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-7546981319298869",
+    enable_page_level_ads: true
+  });
 </script>
 	
 </head>	<body>
@@ -67,10 +77,10 @@
 	
 	.logo,.search form,.search1 form{display:inline-block}.search input[type=text],.search1 input[type=text]{letter-spacing:1px;font-style:italic;color:#000;height:34px}.logo,.menu-top{margin-left:10px}.charts-medal,.item-play i.fa,.search,i.download,i.play{float:right}body{background:url(/assets/images/bg.jpg) 100% fixed}a{text-decoration:none;color:#538e3e}a:hover{color:#538E1A}.top{padding-bottom:10px;padding-top:10px}.logo{max-width:100px}.logo img{height:auto;max-width:100%}.logo h1,.logo p{text-align:center;font-size:9px;margin-bottom:0;margin-top:0}.search{margin-top:10px;margin-bottom:5px;text-align:right;width:auto}.item-image,.title_center{text-align:center}.search form{position:relative;width:200px}.search input[type=text]{background:#fff;border:1px solid #e5e5e5;border-radius:5px;font-size:14px;max-width:100%;padding:0 30px 0 10px;width:100%}.search input[type=submit]{background:url(/assets/images/search-icon.png) center center no-repeat rgba(0,0,0,0);border:none;font-size:0;height:34px;position:absolute;right:0;top:0;width:34px}.search1 form{position:relative;width:300px}.search1 input[type=text]{background:#fff;border-left:8px solid #538e3e;border-bottom:1px solid #538e3e;font-size:14px;max-width:100%;padding:7px 13px;width:100%}.search1 input[type=submit]{background:url(/assets/images/search-icon.png) center center no-repeat rgba(0,0,0,0);border:none;font-size:0;height:36px;position:absolute;right:0;top:0;width:34px}#iconseach{display:none}a#iconseach i.fa{font-size:25px}a.iconfacebook,a.icongoogleplus{color:#538e3e;cursor:pointer;font-size:24px;padding:5px 8px;vertical-align:middle}.title_center,.title_left{border-bottom:1px solid #cbcbcb;padding-bottom:15px;padding-top:15px}.main{background:#fff}.title_center h1,.title_left h1{font-size:20px;margin-bottom:10px;margin-top:10px}.box>h1,.box>h1>a,.box>h2,.box>h2>a,.box>h3,.box>h3>a{font-size:18px;font-weight:700;color:#538e3e;text-transform:uppercase}.box{padding-left:30px;padding-right:30px}.box>h1,.box>h2,.box>h3{border-bottom:2px solid #474747;margin-bottom:10px;margin-top:10px;padding-bottom:5px;position:relative}.box>h1>a,.box>h2>a,.box>h3>a{text-decoration:none}.box>h4{color:#538e3e;text-transform:uppercase}.box a.box-more{background:#538e3e;border-radius:30px 0 0;color:#fff;float:right;font-size:16px;font-weight:400;padding:5px 30px 5px 35px;position:absolute;right:0;text-decoration:none;text-transform:none;top:-2px}.box img{max-width:100%;height:auto}.item{border:1px solid #474747;margin-bottom:10px;height:140px}.item-image{position:relative}.item-image img{height:auto;width:100%;max-width:100%}.item-image strong{color:#474747;display:block;font-size:13px;font-weight:700;margin-top:5px;padding-left:5px;padding-right:5px;text-align:left}.charts>h3,.copyright,.footer>ul,.item-star,.item-title a,.menu-hide,.menu-login a.signin,.menu-login a.signup,.menu-static ul,.menu-static ul li a,.no-for-mobile,.overlay{text-align:center}.item-image i.fa{color:#fff;font-size:30px;left:43%;position:absolute;top:40%}.overlay{background:rgba(0,0,0,.2);height:100%;opacity:0;position:absolute;top:0;width:100%;transition:opacity .25s ease 0s;-webkit-transition:opacity .25s ease;-moz-transition:opacity .25s ease}.item:hover .overlay{opacity:1}.item-star{margin-bottom:5px}.item a{text-decoration:none;display:block}.item a:focus,.item a:hover{text-decoration:none}.item-title{color:#474747;display:block;padding:5px 3px}.item-title h2{margin-top:0;margin-bottom:0}.item-title a{color:#474747;font-size:13px;font-weight:700}.item-play{padding:5px;color:#fff}.item-play a{color:#fff;display:block}.item-play span{color:#908c8c;font-size:12px}.item-play i.fa{font-size:24px;margin-top:-2px}i.download{font-size:23px;margin-top:-7px}i.play{font-size:16px;margin-top:-2px}.no-for-mobile{margin-bottom:5px;background:#E61219;display:block;border-radius:5px;font-weight:700;color:#fff;padding:10px 2px;width:100%}.footer{padding-top:20px}.footer>ul{background:#fff;border-bottom:1px solid #538e3e;list-style:none;margin-bottom:0;padding-left:0;padding-top:10px}.footer>ul li{display:inline-block;width:auto;padding-left:20px;padding-right:20px}.footer>ul li a{display:block;padding-bottom:10px;color:#474747;text-align:center;text-transform:uppercase;border-bottom:4px solid transparent}.footer>ul li a.active,.footer>ul li a:focus,.footer>ul li a:hover{color:#538e3e;text-decoration:none;border-bottom-color:#538e3e}.copyright{background:#474747;color:#fff;padding-bottom:12px;padding-top:18px}.copyright p{font-size:12px;margin-bottom:3px}.menu-top{background:#538e3e;margin-right:10px}.menu-static{padding-bottom:0;padding-top:0}.menu-static ul{list-style:none;margin-bottom:0;padding:0}.menu-static ul li{display:inline-block;padding-left:35px;padding-right:35px}.menu-static ul li a{color:#fff;display:block;padding-bottom:5px;padding-top:5px;text-transform:uppercase}.menu-static ul li a.active,.menu-static ul li a:focus,.menu-static ul li a:hover{color:#fff;text-decoration:none}.menu-static ul li a i.fa{font-size:24px}.menu-static ul li a span{display:inline-block;padding-bottom:2px;padding-left:10px;vertical-align:middle}.menu-hide{background:#538e3e}.menu-hide a{color:#fff;display:block;line-height:2!important}.menu-hide a i.fa{font-size:14px}.menu-hide a,.menu-show a{text-decoration:none;cursor:pointer}.menu-show a:focus,.menu-show a:hover{border-bottom-color:transparent!important}.menu-show a i.fa{color:#474747;font-size:20px}.menushow{visibility:visible!important}a.menu_show_list{color:#538e3e;cursor:pointer;margin-left:22px}.menu-account{background:#474747}a.account-name,a.game-favorite,a.game-played,a.signout{color:#fff;display:block;line-height:2!important}a.account-name{font-weight:700!important}a.game-favorite i.fa,a.game-played i.fa,a.signout i.fa{font-size:20px;margin-right:7px}a.game-favorite,a.game-played{background:#a9a8a6;border-bottom:1px solid #fff!important}.menu-login,a.signout{background:#a9a8a6}.menu-login a.signin,.menu-login a.signup{color:#fff;display:inline-block;line-height:2!important;width:148px}.menu-login a.signin{background:#474747}.menu-login a.signup{background:#a9a8a6}#cssmenu{background:#fff;box-shadow:0 1px 3px #474747;visibility:hidden;right:0;position:absolute!important;top:67px;width:300px;z-index:9999}#cssmenu,#cssmenu a,#cssmenu li,#cssmenu ul{border:0;font-size:14px;font-weight:400;line-height:1;list-style:none;margin:0;padding:0;position:relative;text-decoration:none}#cssmenu>ul>li,#cssmenu>ul>li:last-child{border-bottom:1px solid #538e3e}#cssmenu a{line-height:1.5;padding:10px}#cssmenu>ul>li{background:#000;cursor:pointer}#cssmenu>ul>li>a{background:#fff;border-left:8px solid #538e3e;color:#474747;display:block}#cssmenu>ul>li.has-sub.active>a::after,#cssmenu>ul>li.has-sub>a::after{-moz-border-bottom-colors:none;-moz-border-left-colors:none;-moz-border-right-colors:none;-moz-border-top-colors:none;border-image:none;border-style:solid;border-width:5px;top:10px}#cssmenu>ul>li>a:hover{text-decoration:none}#cssmenu>ul>li.has-sub>a::after{border-color:transparent transparent transparent #538e3e;content:"";position:absolute;right:10px}#cssmenu>ul>li.has-sub.active>a::after{border-color:#538e3e transparent transparent;right:14px}#cssmenu ul ul{display:none;padding:0}#cssmenu ul ul a{background:#ebebeb;border-left:8px solid #538e3e;color:#474747;display:block}.charts,.charts>h3{background:#7ea8c1}#cssmenu ul ul li{border-bottom:1px solid #ccc}#cssmenu ul ul li:last-child{border:none}#cssmenu>ul>li>a>i.fa{font-size:25px}.color1{color:#538e3e!important}.color2{color:#a3ca39!important}.color3{color:#f8a24f!important}.top .menu-show{display:none}.charts{border-radius:10px;margin-bottom:10px;margin-top:45px;padding:5px}.charts>h3{border-radius:10px 10px 0 0;color:#fff;font-size:16px;font-weight:700;margin-bottom:0;margin-top:0;padding:10px}.charts ul{list-style:none;margin:0;padding-left:5px;padding-right:5px}.charts ul li{background:#fff;border-bottom:1px solid #538e3e;border-radius:10px;margin-bottom:5px;padding:5px 10px}.charts ul li:last-child{border-bottom:none}.charts-image{width:40px;display:inline-block}.charts-image img{max-width:100%;height:auto}.charts-text{display:inline-block;margin-left:10px;vertical-align:middle}.charts-text strong{color:#538e3e;display:block;font-size:16px}a.download,a.edit-email,a.edit-password{display:inline-block;text-decoration:none;cursor:pointer}.charts-text span{color:#ed933b;font-size:16px}a.edit-email,a.edit-password{color:#474747;margin-top:3px}a.edit-email:hover,a.edit-password:hover{color:#474747}.cachar,.top-right-login a.signout,a.download{color:#fff;text-align:center}a.edit-email i.fa,a.edit-password i.fa{font-size:30px}a.download{background:#ed933b;border-radius:5px;font-weight:700;padding:8px 45px}a.download i.fa{font-size:16px}.btn-block-center{display:block;margin:10px 0;text-align:center}.btn-block-center a.download{padding:10px;width:100%}.btn-click{display:inline-block;margin-bottom:15px;margin-top:15px;width:100%}.mobile_avatar{width:40%;padding:0 15px;display:inline-block;vertical-align:top}.game_avatar,.game_title,.mobile_title{padding:0 15px 0 0;display:inline-block;vertical-align:top}.mobile_title{width:58%}.mobile_title p{margin-bottom:3px}.game_avatar{width:20%}.game_title{width:78%}#code,.cachar{width:50%}.cachar{background:#538e3e;border-radius:0;margin-top:-18px;font-size:13px;padding-top:1px;height:19px}.top-image,.top-pc .logo{width:auto;float:left}.top-image{margin-left:5px;margin-right:5px}.top-image>img{width:100%;height:auto;max-width:100%}.top-ad{float:left;width:auto}.top-right{float:right;width:auto;margin-right:10px;text-align:right}.top-right .search form{vertical-align:top;width:240px;margin-top:5px;margin-left:10px}.top-right-login>span{font-size:12px;margin-right:15px;color:#888}.top-right-login a.account-name{color:#474747;display:inline-block}.top-right-login a.signout{background:#474747;font-size:12px;padding:4px 10px;margin-left:10px;display:inline-block;width:100px;line-height:normal!important;text-decoration:none;text-transform:uppercase}.top-right-login a.signin,.top-right-login a.signup{font-size:12px;color:#fff;padding:3px 5px;width:95px;text-align:center;text-transform:uppercase;display:inline-block;text-decoration:none}.top-right-login a.signin{background:#538e3e;margin-right:10px}.top-right-login a.signup{background:#474747}.menu-top-pc{background:0 0;border-radius:5px 5px 0 0;border:1px solid #538e3e}.menu-top-pc .menu-static{padding-bottom:0;background:#538e3e;padding-top:0}.menu-top-pc ul.nav-type{padding-left:0;overflow:hidden;padding-top:15px;padding-bottom:5px}.menu-top-pc ul.nav-type li{list-style:none;float:left;width:11%;text-align:center}.menu-top-pc ul.nav-type li img{width:20px;height:20px}.menu-top-pc ul.nav-type li a{color:#474747;text-decoration:none}.menu-top-pc ul.nav-type li a.active{color:#538e3e}.menu-top-pc .menu-static ul li a{padding-bottom:7px;padding-top:7px}.sharing{margin:0;overflow-x:auto;display:inline-block}.sharing_tab{float:left;padding-top:5px;width:auto}.sharing>span{display:inline-block;font-size:10px;vertical-align:top}.boxmini-title h3,.boxmini-title h3 a{color:#484848;font-size:16px;font-weight:700}.facebook_comment{margin:25px 0 10px;overflow-x:auto}.fb-like-box{overflow-x:auto;width:100%}.boxmini{margin-bottom:10px;padding-left:5px;padding-right:5px}.boxmini-title{border-bottom:2px solid #484848;padding-bottom:10px;margin-bottom:10px;margin-top:10px}.boxmini-title h3{display:inline-block;padding:0;margin:0;position:relative;text-transform:uppercase}.boxmini-title h3 a{text-decoration:none}.boxmini-title a.boxmini-seemore{background:#484848;padding:4px 10px;border-radius:5px;font-weight:400;float:right;color:#fff;font-size:12px;display:inline-block;text-decoration:none}.boxmini .item{height:120px}@media (max-width:500px){.social,a.download2{text-align:center}.footer,.item-play span{font-size:12px}.label-text{display:none}.social a{margin-right:10px}a.download{background:#E61219;display:block}a.download2{background:#ed933b;border-radius:5px;color:#fff;display:inline-block;font-weight:700;padding:8px 20px;text-decoration:none}.top{padding-top:10px;padding-bottom:8px}.top .menu-show{margin-top:5px;display:none}.footer{padding-top:0}.item-image strong{font-size:12px;color:#908c8c;text-align:left;padding-left:3px;padding-right:3px}.box>h1>a,.box>h3>a{font-size:16px}.box>h1,.box>h3{margin-top:5px;font-size:16px}.ad img{margin-top:-10px}.search,.search1{margin-top:0}.top .menu-show a i.fa{color:#fff}.menu-static .menu-show{display:none!important}.menu-static ul li{width:18%;padding-left:0;padding-right:0}.menu-static ul li a i.fa{font-size:25px}.menu-static ul li a span{font-size:9px}.menu-static ul li a.active,.menu-static ul li a:focus,.menu-static ul li a:hover{border-bottom-color:transparent}.box,.footer>ul li{padding-left:5px;padding-right:5px}.box a.box-more{height:20px;padding-left:17px;padding-top:3px;padding-right:6px;font-size:13px;top:2px}.logo{width:40%}.logo img{height:40px}.search form{width:auto;display:none}#iconseach{display:inline-block;margin-left:3px;margin-right:5px}.search1 form{width:100%}a.report-error{margin-top:10px;padding:0 11px!important;margin-left:10px!important}a.menu_show_list{margin-left:0}a.iconfacebook,a.icongoogleplus{vertical-align:baseline;font-size:22px}div.stars{text-align:center}.startitle{left:0}h1.mobile-title{font-size:16px!important;font-weight:700}}.game,.rating{text-align:center}@media (min-width:501px) and (max-width:800px){.search form{width:auto;display:none}#iconseach{display:inline-block;margin-left:3px;margin-right:5px}a.iconfacebook,a.icongoogleplus{vertical-align:baseline}}.rate-ex2-cnt,a.report-error,div.stars form{display:inline-block}.rate-ex2-cnt{width:150px;height:30px}.rate-ex2-cnt .rate-btn{width:30px;height:30px;float:left;background:url(/assets/images/rate-btn2.png) no-repeat;cursor:pointer}.comment-button,label.star{float:right}.rate-ex2-cnt .rate-btn-active,.rate-ex2-cnt .rate-btn-hover,.rate-ex2-cnt .rate-btn:hover{background:url(/assets/images/rate-btn2-hover.png) no-repeat}.rate-result-cnt{height:18px;margin-bottom:3px;margin-top:3px;position:relative;vertical-align:middle;width:82px}.col,.web_avatar,.web_title{vertical-align:top}.rate-stars{width:82px;height:18px;background:url(/assets/images/rate-stars.png) no-repeat;position:absolute}.rate-bg{height:17px;background-color:#ffbe10;position:absolute}.startitle{position:relative;right:-10px;top:-3px}div.stars{margin-bottom:2px}div.stars strong{position:relative;top:-15px}a.report-error{border:2px solid #ed933b;border-radius:5px;color:#ed933b;font-size:12px;font-weight:700;margin-left:15px;padding:1px 10px;position:relative;text-decoration:none}input.star{display:none}label.star{padding:2px 3px;font-size:24px;color:#474747;margin:0;transition:all .2s}input.star:checked~label.star:before{content:'\f005';color:#FD4;transition:all .25s}input.star-5:checked~label.star:before{color:#FE7}input.star-1:checked~label.star:before{color:#F62}label.star:hover{transform:rotate(-15deg) scale(1.3)}label.star:before{content:'\f006';font-family:FontAwesome}.game{margin-bottom:15px}.game *{max-width:100%;height:auto}h1.title,h2.title{border:none;color:#000;display:inline-block;font-size:24px;margin-bottom:3px;margin-top:0;text-transform:none}.comment .nav-tabs{border:1px solid #538e3e;margin-bottom:10px}.comment .nav-tabs>li{width:50%;margin:0}.comment .nav-tabs>li>a{color:#538e3e;border:none;border-radius:0;font-size:18px;font-weight:700;padding:5px 10px;text-align:center;margin:0}.heading,.homenews{font-size:14px;font-weight:700}.comment .nav-tabs>li>a:hover{border-color:#538e3e}.comment .nav-tabs>li.active>a,.comment .nav-tabs>li.active>a:focus,.comment .nav-tabs>li.active>a:hover{background:#538e3e;border:none;color:#fff}.imgGamedowload,.slideGame{margin-bottom:10px;margin-top:10px;text-align:left}.detail,.list-item{margin-bottom:15px}.imgGamedowload img,.slideGame img{max-width:100%;height:auto}.imgGameContentdowload{width:50%;display:inline-block}.img_game_detail img{margin-right:24px}.imgGame img{width:76%;max-width:100%;height:auto}@media (max-width:767px){.imgGame img,.imgGamedowload img,.slideGame img{width:auto}}.table_container{display:table;width:90%;border-collapse:collapse}.heading{display:table-row;background-color:#C91622;text-align:center;line-height:25px;font-family:georgia;color:#fff}.table-row{display:table-row;text-align:left}.adsense,.center,.playbox,.social{text-align:center}.col{display:table-cell;border:0 solid #CCC;padding-left:20px}.homenews,.web_avatar,.web_title{display:inline-block}@media (max-width:480px){.row{margin-right:-10px;margin-left:-10px}}.web_avatar{width:15%;padding:0 15px}.web_title{width:83%;padding:0 15px 0 0}.col-lg-1,.col-lg-10,.col-lg-11,.col-lg-12,.col-lg-2,.col-lg-3,.col-lg-4,.col-lg-5,.col-lg-6,.col-lg-7,.col-lg-8,.col-lg-9,.col-md-1,.col-md-10,.col-md-11,.col-md-12,.col-md-2,.col-md-3,.col-md-4,.col-md-5,.col-md-6,.col-md-7,.col-md-8,.col-md-9,.col-sm-1,.col-sm-10,.col-sm-11,.col-sm-12,.col-sm-2,.col-sm-3,.col-sm-4,.col-sm-5,.col-sm-6,.col-sm-7,.col-sm-8,.col-sm-9,.col-xs-1,.col-xs-10,.col-xs-11,.col-xs-12,.col-xs-2,.col-xs-3,.col-xs-4,.col-xs-5,.col-xs-6,.col-xs-7,.col-xs-8,.col-xs-9,.container{padding-left:5px;padding-right:5px}.sapo{font-weight:700;margin-top:10px}.detail{margin-top:15px}.detail img,.detail table{max-width:100%;height:auto}.detail iframe{max-width:100%}.adsense{padding-top:5px;padding-bottom:5px}.adsense iframe,.adsense img,.adsense ins{max-width:100%!important}.homenews{color:#727272;margin-top:10px}.social div{vertical-align:middle!important}.comment-avatar,.list-image,.list-text{vertical-align:top}@media (min-width:1200px){.container{width:970px}}.row{margin-left:-5px;margin-right:-5px}.box{padding:0 10px 10px}.playbox{background:#fff;border-radius:10px;margin-top:15px;padding:10px}.social-top .social{text-align:left}.list-item{margin-top:15px;display:block}.breadcrumb ul li,.list-image,.list-text{display:inline-block}.list-image img{width:100%;max-width:100%;height:auto}.list-text h2,.list-text h3{margin-top:0;line-height:16px}.list-text h2 a,.list-text h3 a{color:#333;font-size:16px;font-weight:700;text-decoration:none}.list-text h2 a:focus,.list-text h2 a:hover,.list-text h3 a:focus,.list-text h3 a:hover{color:#538e3e}.list-text p{text-align:justify}.breadcrumb{background:0 0;border-bottom:2px solid #538e3e;border-radius:0;margin:0 0 15px;padding-left:0;padding-right:0}.breadcrumb ul{margin:0;padding-left:0}.breadcrumb ul li{list-style:none}.breadcrumb ul li a{color:#474747;font-size:13px;font-weight:700}.breadcrumb i.fa{color:#474747;padding-left:10px;padding-right:5px}.pager .disabled>a,.pager .disabled>a:focus,.pager .disabled>a:hover,.pager .disabled>span{background-color:#538e3e;color:#fff;border:1px solid #538e3e}.pager li>a,.pager li>span{color:#333}.right{text-align:right}#loadMore,.tags ul,.topgame>h3{text-align:center}.pagination>li:first-child>a,.pagination>li:first-child>span,.pagination>li:last-child>a,.pagination>li:last-child>span{border-radius:0}ul.pagination li a{border-color:#333;color:#333;margin-left:5px}ul.pagination li.current a{background:#538e3e;color:#fff;border-color:#538e3e}.pagination>li>a:focus,.pagination>li>a:hover,.pagination>li>span:focus,.pagination>li>span:hover{background-color:#fff;border-color:#333;color:#333}.related{display:block;margin-bottom:10px;margin-top:10px;overflow:hidden}.related h3{font-size:15px;font-weight:700}.related ul{padding-left:0}.related ul li{list-style:none;margin-bottom:5px}@media (max-width:768px){#cssmenu,.search form{width:200px}.search1 form{position:relative;width:200px;display:inline-block}#cssmenu{top:140px;left:20px}#cssmenu a{padding:5px 10px}.menu-login a.signin,.menu-login a.signup{width:96px;padding:5px 1px!important}}@media (min-width:769px) and (max-width:1024px){#cssmenu{top:135px;left:30px}}@media (max-width:500px){#cssmenu{top:120px;left:10px}}.login-facebook,.login-google{display:block;margin-bottom:10px}.comment-list{padding:0;margin-top:10px;margin-bottom:10px;list-style:none}.comment-list li{border-bottom:1px solid #f4f4f4;padding-bottom:5px;padding-top:5px;display:none}.comment-avatar,.comment-content{display:inline-block}#loadMore,.comment-desc,.comment-user{display:block}.comment-avatar img{width:50px;height:50px}.comment-user{font-size:12px}.comment-user span{font-size:14px;font-weight:700;color:#538e3e}.toptext{display:inline-block;padding-left:160px}@media (min-width:670px) and (max-width:1024px){.toptext{padding-left:70px}}@media (max-width:669px){.toptext{display:none}}.glass{display:none;width:100%;height:100%;position:fixed;top:0;left:0;right:0;bottom:0}.playgame .social-vote,.playgame .social-vote-label,.social-box .social,.topgame-image,.topgame-text{display:inline-block}.playgame{background:#ed933b;border-radius:10px;padding:15px 10px 10px}.playgame h1,.playgame h3{color:#fff;font-size:16px;font-weight:700;margin:0}.playgame .social-box{background:#fff;margin-bottom:15px;margin-top:15px}.playgame .social-vote-label{background:#cedfe9;border-radius:5px;color:#3b6037;font-size:13px;font-weight:700;padding:5px}a.fullscreen,input.fullscreen{background:#538e3e;border:none;border-radius:5px;color:#fff;display:inline-block;font-size:12px;font-weight:700;margin-left:40px;margin-right:40px;padding:3px 8px;text-decoration:none}.social-box .social{border:5px solid #474747;border-radius:5px;padding:15px 30px}.gamenav li a,.gamenav li.active>a{border-radius:10px 10px 0 0}.gamenav{border-bottom:0 none;margin-top:15px;padding-left:40px}.gamenav li a{color:#474747;font-weight:700;padding-bottom:5px;padding-top:5px}.gamenav li.active>a,.gamenav li.active>a:focus,.gamenav li.active>a:hover{background:#538e3e;color:#fff}.gamecontent .gameerror,.gamecontent .web{border:2px solid #538e3e;padding:10px;border-radius:10px}.gamecontent h4{color:#538e3e;text-transform:uppercase}.topgame>h3,.topgame>h3>a{color:#fff;font-size:16px;font-weight:700}.gamecontent-right{margin-left:0;margin-top:15px}.topgame{background:#474747;border-radius:10px;margin-bottom:10px;margin-top:45px;padding:7px 7px 4px}.topgame>h3{background:#474747;border-radius:10px 10px 0 0;margin-bottom:0;margin-top:0;padding:10px}.topgame>h3>a{text-decoration:none}.topgame ul{background:#fff;border-radius:10px;list-style:none;margin:0;padding-left:5px;padding-right:5px;padding-top:5px}.topgame ul li{margin-bottom:5px;margin-top:5px;padding:5px}.topgame ul li:last-child{border-bottom:none}.topgame-image{width:30%}.topgame-image img{max-width:100%;height:auto}.topgame-text{width:60%;margin-left:5px;vertical-align:middle}.topgame-text strong{color:#538e3e;display:block;font-size:16px}.topgame-text span{color:#ed933b;display:block;font-size:13px}.topgame-text a{color:grey;font-weight:700;text-decoration:none}.btn-green{background-color:#538e3e;border-color:#538e3e}.btn-green:focus,.btn-green:hover{background-color:#538E2D;border-color:#538E2D}a.vehicle-text{color:#474747}.tags{background:#538e3e;padding:10px}.tags ul{padding-left:0;overflow:hidden;padding-bottom:0;margin-bottom:0}.tags ul li{list-style:none;width:auto;display:inline-block;padding-left:0;padding-right:0}.tags ul li a{color:#fff}.tags ul li span{color:#ccc;margin-left:5px;margin-right:5px}.tipContent h2,.tipContent h2 a,div#tipDiv h2,div#tipDiv h2 a{color:#fff;font-weight:700;font-size:13px}.tags ul li:last-child span,.tipContent{display:none}.tipContent .tooltip_content .tooltip_text strong,div#tipDiv .tooltip_content .rate-result-cnt,div#tipDiv .tooltip_content .tooltip_text strong{display:inline-block}.tipContent,div#tipDiv{background:#FFF;border:1px solid #538e3e;width:300px;height:auto;padding:3px;font-size:13px}.tipContent h2,div#tipDiv h2{background:#538e3e;margin:0;padding:5px;width:100%}.tipContent .tooltip_content,div#tipDiv .tooltip_content{background:#FFF;overflow:hidden;padding:5px}.tipContent .tooltip_content img,div#tipDiv .tooltip_content img{float:left;height:auto;margin-bottom:7px;margin-right:7px;width:100px}.tipContent .tooltip_content .tooltip_text,div#tipDiv .tooltip_content .tooltip_text{font-size:13px;margin-bottom:0}.tipContent .tooltip_content .tooltip_text div,.tipContent .tooltip_content .tooltip_text span,div#tipDiv .tooltip_content .tooltip_text div,div#tipDiv .tooltip_content .tooltip_text span{color:#888;display:inline-block;padding-bottom:0}.button1,.button1:focus,.button1:hover{background:#474747;border-color:#474747}.boxgamenews{margin-top:15px}a.download_android{background:#a4c639}a.download_ios{background:#999}a.download_winphone{background:#00a1f1}
 </style>
-		<script src="http://teengame.net/assets/js/jquery-2.1.4.min.js"></script>
-		<script src="http://teengame.net/assets/js/bootstrap.min.js"></script>
-		<script src="http://teengame.net/assets/js/dw.js"></script>
-		<script src="http://teengame.net/assets/js/script.js"></script>
+		<script src="http://localhost:8000/assets/js/jquery-2.1.4.min.js"></script>
+		<script src="http://localhost:8000/assets/js/bootstrap.min.js"></script>
+		<script src="http://localhost:8000/assets/js/dw.js"></script>
+		<script src="http://localhost:8000/assets/js/script.js"></script>
 
 		<div class="container">
 			<div class="row">
@@ -81,11 +91,11 @@
 	<div class="container">
 		<div class="row">
 			<div class="logo">
-				<a href="http://teengame.net"><img src="http://teengame.net/assets/images/logo.png" alt="choinhanh.vn" /></a>
+				<a href="http://localhost:8000"><img src="http://localhost:8000/assets/images/logo.png" alt="choinhanh.vn" /></a>
 									<p>game24h | game mobile</p>
 							</div>
 			<div class="top-image">
-				<img src="http://teengame.net/assets/images/game-cuc-hay-choi-me-ngay.jpg" alt="game-cuc-hay-choi-me-ngay" />
+				<img src="http://localhost:8000/assets/images/game-cuc-hay-choi-me-ngay.jpg" alt="game-cuc-hay-choi-me-ngay" />
 			</div>
 			<div class="top-right">
 				
@@ -101,7 +111,7 @@
 							<div class="g-plusone" data-size="medium" data-width="50" data-href="https://plus.google.com/113571525283953455277/"></div>
 				        </div>
 				        <div class="sharing_tab sharing_f">
-				            <div class="fb-like" data-href="https://www.facebook.com/Choinhanhvn-563511837144725" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
+				            <div class="fb-like" data-href="https://www.facebook.com/choinhanhvnn" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
 				        </div>
 				        <div id="fb-root"></div>
 						<script>(function(d, s, id) {
@@ -113,7 +123,7 @@
 						}(document, 'script', 'facebook-jssdk'));</script>
 						<span>Like fanpage Choinhanh</span>
 				    </div>
-					<form action="http://teengame.net/search-game">
+					<form action="http://localhost:8000/search-game">
 						<input type="text" name="search" value="" title="search" placeholder="Search games" />
 						<input type="submit" value="search" title="submit" />
 					</form>
@@ -121,102 +131,23 @@
 			</div>
 	 	</div>
 	</div>
-</div>					<div class="menu-top menu-top-pc">
-	<div class="menu-static">
-		<ul>
-			<li>
-				<a href="http://teengame.net" >
-					<span>Home</span>
-				</a>
-			</li>
-			<li>
-				<a href="http://teengame.net/most-voted-games" >
-					<span>Most voted games</span>
-				</a>
-			</li>
-			<li>
-				<a href="http://teengame.net/best-games" >
-					<span>Best Games</span>
-				</a>
-			</li>
-			<li>
-				<a href="http://teengame.net/news" >
-					<span>News</span>
-				</a>
-			</li>
-			<li>
-				<a href="http://teengame.net/game-android" >
-					<span>Game android</span>
-				</a>
-			</li>
-		</ul>
-		<div class="clearfix"></div>
-	</div>
-
-	<!-- game type has games -->
-	<ul class="nav-type">
-			<li>
-			<img src="/images/gametype/1/action.png" alt="game-action" />
-			<a href="http://teengame.net/action-games"  >
-				Action
-			</a>
-		</li>
-			<li>
-			<img src="/images/gametype/2/racing.png" alt="game-racing" />
-			<a href="http://teengame.net/racing-games"  >
-				Racing
-			</a>
-		</li>
-			<li>
-			<img src="/images/gametype/3/girl.png" alt="game-girl" />
-			<a href="http://teengame.net/girl-games"  >
-				Girl
-			</a>
-		</li>
-			<li>
-			<img src="/images/gametype/4/sport.png" alt="game-sport" />
-			<a href="http://teengame.net/sport-games"  >
-				Sport
-			</a>
-		</li>
-			<li>
-			<img src="/images/gametype/5/cooking.png" alt="game-cooking" />
-			<a href="http://teengame.net/cooking-games"  >
-				Cooking
-			</a>
-		</li>
-			<li>
-			<img src="/images/gametype/6/funny.png" alt="game-funny" />
-			<a href="http://teengame.net/funny-games"  >
-				Funny
-			</a>
-		</li>
-			<li>
-			<img src="/images/gametype/7/fashion.png" alt="game-fashion" />
-			<a href="http://teengame.net/fashion-games"  >
-				Fashion
-			</a>
-		</li>
-			<li>
-			<img src="/images/gametype/8/strategy.png" alt="game-strategy" />
-			<a href="http://teengame.net/strategy-games"  >
-				Strategy
-			</a>
-		</li>
-			<li>
-			<img src="/images/gametype/13/puzzle.png" alt="game-puzzle" />
-			<a href="http://teengame.net/puzzle-games"  >
-				Puzzle
-			</a>
-		</li>
-		</ul>
-	<div class="clearfix"></div>
-
-</div>
-					
+</div>					@include("site.common.navbar_pc")
+					<div class="adsense center">
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- choinhanh-PC-Home -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7546981319298869"
+     data-ad-slot="7814818308"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+			</div>
+	
 					
 <div class="box">
-					<h3><a href="http://teengame.net/best-games">Best Games</a></h3>
+					<h3><a href="#">Game hay nhất</a></h3>
 											<div class="swiper-container">
 					<div class="swiper-wrapper">
 													<div class="swiper-slide boxgame">
@@ -224,30 +155,30 @@
 																											<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/action-games/i-am-the-ninja">
-									<img data-src="http://teengame.net/images/game_avatar/i-am-the-ninja-icon-1473213148.jpg" alt="i-am-the-ninja" class="swiper-lazy showTip el_302" />
+			<a href="http://localhost:8000/nau-an-games/lam-banh-socola">
+									<img data-src="http://localhost:8000/images/game_avatar/lam-banh-socola-icon-1471227718.jpg" alt="lam-banh-socola" class="swiper-lazy showTip el_1264" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/action-games/i-am-the-ninja">I Am The Ninja</a></h2>
+			<h2><a href="http://localhost:8000/nau-an-games/lam-banh-socola">Làm bánh Socola</a></h2>
 		</div>
 	    	</div>
-				<div id="el_302" class="tipContent">
-        <h2><a href="http://teengame.net/action-games/i-am-the-ninja">I Am The Ninja</a></h2>
+				<div id="el_1264" class="tipContent">
+        <h2><a href="http://localhost:8000/nau-an-games/lam-banh-socola">Làm bánh Socola</a></h2>
         <div class="tooltip_content">
-        	<img title="I Am The Ninja" alt="i-am-the-ninja" src="http://teengame.net/images/game_avatar/i-am-the-ninja-icon-1473213148.jpg" />
+        	<img title="Làm bánh Socola" alt="lam-banh-socola" src="http://localhost:8000/images/game_avatar/lam-banh-socola-icon-1471227718.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Action
+                                            Nấu ăn
                                     </strong>
             	<div>
-            		    					1 plays
+            		    					5974 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:62%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> You are a true ninja if you can master this final mission. Use your powers to pass several barriers and traps to reach the exit in each stage of the...</p>
+            	<p> Làm Bánh Socola - Triple Chocolate Trifle là một game nấu ăn rất hấp dẫn dành cho những bạn gái yêu thích nấu nướng. Với...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -255,30 +186,30 @@
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/action-games/mr-timan">
-									<img data-src="http://teengame.net/images/game_avatar/mr-timan-icon-1473213051.jpg" alt="mr-timan" class="swiper-lazy showTip el_301" />
+			<a href="http://localhost:8000/vui-nhon-games/xep-gach-co-dien">
+									<img data-src="http://localhost:8000/images/game_avatar/xep-gach-co-dien-icon-1462327607.jpg" alt="xep-gach-co-dien" class="swiper-lazy showTip el_557" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/action-games/mr-timan">Mr. Timan</a></h2>
+			<h2><a href="http://localhost:8000/vui-nhon-games/xep-gach-co-dien"> Xếp gạch cổ điển</a></h2>
 		</div>
 	    	</div>
-				<div id="el_301" class="tipContent">
-        <h2><a href="http://teengame.net/action-games/mr-timan">Mr. Timan</a></h2>
+				<div id="el_557" class="tipContent">
+        <h2><a href="http://localhost:8000/vui-nhon-games/xep-gach-co-dien">Xếp gạch cổ điển</a></h2>
         <div class="tooltip_content">
-        	<img title="Mr. Timan" alt="mr-timan" src="http://teengame.net/images/game_avatar/mr-timan-icon-1473213051.jpg" />
+        	<img title="Xếp gạch cổ điển" alt="xep-gach-co-dien" src="http://localhost:8000/images/game_avatar/xep-gach-co-dien-icon-1462327607.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Action
+                                            Vui nhộn 
                                     </strong>
             	<div>
-            		    					1 plays
+            		    					4978 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:68%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> In a near future Mr. Timan is hired by the powerful institution for science that is working on time travels. The new boss just welcomed him when suddenly...</p>
+            	<p> Xếp gạch cổ điển là một trong những cái tên vô cùng quen thuộc với thế hệ 7x, 8x và 9x đời đầu. Cuộc đổ bộ của...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -286,30 +217,30 @@
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/action-games/gym-class-racers">
-									<img data-src="http://teengame.net/images/game_avatar/gym-class-racers-icon-1473212915.jpg" alt="gym-class-racers" class="swiper-lazy showTip el_300" />
+			<a href="http://localhost:8000/tri-tue-games/duoi-hinh-bat-chu">
+									<img data-src="http://localhost:8000/images/game_avatar/duoi-hinh-bat-chu-1449202264.jpg" alt="duoi-hinh-bat-chu" class="swiper-lazy showTip el_77" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/action-games/gym-class-racers">Gym Class Racers</a></h2>
+			<h2><a href="http://localhost:8000/tri-tue-games/duoi-hinh-bat-chu"> Đuổi hình bắt chữ</a></h2>
 		</div>
 	    	</div>
-				<div id="el_300" class="tipContent">
-        <h2><a href="http://teengame.net/action-games/gym-class-racers">Gym Class Racers</a></h2>
+				<div id="el_77" class="tipContent">
+        <h2><a href="http://localhost:8000/tri-tue-games/duoi-hinh-bat-chu">Đuổi hình bắt chữ</a></h2>
         <div class="tooltip_content">
-        	<img title="Gym Class Racers" alt="gym-class-racers" src="http://teengame.net/images/game_avatar/gym-class-racers-icon-1473212915.jpg" />
+        	<img title="Đuổi hình bắt chữ" alt="duoi-hinh-bat-chu" src="http://localhost:8000/images/game_avatar/duoi-hinh-bat-chu-1449202264.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Action
+                                            Trí tuệ
                                     </strong>
             	<div>
-            		    					1 plays
+            		    					10206 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:60%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Gym Class Racers is cool high school styled racing game. Pick one of the 5 characters and reach the finish line first. Each competitor has a special...</p>
+            	<p> Đuổi hình bắt chữ là game trí tuệ mô phỏng trò chơi truyền hình cùng tên. Luật chơi Game Đuổi hình bắt chữ vô cùng...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -317,30 +248,30 @@
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/racing-games/outworld-motocross">
-									<img data-src="http://teengame.net/images/game_avatar/outworld-motocross-icon-1473212683.jpg" alt="outworld-motocross" class="swiper-lazy showTip el_299" />
+			<a href="http://localhost:8000/tri-tue-games/chu-khi-buon-mobile">
+									<img data-src="http://localhost:8000/images/game_avatar/chu-khi-buon-mobile-icon-1471317476.PNG" alt="chu-khi-buon-mobile" class="swiper-lazy showTip el_1271" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/racing-games/outworld-motocross">Outworld Motocross</a></h2>
+			<h2><a href="http://localhost:8000/tri-tue-games/chu-khi-buon-mobile">Chú Khỉ Buồn Mobile</a></h2>
 		</div>
 	    	</div>
-				<div id="el_299" class="tipContent">
-        <h2><a href="http://teengame.net/racing-games/outworld-motocross">Outworld Motocross</a></h2>
+				<div id="el_1271" class="tipContent">
+        <h2><a href="http://localhost:8000/tri-tue-games/chu-khi-buon-mobile">Chú Khỉ Buồn Mobile</a></h2>
         <div class="tooltip_content">
-        	<img title="Outworld Motocross" alt="outworld-motocross" src="http://teengame.net/images/game_avatar/outworld-motocross-icon-1473212683.jpg" />
+        	<img title="Chú Khỉ Buồn Mobile" alt="chu-khi-buon-mobile" src="http://localhost:8000/images/game_avatar/chu-khi-buon-mobile-icon-1471317476.PNG" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Racing
+                                            Trí tuệ
                                     </strong>
             	<div>
-            		    					1 plays
+            		    					5229 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:68%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Gear up for another motocross challenge and steer your dirt bike across the hilly ground of the mysterious world of silver bolts. In this cool Outworld...</p>
+            	<p> Chú Khỉ Buồn Mobile - Monkey Go Happy Mobile là một trong những game trí tuệ vô cùng hấp dẫn. Cũng giống như những trò chơi...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -348,30 +279,30 @@
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/action-games/clicker-troops">
-									<img data-src="http://teengame.net/images/game_avatar/clicker-troops-icon-1473212356.jpg" alt="clicker-troops" class="swiper-lazy showTip el_298" />
+			<a href="http://localhost:8000/tri-tue-games/duoi-hinh-bat-chu-2">
+									<img data-src="http://localhost:8000/images/game_avatar/duoi-hinh-bat-chu-2-icon-1468031288.jpg" alt="duoi-hinh-bat-chu-2" class="swiper-lazy showTip el_1078" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/action-games/clicker-troops">Clicker Troops</a></h2>
+			<h2><a href="http://localhost:8000/tri-tue-games/duoi-hinh-bat-chu-2"> Đuổi hình bắt chữ...</a></h2>
 		</div>
 	    	</div>
-				<div id="el_298" class="tipContent">
-        <h2><a href="http://teengame.net/action-games/clicker-troops">Clicker Troops</a></h2>
+				<div id="el_1078" class="tipContent">
+        <h2><a href="http://localhost:8000/tri-tue-games/duoi-hinh-bat-chu-2">Đuổi hình bắt chữ 2</a></h2>
         <div class="tooltip_content">
-        	<img title="Clicker Troops" alt="clicker-troops" src="http://teengame.net/images/game_avatar/clicker-troops-icon-1473212356.jpg" />
+        	<img title="Đuổi hình bắt chữ 2" alt="duoi-hinh-bat-chu-2" src="http://localhost:8000/images/game_avatar/duoi-hinh-bat-chu-2-icon-1468031288.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Action
+                                            Trí tuệ
                                     </strong>
             	<div>
-            		    					1 plays
+            		    					2451 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:70%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Your troops are under attack by evil creatures. Save them with your clicking power in this fun fantasy clicker adventure. To defeat all enemies you come...</p>
+            	<p> Đuổi hình bắt chữ 2 - 4 Images 1 Word, là một game trí tuệ hay giành cho mọi lứa tuổi, đặc biệt với các em nhỏ thì đây...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -379,30 +310,30 @@
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/action-games/worlds-hardest-game-4">
-									<img data-src="http://teengame.net/images/game_avatar/worlds-hardest-game-4-icon-1473211583.jpg" alt="worlds-hardest-game-4" class="swiper-lazy showTip el_297" />
+			<a href="http://localhost:8000/ban-gai-games/cap-doi-hoan-hao-2">
+									<img data-src="http://localhost:8000/images/game_avatar/cap-doi-hoan-hao-2-icon-1470715893.jpg" alt="cap-doi-hoan-hao-2" class="swiper-lazy showTip el_1240" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/action-games/worlds-hardest-game-4">World's Hardest Game 4</a></h2>
+			<h2><a href="http://localhost:8000/ban-gai-games/cap-doi-hoan-hao-2"> Cặp đôi hoàn hảo 2</a></h2>
 		</div>
 	    	</div>
-				<div id="el_297" class="tipContent">
-        <h2><a href="http://teengame.net/action-games/worlds-hardest-game-4">World's Hardest Game 4</a></h2>
+				<div id="el_1240" class="tipContent">
+        <h2><a href="http://localhost:8000/ban-gai-games/cap-doi-hoan-hao-2">Cặp đôi hoàn hảo 2</a></h2>
         <div class="tooltip_content">
-        	<img title="World's Hardest Game 4" alt="worlds-hardest-game-4" src="http://teengame.net/images/game_avatar/worlds-hardest-game-4-icon-1473211583.jpg" />
+        	<img title="Cặp đôi hoàn hảo 2" alt="cap-doi-hoan-hao-2" src="http://localhost:8000/images/game_avatar/cap-doi-hoan-hao-2-icon-1470715893.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Action
+                                            Bạn gái
                                     </strong>
             	<div>
-            		    					1 plays
+            		    					2430 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:82%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> This is the worlds hardest game number 4. It is harder than any game you have ever played. Really? Who said that? The developer of the game. OK, it&#39;s...</p>
+            	<p> Bạn yêu thích thời trang? bạn luôn ước mơ và khao khát để trở thành một stylist chuyên nghiệp? Tham gia Cặp đôi hoàn hảo...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -410,30 +341,30 @@
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/racing-games/super-trucks-3d">
-									<img data-src="http://teengame.net/images/game_avatar/super-trucks-3d-icon-1473211419.jpg" alt="super-trucks-3d" class="swiper-lazy showTip el_296" />
+			<a href="http://localhost:8000/hanh-dong-games/perry-va-nhung-nguoi-ban">
+									<img data-src="http://localhost:8000/images/game_avatar/perry-va-nhung-nguoi-ban-icon-1468031028.jpg" alt="perry-va-nhung-nguoi-ban" class="swiper-lazy showTip el_1077" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/racing-games/super-trucks-3d">Super Trucks 3D</a></h2>
+			<h2><a href="http://localhost:8000/hanh-dong-games/perry-va-nhung-nguoi-ban"> Perry và những...</a></h2>
 		</div>
 	    	</div>
-				<div id="el_296" class="tipContent">
-        <h2><a href="http://teengame.net/racing-games/super-trucks-3d">Super Trucks 3D</a></h2>
+				<div id="el_1077" class="tipContent">
+        <h2><a href="http://localhost:8000/hanh-dong-games/perry-va-nhung-nguoi-ban">Perry và những người bạn</a></h2>
         <div class="tooltip_content">
-        	<img title="Super Trucks 3D" alt="super-trucks-3d" src="http://teengame.net/images/game_avatar/super-trucks-3d-icon-1473211419.jpg" />
+        	<img title="Perry và những người bạn" alt="perry-va-nhung-nguoi-ban" src="http://localhost:8000/images/game_avatar/perry-va-nhung-nguoi-ban-icon-1468031028.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Racing
+                                            Hành động
                                     </strong>
             	<div>
-            		    					1 plays
+            		    					1990 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:68%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Master the hilly track of this fast-paced monster truck racing game Super Truck 3D! Avoid obstacles and collect nitro power ups to live all competitors...</p>
+            	<p> Perry và những người bạn - Villains Unite là một game hành động cực kỳ thú vị giành cho mọi lứa tuổi. Game kể về Grave...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -441,30 +372,30 @@
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/puzzle-games/fractured-4">
-									<img data-src="http://teengame.net/images/game_avatar/fractured-4-icon-1473156019.jpg" alt="fractured-4" class="swiper-lazy showTip el_295" />
+			<a href="http://localhost:8000/thoi-trang-games/nha-thiet-ke-tai-ba-2">
+									<img data-src="http://localhost:8000/images/game_avatar/nha-thiet-ke-tai-ba-2-icon-1469601940.jpg" alt="nha-thiet-ke-tai-ba-2" class="swiper-lazy showTip el_1128" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/puzzle-games/fractured-4">Fractured 4</a></h2>
+			<h2><a href="http://localhost:8000/thoi-trang-games/nha-thiet-ke-tai-ba-2"> Nhà thiết kế tài ba...</a></h2>
 		</div>
 	    	</div>
-				<div id="el_295" class="tipContent">
-        <h2><a href="http://teengame.net/puzzle-games/fractured-4">Fractured 4</a></h2>
+				<div id="el_1128" class="tipContent">
+        <h2><a href="http://localhost:8000/thoi-trang-games/nha-thiet-ke-tai-ba-2">Nhà thiết kế tài ba 2</a></h2>
         <div class="tooltip_content">
-        	<img title="Fractured 4" alt="fractured-4" src="http://teengame.net/images/game_avatar/fractured-4-icon-1473156019.jpg" />
+        	<img title="Nhà thiết kế tài ba 2" alt="nha-thiet-ke-tai-ba-2" src="http://localhost:8000/images/game_avatar/nha-thiet-ke-tai-ba-2-icon-1469601940.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Puzzle
+                                            Thời trang
                                     </strong>
             	<div>
-            		    					1 plays
+            		    					3882 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:66%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Help these two children who are caught up in the strange world of Fractured 4. Solve puzzles and pilot both through shattered pieces to bring them...</p>
+            	<p> Trở thành nhà thiết kế tài ba ngay hôm nay với tựa game thời trang vô cùng hấp dẫn. Cũng giống như người tiền nhiệm, Nhà...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -472,30 +403,30 @@
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/puzzle-games/fractured-3">
-									<img data-src="http://teengame.net/images/game_avatar/fractured-3-icon-1473155936.jpg" alt="fractured-3" class="swiper-lazy showTip el_294" />
+			<a href="http://localhost:8000/chien-thuat-games/cuoc-chien-zombie">
+									<img data-src="http://localhost:8000/images/game_avatar/cuoc-chien-zombie-1449204129.jpg" alt="cuoc-chien-zombie" class="swiper-lazy showTip el_24" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/puzzle-games/fractured-3">Fractured 3</a></h2>
+			<h2><a href="http://localhost:8000/chien-thuat-games/cuoc-chien-zombie">Cuộc chiến zombie</a></h2>
 		</div>
 	    	</div>
-				<div id="el_294" class="tipContent">
-        <h2><a href="http://teengame.net/puzzle-games/fractured-3">Fractured 3</a></h2>
+				<div id="el_24" class="tipContent">
+        <h2><a href="http://localhost:8000/chien-thuat-games/cuoc-chien-zombie">Cuộc chiến zombie</a></h2>
         <div class="tooltip_content">
-        	<img title="Fractured 3" alt="fractured-3" src="http://teengame.net/images/game_avatar/fractured-3-icon-1473155936.jpg" />
+        	<img title="Cuộc chiến zombie" alt="cuoc-chien-zombie" src="http://localhost:8000/images/game_avatar/cuoc-chien-zombie-1449204129.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Puzzle
+                                            Chiến thuật
                                     </strong>
             	<div>
-            		    					1 plays
+            		    					9015 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:68%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Put together the single pieces in the third episode of the mysterious puzzle platform game, Fractured 3. Your objective is to help a little girl and boy...</p>
+            	<p> Game cuộc chiến Zombie là game nói về lũ zombie ăn não đang tấn công khu vườn của bạn. Nhiệm vụ của bạn là nhanh tay...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -503,30 +434,30 @@
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/puzzle-games/fractured-2">
-									<img data-src="http://teengame.net/images/game_avatar/fractured-2-icon-1473155769.jpg" alt="fractured-2" class="swiper-lazy showTip el_293" />
+			<a href="http://localhost:8000/vui-nhon-games/ran-san-moi">
+									<img data-src="http://localhost:8000/images/game_avatar/ran-san-moi-icon-1-1465203669.jpg" alt="ran-san-moi" class="swiper-lazy showTip el_834" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/puzzle-games/fractured-2">Fractured 2</a></h2>
+			<h2><a href="http://localhost:8000/vui-nhon-games/ran-san-moi">Rắn săn mồi</a></h2>
 		</div>
 	    	</div>
-				<div id="el_293" class="tipContent">
-        <h2><a href="http://teengame.net/puzzle-games/fractured-2">Fractured 2</a></h2>
+				<div id="el_834" class="tipContent">
+        <h2><a href="http://localhost:8000/vui-nhon-games/ran-san-moi">Rắn săn mồi</a></h2>
         <div class="tooltip_content">
-        	<img title="Fractured 2" alt="fractured-2" src="http://teengame.net/images/game_avatar/fractured-2-icon-1473155769.jpg" />
+        	<img title="Rắn săn mồi" alt="ran-san-moi" src="http://localhost:8000/images/game_avatar/ran-san-moi-icon-1-1465203669.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Puzzle
+                                            Vui nhộn 
                                     </strong>
             	<div>
-            		    					1 plays
+            		    					35756 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:70%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Follow the story of a sad little girl who lost her daddy and couldn&#39;t process it. Like in the first sequel of the addicting puzzle platform game it is...</p>
+            	<p> Slither.io là một tựa game được mô phỏng lại phiên bản cách điệu của game rắn săn mồi trước đây từng làm mưa làm...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -534,30 +465,30 @@
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/puzzle-games/fractured">
-									<img data-src="http://teengame.net/images/game_avatar/fractured-icon-1473155635.jpg" alt="fractured" class="swiper-lazy showTip el_292" />
+			<a href="http://localhost:8000/hanh-dong-games/pokemon-dai-chien-2">
+									<img data-src="http://localhost:8000/images/game_avatar/pokemon-dai-chien-2-icon-1467942073.jpg" alt="pokemon-dai-chien-2" class="swiper-lazy showTip el_1054" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/puzzle-games/fractured">Fractured</a></h2>
+			<h2><a href="http://localhost:8000/hanh-dong-games/pokemon-dai-chien-2">Pokemon đại chiến 2</a></h2>
 		</div>
 	    	</div>
-				<div id="el_292" class="tipContent">
-        <h2><a href="http://teengame.net/puzzle-games/fractured">Fractured</a></h2>
+				<div id="el_1054" class="tipContent">
+        <h2><a href="http://localhost:8000/hanh-dong-games/pokemon-dai-chien-2">Pokemon đại chiến 2</a></h2>
         <div class="tooltip_content">
-        	<img title="Fractured" alt="fractured" src="http://teengame.net/images/game_avatar/fractured-icon-1473155635.jpg" />
+        	<img title="Pokemon đại chiến 2" alt="pokemon-dai-chien-2" src="http://localhost:8000/images/game_avatar/pokemon-dai-chien-2-icon-1467942073.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Puzzle
+                                            Hành động
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					22229 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:68%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> In this mystical platform game the mother is separate from her son. Figure out how to move the child through all fragments and get him to his mommy. When...</p>
+            	<p> Là một game hành động cực hay tiếp nối người tiền nhiệm Pokemon quyết đấu, trò chơi này mang đến cho người chơi...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -565,30 +496,30 @@
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/sport-games/speedplay-soccer-4">
-									<img data-src="http://teengame.net/images/game_avatar/speedplay-soccer-4-icon-1473155426.jpg" alt="speedplay-soccer-4" class="swiper-lazy showTip el_291" />
+			<a href="http://localhost:8000/ban-gai-games/boi-tinh-yeu">
+									<img data-src="http://localhost:8000/images/game_avatar/boi-tinh-yeu-1449204379.jpg" alt="boi-tinh-yeu" class="swiper-lazy showTip el_13" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/sport-games/speedplay-soccer-4">Speedplay Soccer 4</a></h2>
+			<h2><a href="http://localhost:8000/ban-gai-games/boi-tinh-yeu">Bói tình yêu</a></h2>
 		</div>
 	    	</div>
-				<div id="el_291" class="tipContent">
-        <h2><a href="http://teengame.net/sport-games/speedplay-soccer-4">Speedplay Soccer 4</a></h2>
+				<div id="el_13" class="tipContent">
+        <h2><a href="http://localhost:8000/ban-gai-games/boi-tinh-yeu">Bói tình yêu</a></h2>
         <div class="tooltip_content">
-        	<img title="Speedplay Soccer 4" alt="speedplay-soccer-4" src="http://teengame.net/images/game_avatar/speedplay-soccer-4-icon-1473155426.jpg" />
+        	<img title="Bói tình yêu" alt="boi-tinh-yeu" src="http://localhost:8000/images/game_avatar/boi-tinh-yeu-1449204379.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Sport
+                                            Bạn gái
                                     </strong>
             	<div>
-            		    					1 plays
+            		    					19020 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:66%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> SpeedPlay World Soccer 4 is a great new soccer game. Select your favorite tournament, whether it&#39;s the Euro Cup or the Copa America, and start beating...</p>
+            	<p> Game Bói tình yêu thuộc thể loại trò chơi bạn gái, đây là game tình yêu rất được ưu thích. Bạn và người ấy...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -600,724 +531,30 @@
 																											<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/puzzle-games/snail-bob-8-island-story">
-									<img data-src="http://teengame.net/images/game_avatar/snail-bob-8-icon-1473069096.jpg" alt="snail-bob-8-island-story" class="swiper-lazy showTip el_290" />
+			<a href="http://localhost:8000/ban-gai-games/mua-sam-cung-rio">
+									<img data-src="http://localhost:8000/images/game_avatar/mua-sam-cung-rio-icon-1454306449.jpg" alt="mua-sam-cung-rio" class="swiper-lazy showTip el_268" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/puzzle-games/snail-bob-8-island-story">Snail Bob 8 Island Story</a></h2>
-		</div>
-	    	</div>
-				<div id="el_290" class="tipContent">
-        <h2><a href="http://teengame.net/puzzle-games/snail-bob-8-island-story">Snail Bob 8 Island Story</a></h2>
-        <div class="tooltip_content">
-        	<img title="Snail Bob 8 Island Story" alt="snail-bob-8-island-story" src="http://teengame.net/images/game_avatar/snail-bob-8-icon-1473069096.jpg" />
-            <div class="tooltip_text">
-                <span>Category: </span>
-                <strong>
-                                            Puzzle
-                                    </strong>
-            	<div>
-            		    					1 plays
-    				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
-    <div class="rate-stars"></div>
-</div>            	</div>
-            	<p> Snail Bob 8: Island Story is another physics-based puzzle game with the lazy sluggard Bob. Help Bob the Snail back home from the island full of puzzles...</p>
-            </div>
-            <div class="clearfix"></div>
-        </div>
-    </div>
-	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
-	<div class="item">
-	    <div class="item-image">
-			<a href="http://teengame.net/puzzle-games/snail-bob-7-fantasy-story">
-									<img data-src="http://teengame.net/images/game_avatar/snail-bob-7-icon-1473068842.jpg" alt="snail-bob-7-fantasy-story" class="swiper-lazy showTip el_289" />
-							</a>
-	    </div>
-	    <div class="item-title">
-			<h2><a href="http://teengame.net/puzzle-games/snail-bob-7-fantasy-story"> Snail Bob 7 Fantasy Story</a></h2>
-		</div>
-	    	</div>
-				<div id="el_289" class="tipContent">
-        <h2><a href="http://teengame.net/puzzle-games/snail-bob-7-fantasy-story">Snail Bob 7 Fantasy Story</a></h2>
-        <div class="tooltip_content">
-        	<img title="Snail Bob 7 Fantasy Story" alt="snail-bob-7-fantasy-story" src="http://teengame.net/images/game_avatar/snail-bob-7-icon-1473068842.jpg" />
-            <div class="tooltip_text">
-                <span>Category: </span>
-                <strong>
-                                            Puzzle
-                                    </strong>
-            	<div>
-            		    					1 plays
-    				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
-    <div class="rate-stars"></div>
-</div>            	</div>
-            	<p> Snail Bob returns with a new fantasy story. Help the cute slug to overcome all adventures by pointing and clicking on interactive spots. Much fun!
-
-How...</p>
-            </div>
-            <div class="clearfix"></div>
-        </div>
-    </div>
-	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
-	<div class="item">
-	    <div class="item-image">
-			<a href="http://teengame.net/puzzle-games/snail-bob-6-winter-story">
-									<img data-src="http://teengame.net/images/game_avatar/snail-bob-6-icon-1473068592.jpg" alt="snail-bob-6-winter-story" class="swiper-lazy showTip el_288" />
-							</a>
-	    </div>
-	    <div class="item-title">
-			<h2><a href="http://teengame.net/puzzle-games/snail-bob-6-winter-story">Snail Bob 6 Winter Story</a></h2>
-		</div>
-	    	</div>
-				<div id="el_288" class="tipContent">
-        <h2><a href="http://teengame.net/puzzle-games/snail-bob-6-winter-story">Snail Bob 6 Winter Story</a></h2>
-        <div class="tooltip_content">
-        	<img title="Snail Bob 6 Winter Story" alt="snail-bob-6-winter-story" src="http://teengame.net/images/game_avatar/snail-bob-6-icon-1473068592.jpg" />
-            <div class="tooltip_text">
-                <span>Category: </span>
-                <strong>
-                                            Puzzle
-                                    </strong>
-            	<div>
-            		    					1 plays
-    				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
-    <div class="rate-stars"></div>
-</div>            	</div>
-            	<p> Snail Bob 6 is another cool sequel of the popular platform game from A10. Keep Snail Bob alive in this puzzle-ridden winter wonderland. Enjoy!
-
-How to...</p>
-            </div>
-            <div class="clearfix"></div>
-        </div>
-    </div>
-	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
-	<div class="item">
-	    <div class="item-image">
-			<a href="http://teengame.net/puzzle-games/snail-bob-5-love-story">
-									<img data-src="http://teengame.net/images/game_avatar/snail-bob-5-icon-1473069619.jpg" alt="snail-bob-5-love-story" class="swiper-lazy showTip el_287" />
-							</a>
-	    </div>
-	    <div class="item-title">
-			<h2><a href="http://teengame.net/puzzle-games/snail-bob-5-love-story">Snail Bob 5 Love Story</a></h2>
-		</div>
-	    	</div>
-				<div id="el_287" class="tipContent">
-        <h2><a href="http://teengame.net/puzzle-games/snail-bob-5-love-story">Snail Bob 5 Love Story</a></h2>
-        <div class="tooltip_content">
-        	<img title="Snail Bob 5 Love Story" alt="snail-bob-5-love-story" src="http://teengame.net/images/game_avatar/snail-bob-5-icon-1473069619.jpg" />
-            <div class="tooltip_text">
-                <span>Category: </span>
-                <strong>
-                                            Puzzle
-                                    </strong>
-            	<div>
-            		    					1 plays
-    				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
-    <div class="rate-stars"></div>
-</div>            	</div>
-            	<p> Love is in the air for the world&#39;s most famous snail. Help Bob in this fun sequel to make his way through each stage to the exit to win his beloved...</p>
-            </div>
-            <div class="clearfix"></div>
-        </div>
-    </div>
-	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
-	<div class="item">
-	    <div class="item-image">
-			<a href="http://teengame.net/puzzle-games/snail-bob-4-space">
-									<img data-src="http://teengame.net/images/game_avatar/snail-bob-4-icon-1473067748.jpg" alt="snail-bob-4-space" class="swiper-lazy showTip el_286" />
-							</a>
-	    </div>
-	    <div class="item-title">
-			<h2><a href="http://teengame.net/puzzle-games/snail-bob-4-space">Snail Bob 4 Space</a></h2>
-		</div>
-	    	</div>
-				<div id="el_286" class="tipContent">
-        <h2><a href="http://teengame.net/puzzle-games/snail-bob-4-space">Snail Bob 4 Space</a></h2>
-        <div class="tooltip_content">
-        	<img title="Snail Bob 4 Space" alt="snail-bob-4-space" src="http://teengame.net/images/game_avatar/snail-bob-4-icon-1473067748.jpg" />
-            <div class="tooltip_text">
-                <span>Category: </span>
-                <strong>
-                                            Puzzle
-                                    </strong>
-            	<div>
-            		    					1 plays
-    				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
-    <div class="rate-stars"></div>
-</div>            	</div>
-            	<p> Snail Bob 4 is here, ready to save our lovely planet one more time. In the fourth sequel you have to attend our beloved slowpoke to an adventurous mission...</p>
-            </div>
-            <div class="clearfix"></div>
-        </div>
-    </div>
-	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
-	<div class="item">
-	    <div class="item-image">
-			<a href="http://teengame.net/puzzle-games/snail-bob-3">
-									<img data-src="http://teengame.net/images/game_avatar/snail-bob-3-icon-1473067388.jpg" alt="snail-bob-3" class="swiper-lazy showTip el_285" />
-							</a>
-	    </div>
-	    <div class="item-title">
-			<h2><a href="http://teengame.net/puzzle-games/snail-bob-3">Snail Bob 3</a></h2>
-		</div>
-	    	</div>
-				<div id="el_285" class="tipContent">
-        <h2><a href="http://teengame.net/puzzle-games/snail-bob-3">Snail Bob 3</a></h2>
-        <div class="tooltip_content">
-        	<img title="Snail Bob 3" alt="snail-bob-3" src="http://teengame.net/images/game_avatar/snail-bob-3-icon-1473067388.jpg" />
-            <div class="tooltip_text">
-                <span>Category: </span>
-                <strong>
-                                            Puzzle
-                                    </strong>
-            	<div>
-            		    					1 plays
-    				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
-    <div class="rate-stars"></div>
-</div>            	</div>
-            	<p> Snail Bob 3 is the brandnew sequel of the fun physics-based puzzle game, created by Andrey Kovalishin. This time the popular snail Bob traveled to the...</p>
-            </div>
-            <div class="clearfix"></div>
-        </div>
-    </div>
-	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
-	<div class="item">
-	    <div class="item-image">
-			<a href="http://teengame.net/puzzle-games/snail-bob-2">
-									<img data-src="http://teengame.net/images/game_avatar/snail-bob-2-icon-1473066874.jpg" alt="snail-bob-2" class="swiper-lazy showTip el_284" />
-							</a>
-	    </div>
-	    <div class="item-title">
-			<h2><a href="http://teengame.net/puzzle-games/snail-bob-2">Snail Bob 2</a></h2>
-		</div>
-	    	</div>
-				<div id="el_284" class="tipContent">
-        <h2><a href="http://teengame.net/puzzle-games/snail-bob-2">Snail Bob 2</a></h2>
-        <div class="tooltip_content">
-        	<img title="Snail Bob 2" alt="snail-bob-2" src="http://teengame.net/images/game_avatar/snail-bob-2-icon-1473066874.jpg" />
-            <div class="tooltip_text">
-                <span>Category: </span>
-                <strong>
-                                            Puzzle
-                                    </strong>
-            	<div>
-            		    					1 plays
-    				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
-    <div class="rate-stars"></div>
-</div>            	</div>
-            	<p> Snail Bob 2 is another cool physics puzzle game made by Hunter Hamster. A dangerous forest stands between Snail Bob and his Grandpa. Guide Bob through...</p>
-            </div>
-            <div class="clearfix"></div>
-        </div>
-    </div>
-	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
-	<div class="item">
-	    <div class="item-image">
-			<a href="http://teengame.net/puzzle-games/snail-bob">
-									<img data-src="http://teengame.net/images/game_avatar/snail-bob-icon-1473059160.jpg" alt="snail-bob" class="swiper-lazy showTip el_283" />
-							</a>
-	    </div>
-	    <div class="item-title">
-			<h2><a href="http://teengame.net/puzzle-games/snail-bob">Snail Bob</a></h2>
-		</div>
-	    	</div>
-				<div id="el_283" class="tipContent">
-        <h2><a href="http://teengame.net/puzzle-games/snail-bob">Snail Bob</a></h2>
-        <div class="tooltip_content">
-        	<img title="Snail Bob" alt="snail-bob" src="http://teengame.net/images/game_avatar/snail-bob-icon-1473059160.jpg" />
-            <div class="tooltip_text">
-                <span>Category: </span>
-                <strong>
-                                            Puzzle
-                                    </strong>
-            	<div>
-            		    					2 plays
-    				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
-    <div class="rate-stars"></div>
-</div>            	</div>
-            	<p> Snail Bob is a new physics based puzzle game from Andrey Kovalishin. Snail Bob is lost, help him to find the right path. Use tools to guide Bob through...</p>
-            </div>
-            <div class="clearfix"></div>
-        </div>
-    </div>
-	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
-	<div class="item">
-	    <div class="item-image">
-			<a href="http://teengame.net/action-games/tu-95">
-									<img data-src="http://teengame.net/images/game_avatar/tu-95-icon-1472723911.jpg" alt="tu-95" class="swiper-lazy showTip el_282" />
-							</a>
-	    </div>
-	    <div class="item-title">
-			<h2><a href="http://teengame.net/action-games/tu-95">TU 95</a></h2>
-		</div>
-	    	</div>
-				<div id="el_282" class="tipContent">
-        <h2><a href="http://teengame.net/action-games/tu-95">TU 95</a></h2>
-        <div class="tooltip_content">
-        	<img title="TU 95" alt="tu-95" src="http://teengame.net/images/game_avatar/tu-95-icon-1472723911.jpg" />
-            <div class="tooltip_text">
-                <span>Category: </span>
-                <strong>
-                                            Action
-                                    </strong>
-            	<div>
-            		    					3 plays
-    				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
-    <div class="rate-stars"></div>
-</div>            	</div>
-            	<p> Mission of Tupolev 95 (TU 95) is to control, fly and land this soviet bomber. Learn to steer the plane and become a successful bomber pilot in the soviet...</p>
-            </div>
-            <div class="clearfix"></div>
-        </div>
-    </div>
-	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
-	<div class="item">
-	    <div class="item-image">
-			<a href="http://teengame.net/action-games/tu-46">
-									<img data-src="http://teengame.net/images/game_avatar/TU-46-icon-1472723844.jpg" alt="tu-46" class="swiper-lazy showTip el_281" />
-							</a>
-	    </div>
-	    <div class="item-title">
-			<h2><a href="http://teengame.net/action-games/tu-46">TU 46</a></h2>
-		</div>
-	    	</div>
-				<div id="el_281" class="tipContent">
-        <h2><a href="http://teengame.net/action-games/tu-46">TU 46</a></h2>
-        <div class="tooltip_content">
-        	<img title="TU 46" alt="tu-46" src="http://teengame.net/images/game_avatar/TU-46-icon-1472723844.jpg" />
-            <div class="tooltip_text">
-                <span>Category: </span>
-                <strong>
-                                            Action
-                                    </strong>
-            	<div>
-            		    					2 plays
-    				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
-    <div class="rate-stars"></div>
-</div>            	</div>
-            	<p> TU-46 is another cool airline simulator inspired by TU-95. You get to control the brand new passenger aircrafts from Tupolev. Deliver passengers around 6...</p>
-            </div>
-            <div class="clearfix"></div>
-        </div>
-    </div>
-	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
-	<div class="item">
-	    <div class="item-image">
-			<a href="http://teengame.net/strategy-games/swords-and-souls">
-									<img data-src="http://teengame.net/images/game_avatar/swords-and-souls-icon-1472723720.jpg" alt="swords-and-souls" class="swiper-lazy showTip el_280" />
-							</a>
-	    </div>
-	    <div class="item-title">
-			<h2><a href="http://teengame.net/strategy-games/swords-and-souls">Swords And Souls</a></h2>
-		</div>
-	    	</div>
-				<div id="el_280" class="tipContent">
-        <h2><a href="http://teengame.net/strategy-games/swords-and-souls">Swords And Souls</a></h2>
-        <div class="tooltip_content">
-        	<img title="Swords And Souls" alt="swords-and-souls" src="http://teengame.net/images/game_avatar/swords-and-souls-icon-1472723720.jpg" />
-            <div class="tooltip_text">
-                <span>Category: </span>
-                <strong>
-                                            Strategy
-                                    </strong>
-            	<div>
-            		    					2 plays
-    				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
-    <div class="rate-stars"></div>
-</div>            	</div>
-            	<p> Welcome to Soul Town! Design your Soul, train him and step into the Arena! Unlock new skills, buy new equipment and make your way to the top in this...</p>
-            </div>
-            <div class="clearfix"></div>
-        </div>
-    </div>
-	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
-	<div class="item">
-	    <div class="item-image">
-			<a href="http://teengame.net/action-games/stunt-pilot">
-									<img data-src="http://teengame.net/images/game_avatar/stunt-pilot-icon-1472723527.jpg" alt="stunt-pilot" class="swiper-lazy showTip el_279" />
-							</a>
-	    </div>
-	    <div class="item-title">
-			<h2><a href="http://teengame.net/action-games/stunt-pilot">Stunt Pilot</a></h2>
-		</div>
-	    	</div>
-				<div id="el_279" class="tipContent">
-        <h2><a href="http://teengame.net/action-games/stunt-pilot">Stunt Pilot</a></h2>
-        <div class="tooltip_content">
-        	<img title="Stunt Pilot" alt="stunt-pilot" src="http://teengame.net/images/game_avatar/stunt-pilot-icon-1472723527.jpg" />
-            <div class="tooltip_text">
-                <span>Category: </span>
-                <strong>
-                                            Action
-                                    </strong>
-            	<div>
-            		    					2 plays
-    				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
-    <div class="rate-stars"></div>
-</div>            	</div>
-            	<p> Mission of Stunt Pilot is to complete all the courses without crashing! Control the plane with the arrow keys and pilot your stunt plane through various...</p>
-            </div>
-            <div class="clearfix"></div>
-        </div>
-    </div>
-	</div>																	</div>
-							</div>
-													<div class="swiper-slide boxgame">
-								<div class="row">
-																											<div class="col-xs-4 col-sm-3 col-md-2">
-	<div class="item">
-	    <div class="item-image">
-			<a href="http://teengame.net/action-games/speedboat-shooting">
-									<img data-src="http://teengame.net/images/game_avatar/speedboat-shooting-icon-1472723427.jpg" alt="speedboat-shooting" class="swiper-lazy showTip el_278" />
-							</a>
-	    </div>
-	    <div class="item-title">
-			<h2><a href="http://teengame.net/action-games/speedboat-shooting">Speedboat Shooting</a></h2>
-		</div>
-	    	</div>
-				<div id="el_278" class="tipContent">
-        <h2><a href="http://teengame.net/action-games/speedboat-shooting">Speedboat Shooting</a></h2>
-        <div class="tooltip_content">
-        	<img title="Speedboat Shooting" alt="speedboat-shooting" src="http://teengame.net/images/game_avatar/speedboat-shooting-icon-1472723427.jpg" />
-            <div class="tooltip_text">
-                <span>Category: </span>
-                <strong>
-                                            Action
-                                    </strong>
-            	<div>
-            		    					2 plays
-    				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
-    <div class="rate-stars"></div>
-</div>            	</div>
-            	<p> Enemy chasers keep after a speedboat like crazy, ready to shoot it down. So it&#39;s up to you to guard the race boat from all attackers by using a...</p>
-            </div>
-            <div class="clearfix"></div>
-        </div>
-    </div>
-	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
-	<div class="item">
-	    <div class="item-image">
-			<a href="http://teengame.net/puzzle-games/shape-fold-animals">
-									<img data-src="http://teengame.net/images/game_avatar/shape-fold-animals-icon-1472723127.jpg" alt="shape-fold-animals" class="swiper-lazy showTip el_277" />
-							</a>
-	    </div>
-	    <div class="item-title">
-			<h2><a href="http://teengame.net/puzzle-games/shape-fold-animals">Shape Fold Animals</a></h2>
-		</div>
-	    	</div>
-				<div id="el_277" class="tipContent">
-        <h2><a href="http://teengame.net/puzzle-games/shape-fold-animals">Shape Fold Animals</a></h2>
-        <div class="tooltip_content">
-        	<img title="Shape Fold Animals" alt="shape-fold-animals" src="http://teengame.net/images/game_avatar/shape-fold-animals-icon-1472723127.jpg" />
-            <div class="tooltip_text">
-                <span>Category: </span>
-                <strong>
-                                            Puzzle
-                                    </strong>
-            	<div>
-            		    					2 plays
-    				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
-    <div class="rate-stars"></div>
-</div>            	</div>
-            	<p> Shape Fold Animals is a classic puzzle game. Your mission? Move or rotate the shapes and create animals. Can you put together each of these paper...</p>
-            </div>
-            <div class="clearfix"></div>
-        </div>
-    </div>
-	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
-	<div class="item">
-	    <div class="item-image">
-			<a href="http://teengame.net/fashion-games/red-riding-hood-and-snow-white-hollywood-divas">
-									<img data-src="http://teengame.net/images/game_avatar/red-riding-hood-and-snow-white-hollywood-divas-icon-1472722687.jpg" alt="red-riding-hood-and-snow-white-hollywood-divas" class="swiper-lazy showTip el_276" />
-							</a>
-	    </div>
-	    <div class="item-title">
-			<h2><a href="http://teengame.net/fashion-games/red-riding-hood-and-snow-white-hollywood-divas"> Red Riding Hood And Snow...</a></h2>
-		</div>
-	    	</div>
-				<div id="el_276" class="tipContent">
-        <h2><a href="http://teengame.net/fashion-games/red-riding-hood-and-snow-white-hollywood-divas">Red Riding Hood And Snow White Hollywood Divas</a></h2>
-        <div class="tooltip_content">
-        	<img title="Red Riding Hood And Snow White Hollywood Divas" alt="red-riding-hood-and-snow-white-hollywood-divas" src="http://teengame.net/images/game_avatar/red-riding-hood-and-snow-white-hollywood-divas-icon-1472722687.jpg" />
-            <div class="tooltip_text">
-                <span>Category: </span>
-                <strong>
-                                            Fashion
-                                    </strong>
-            	<div>
-            		    					2 plays
-    				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
-    <div class="rate-stars"></div>
-</div>            	</div>
-            	<p> We would like you girls to join us today within all these interesting and cute categories, because we have uploaded nothing but the most exciting and fun...</p>
-            </div>
-            <div class="clearfix"></div>
-        </div>
-    </div>
-	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
-	<div class="item">
-	    <div class="item-image">
-			<a href="http://teengame.net/cooking-games/papas-cupcakeria">
-									<img data-src="http://teengame.net/images/game_avatar/papascupcakeria-icon-1472722521.jpg" alt="papas-cupcakeria" class="swiper-lazy showTip el_275" />
-							</a>
-	    </div>
-	    <div class="item-title">
-			<h2><a href="http://teengame.net/cooking-games/papas-cupcakeria">Papa's Cupcakeria</a></h2>
-		</div>
-	    	</div>
-				<div id="el_275" class="tipContent">
-        <h2><a href="http://teengame.net/cooking-games/papas-cupcakeria">Papa's Cupcakeria</a></h2>
-        <div class="tooltip_content">
-        	<img title="Papa's Cupcakeria" alt="papas-cupcakeria" src="http://teengame.net/images/game_avatar/papascupcakeria-icon-1472722521.jpg" />
-            <div class="tooltip_text">
-                <span>Category: </span>
-                <strong>
-                                            Cooking
-                                    </strong>
-            	<div>
-            		    					2 plays
-    				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
-    <div class="rate-stars"></div>
-</div>            	</div>
-            	<p> Bake cupcakes in Papa&#39;s Bakery to earn cash! You will begin by training at the restaurant. Learn how to take orders, mix batter, and bake cupcakes....</p>
-            </div>
-            <div class="clearfix"></div>
-        </div>
-    </div>
-	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
-	<div class="item">
-	    <div class="item-image">
-			<a href="http://teengame.net/cooking-games/papas-cheeseria">
-									<img data-src="http://teengame.net/images/game_avatar/papascheeseria-icon-1472722256.jpg" alt="papas-cheeseria" class="swiper-lazy showTip el_274" />
-							</a>
-	    </div>
-	    <div class="item-title">
-			<h2><a href="http://teengame.net/cooking-games/papas-cheeseria">Papa's Cheeseria</a></h2>
-		</div>
-	    	</div>
-				<div id="el_274" class="tipContent">
-        <h2><a href="http://teengame.net/cooking-games/papas-cheeseria">Papa's Cheeseria</a></h2>
-        <div class="tooltip_content">
-        	<img title="Papa's Cheeseria" alt="papas-cheeseria" src="http://teengame.net/images/game_avatar/papascheeseria-icon-1472722256.jpg" />
-            <div class="tooltip_text">
-                <span>Category: </span>
-                <strong>
-                                            Cooking
-                                    </strong>
-            	<div>
-            		    					2 plays
-    				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
-    <div class="rate-stars"></div>
-</div>            	</div>
-            	<p> Cook gooey, grilled cheese sandwiches for hungry customers! Papa’s Cheeseria puts you back behind the counter, where you will serve made-to-order meals....</p>
-            </div>
-            <div class="clearfix"></div>
-        </div>
-    </div>
-	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
-	<div class="item">
-	    <div class="item-image">
-			<a href="http://teengame.net/action-games/metal-slug-brutal">
-									<img data-src="http://teengame.net/images/game_avatar/metalslug-brutal-icon-1472721977.jpg" alt="metal-slug-brutal" class="swiper-lazy showTip el_273" />
-							</a>
-	    </div>
-	    <div class="item-title">
-			<h2><a href="http://teengame.net/action-games/metal-slug-brutal">Metal Slug Brutal</a></h2>
-		</div>
-	    	</div>
-				<div id="el_273" class="tipContent">
-        <h2><a href="http://teengame.net/action-games/metal-slug-brutal">Metal Slug Brutal</a></h2>
-        <div class="tooltip_content">
-        	<img title="Metal Slug Brutal" alt="metal-slug-brutal" src="http://teengame.net/images/game_avatar/metalslug-brutal-icon-1472721977.jpg" />
-            <div class="tooltip_text">
-                <span>Category: </span>
-                <strong>
-                                            Action
-                                    </strong>
-            	<div>
-            		    					2 plays
-    				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
-    <div class="rate-stars"></div>
-</div>            	</div>
-            	<p> Get into the skin of the bloody Metal Slug command. Eliminate all the enemy soldiers and destroy the military facilities on your way.
-
-How to...</p>
-            </div>
-            <div class="clearfix"></div>
-        </div>
-    </div>
-	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
-	<div class="item">
-	    <div class="item-image">
-			<a href="http://teengame.net/racing-games/max-fury-death-racer">
-									<img data-src="http://teengame.net/images/game_avatar/max_fury-icon-1472721803.jpg" alt="max-fury-death-racer" class="swiper-lazy showTip el_272" />
-							</a>
-	    </div>
-	    <div class="item-title">
-			<h2><a href="http://teengame.net/racing-games/max-fury-death-racer">Max Fury Death Racer</a></h2>
-		</div>
-	    	</div>
-				<div id="el_272" class="tipContent">
-        <h2><a href="http://teengame.net/racing-games/max-fury-death-racer">Max Fury Death Racer</a></h2>
-        <div class="tooltip_content">
-        	<img title="Max Fury Death Racer" alt="max-fury-death-racer" src="http://teengame.net/images/game_avatar/max_fury-icon-1472721803.jpg" />
-            <div class="tooltip_text">
-                <span>Category: </span>
-                <strong>
-                                            Racing
-                                    </strong>
-            	<div>
-            		    					2 plays
-    				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
-    <div class="rate-stars"></div>
-</div>            	</div>
-            	<p> Max Fury Death Racer is the racing game for the ultimate fun! Drive your tiny car as fast as you can, shoot other racers, perform flips, collect stuff and...</p>
-            </div>
-            <div class="clearfix"></div>
-        </div>
-    </div>
-	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
-	<div class="item">
-	    <div class="item-image">
-			<a href="http://teengame.net/action-games/mad-day-2">
-									<img data-src="http://teengame.net/images/game_avatar/mad-day-2-icon-1472721648.jpg" alt="mad-day-2" class="swiper-lazy showTip el_271" />
-							</a>
-	    </div>
-	    <div class="item-title">
-			<h2><a href="http://teengame.net/action-games/mad-day-2">Mad Day 2</a></h2>
-		</div>
-	    	</div>
-				<div id="el_271" class="tipContent">
-        <h2><a href="http://teengame.net/action-games/mad-day-2">Mad Day 2</a></h2>
-        <div class="tooltip_content">
-        	<img title="Mad Day 2" alt="mad-day-2" src="http://teengame.net/images/game_avatar/mad-day-2-icon-1472721648.jpg" />
-            <div class="tooltip_text">
-                <span>Category: </span>
-                <strong>
-                                            Action
-                                    </strong>
-            	<div>
-            		    					2 plays
-    				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
-    <div class="rate-stars"></div>
-</div>            	</div>
-            	<p> It&#39;s the second mad day you have since the alien plague arrived mother Earth. Drive and gun your way through the whole map. Survive for as long as you...</p>
-            </div>
-            <div class="clearfix"></div>
-        </div>
-    </div>
-	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
-	<div class="item">
-	    <div class="item-image">
-			<a href="http://teengame.net/strategy-games/juicy-bazooka">
-									<img data-src="http://teengame.net/images/game_avatar/juicy-bazooka-icon-1472721527.jpg" alt="juicy-bazooka" class="swiper-lazy showTip el_270" />
-							</a>
-	    </div>
-	    <div class="item-title">
-			<h2><a href="http://teengame.net/strategy-games/juicy-bazooka">Juicy Bazooka</a></h2>
-		</div>
-	    	</div>
-				<div id="el_270" class="tipContent">
-        <h2><a href="http://teengame.net/strategy-games/juicy-bazooka">Juicy Bazooka</a></h2>
-        <div class="tooltip_content">
-        	<img title="Juicy Bazooka" alt="juicy-bazooka" src="http://teengame.net/images/game_avatar/juicy-bazooka-icon-1472721527.jpg" />
-            <div class="tooltip_text">
-                <span>Category: </span>
-                <strong>
-                                            Strategy
-                                    </strong>
-            	<div>
-            		    					2 plays
-    				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
-    <div class="rate-stars"></div>
-</div>            	</div>
-            	<p> This rugged-looking guy with three-day stubble needs your help to get rid of baddies as vengeance for stealing his food in Juicy Bazooka, a fun shooting...</p>
-            </div>
-            <div class="clearfix"></div>
-        </div>
-    </div>
-	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
-	<div class="item">
-	    <div class="item-image">
-			<a href="http://teengame.net/funny-games/judy-hopps-and-nick-wilde-kissing">
-									<img data-src="http://teengame.net/images/game_avatar/judy_hopps_and_nick_wilde_kissing-icon-1472714936.jpg" alt="judy-hopps-and-nick-wilde-kissing" class="swiper-lazy showTip el_269" />
-							</a>
-	    </div>
-	    <div class="item-title">
-			<h2><a href="http://teengame.net/funny-games/judy-hopps-and-nick-wilde-kissing"> Judy Hopps And Nick Wilde...</a></h2>
-		</div>
-	    	</div>
-				<div id="el_269" class="tipContent">
-        <h2><a href="http://teengame.net/funny-games/judy-hopps-and-nick-wilde-kissing">Judy Hopps And Nick Wilde Kissing</a></h2>
-        <div class="tooltip_content">
-        	<img title="Judy Hopps And Nick Wilde Kissing" alt="judy-hopps-and-nick-wilde-kissing" src="http://teengame.net/images/game_avatar/judy_hopps_and_nick_wilde_kissing-icon-1472714936.jpg" />
-            <div class="tooltip_text">
-                <span>Category: </span>
-                <strong>
-                                            Funny
-                                    </strong>
-            	<div>
-            		    					2 plays
-    				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
-    <div class="rate-stars"></div>
-</div>            	</div>
-            	<p> Enjoy a new kissing game featuring your characters from Zootopia,Judy Hopps and Nick Wilde.They are living a love story and you can take part to their...</p>
-            </div>
-            <div class="clearfix"></div>
-        </div>
-    </div>
-	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
-	<div class="item">
-	    <div class="item-image">
-			<a href="http://teengame.net/action-games/fury-clicker">
-									<img data-src="http://teengame.net/images/game_avatar/fury-clicker-icon-1472714727.jpg" alt="fury-clicker" class="swiper-lazy showTip el_268" />
-							</a>
-	    </div>
-	    <div class="item-title">
-			<h2><a href="http://teengame.net/action-games/fury-clicker">Fury Clicker</a></h2>
+			<h2><a href="http://localhost:8000/ban-gai-games/mua-sam-cung-rio">Mua sắm cùng Rio</a></h2>
 		</div>
 	    	</div>
 				<div id="el_268" class="tipContent">
-        <h2><a href="http://teengame.net/action-games/fury-clicker">Fury Clicker</a></h2>
+        <h2><a href="http://localhost:8000/ban-gai-games/mua-sam-cung-rio">Mua sắm cùng Rio</a></h2>
         <div class="tooltip_content">
-        	<img title="Fury Clicker" alt="fury-clicker" src="http://teengame.net/images/game_avatar/fury-clicker-icon-1472714727.jpg" />
+        	<img title="Mua sắm cùng Rio" alt="mua-sam-cung-rio" src="http://localhost:8000/images/game_avatar/mua-sam-cung-rio-icon-1454306449.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Action
+                                            Bạn gái
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					10474 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:66%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Kill all the rebels and leave no man alive. Increase and upgrade your units and defense. See how far you can go in this killing madness!
-
-How to...</p>
+            	<p> Cô nàng Rio đang rất háo hức cho buổi gặp mặt với các bạn vào cuối tuần, Rio muốn mình thật nổi bật trong buổi lễ...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -1325,30 +562,340 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/girl-games/elsa-dish-washing-realife">
-									<img data-src="http://teengame.net/images/game_avatar/ellie-dish-washing-realife-icon-1472714547.jpg" alt="elsa-dish-washing-realife" class="swiper-lazy showTip el_267" />
+			<a href="http://localhost:8000/tri-tue-games/do-vui-hai-nao">
+									<img data-src="http://localhost:8000/images/game_avatar/do-vui-hai-nao-icon-1471924515.PNG" alt="do-vui-hai-nao" class="swiper-lazy showTip el_1293" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/girl-games/elsa-dish-washing-realife"> Elsa Dish Washing Realife</a></h2>
+			<h2><a href="http://localhost:8000/tri-tue-games/do-vui-hai-nao">Đố Vui Hại Não</a></h2>
 		</div>
 	    	</div>
-				<div id="el_267" class="tipContent">
-        <h2><a href="http://teengame.net/girl-games/elsa-dish-washing-realife">Elsa Dish Washing Realife</a></h2>
+				<div id="el_1293" class="tipContent">
+        <h2><a href="http://localhost:8000/tri-tue-games/do-vui-hai-nao">Đố Vui Hại Não</a></h2>
         <div class="tooltip_content">
-        	<img title="Elsa Dish Washing Realife" alt="elsa-dish-washing-realife" src="http://teengame.net/images/game_avatar/ellie-dish-washing-realife-icon-1472714547.jpg" />
+        	<img title="Đố Vui Hại Não" alt="do-vui-hai-nao" src="http://localhost:8000/images/game_avatar/do-vui-hai-nao-icon-1471924515.PNG" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Girl
+                                            Trí tuệ
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					9881 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:66%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> What do you say about a new and fun online game, a new game in which you are about to spend some time with one of your favorite disney princesses. Today...</p>
+            	<p> Đố Vui Hại Não là một trò chơi trí tuệ vô cùng hấp dẫn giành cho mọi lứa tuổi, sở hữu những câu đố vui hại não...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/tri-tue-games/ai-la-trieu-phu">
+									<img data-src="http://localhost:8000/images/game_avatar/ai-la-trieu-phu-1459225024.jpg" alt="ai-la-trieu-phu" class="swiper-lazy showTip el_76" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/tri-tue-games/ai-la-trieu-phu">Ai là triệu phú</a></h2>
+		</div>
+	    	</div>
+				<div id="el_76" class="tipContent">
+        <h2><a href="http://localhost:8000/tri-tue-games/ai-la-trieu-phu">Ai là triệu phú</a></h2>
+        <div class="tooltip_content">
+        	<img title="Ai là triệu phú" alt="ai-la-trieu-phu" src="http://localhost:8000/images/game_avatar/ai-la-trieu-phu-1459225024.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Trí tuệ
+                                    </strong>
+            	<div>
+            		    					9820 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:74%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Ai là triệu phú là một  trò chơi trí tuệ kinh điển mô phỏng lại một gameshow truyền hình đang được đông đảo...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/tri-tue-games/o-an-quan">
+									<img data-src="http://localhost:8000/images/game_avatar/o-an-quan-icon-1462865438.jpg" alt="o-an-quan" class="swiper-lazy showTip el_595" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/tri-tue-games/o-an-quan">Ô Ăn Quan</a></h2>
+		</div>
+	    	</div>
+				<div id="el_595" class="tipContent">
+        <h2><a href="http://localhost:8000/tri-tue-games/o-an-quan">Ô Ăn Quan</a></h2>
+        <div class="tooltip_content">
+        	<img title="Ô Ăn Quan" alt="o-an-quan" src="http://localhost:8000/images/game_avatar/o-an-quan-icon-1462865438.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Trí tuệ
+                                    </strong>
+            	<div>
+            		    					9025 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:64%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Game Ô Ăn Quan từ lâu đã được biết đến là một trò chơi dân gian vô cùng quen thuộc với trẻ em Việt. Đây là một game...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/thoi-trang-games/kawaii-xinh-dep">
+									<img data-src="http://localhost:8000/images/game_avatar/Kawaii-xinh-dep-1449202578.jpg" alt="kawaii-xinh-dep" class="swiper-lazy showTip el_73" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/thoi-trang-games/kawaii-xinh-dep">Kawaii xinh đẹp</a></h2>
+		</div>
+	    	</div>
+				<div id="el_73" class="tipContent">
+        <h2><a href="http://localhost:8000/thoi-trang-games/kawaii-xinh-dep">Kawaii xinh đẹp</a></h2>
+        <div class="tooltip_content">
+        	<img title="Kawaii xinh đẹp" alt="kawaii-xinh-dep" src="http://localhost:8000/images/game_avatar/Kawaii-xinh-dep-1449202578.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Thời trang
+                                    </strong>
+            	<div>
+            		    					8486 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:64%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Ngày hè nóng bức, cô nàng Kawaii muốn cùng bạn bè đến công viên dạo mát. Hãy chọn một bộ váy thật rực rỡ để...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/thoi-trang-games/tiem-ao-cuoi-tina">
+									<img data-src="http://localhost:8000/images/game_avatar/tiem-ao-cuoi-tina-icon-1456536938.jpg" alt="tiem-ao-cuoi-tina" class="swiper-lazy showTip el_359" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/thoi-trang-games/tiem-ao-cuoi-tina">Tiệm áo cưới tina</a></h2>
+		</div>
+	    	</div>
+				<div id="el_359" class="tipContent">
+        <h2><a href="http://localhost:8000/thoi-trang-games/tiem-ao-cuoi-tina">Tiệm áo cưới tina</a></h2>
+        <div class="tooltip_content">
+        	<img title="Tiệm áo cưới tina" alt="tiem-ao-cuoi-tina" src="http://localhost:8000/images/game_avatar/tiem-ao-cuoi-tina-icon-1456536938.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Thời trang
+                                    </strong>
+            	<div>
+            		    					7817 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:62%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Tiệm áo cưới Tina - My wedding là game bạn gái vô cùng hấp dẫn. Cô nàng Tina  mới khai trương shop chuyên đồ cưới, lượng...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/thoi-trang-games/tieu-thu-quyen-quy">
+									<img data-src="http://localhost:8000/images/game_avatar/tieu-thu-quyen-quy-1449202357.jpg" alt="tieu-thu-quyen-quy" class="swiper-lazy showTip el_74" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/thoi-trang-games/tieu-thu-quyen-quy">Tiểu thư quyền quý</a></h2>
+		</div>
+	    	</div>
+				<div id="el_74" class="tipContent">
+        <h2><a href="http://localhost:8000/thoi-trang-games/tieu-thu-quyen-quy">Tiểu thư quyền quý</a></h2>
+        <div class="tooltip_content">
+        	<img title="Tiểu thư quyền quý" alt="tieu-thu-quyen-quy" src="http://localhost:8000/images/game_avatar/tieu-thu-quyen-quy-1449202357.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Thời trang
+                                    </strong>
+            	<div>
+            		    					7347 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:66%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Với những mem yêu thích thời trang thì đây quả là một game tuyệt vời dành cho họ. Trong game thời trang Tiểu thư quyền quý...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/ban-gai-games/boi-cong-chua">
+									<img data-src="http://localhost:8000/images/game_avatar/boi-cong-chua-icon-1466145328.jpg" alt="boi-cong-chua" class="swiper-lazy showTip el_913" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/ban-gai-games/boi-cong-chua">Bói công chúa</a></h2>
+		</div>
+	    	</div>
+				<div id="el_913" class="tipContent">
+        <h2><a href="http://localhost:8000/ban-gai-games/boi-cong-chua">Bói công chúa</a></h2>
+        <div class="tooltip_content">
+        	<img title="Bói công chúa" alt="boi-cong-chua" src="http://localhost:8000/images/game_avatar/boi-cong-chua-icon-1466145328.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Bạn gái
+                                    </strong>
+            	<div>
+            		    					7315 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:64%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Được trở thành nàng công chúa xinh đẹp và lộng lẫy nhất trên trần gian là niềm mơ ước của biết bao nhiêu cô gái. Tuy...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/nau-an-games/dau-bep-de-thuong">
+									<img data-src="http://localhost:8000/images/game_avatar/dau-bep-de-thuong-icon-1454307863.jpg" alt="dau-bep-de-thuong" class="swiper-lazy showTip el_275" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/nau-an-games/dau-bep-de-thuong"> Đầu bếp dễ...</a></h2>
+		</div>
+	    	</div>
+				<div id="el_275" class="tipContent">
+        <h2><a href="http://localhost:8000/nau-an-games/dau-bep-de-thuong">Đầu bếp dễ thương</a></h2>
+        <div class="tooltip_content">
+        	<img title="Đầu bếp dễ thương" alt="dau-bep-de-thuong" src="http://localhost:8000/images/game_avatar/dau-bep-de-thuong-icon-1454307863.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Nấu ăn
+                                    </strong>
+            	<div>
+            		    					7295 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:60%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Bạn yêu thích nấu ăn? Bạn luôn muốn tự tay làm bánh tặng cho người thân, bạn bè? Bạn không biết làm thế nào để...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/thoi-trang-games/thoi-trang-cong-chua">
+									<img data-src="http://localhost:8000/images/game_avatar/thoi-trang-cong-chua-icon-1462330548.jpg" alt="thoi-trang-cong-chua" class="swiper-lazy showTip el_558" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/thoi-trang-games/thoi-trang-cong-chua">Thời trang công chúa</a></h2>
+		</div>
+	    	</div>
+				<div id="el_558" class="tipContent">
+        <h2><a href="http://localhost:8000/thoi-trang-games/thoi-trang-cong-chua">Thời trang công chúa</a></h2>
+        <div class="tooltip_content">
+        	<img title="Thời trang công chúa" alt="thoi-trang-cong-chua" src="http://localhost:8000/images/game_avatar/thoi-trang-cong-chua-icon-1462330548.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Thời trang
+                                    </strong>
+            	<div>
+            		    					7201 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:64%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Thời trang công chúa là một game thời trang cực hay giành cho mọi lứa tuổi nhất là với các bé gái. Cùng trở về thế giới...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/dua-xe-games/dua-xe-ban-sung">
+									<img data-src="http://localhost:8000/images/game_avatar/dua-xe-ban-sung-1449203691.jpg" alt="dua-xe-ban-sung" class="swiper-lazy showTip el_38" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/dua-xe-games/dua-xe-ban-sung">Đua xe bắn súng</a></h2>
+		</div>
+	    	</div>
+				<div id="el_38" class="tipContent">
+        <h2><a href="http://localhost:8000/dua-xe-games/dua-xe-ban-sung">Đua xe bắn súng</a></h2>
+        <div class="tooltip_content">
+        	<img title="Đua xe bắn súng" alt="dua-xe-ban-sung" src="http://localhost:8000/images/game_avatar/dua-xe-ban-sung-1449203691.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Đua xe
+                                    </strong>
+            	<div>
+            		    					6919 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:66%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Game Đua xe bắn súng là một trò chơi đua xe online đặc biệt vì trên các chiếc xe còn được trang bị súng máy. Trong trò...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/hanh-dong-games/pokemon-quyet-dau">
+									<img data-src="http://localhost:8000/images/game_avatar/pokemon-quyet-dau-1449203541.jpg" alt="pokemon-quyet-dau" class="swiper-lazy showTip el_44" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/hanh-dong-games/pokemon-quyet-dau">Pokemon quyết đấu</a></h2>
+		</div>
+	    	</div>
+				<div id="el_44" class="tipContent">
+        <h2><a href="http://localhost:8000/hanh-dong-games/pokemon-quyet-dau">Pokemon quyết đấu</a></h2>
+        <div class="tooltip_content">
+        	<img title="Pokemon quyết đấu" alt="pokemon-quyet-dau" src="http://localhost:8000/images/game_avatar/pokemon-quyet-dau-1449203541.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Hành động
+                                    </strong>
+            	<div>
+            		    					6868 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:70%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Pokemon quyết đấu là một game thuộc thể loại game hành động. Dựa theo bộ truyện tranh nổi tiếng Pokemon, bạn sẽ...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -1360,30 +907,30 @@ How to...</p>
 																											<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/action-games/dragon-age-legends">
-									<img data-src="http://teengame.net/images/game_avatar/dragon-age-legends-icon-1472714140.jpg" alt="dragon-age-legends" class="swiper-lazy showTip el_266" />
+			<a href="http://localhost:8000/nau-an-games/quay-banh-my">
+									<img data-src="http://localhost:8000/images/game_avatar/quay-banh-my-1449203363.jpg" alt="quay-banh-my" class="swiper-lazy showTip el_54" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/action-games/dragon-age-legends">Dragon Age Legends</a></h2>
+			<h2><a href="http://localhost:8000/nau-an-games/quay-banh-my">Quầy bánh mỳ</a></h2>
 		</div>
 	    	</div>
-				<div id="el_266" class="tipContent">
-        <h2><a href="http://teengame.net/action-games/dragon-age-legends">Dragon Age Legends</a></h2>
+				<div id="el_54" class="tipContent">
+        <h2><a href="http://localhost:8000/nau-an-games/quay-banh-my">Quầy bánh mỳ</a></h2>
         <div class="tooltip_content">
-        	<img title="Dragon Age Legends" alt="dragon-age-legends" src="http://teengame.net/images/game_avatar/dragon-age-legends-icon-1472714140.jpg" />
+        	<img title="Quầy bánh mỳ" alt="quay-banh-my" src="http://localhost:8000/images/game_avatar/quay-banh-my-1449203363.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Action
+                                            Nấu ăn
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					6588 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:64%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Dragon Age Legends is an awesome Hack &#39;N&#39; Slash RPG made by EA and the indie game developer Pixelante. Your mission in this side scrolling action...</p>
+            	<p> Hamburger là món ăn sáng khoái khẩu của nhiều người. Bạn là nhân viên phục vụ tại một cửa hàng bánh hamburger. Hãy phục...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -1391,30 +938,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/action-games/dead-samurai">
-									<img data-src="http://teengame.net/images/game_avatar/dead-samurai-icon-1472713659.jpg" alt="dead-samurai" class="swiper-lazy showTip el_265" />
+			<a href="http://localhost:8000/thoi-trang-games/thoi-trang-tam-bien">
+									<img data-src="http://localhost:8000/images/game_avatar/thoi-trang-tam-bien-icon-1456469951.jpg" alt="thoi-trang-tam-bien" class="swiper-lazy showTip el_357" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/action-games/dead-samurai">Dead Samurai</a></h2>
+			<h2><a href="http://localhost:8000/thoi-trang-games/thoi-trang-tam-bien"> Thời trang tắm biển</a></h2>
 		</div>
 	    	</div>
-				<div id="el_265" class="tipContent">
-        <h2><a href="http://teengame.net/action-games/dead-samurai">Dead Samurai</a></h2>
+				<div id="el_357" class="tipContent">
+        <h2><a href="http://localhost:8000/thoi-trang-games/thoi-trang-tam-bien">Thời trang tắm biển</a></h2>
         <div class="tooltip_content">
-        	<img title="Dead Samurai" alt="dead-samurai" src="http://teengame.net/images/game_avatar/dead-samurai-icon-1472713659.jpg" />
+        	<img title="Thời trang tắm biển" alt="thoi-trang-tam-bien" src="http://localhost:8000/images/game_avatar/thoi-trang-tam-bien-icon-1456469951.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Action
+                                            Thời trang
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					6349 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:66%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Grab your blade and get ready to walk the path of the Dead Samurai in this intense hack &#39;n&#39; slash game. Your objective is to win all duels to...</p>
+            	<p> Mia đang chuẩn bị đi du lịch tới hòn đảo thiên đường Maldives, hãy giúp cô nàng chuẩn bị mọi thứ để có một chuyến...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -1422,32 +969,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/sport-games/bmx-master">
-									<img data-src="http://teengame.net/images/game_avatar/bmx-master-icon-1472712963.jpg" alt="bmx-master" class="swiper-lazy showTip el_264" />
+			<a href="http://localhost:8000/ban-gai-games/mua-sam-dien-cuong">
+									<img data-src="http://localhost:8000/images/game_avatar/mua-sam-dien-cuong-1449204205.jpg" alt="mua-sam-dien-cuong" class="swiper-lazy showTip el_21" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/sport-games/bmx-master">BMX Master</a></h2>
+			<h2><a href="http://localhost:8000/ban-gai-games/mua-sam-dien-cuong"> Mua sắm điên cuồng </a></h2>
 		</div>
 	    	</div>
-				<div id="el_264" class="tipContent">
-        <h2><a href="http://teengame.net/sport-games/bmx-master">BMX Master</a></h2>
+				<div id="el_21" class="tipContent">
+        <h2><a href="http://localhost:8000/ban-gai-games/mua-sam-dien-cuong">Mua sắm điên cuồng </a></h2>
         <div class="tooltip_content">
-        	<img title="BMX Master" alt="bmx-master" src="http://teengame.net/images/game_avatar/bmx-master-icon-1472712963.jpg" />
+        	<img title="Mua sắm điên cuồng " alt="mua-sam-dien-cuong" src="http://localhost:8000/images/game_avatar/mua-sam-dien-cuong-1449204205.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Sport
+                                            Bạn gái
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					6344 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:58%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> BMX Master is an addictive bicycle motocross game. Try to perform as many awesome stunts with your BMX as you can and do not plant your face.
-
-How to...</p>
+            	<p> Mua sắm điên cuồng là một game bạn gái vô cùng đặc sắc. Tại một trung tâm thương mại, họ mở ra một chương...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -1455,30 +1000,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/fashion-games/barbie-dates-a-celebrity">
-									<img data-src="http://teengame.net/images/game_avatar/barbie-dates-a-celebrity-icon-1472712619.jpg" alt="barbie-dates-a-celebrity" class="swiper-lazy showTip el_263" />
+			<a href="http://localhost:8000/ban-gai-games/tinh-yeu-cong-so">
+									<img data-src="http://localhost:8000/images/game_avatar/tinh-yeu-cong-so-1449201547.jpg" alt="tinh-yeu-cong-so" class="swiper-lazy showTip el_85" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/fashion-games/barbie-dates-a-celebrity">Barbie Dates a Celebrity</a></h2>
+			<h2><a href="http://localhost:8000/ban-gai-games/tinh-yeu-cong-so">Tình yêu công sở</a></h2>
 		</div>
 	    	</div>
-				<div id="el_263" class="tipContent">
-        <h2><a href="http://teengame.net/fashion-games/barbie-dates-a-celebrity">Barbie Dates a Celebrity</a></h2>
+				<div id="el_85" class="tipContent">
+        <h2><a href="http://localhost:8000/ban-gai-games/tinh-yeu-cong-so">Tình yêu công sở</a></h2>
         <div class="tooltip_content">
-        	<img title="Barbie Dates a Celebrity" alt="barbie-dates-a-celebrity" src="http://teengame.net/images/game_avatar/barbie-dates-a-celebrity-icon-1472712619.jpg" />
+        	<img title="Tình yêu công sở" alt="tinh-yeu-cong-so" src="http://localhost:8000/images/game_avatar/tinh-yeu-cong-so-1449201547.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Fashion
+                                            Bạn gái
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					5955 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:60%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Barbie is single. She wants to go on a date with a great guy. On her social media page she has three different messages from three amazing guys. They are...</p>
+            	<p> Tình yêu công sở luôn là đề tài muôn thuở bị mọi người dị nghị, Sếp của bạn không hề muốn điều này bởi họ cho...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -1486,30 +1031,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/girl-games/barbie-be-my-valentine">
-									<img data-src="http://teengame.net/images/game_avatar/barbie-be-my-valentine-icon-1472712358.jpg" alt="barbie-be-my-valentine" class="swiper-lazy showTip el_262" />
+			<a href="http://localhost:8000/tri-tue-games/om-nom-an-keo">
+									<img data-src="http://localhost:8000/images/game_avatar/om-nom-an-keo-icon-1454308203.jpg" alt="om-nom-an-keo" class="swiper-lazy showTip el_292" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/girl-games/barbie-be-my-valentine">Barbie Be My Valentine</a></h2>
+			<h2><a href="http://localhost:8000/tri-tue-games/om-nom-an-keo">Om Nom ăn kẹo</a></h2>
 		</div>
 	    	</div>
-				<div id="el_262" class="tipContent">
-        <h2><a href="http://teengame.net/girl-games/barbie-be-my-valentine">Barbie Be My Valentine</a></h2>
+				<div id="el_292" class="tipContent">
+        <h2><a href="http://localhost:8000/tri-tue-games/om-nom-an-keo">Om Nom ăn kẹo</a></h2>
         <div class="tooltip_content">
-        	<img title="Barbie Be My Valentine" alt="barbie-be-my-valentine" src="http://teengame.net/images/game_avatar/barbie-be-my-valentine-icon-1472712358.jpg" />
+        	<img title="Om Nom ăn kẹo" alt="om-nom-an-keo" src="http://localhost:8000/images/game_avatar/om-nom-an-keo-icon-1454308203.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Girl
+                                            Trí tuệ
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					5671 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:74%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Barbie is single on Valentine&#39;s Day, but don&#39;t worry, there are already three guys that want to take her out. Ken, Flynn and Hiccup have already...</p>
+            	<p> Gần giống với người đồng đội Quá khứ của Om Nom, trong game trí tuệ  Om Nom ăn kẹo - Cut the rope này người chơi chỉ...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -1517,30 +1062,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/girl-games/ariel-moves-in-with-eric">
-									<img data-src="http://teengame.net/images/game_avatar/ariel-moves-in-with-eric-icon-1472712159.jpg" alt="ariel-moves-in-with-eric" class="swiper-lazy showTip el_261" />
+			<a href="http://localhost:8000/thoi-trang-games/thoi-trang-toc-kute">
+									<img data-src="http://localhost:8000/images/game_avatar/thoi-trang-toc-kute-1449202941.jpg" alt="thoi-trang-toc-kute" class="swiper-lazy showTip el_69" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/girl-games/ariel-moves-in-with-eric">Ariel Moves In With Eric</a></h2>
+			<h2><a href="http://localhost:8000/thoi-trang-games/thoi-trang-toc-kute">Thời trang tóc kute</a></h2>
 		</div>
 	    	</div>
-				<div id="el_261" class="tipContent">
-        <h2><a href="http://teengame.net/girl-games/ariel-moves-in-with-eric">Ariel Moves In With Eric</a></h2>
+				<div id="el_69" class="tipContent">
+        <h2><a href="http://localhost:8000/thoi-trang-games/thoi-trang-toc-kute">Thời trang tóc kute</a></h2>
         <div class="tooltip_content">
-        	<img title="Ariel Moves In With Eric" alt="ariel-moves-in-with-eric" src="http://teengame.net/images/game_avatar/ariel-moves-in-with-eric-icon-1472712159.jpg" />
+        	<img title="Thời trang tóc kute" alt="thoi-trang-toc-kute" src="http://localhost:8000/images/game_avatar/thoi-trang-toc-kute-1449202941.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Girl
+                                            Thời trang
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					5580 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:64%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Ariel, the great mermaid, wants to move in with Prince Eric. She is very happy about this decision, because this is a very important moment in their lives...</p>
+            	<p> Trong game bạn là chủ salon tóc, những cô bé đến đây mong muốn một mái tóc thời trang. Hãy chăm sóc các khách hàng nhí...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -1548,30 +1093,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/action-games/action-bros">
-									<img data-src="http://teengame.net/images/game_avatar/action-bros-icon-1472711987.jpg" alt="action-bros" class="swiper-lazy showTip el_260" />
+			<a href="http://localhost:8000/tri-tue-games/line-98-mobile">
+									<img data-src="http://localhost:8000/images/game_avatar/line-98-1449202175-1459390930.jpg" alt="line-98-mobile" class="swiper-lazy showTip el_406" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/action-games/action-bros">Action Bros</a></h2>
+			<h2><a href="http://localhost:8000/tri-tue-games/line-98-mobile">Line 98 - mobile</a></h2>
 		</div>
 	    	</div>
-				<div id="el_260" class="tipContent">
-        <h2><a href="http://teengame.net/action-games/action-bros">Action Bros</a></h2>
+				<div id="el_406" class="tipContent">
+        <h2><a href="http://localhost:8000/tri-tue-games/line-98-mobile">Line 98 - mobile</a></h2>
         <div class="tooltip_content">
-        	<img title="Action Bros" alt="action-bros" src="http://teengame.net/images/game_avatar/action-bros-icon-1472711987.jpg" />
+        	<img title="Line 98 - mobile" alt="line-98-mobile" src="http://localhost:8000/images/game_avatar/line-98-1449202175-1459390930.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Action
+                                            Trí tuệ
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					5215 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:72%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Accomplish your missions in this fun shooting game Action Bros. Choose your character, weapons and shoot anyone who stands in your way or they will kill...</p>
+            	<p> Line 98 - mobile  là tựa game trí tuệ không còn xa lạ với giới văn phòng. Cách chơi đơn giản, nhưng không kém phần thú...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -1579,30 +1124,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/fashion-games/barbies-villian-makeover">
-									<img data-src="http://teengame.net/images/game_avatar/barbies-villain-makeover-icon-1472271509.jpg" alt="barbies-villian-makeover" class="swiper-lazy showTip el_259" />
+			<a href="http://localhost:8000/thoi-trang-games/sieu-sao-hollywood">
+									<img data-src="http://localhost:8000/images/game_avatar/sieu-sao-hollywood-1449202862.jpg" alt="sieu-sao-hollywood" class="swiper-lazy showTip el_71" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/fashion-games/barbies-villian-makeover"> Barbie's Villian Makeover</a></h2>
+			<h2><a href="http://localhost:8000/thoi-trang-games/sieu-sao-hollywood">Siêu sao Hollywood</a></h2>
 		</div>
 	    	</div>
-				<div id="el_259" class="tipContent">
-        <h2><a href="http://teengame.net/fashion-games/barbies-villian-makeover">Barbie's Villian Makeover</a></h2>
+				<div id="el_71" class="tipContent">
+        <h2><a href="http://localhost:8000/thoi-trang-games/sieu-sao-hollywood">Siêu sao Hollywood</a></h2>
         <div class="tooltip_content">
-        	<img title="Barbie's Villian Makeover" alt="barbies-villian-makeover" src="http://teengame.net/images/game_avatar/barbies-villain-makeover-icon-1472271509.jpg" />
+        	<img title="Siêu sao Hollywood" alt="sieu-sao-hollywood" src="http://localhost:8000/images/game_avatar/sieu-sao-hollywood-1449202862.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Fashion
+                                            Thời trang
                                     </strong>
             	<div>
-            		    					3 plays
+            		    					5148 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:76%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Barbie loves all things Disney and lately she began to be interested in the mysterious and interesting Disney villains. She always loves a challenge and...</p>
+            	<p> Những diễn viên, nghệ sĩ thường rất cẩn trọng trong việc ăn mặc khi xuất hiện trước công chúng. Chơi game để giúp...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -1610,30 +1155,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/fashion-games/lucy-hale-round-the-clock-fashionista">
-									<img data-src="http://teengame.net/images/game_avatar/lucy-hale-round-the-clock-fashionista-icon-1472270744.jpg" alt="lucy-hale-round-the-clock-fashionista" class="swiper-lazy showTip el_258" />
+			<a href="http://localhost:8000/ban-gai-games/nha-hang-cua-emily">
+									<img data-src="http://localhost:8000/images/game_avatar/Nha-hang-cua-Emily-icon-1459749739.jpg" alt="nha-hang-cua-emily" class="swiper-lazy showTip el_434" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/fashion-games/lucy-hale-round-the-clock-fashionista"> Lucy Hale Round the Clock...</a></h2>
+			<h2><a href="http://localhost:8000/ban-gai-games/nha-hang-cua-emily">Nhà hàng của Emily</a></h2>
 		</div>
 	    	</div>
-				<div id="el_258" class="tipContent">
-        <h2><a href="http://teengame.net/fashion-games/lucy-hale-round-the-clock-fashionista">Lucy Hale Round the Clock Fashionista</a></h2>
+				<div id="el_434" class="tipContent">
+        <h2><a href="http://localhost:8000/ban-gai-games/nha-hang-cua-emily">Nhà hàng của Emily</a></h2>
         <div class="tooltip_content">
-        	<img title="Lucy Hale Round the Clock Fashionista" alt="lucy-hale-round-the-clock-fashionista" src="http://teengame.net/images/game_avatar/lucy-hale-round-the-clock-fashionista-icon-1472270744.jpg" />
+        	<img title="Nhà hàng của Emily" alt="nha-hang-cua-emily" src="http://localhost:8000/images/game_avatar/Nha-hang-cua-Emily-icon-1459749739.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Fashion
+                                            Bạn gái
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					5021 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:60%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Pretty Little Liars actress Lucy Hale is looking at a very busy day ahead! First up is lunch with her PPL co-stars. Then in the afternoon there is a...</p>
+            	<p> Nhà hàng của Emily - Emilys New Beginning là một game thuộc thể loại game bạn gái vô cùng hấp dẫn. Lối chơi đơn giản, hình...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -1641,30 +1186,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/fashion-games/tris-date-night-dressup">
-									<img data-src="http://teengame.net/images/game_avatar/tris-date-night-dress-up-icon-1472270489.jpg" alt="tris-date-night-dressup" class="swiper-lazy showTip el_257" />
+			<a href="http://localhost:8000/tri-tue-games/doraemon-ghep-hinh">
+									<img data-src="http://localhost:8000/images/game_avatar/doraemon-ghep-hinh-1449202336.jpg" alt="doraemon-ghep-hinh" class="swiper-lazy showTip el_75" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/fashion-games/tris-date-night-dressup">Tris Date Night Dressup</a></h2>
+			<h2><a href="http://localhost:8000/tri-tue-games/doraemon-ghep-hinh">Doraemon ghép hình</a></h2>
 		</div>
 	    	</div>
-				<div id="el_257" class="tipContent">
-        <h2><a href="http://teengame.net/fashion-games/tris-date-night-dressup">Tris Date Night Dressup</a></h2>
+				<div id="el_75" class="tipContent">
+        <h2><a href="http://localhost:8000/tri-tue-games/doraemon-ghep-hinh">Doraemon ghép hình</a></h2>
         <div class="tooltip_content">
-        	<img title="Tris Date Night Dressup" alt="tris-date-night-dressup" src="http://teengame.net/images/game_avatar/tris-date-night-dress-up-icon-1472270489.jpg" />
+        	<img title="Doraemon ghép hình" alt="doraemon-ghep-hinh" src="http://localhost:8000/images/game_avatar/doraemon-ghep-hinh-1449202336.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Fashion
+                                            Trí tuệ
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					5010 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:70%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Tris is going out on a date tonight. What should she wear to impress her boyfriend? Open up the secret boxes to find the most stylish clothes ever,...</p>
+            	<p> Bạn là fan trung thành của chú mèo máy Doraemon, bạn luôn muốn được cùng Doraemon khám phá thế giới diệu kỳ? Vậy còn...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -1672,30 +1217,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/fashion-games/winter-friends">
-									<img data-src="http://teengame.net/images/game_avatar/winter_friends-icon-1472270359.jpg" alt="winter-friends" class="swiper-lazy showTip el_256" />
+			<a href="http://localhost:8000/nau-an-games/lam-banh-pizza-chay">
+									<img data-src="http://localhost:8000/images/game_avatar/banh-pizza-chay-1451447298.jpg" alt="lam-banh-pizza-chay" class="swiper-lazy showTip el_216" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/fashion-games/winter-friends">Winter Friends</a></h2>
+			<h2><a href="http://localhost:8000/nau-an-games/lam-banh-pizza-chay">Làm bánh pizza chay</a></h2>
 		</div>
 	    	</div>
-				<div id="el_256" class="tipContent">
-        <h2><a href="http://teengame.net/fashion-games/winter-friends">Winter Friends</a></h2>
+				<div id="el_216" class="tipContent">
+        <h2><a href="http://localhost:8000/nau-an-games/lam-banh-pizza-chay">Làm bánh pizza chay</a></h2>
         <div class="tooltip_content">
-        	<img title="Winter Friends" alt="winter-friends" src="http://teengame.net/images/game_avatar/winter_friends-icon-1472270359.jpg" />
+        	<img title="Làm bánh pizza chay" alt="lam-banh-pizza-chay" src="http://localhost:8000/images/game_avatar/banh-pizza-chay-1451447298.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Fashion
+                                            Nấu ăn
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					4839 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:68%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> I think it will be a lovely winter day and the four friends are going out for a walk in the snow. Get them all dressed up, or any of the four if you like,...</p>
+            	<p> Pizza là món ăn luôn được các bạn nhỏ vô cùng yêu thích. Pizza có rất nhiều loại, tùy vào sở thích của mỗi người mà...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -1703,30 +1248,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/fashion-games/super-tattoo-artist-2">
-									<img data-src="http://teengame.net/images/game_avatar/super-tattoo-artist-2-icon-1472270279.jpg" alt="super-tattoo-artist-2" class="swiper-lazy showTip el_255" />
+			<a href="http://localhost:8000/nau-an-games/nha-hang-taco">
+									<img data-src="http://localhost:8000/images/game_avatar/nha-hang-taco-1449203319.jpg" alt="nha-hang-taco" class="swiper-lazy showTip el_56" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/fashion-games/super-tattoo-artist-2">Super Tattoo Artist 2</a></h2>
+			<h2><a href="http://localhost:8000/nau-an-games/nha-hang-taco">Nhà hàng taco</a></h2>
 		</div>
 	    	</div>
-				<div id="el_255" class="tipContent">
-        <h2><a href="http://teengame.net/fashion-games/super-tattoo-artist-2">Super Tattoo Artist 2</a></h2>
+				<div id="el_56" class="tipContent">
+        <h2><a href="http://localhost:8000/nau-an-games/nha-hang-taco">Nhà hàng taco</a></h2>
         <div class="tooltip_content">
-        	<img title="Super Tattoo Artist 2" alt="super-tattoo-artist-2" src="http://teengame.net/images/game_avatar/super-tattoo-artist-2-icon-1472270279.jpg" />
+        	<img title="Nhà hàng taco" alt="nha-hang-taco" src="http://localhost:8000/images/game_avatar/nha-hang-taco-1449203319.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Fashion
+                                            Nấu ăn
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					4781 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:60%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> You are the super tattoo artist in town. Everyone wants to get inked in your tattoo shop. Today 4 clients come to your shop and want to get a tattoo. They...</p>
+            	<p> Nhà hàng Taco là một món ăn nhanh của Mexico , nó đã nhanh chóng trở nên nổi tiếng tại Mỹ và nhiều nước trên thế giới....</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -1738,30 +1283,32 @@ How to...</p>
 																											<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/fashion-games/sery-prom-dolly-dressup">
-									<img data-src="http://teengame.net/images/game_avatar/sery-prom-dolly-dress-up-icon-1472269837.jpg" alt="sery-prom-dolly-dressup" class="swiper-lazy showTip el_254" />
+			<a href="http://localhost:8000/vui-nhon-games/ban-ca-an-xu">
+									<img data-src="http://localhost:8000/images/game_avatar/ban-ca-an-xu-1449201291.jpg" alt="ban-ca-an-xu" class="swiper-lazy showTip el_88" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/fashion-games/sery-prom-dolly-dressup">Sery Prom Dolly Dressup</a></h2>
+			<h2><a href="http://localhost:8000/vui-nhon-games/ban-ca-an-xu">Bắn cá ăn xu</a></h2>
 		</div>
 	    	</div>
-				<div id="el_254" class="tipContent">
-        <h2><a href="http://teengame.net/fashion-games/sery-prom-dolly-dressup">Sery Prom Dolly Dressup</a></h2>
+				<div id="el_88" class="tipContent">
+        <h2><a href="http://localhost:8000/vui-nhon-games/ban-ca-an-xu">Bắn cá ăn xu</a></h2>
         <div class="tooltip_content">
-        	<img title="Sery Prom Dolly Dressup" alt="sery-prom-dolly-dressup" src="http://teengame.net/images/game_avatar/sery-prom-dolly-dress-up-icon-1472269837.jpg" />
+        	<img title="Bắn cá ăn xu" alt="ban-ca-an-xu" src="http://localhost:8000/images/game_avatar/ban-ca-an-xu-1449201291.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Fashion
+                                            Vui nhộn 
                                     </strong>
             	<div>
-            		    					1 plays
+            		    					4753 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:60%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Sery is going to prom tonight so that means she needs a fashion adviser for her outfit! Open up mystery boxes and try out different dresses, shoes, bags...</p>
+            	<p> Nội dung game Bắn cá ăn xu:
+
+Bắn cá ăn xu là một trong những trò chơi vui nhộn khá thú vị giành cho các gamer ở mọi lứa...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -1769,30 +1316,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/fashion-games/cinderellas-glittery-skirt">
-									<img data-src="http://teengame.net/images/game_avatar/cinderellas-glittery-skirt-icon-1472269580.jpg" alt="cinderellas-glittery-skirt" class="swiper-lazy showTip el_253" />
+			<a href="http://localhost:8000/tri-tue-games/nho-ten-than-tuong">
+									<img data-src="http://localhost:8000/images/game_avatar/nho-ten-than-tuong-1449202192.jpg" alt="nho-ten-than-tuong" class="swiper-lazy showTip el_80" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/fashion-games/cinderellas-glittery-skirt"> Cinderella's Glittery...</a></h2>
+			<h2><a href="http://localhost:8000/tri-tue-games/nho-ten-than-tuong"> Nhớ tên thần...</a></h2>
 		</div>
 	    	</div>
-				<div id="el_253" class="tipContent">
-        <h2><a href="http://teengame.net/fashion-games/cinderellas-glittery-skirt">Cinderella's Glittery Skirt</a></h2>
+				<div id="el_80" class="tipContent">
+        <h2><a href="http://localhost:8000/tri-tue-games/nho-ten-than-tuong">Nhớ tên thần tượng</a></h2>
         <div class="tooltip_content">
-        	<img title="Cinderella's Glittery Skirt" alt="cinderellas-glittery-skirt" src="http://teengame.net/images/game_avatar/cinderellas-glittery-skirt-icon-1472269580.jpg" />
+        	<img title="Nhớ tên thần tượng" alt="nho-ten-than-tuong" src="http://localhost:8000/images/game_avatar/nho-ten-than-tuong-1449202192.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Fashion
+                                            Trí tuệ
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					4692 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:58%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Choose between two styles of skirts, pick from three glittery colors and you&#39;re off to create two different outfits to wear with the skirt. First...</p>
+            	<p> Mỗi thần tượng âm nhạc có một phong cách riêng, phong cách đó gắn liền với tên tuổi của họ. Hãy cùng thử tài nhớ...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -1800,30 +1347,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/fashion-games/elsa-art-deco-couture">
-									<img data-src="http://teengame.net/images/game_avatar/elsa_art_deco_couture-icon-1472269325.jpg" alt="elsa-art-deco-couture" class="swiper-lazy showTip el_252" />
+			<a href="http://localhost:8000/ban-gai-games/tri-thuong-cho-anna">
+									<img data-src="http://localhost:8000/images/game_avatar/tri-thuong-cho-anna-1451444853.jpg" alt="tri-thuong-cho-anna" class="swiper-lazy showTip el_203" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/fashion-games/elsa-art-deco-couture">Elsa Art Deco Couture</a></h2>
+			<h2><a href="http://localhost:8000/ban-gai-games/tri-thuong-cho-anna">Trị thương cho Anna</a></h2>
 		</div>
 	    	</div>
-				<div id="el_252" class="tipContent">
-        <h2><a href="http://teengame.net/fashion-games/elsa-art-deco-couture">Elsa Art Deco Couture</a></h2>
+				<div id="el_203" class="tipContent">
+        <h2><a href="http://localhost:8000/ban-gai-games/tri-thuong-cho-anna">Trị thương cho Anna</a></h2>
         <div class="tooltip_content">
-        	<img title="Elsa Art Deco Couture" alt="elsa-art-deco-couture" src="http://teengame.net/images/game_avatar/elsa_art_deco_couture-icon-1472269325.jpg" />
+        	<img title="Trị thương cho Anna" alt="tri-thuong-cho-anna" src="http://localhost:8000/images/game_avatar/tri-thuong-cho-anna-1451444853.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Fashion
+                                            Bạn gái
                                     </strong>
             	<div>
-            		    					1 plays
+            		    					4692 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:74%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> The always glamourous ice queen Elsa knows a thing or two about fashion and when she discovers Art Deco she begins to try out new looks. Experiment with...</p>
+            	<p> Nàng công chúa Anna kiêu hãnh đang có buổi du ngoạn bên ngoài cung điện của mình. Cô thử sức với trượt Patin, không may cho...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -1831,30 +1378,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/fashion-games/arial-design-my-fedora-hat">
-									<img data-src="http://teengame.net/images/game_avatar/ariel-design-my-fedora-hat-icon-1472269238.jpg" alt="arial-design-my-fedora-hat" class="swiper-lazy showTip el_251" />
+			<a href="http://localhost:8000/ban-gai-games/trang-trai-tuli">
+									<img data-src="http://localhost:8000/images/game_avatar/trang-trai-tuli-1449204187.jpg" alt="trang-trai-tuli" class="swiper-lazy showTip el_22" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/fashion-games/arial-design-my-fedora-hat"> Arial Design My Fedora...</a></h2>
+			<h2><a href="http://localhost:8000/ban-gai-games/trang-trai-tuli">Trang trại Tuli</a></h2>
 		</div>
 	    	</div>
-				<div id="el_251" class="tipContent">
-        <h2><a href="http://teengame.net/fashion-games/arial-design-my-fedora-hat">Arial Design My Fedora Hat</a></h2>
+				<div id="el_22" class="tipContent">
+        <h2><a href="http://localhost:8000/ban-gai-games/trang-trai-tuli">Trang trại Tuli</a></h2>
         <div class="tooltip_content">
-        	<img title="Arial Design My Fedora Hat" alt="arial-design-my-fedora-hat" src="http://teengame.net/images/game_avatar/ariel-design-my-fedora-hat-icon-1472269238.jpg" />
+        	<img title="Trang trại Tuli" alt="trang-trai-tuli" src="http://localhost:8000/images/game_avatar/trang-trai-tuli-1449204187.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Fashion
+                                            Bạn gái
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					4656 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:70%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Ladies, do you know the gorgeous princess Ariel? The little mermaid enjoys modern fashion and she wants to wear a great summer hat. Help her design a...</p>
+            	<p> Trang trại Tuli là trò chơi mô phỏng từng bước canh tác một trang trại để nuôi trồng và chăn nuôi. Từ việc chuẩn bị...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -1862,30 +1409,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/fashion-games/elsas-snapchat">
-									<img data-src="http://teengame.net/images/game_avatar/elsas-snapchat-icon-1472268730.jpg" alt="elsas-snapchat" class="swiper-lazy showTip el_250" />
+			<a href="http://localhost:8000/hanh-dong-games/cuoc-phieu-luu-cua-jack">
+									<img data-src="http://localhost:8000/images/game_avatar/Cuoc-phieu-luu-cua-Jack-icon-1459762372.jpg" alt="cuoc-phieu-luu-cua-jack" class="swiper-lazy showTip el_443" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/fashion-games/elsas-snapchat">Elsa's Snapchat</a></h2>
+			<h2><a href="http://localhost:8000/hanh-dong-games/cuoc-phieu-luu-cua-jack"> Cuộc phiêu lưu của...</a></h2>
 		</div>
 	    	</div>
-				<div id="el_250" class="tipContent">
-        <h2><a href="http://teengame.net/fashion-games/elsas-snapchat">Elsa's Snapchat</a></h2>
+				<div id="el_443" class="tipContent">
+        <h2><a href="http://localhost:8000/hanh-dong-games/cuoc-phieu-luu-cua-jack">Cuộc phiêu lưu của Jack</a></h2>
         <div class="tooltip_content">
-        	<img title="Elsa's Snapchat" alt="elsas-snapchat" src="http://teengame.net/images/game_avatar/elsas-snapchat-icon-1472268730.jpg" />
+        	<img title="Cuộc phiêu lưu của Jack" alt="cuoc-phieu-luu-cua-jack" src="http://localhost:8000/images/game_avatar/Cuoc-phieu-luu-cua-Jack-icon-1459762372.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Fashion
+                                            Hành động
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					4653 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:78%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Here’s a super fun Frozen Dress Up Game for you ladies to play today! Queen Elsa has just managed to set up her Snapchat profile and right now she’s...</p>
+            	<p> Cuộc phiêu lưu của Jack - Jetpack Master là một chuyến phiêu lưu vô cùng thú vị thuộc thể loại game hành động. Bạn sẽ...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -1893,30 +1440,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/fashion-games/princess-american-idol">
-									<img data-src="http://teengame.net/images/game_avatar/princess-american-idol-icon-1472268639.jpg" alt="princess-american-idol" class="swiper-lazy showTip el_249" />
+			<a href="http://localhost:8000/nau-an-games/chuan-bi-bua-sang">
+									<img data-src="http://localhost:8000/images/game_avatar/chuan-bi-bua-sang-1449203255.jpg" alt="chuan-bi-bua-sang" class="swiper-lazy showTip el_59" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/fashion-games/princess-american-idol">Princess American Idol</a></h2>
+			<h2><a href="http://localhost:8000/nau-an-games/chuan-bi-bua-sang">Chuẩn bị bữa sáng</a></h2>
 		</div>
 	    	</div>
-				<div id="el_249" class="tipContent">
-        <h2><a href="http://teengame.net/fashion-games/princess-american-idol">Princess American Idol</a></h2>
+				<div id="el_59" class="tipContent">
+        <h2><a href="http://localhost:8000/nau-an-games/chuan-bi-bua-sang">Chuẩn bị bữa sáng</a></h2>
         <div class="tooltip_content">
-        	<img title="Princess American Idol" alt="princess-american-idol" src="http://teengame.net/images/game_avatar/princess-american-idol-icon-1472268639.jpg" />
+        	<img title="Chuẩn bị bữa sáng" alt="chuan-bi-bua-sang" src="http://localhost:8000/images/game_avatar/chuan-bi-bua-sang-1449203255.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Fashion
+                                            Nấu ăn
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					4441 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:64%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Every teenage princess has a dream to be a American idol, especially the lovely princess Rapunzel. She would like to join contest to win. Do you want to...</p>
+            	<p> Bữa ăn sáng luôn là bữa ăn quan trọng nhất. Vì vậy cùng chơi game nấu ăn để chuẩn bị bữa sáng các món ăn thật nhiều...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -1924,31 +1471,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/fashion-games/barbie-and-elsa-bridesmaids-rivals">
-									<img data-src="http://teengame.net/images/game_avatar/barbie-and-elsa-bridesmaids-rivals-icon-1472268431.jpg" alt="barbie-and-elsa-bridesmaids-rivals" class="swiper-lazy showTip el_248" />
+			<a href="http://localhost:8000/chien-thuat-games/danh-bom-zombie">
+									<img data-src="http://localhost:8000/images/game_avatar/danh-bom-zombie-1449203985.jpg" alt="danh-bom-zombie" class="swiper-lazy showTip el_33" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/fashion-games/barbie-and-elsa-bridesmaids-rivals"> Barbie And Elsa...</a></h2>
+			<h2><a href="http://localhost:8000/chien-thuat-games/danh-bom-zombie">Đánh bom zombie</a></h2>
 		</div>
 	    	</div>
-				<div id="el_248" class="tipContent">
-        <h2><a href="http://teengame.net/fashion-games/barbie-and-elsa-bridesmaids-rivals">Barbie And Elsa Bridesmaids Rivals</a></h2>
+				<div id="el_33" class="tipContent">
+        <h2><a href="http://localhost:8000/chien-thuat-games/danh-bom-zombie">Đánh bom zombie</a></h2>
         <div class="tooltip_content">
-        	<img title="Barbie And Elsa Bridesmaids Rivals" alt="barbie-and-elsa-bridesmaids-rivals" src="http://teengame.net/images/game_avatar/barbie-and-elsa-bridesmaids-rivals-icon-1472268431.jpg" />
+        	<img title="Đánh bom zombie" alt="danh-bom-zombie" src="http://localhost:8000/images/game_avatar/danh-bom-zombie-1449203985.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Fashion
+                                            Chiến thuật
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					4434 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:62%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p>Find out which bridesmaid is the winner and which one knows Anna best by playing this new game Barbie And Elsa Bridesmaids Rivals!
-</p>
+            	<p> Game đánh bom zombie thuộc thể loại game chiến thuật hay. Hãy sử dụng kỹ năng chiến thuật của mình để đánh bom tiêu...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -1956,30 +1502,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/fashion-games/harley-quinn-dress-up">
-									<img data-src="http://teengame.net/images/game_avatar/harley-quinn-dress-up-icon-1472268147.jpg" alt="harley-quinn-dress-up" class="swiper-lazy showTip el_247" />
+			<a href="http://localhost:8000/dua-xe-games/tay-dua-sieu-hang-2">
+									<img data-src="http://localhost:8000/images/game_avatar/tay-dua-sieu-hang-2-1449203614.jpg" alt="tay-dua-sieu-hang-2" class="swiper-lazy showTip el_41" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/fashion-games/harley-quinn-dress-up">Harley Quinn Dress Up</a></h2>
+			<h2><a href="http://localhost:8000/dua-xe-games/tay-dua-sieu-hang-2">Tay đua siêu hạng 2</a></h2>
 		</div>
 	    	</div>
-				<div id="el_247" class="tipContent">
-        <h2><a href="http://teengame.net/fashion-games/harley-quinn-dress-up">Harley Quinn Dress Up</a></h2>
+				<div id="el_41" class="tipContent">
+        <h2><a href="http://localhost:8000/dua-xe-games/tay-dua-sieu-hang-2">Tay đua siêu hạng 2</a></h2>
         <div class="tooltip_content">
-        	<img title="Harley Quinn Dress Up" alt="harley-quinn-dress-up" src="http://teengame.net/images/game_avatar/harley-quinn-dress-up-icon-1472268147.jpg" />
+        	<img title="Tay đua siêu hạng 2" alt="tay-dua-sieu-hang-2" src="http://localhost:8000/images/game_avatar/tay-dua-sieu-hang-2-1449203614.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Fashion
+                                            Đua xe
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					4377 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:74%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> She is disorganized and a jokester, but hey, she is really fun! The resident class clown, Harley, lives for the LOL&#39;s and loves playing over-the-top...</p>
+            	<p> Tay đua siêu hạng 2 là một game đua xe cực kỳ hấp dẫn. Bạn đã từng chơi Tay đua siêu hạng 1 và sở hữu 1 chiếc xe...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -1987,30 +1533,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/fashion-games/fluttershy-real-haircuts">
-									<img data-src="http://teengame.net/images/game_avatar/fluttershy-real-haircuts-icon-1472268029.jpg" alt="fluttershy-real-haircuts" class="swiper-lazy showTip el_246" />
+			<a href="http://localhost:8000/hanh-dong-games/nguoi-nhen">
+									<img data-src="http://localhost:8000/images/game_avatar/nguoi-nhen-1451445159.jpg" alt="nguoi-nhen" class="swiper-lazy showTip el_209" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/fashion-games/fluttershy-real-haircuts">Fluttershy Real Haircuts</a></h2>
+			<h2><a href="http://localhost:8000/hanh-dong-games/nguoi-nhen">Người nhện</a></h2>
 		</div>
 	    	</div>
-				<div id="el_246" class="tipContent">
-        <h2><a href="http://teengame.net/fashion-games/fluttershy-real-haircuts">Fluttershy Real Haircuts</a></h2>
+				<div id="el_209" class="tipContent">
+        <h2><a href="http://localhost:8000/hanh-dong-games/nguoi-nhen">Người nhện</a></h2>
         <div class="tooltip_content">
-        	<img title="Fluttershy Real Haircuts" alt="fluttershy-real-haircuts" src="http://teengame.net/images/game_avatar/fluttershy-real-haircuts-icon-1472268029.jpg" />
+        	<img title="Người nhện" alt="nguoi-nhen" src="http://localhost:8000/images/game_avatar/nguoi-nhen-1451445159.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Fashion
+                                            Hành động
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					4366 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:68%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> This cute Pegasus pony is known for her kindness and sweet nature, but today she decided she wanted a different hairstyle and thinks you would be the...</p>
+            	<p> Người Nhện một siêu anh hùng hư cấu trong các truyện tranh với sức mạnh siêu nhiên và sự nhanh nhẹn, khả năng bám dính...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -2018,30 +1564,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/fashion-games/tom-and-angela-real-haircuts">
-									<img data-src="http://teengame.net/images/game_avatar/tom-and-angela-real-haircuts-icon-1472267932.jpg" alt="tom-and-angela-real-haircuts" class="swiper-lazy showTip el_245" />
+			<a href="http://localhost:8000/chien-thuat-games/ca-lon-nuot-ca-be">
+									<img data-src="http://localhost:8000/images/game_avatar/ca-lon-nuot-ca-be-1449203745.jpg" alt="ca-lon-nuot-ca-be" class="swiper-lazy showTip el_36" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/fashion-games/tom-and-angela-real-haircuts"> Tom And Angela Real...</a></h2>
+			<h2><a href="http://localhost:8000/chien-thuat-games/ca-lon-nuot-ca-be">Cá lớn nuốt cá bé</a></h2>
 		</div>
 	    	</div>
-				<div id="el_245" class="tipContent">
-        <h2><a href="http://teengame.net/fashion-games/tom-and-angela-real-haircuts">Tom And Angela Real Haircuts</a></h2>
+				<div id="el_36" class="tipContent">
+        <h2><a href="http://localhost:8000/chien-thuat-games/ca-lon-nuot-ca-be">Cá lớn nuốt cá bé</a></h2>
         <div class="tooltip_content">
-        	<img title="Tom And Angela Real Haircuts" alt="tom-and-angela-real-haircuts" src="http://teengame.net/images/game_avatar/tom-and-angela-real-haircuts-icon-1472267932.jpg" />
+        	<img title="Cá lớn nuốt cá bé" alt="ca-lon-nuot-ca-be" src="http://localhost:8000/images/game_avatar/ca-lon-nuot-ca-be-1449203745.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Fashion
+                                            Chiến thuật
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					4266 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:80%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Tom and Angela are the perfect kitty couple and they decided to get a new haircut together! Have fun in a unique Real Haircuts game with two funtastic...</p>
+            	<p> Cá lớn nuốt cá bé - Feeding Frenzy là một trong những trò chơi chiến thuật vô cùng thú vị giành cho các gamer ở mọi lứa...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -2049,30 +1595,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/fashion-games/minions-real-haircuts">
-									<img data-src="http://teengame.net/images/game_avatar/minions-real-haircuts-icon-1472267794.jpg" alt="minions-real-haircuts" class="swiper-lazy showTip el_244" />
+			<a href="http://localhost:8000/tri-tue-games/qua-khu-cua-om-nom">
+									<img data-src="http://localhost:8000/images/game_avatar/qua-khu-cua-om-nom-icon-1454306866.jpg" alt="qua-khu-cua-om-nom" class="swiper-lazy showTip el_291" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/fashion-games/minions-real-haircuts">Minions Real Haircuts</a></h2>
+			<h2><a href="http://localhost:8000/tri-tue-games/qua-khu-cua-om-nom">Quá khứ của Om Nom</a></h2>
 		</div>
 	    	</div>
-				<div id="el_244" class="tipContent">
-        <h2><a href="http://teengame.net/fashion-games/minions-real-haircuts">Minions Real Haircuts</a></h2>
+				<div id="el_291" class="tipContent">
+        <h2><a href="http://localhost:8000/tri-tue-games/qua-khu-cua-om-nom">Quá khứ của Om Nom</a></h2>
         <div class="tooltip_content">
-        	<img title="Minions Real Haircuts" alt="minions-real-haircuts" src="http://teengame.net/images/game_avatar/minions-real-haircuts-icon-1472267794.jpg" />
+        	<img title="Quá khứ của Om Nom" alt="qua-khu-cua-om-nom" src="http://localhost:8000/images/game_avatar/qua-khu-cua-om-nom-icon-1454306866.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Fashion
+                                            Trí tuệ
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					4240 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:74%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> The minions are on their way to rule the world, but they have to stop by the salon to get new haircuts. Help one of these lovable creatures with an...</p>
+            	<p> Hãy tham gia chuyến du hành ngược thời gian cùng với Om Nom để mang kẹo đến cho tổ tiên của anh ta. Quá khứ của Om Nom là...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -2080,30 +1626,408 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/fashion-games/rapunzel-mommy-real-makeover">
-									<img data-src="http://teengame.net/images/game_avatar/rapunzel-mommy-real-makeover-icon-1472267613.jpg" alt="rapunzel-mommy-real-makeover" class="swiper-lazy showTip el_243" />
+			<a href="http://localhost:8000/chien-thuat-games/mini-gunny">
+									<img data-src="http://localhost:8000/images/game_avatar/mini-gunny-1449204036.jpg" alt="mini-gunny" class="swiper-lazy showTip el_28" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/fashion-games/rapunzel-mommy-real-makeover"> Rapunzel Mommy Real...</a></h2>
+			<h2><a href="http://localhost:8000/chien-thuat-games/mini-gunny">Mini Gunny</a></h2>
 		</div>
 	    	</div>
-				<div id="el_243" class="tipContent">
-        <h2><a href="http://teengame.net/fashion-games/rapunzel-mommy-real-makeover">Rapunzel Mommy Real Makeover</a></h2>
+				<div id="el_28" class="tipContent">
+        <h2><a href="http://localhost:8000/chien-thuat-games/mini-gunny">Mini Gunny</a></h2>
         <div class="tooltip_content">
-        	<img title="Rapunzel Mommy Real Makeover" alt="rapunzel-mommy-real-makeover" src="http://teengame.net/images/game_avatar/rapunzel-mommy-real-makeover-icon-1472267613.jpg" />
+        	<img title="Mini Gunny" alt="mini-gunny" src="http://localhost:8000/images/game_avatar/mini-gunny-1449204036.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Fashion
+                                            Chiến thuật
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					4161 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:74%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Like mother, like daughter, princess Rapunzel`s daughter likes to explore the beauty world and see what`s like to be a grown-up. Discover the secrets of a...</p>
+            	<p> Nếu bạn đã từng yêu thích tựa game Gunbound huyền thoại, thì Mini gunny sẽ là game đáng chơi dành cho bạn. Đồ họa đơn...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																	</div>
+							</div>
+													<div class="swiper-slide boxgame">
+								<div class="row">
+																											<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/dua-xe-games/duong-dua-toc-do">
+									<img data-src="http://localhost:8000/images/game_avatar/duong-dua-toc-do-icon-1454308081.jpg" alt="duong-dua-toc-do" class="swiper-lazy showTip el_287" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/dua-xe-games/duong-dua-toc-do"> Đường đua tốc...</a></h2>
+		</div>
+	    	</div>
+				<div id="el_287" class="tipContent">
+        <h2><a href="http://localhost:8000/dua-xe-games/duong-dua-toc-do">Đường đua tốc độ</a></h2>
+        <div class="tooltip_content">
+        	<img title="Đường đua tốc độ" alt="duong-dua-toc-do" src="http://localhost:8000/images/game_avatar/duong-dua-toc-do-icon-1454308081.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Đua xe
+                                    </strong>
+            	<div>
+            		    					4114 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:66%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Nếu là fan trung thành của các trò chơi tốc độ bạn sẽ không thể bỏ qua: Đua xe tốc độ,  Đua xe bắn súng, Đua xe công...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/dua-xe-games/duong-dua-kinh-hoang">
+									<img data-src="http://localhost:8000/images/game_avatar/duong-dua-kinh-hoang-icon-1456302369.jpg" alt="duong-dua-kinh-hoang" class="swiper-lazy showTip el_346" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/dua-xe-games/duong-dua-kinh-hoang"> Đường đua kinh...</a></h2>
+		</div>
+	    	</div>
+				<div id="el_346" class="tipContent">
+        <h2><a href="http://localhost:8000/dua-xe-games/duong-dua-kinh-hoang">Đường đua kinh hoàng</a></h2>
+        <div class="tooltip_content">
+        	<img title="Đường đua kinh hoàng" alt="duong-dua-kinh-hoang" src="http://localhost:8000/images/game_avatar/duong-dua-kinh-hoang-icon-1456302369.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Đua xe
+                                    </strong>
+            	<div>
+            		    					4103 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:68%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Một trong những trò chơi hấp dẫn nhất chính là thể loại đua xe. Các trò đua xe gây nghiện đã xuất hiện trên choinhanh.vn:...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/nau-an-games/lam-banh-trung">
+									<img data-src="http://localhost:8000/images/game_avatar/lam-banh-trung-1449203226.jpg" alt="lam-banh-trung" class="swiper-lazy showTip el_60" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/nau-an-games/lam-banh-trung">Làm bánh trứng</a></h2>
+		</div>
+	    	</div>
+				<div id="el_60" class="tipContent">
+        <h2><a href="http://localhost:8000/nau-an-games/lam-banh-trung">Làm bánh trứng</a></h2>
+        <div class="tooltip_content">
+        	<img title="Làm bánh trứng" alt="lam-banh-trung" src="http://localhost:8000/images/game_avatar/lam-banh-trung-1449203226.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Nấu ăn
+                                    </strong>
+            	<div>
+            		    					4092 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:70%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Bánh trứng là một món ăn rất ngon,bổ,rẻ. Với game nấu ăn này sẽ hướng dẫn cách làm đơn giản cho bạn các bước...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/vui-nhon-games/trang-trai-cua-toi">
+									<img data-src="http://localhost:8000/images/game_avatar/trang-trai-cua-toi-1449204398.jpg" alt="trang-trai-cua-toi" class="swiper-lazy showTip el_12" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/vui-nhon-games/trang-trai-cua-toi">Trang trại của tôi</a></h2>
+		</div>
+	    	</div>
+				<div id="el_12" class="tipContent">
+        <h2><a href="http://localhost:8000/vui-nhon-games/trang-trai-cua-toi">Trang trại của tôi</a></h2>
+        <div class="tooltip_content">
+        	<img title="Trang trại của tôi" alt="trang-trai-cua-toi" src="http://localhost:8000/images/game_avatar/trang-trai-cua-toi-1449204398.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Vui nhộn 
+                                    </strong>
+            	<div>
+            		    					4021 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:64%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Game trang trại của tôi là một trò chơi trồng trọt, chăn nuôi khá đơn giản. Bạn làm chủ một mảnh vườn nhỏ hãy thực...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/chien-thuat-games/chim-dien">
+									<img data-src="http://localhost:8000/images/game_avatar/chim-dien-1449204069.jpg" alt="chim-dien" class="swiper-lazy showTip el_26" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/chien-thuat-games/chim-dien">Chim điên</a></h2>
+		</div>
+	    	</div>
+				<div id="el_26" class="tipContent">
+        <h2><a href="http://localhost:8000/chien-thuat-games/chim-dien">Chim điên</a></h2>
+        <div class="tooltip_content">
+        	<img title="Chim điên" alt="chim-dien" src="http://localhost:8000/images/game_avatar/chim-dien-1449204069.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Chiến thuật
+                                    </strong>
+            	<div>
+            		    					3945 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:74%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Ngay bây giờ bạn đã có thể chơi Angry bird Chim điên ngay trên điện thoại mà không cần tải bất cứ file nào về máy của...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/chien-thuat-games/cuoc-chien-quai-vat">
+									<img data-src="http://localhost:8000/images/game_avatar/Cuoc-chien-quai-vat-1449203948.jpg" alt="cuoc-chien-quai-vat" class="swiper-lazy showTip el_35" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/chien-thuat-games/cuoc-chien-quai-vat"> Cuộc chiến quái...</a></h2>
+		</div>
+	    	</div>
+				<div id="el_35" class="tipContent">
+        <h2><a href="http://localhost:8000/chien-thuat-games/cuoc-chien-quai-vat">Cuộc chiến quái vật </a></h2>
+        <div class="tooltip_content">
+        	<img title="Cuộc chiến quái vật " alt="cuoc-chien-quai-vat" src="http://localhost:8000/images/game_avatar/Cuoc-chien-quai-vat-1449203948.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Chiến thuật
+                                    </strong>
+            	<div>
+            		    					3714 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:92%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Game cuộc chiến quái vật là một game vô cùng hấp dẫn thuộc thể loại game chiến thuật hay. Lũ quái vật đã theo chân lũ...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/chien-thuat-games/huyen-thoai-anh-hung">
+									<img data-src="http://localhost:8000/images/game_avatar/huyen-thoai-anh-hung-icon-1454308055.jpg" alt="huyen-thoai-anh-hung" class="swiper-lazy showTip el_286" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/chien-thuat-games/huyen-thoai-anh-hung"> Huyền thoại anh hùng</a></h2>
+		</div>
+	    	</div>
+				<div id="el_286" class="tipContent">
+        <h2><a href="http://localhost:8000/chien-thuat-games/huyen-thoai-anh-hung">Huyền thoại anh hùng</a></h2>
+        <div class="tooltip_content">
+        	<img title="Huyền thoại anh hùng" alt="huyen-thoai-anh-hung" src="http://localhost:8000/images/game_avatar/huyen-thoai-anh-hung-icon-1454308055.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Chiến thuật
+                                    </strong>
+            	<div>
+            		    					3653 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:68%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Huyền thoại anh hùng - Clash of the legends thuộc thể loại game chiến thuật vô cùng hấp dẫn.
+
+Huyền thoại anh hùng là câu...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/nau-an-games/lam-rau-chan-vit-cuon">
+									<img data-src="http://localhost:8000/images/game_avatar/lam-rau-chan-vit-cuon-1449203292.jpg" alt="lam-rau-chan-vit-cuon" class="swiper-lazy showTip el_57" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/nau-an-games/lam-rau-chan-vit-cuon"> Làm Rau chân vịt...</a></h2>
+		</div>
+	    	</div>
+				<div id="el_57" class="tipContent">
+        <h2><a href="http://localhost:8000/nau-an-games/lam-rau-chan-vit-cuon">Làm Rau chân vịt cuốn</a></h2>
+        <div class="tooltip_content">
+        	<img title="Làm Rau chân vịt cuốn" alt="lam-rau-chan-vit-cuon" src="http://localhost:8000/images/game_avatar/lam-rau-chan-vit-cuon-1449203292.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Nấu ăn
+                                    </strong>
+            	<div>
+            		    					3635 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:60%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Quay trở lại với lớp học nấu ăn của Sara, bạn sẽ được hướng dẫn làm Rau chân vịt cuốn vô cùng thơm non. Hướng...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/hanh-dong-games/truy-tim-kho-bau">
+									<img data-src="http://localhost:8000/images/game_avatar/truy-tim-kho-bau-1449203455.jpg" alt="truy-tim-kho-bau" class="swiper-lazy showTip el_49" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/hanh-dong-games/truy-tim-kho-bau">Truy tìm kho báu</a></h2>
+		</div>
+	    	</div>
+				<div id="el_49" class="tipContent">
+        <h2><a href="http://localhost:8000/hanh-dong-games/truy-tim-kho-bau">Truy tìm kho báu</a></h2>
+        <div class="tooltip_content">
+        	<img title="Truy tìm kho báu" alt="truy-tim-kho-bau" src="http://localhost:8000/images/game_avatar/truy-tim-kho-bau-1449203455.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Hành động
+                                    </strong>
+            	<div>
+            		    					3607 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:54%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Truy tìm kho báu là một game thuộc thể loại game hành động. Những kho báu đang còn nằm yên ở đâu đó dưới những...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/vui-nhon-games/giai-cuu-bong-xu">
+									<img data-src="http://localhost:8000/images/game_avatar/giai-cuu-bong-xu-1449203415.jpg" alt="giai-cuu-bong-xu" class="swiper-lazy showTip el_51" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/vui-nhon-games/giai-cuu-bong-xu">Giải cứu bóng xù</a></h2>
+		</div>
+	    	</div>
+				<div id="el_51" class="tipContent">
+        <h2><a href="http://localhost:8000/vui-nhon-games/giai-cuu-bong-xu">Giải cứu bóng xù</a></h2>
+        <div class="tooltip_content">
+        	<img title="Giải cứu bóng xù" alt="giai-cuu-bong-xu" src="http://localhost:8000/images/game_avatar/giai-cuu-bong-xu-1449203415.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Vui nhộn 
+                                    </strong>
+            	<div>
+            		    					3569 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:74%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Game giải cứu bóng xù thuộc thể loại game vui nhộn hay nhất. Đến với game giải trí này, bóng xù có nhiệm vụ giải cứu...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/tri-tue-games/pikachu-nong-trai">
+									<img data-src="http://localhost:8000/images/game_avatar/pikachu-nong-trai-1449201857.jpg" alt="pikachu-nong-trai" class="swiper-lazy showTip el_82" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/tri-tue-games/pikachu-nong-trai">Pikachu nông trại</a></h2>
+		</div>
+	    	</div>
+				<div id="el_82" class="tipContent">
+        <h2><a href="http://localhost:8000/tri-tue-games/pikachu-nong-trai">Pikachu nông trại</a></h2>
+        <div class="tooltip_content">
+        	<img title="Pikachu nông trại" alt="pikachu-nong-trai" src="http://localhost:8000/images/game_avatar/pikachu-nong-trai-1449201857.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Trí tuệ
+                                    </strong>
+            	<div>
+            		    					3497 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:64%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Pikachu nông trại là một trò chơi dựa trên ý tưởng game Pikachu huyền thoại. Công việc của bạn là kết nối các con vật...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/ban-gai-games/thoi-trang-bien">
+									<img data-src="http://localhost:8000/images/game_avatar/thoi-trang-bien-1449202756.jpg" alt="thoi-trang-bien" class="swiper-lazy showTip el_72" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/ban-gai-games/thoi-trang-bien">Thời trang biển</a></h2>
+		</div>
+	    	</div>
+				<div id="el_72" class="tipContent">
+        <h2><a href="http://localhost:8000/ban-gai-games/thoi-trang-bien">Thời trang biển</a></h2>
+        <div class="tooltip_content">
+        	<img title="Thời trang biển" alt="thoi-trang-bien" src="http://localhost:8000/images/game_avatar/thoi-trang-bien-1449202756.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Bạn gái
+                                    </strong>
+            	<div>
+            		    					3454 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:54%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Thời trang biển là trò chơi dành cho bạn gái hấp dẫn. Lilly là một người mẫu thời trang, cô ấy tham gia cuộc thi...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -2118,7 +2042,19 @@ How to...</p>
 						<a class="next">Next <i class="fa fa-caret-right"></i></a>
 					</div>
 				</div>
-													<h3><a href="#">New Games</a></h3>
+						<div class="adsense center">
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- choinhanh-PC-Home -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7546981319298869"
+     data-ad-slot="7814818308"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+			</div>
+								<h3><a href="http://localhost:8000/latest-games">Game mới nhất</a></h3>
 											<div class="swiper-container">
 					<div class="swiper-wrapper">
 													<div class="swiper-slide boxgame">
@@ -2126,30 +2062,30 @@ How to...</p>
 																											<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/action-games/i-am-the-ninja">
-									<img data-src="http://teengame.net/images/game_avatar/i-am-the-ninja-icon-1473213148.jpg" alt="i-am-the-ninja" class="swiper-lazy showTip el_302" />
+			<a href="http://localhost:8000/hanh-dong-games/vuong-quoc-lam-nguy">
+									<img data-src="http://localhost:8000/images/game_avatar/vuong-quoc-lam-nguy-icon-1485231749.jpg" alt="vuong-quoc-lam-nguy" class="swiper-lazy showTip el_2581" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/action-games/i-am-the-ninja">I Am The Ninja</a></h2>
+			<h2><a href="http://localhost:8000/hanh-dong-games/vuong-quoc-lam-nguy">Vương quốc lâm nguy</a></h2>
 		</div>
 	    	</div>
-				<div id="el_302" class="tipContent">
-        <h2><a href="http://teengame.net/action-games/i-am-the-ninja">I Am The Ninja</a></h2>
+				<div id="el_2581" class="tipContent">
+        <h2><a href="http://localhost:8000/hanh-dong-games/vuong-quoc-lam-nguy">Vương quốc lâm nguy</a></h2>
         <div class="tooltip_content">
-        	<img title="I Am The Ninja" alt="i-am-the-ninja" src="http://teengame.net/images/game_avatar/i-am-the-ninja-icon-1473213148.jpg" />
+        	<img title="Vương quốc lâm nguy" alt="vuong-quoc-lam-nguy" src="http://localhost:8000/images/game_avatar/vuong-quoc-lam-nguy-icon-1485231749.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Action
+                                            Hành động
                                     </strong>
             	<div>
-            		    					1 plays
+            		    					630 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:84%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> You are a true ninja if you can master this final mission. Use your powers to pass several barriers and traps to reach the exit in each stage of the...</p>
+            	<p> Vương quốc lâm nguy - Medieval Defenders là một trong những tựa game hành động khá thú vị giành cho các game thủ ở mọi lứa...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -2157,30 +2093,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/action-games/mr-timan">
-									<img data-src="http://teengame.net/images/game_avatar/mr-timan-icon-1473213051.jpg" alt="mr-timan" class="swiper-lazy showTip el_301" />
+			<a href="http://localhost:8000/thoi-trang-games/thoi-trang-cua-anna">
+									<img data-src="http://localhost:8000/images/game_avatar/thoi-trang-cua-anna-icon-1485231468.jpg" alt="thoi-trang-cua-anna" class="swiper-lazy showTip el_2580" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/action-games/mr-timan">Mr. Timan</a></h2>
+			<h2><a href="http://localhost:8000/thoi-trang-games/thoi-trang-cua-anna">Thời trang của Anna</a></h2>
 		</div>
 	    	</div>
-				<div id="el_301" class="tipContent">
-        <h2><a href="http://teengame.net/action-games/mr-timan">Mr. Timan</a></h2>
+				<div id="el_2580" class="tipContent">
+        <h2><a href="http://localhost:8000/thoi-trang-games/thoi-trang-cua-anna">Thời trang của Anna</a></h2>
         <div class="tooltip_content">
-        	<img title="Mr. Timan" alt="mr-timan" src="http://teengame.net/images/game_avatar/mr-timan-icon-1473213051.jpg" />
+        	<img title="Thời trang của Anna" alt="thoi-trang-cua-anna" src="http://localhost:8000/images/game_avatar/thoi-trang-cua-anna-icon-1485231468.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Action
+                                            Thời trang
                                     </strong>
             	<div>
-            		    					1 plays
+            		    					1475 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:62%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> In a near future Mr. Timan is hired by the powerful institution for science that is working on time travels. The new boss just welcomed him when suddenly...</p>
+            	<p> Nếu yêu thích bộ phim hoạt hình đình đám Nữ hoàng băng giá thì chắc hẳn bạn khó có thể bỏ qua tựa game thời trang công...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -2188,30 +2124,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/action-games/gym-class-racers">
-									<img data-src="http://teengame.net/images/game_avatar/gym-class-racers-icon-1473212915.jpg" alt="gym-class-racers" class="swiper-lazy showTip el_300" />
+			<a href="http://localhost:8000/tri-tue-games/tham-tu-barbie">
+									<img data-src="http://localhost:8000/images/game_avatar/tham-tu-barbie-icon-1485231169.jpg" alt="tham-tu-barbie" class="swiper-lazy showTip el_2579" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/action-games/gym-class-racers">Gym Class Racers</a></h2>
+			<h2><a href="http://localhost:8000/tri-tue-games/tham-tu-barbie">Thám tử Barbie</a></h2>
 		</div>
 	    	</div>
-				<div id="el_300" class="tipContent">
-        <h2><a href="http://teengame.net/action-games/gym-class-racers">Gym Class Racers</a></h2>
+				<div id="el_2579" class="tipContent">
+        <h2><a href="http://localhost:8000/tri-tue-games/tham-tu-barbie">Thám tử Barbie</a></h2>
         <div class="tooltip_content">
-        	<img title="Gym Class Racers" alt="gym-class-racers" src="http://teengame.net/images/game_avatar/gym-class-racers-icon-1473212915.jpg" />
+        	<img title="Thám tử Barbie" alt="tham-tu-barbie" src="http://localhost:8000/images/game_avatar/tham-tu-barbie-icon-1485231169.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Action
+                                            Trí tuệ
                                     </strong>
             	<div>
-            		    					1 plays
+            		    					495 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:80%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Gym Class Racers is cool high school styled racing game. Pick one of the 5 characters and reach the finish line first. Each competitor has a special...</p>
+            	<p> Thám tử Barbie – Barbie School Uniform Secret là một trong những tựa game trí tuệ vô cùng hấp dẫn giành cho các fan yêu thích cô...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -2219,30 +2155,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/racing-games/outworld-motocross">
-									<img data-src="http://teengame.net/images/game_avatar/outworld-motocross-icon-1473212683.jpg" alt="outworld-motocross" class="swiper-lazy showTip el_299" />
+			<a href="http://localhost:8000/hanh-dong-games/sieu-nhan-dai-chien">
+									<img data-src="http://localhost:8000/images/game_avatar/sieu-nhan-dai-chien-icon-1485230717.jpg" alt="sieu-nhan-dai-chien" class="swiper-lazy showTip el_2578" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/racing-games/outworld-motocross">Outworld Motocross</a></h2>
+			<h2><a href="http://localhost:8000/hanh-dong-games/sieu-nhan-dai-chien"> Siêu nhân đại...</a></h2>
 		</div>
 	    	</div>
-				<div id="el_299" class="tipContent">
-        <h2><a href="http://teengame.net/racing-games/outworld-motocross">Outworld Motocross</a></h2>
+				<div id="el_2578" class="tipContent">
+        <h2><a href="http://localhost:8000/hanh-dong-games/sieu-nhan-dai-chien">Siêu nhân đại chiến</a></h2>
         <div class="tooltip_content">
-        	<img title="Outworld Motocross" alt="outworld-motocross" src="http://teengame.net/images/game_avatar/outworld-motocross-icon-1473212683.jpg" />
+        	<img title="Siêu nhân đại chiến" alt="sieu-nhan-dai-chien" src="http://localhost:8000/images/game_avatar/sieu-nhan-dai-chien-icon-1485230717.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Racing
+                                            Hành động
                                     </strong>
             	<div>
-            		    					1 plays
+            		    					1400 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:92%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Gear up for another motocross challenge and steer your dirt bike across the hilly ground of the mysterious world of silver bolts. In this cool Outworld...</p>
+            	<p> Siêu nhân đại chiến - TMNT Vs Power Rangers 2 là một trong những game hành động hấp dẫn cho người chơi ở mọi lứa tuổi....</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -2250,30 +2186,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/action-games/clicker-troops">
-									<img data-src="http://teengame.net/images/game_avatar/clicker-troops-icon-1473212356.jpg" alt="clicker-troops" class="swiper-lazy showTip el_298" />
+			<a href="http://localhost:8000/vui-nhon-games/lily-nghich-ngom">
+									<img data-src="http://localhost:8000/images/game_avatar/lily-nghich-ngom-icon-1485230117.jpg" alt="lily-nghich-ngom" class="swiper-lazy showTip el_2577" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/action-games/clicker-troops">Clicker Troops</a></h2>
+			<h2><a href="http://localhost:8000/vui-nhon-games/lily-nghich-ngom">Lily nghịch ngợm</a></h2>
 		</div>
 	    	</div>
-				<div id="el_298" class="tipContent">
-        <h2><a href="http://teengame.net/action-games/clicker-troops">Clicker Troops</a></h2>
+				<div id="el_2577" class="tipContent">
+        <h2><a href="http://localhost:8000/vui-nhon-games/lily-nghich-ngom">Lily nghịch ngợm</a></h2>
         <div class="tooltip_content">
-        	<img title="Clicker Troops" alt="clicker-troops" src="http://teengame.net/images/game_avatar/clicker-troops-icon-1473212356.jpg" />
+        	<img title="Lily nghịch ngợm" alt="lily-nghich-ngom" src="http://localhost:8000/images/game_avatar/lily-nghich-ngom-icon-1485230117.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Action
+                                            Vui nhộn 
                                     </strong>
             	<div>
-            		    					1 plays
+            		    					394 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:100%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Your troops are under attack by evil creatures. Save them with your clicking power in this fun fantasy clicker adventure. To defeat all enemies you come...</p>
+            	<p> Nếu yêu thích các tựa game vui nhộn thì chắc hẳn bạn sẽ không thể bỏ lỡ game online đình đám được các gamer ở mọi...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -2281,30 +2217,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/action-games/worlds-hardest-game-4">
-									<img data-src="http://teengame.net/images/game_avatar/worlds-hardest-game-4-icon-1473211583.jpg" alt="worlds-hardest-game-4" class="swiper-lazy showTip el_297" />
+			<a href="http://localhost:8000/tri-tue-games/ghep-hinh-moana">
+									<img data-src="http://localhost:8000/images/game_avatar/ghep-hinh-moana-icon-1485229752.jpg" alt="ghep-hinh-moana" class="swiper-lazy showTip el_2576" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/action-games/worlds-hardest-game-4">World's Hardest Game 4</a></h2>
+			<h2><a href="http://localhost:8000/tri-tue-games/ghep-hinh-moana">Ghép hình Moana</a></h2>
 		</div>
 	    	</div>
-				<div id="el_297" class="tipContent">
-        <h2><a href="http://teengame.net/action-games/worlds-hardest-game-4">World's Hardest Game 4</a></h2>
+				<div id="el_2576" class="tipContent">
+        <h2><a href="http://localhost:8000/tri-tue-games/ghep-hinh-moana">Ghép hình Moana</a></h2>
         <div class="tooltip_content">
-        	<img title="World's Hardest Game 4" alt="worlds-hardest-game-4" src="http://teengame.net/images/game_avatar/worlds-hardest-game-4-icon-1473211583.jpg" />
+        	<img title="Ghép hình Moana" alt="ghep-hinh-moana" src="http://localhost:8000/images/game_avatar/ghep-hinh-moana-icon-1485229752.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Action
+                                            Trí tuệ
                                     </strong>
             	<div>
-            		    					1 plays
+            		    					161 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:42%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> This is the worlds hardest game number 4. It is harder than any game you have ever played. Really? Who said that? The developer of the game. OK, it&#39;s...</p>
+            	<p> Ghép hình Moana – Moana Jigsaw là một trong những game trí tuệ hấp dẫn giành cho người chơi ở mọi lứa tuổi. Với lối chơi...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -2312,30 +2248,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/racing-games/super-trucks-3d">
-									<img data-src="http://teengame.net/images/game_avatar/super-trucks-3d-icon-1473211419.jpg" alt="super-trucks-3d" class="swiper-lazy showTip el_296" />
+			<a href="http://localhost:8000/hanh-dong-games/dung-si-diet-chuot">
+									<img data-src="http://localhost:8000/images/game_avatar/dung-si-diet-chuot-icon-1485229331.jpg" alt="dung-si-diet-chuot" class="swiper-lazy showTip el_2575" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/racing-games/super-trucks-3d">Super Trucks 3D</a></h2>
+			<h2><a href="http://localhost:8000/hanh-dong-games/dung-si-diet-chuot">Dũng sĩ diệt chuột</a></h2>
 		</div>
 	    	</div>
-				<div id="el_296" class="tipContent">
-        <h2><a href="http://teengame.net/racing-games/super-trucks-3d">Super Trucks 3D</a></h2>
+				<div id="el_2575" class="tipContent">
+        <h2><a href="http://localhost:8000/hanh-dong-games/dung-si-diet-chuot">Dũng sĩ diệt chuột</a></h2>
         <div class="tooltip_content">
-        	<img title="Super Trucks 3D" alt="super-trucks-3d" src="http://teengame.net/images/game_avatar/super-trucks-3d-icon-1473211419.jpg" />
+        	<img title="Dũng sĩ diệt chuột" alt="dung-si-diet-chuot" src="http://localhost:8000/images/game_avatar/dung-si-diet-chuot-icon-1485229331.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Racing
+                                            Hành động
                                     </strong>
             	<div>
-            		    					1 plays
+            		    					233 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:62%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Master the hilly track of this fast-paced monster truck racing game Super Truck 3D! Avoid obstacles and collect nitro power ups to live all competitors...</p>
+            	<p> Dũng sĩ diệt chuột - Kick The Rat là một trong những game hành động khá thú vị giành cho các gamer ở mọi lứa tuổi. Sở hữu...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -2343,30 +2279,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/puzzle-games/fractured-4">
-									<img data-src="http://teengame.net/images/game_avatar/fractured-4-icon-1473156019.jpg" alt="fractured-4" class="swiper-lazy showTip el_295" />
+			<a href="http://localhost:8000/vui-nhon-games/dora-nghich-ngom">
+									<img data-src="http://localhost:8000/images/game_avatar/dora-nghich-ngom-icon-1485228317.jpg" alt="dora-nghich-ngom" class="swiper-lazy showTip el_2574" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/puzzle-games/fractured-4">Fractured 4</a></h2>
+			<h2><a href="http://localhost:8000/vui-nhon-games/dora-nghich-ngom">Dora nghịch ngợm</a></h2>
 		</div>
 	    	</div>
-				<div id="el_295" class="tipContent">
-        <h2><a href="http://teengame.net/puzzle-games/fractured-4">Fractured 4</a></h2>
+				<div id="el_2574" class="tipContent">
+        <h2><a href="http://localhost:8000/vui-nhon-games/dora-nghich-ngom">Dora nghịch ngợm</a></h2>
         <div class="tooltip_content">
-        	<img title="Fractured 4" alt="fractured-4" src="http://teengame.net/images/game_avatar/fractured-4-icon-1473156019.jpg" />
+        	<img title="Dora nghịch ngợm" alt="dora-nghich-ngom" src="http://localhost:8000/images/game_avatar/dora-nghich-ngom-icon-1485228317.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Puzzle
+                                            Vui nhộn 
                                     </strong>
             	<div>
-            		    					1 plays
+            		    					636 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:86%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Help these two children who are caught up in the strange world of Fractured 4. Solve puzzles and pilot both through shattered pieces to bring them...</p>
+            	<p> Dora Baby Caring Slacking – Dora nghịch ngợm là một trong những trò chơi thú vị thuộc series game vui nhộn Slacking đình đám...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -2374,30 +2310,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/puzzle-games/fractured-3">
-									<img data-src="http://teengame.net/images/game_avatar/fractured-3-icon-1473155936.jpg" alt="fractured-3" class="swiper-lazy showTip el_294" />
+			<a href="http://localhost:8000/ban-gai-games/bua-tiec-giang-sinh">
+									<img data-src="http://localhost:8000/images/game_avatar/bua-tiec-giang-sinh-icon-1483587153.jpg" alt="bua-tiec-giang-sinh" class="swiper-lazy showTip el_2468" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/puzzle-games/fractured-3">Fractured 3</a></h2>
+			<h2><a href="http://localhost:8000/ban-gai-games/bua-tiec-giang-sinh">Bữa tiệc giáng sinh</a></h2>
 		</div>
 	    	</div>
-				<div id="el_294" class="tipContent">
-        <h2><a href="http://teengame.net/puzzle-games/fractured-3">Fractured 3</a></h2>
+				<div id="el_2468" class="tipContent">
+        <h2><a href="http://localhost:8000/ban-gai-games/bua-tiec-giang-sinh">Bữa tiệc giáng sinh</a></h2>
         <div class="tooltip_content">
-        	<img title="Fractured 3" alt="fractured-3" src="http://teengame.net/images/game_avatar/fractured-3-icon-1473155936.jpg" />
+        	<img title="Bữa tiệc giáng sinh" alt="bua-tiec-giang-sinh" src="http://localhost:8000/images/game_avatar/bua-tiec-giang-sinh-icon-1483587153.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Puzzle
+                                            Bạn gái
                                     </strong>
             	<div>
-            		    					1 plays
+            		    					467 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:54%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Put together the single pieces in the third episode of the mysterious puzzle platform game, Fractured 3. Your objective is to help a little girl and boy...</p>
+            	<p> Villians Christmas Party - Bữa tiệc giáng sinh là một trong những trò chơi bạn gái khá thú vị giành cho các cô nàng yêu thích...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -2405,30 +2341,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/puzzle-games/fractured-2">
-									<img data-src="http://teengame.net/images/game_avatar/fractured-2-icon-1473155769.jpg" alt="fractured-2" class="swiper-lazy showTip el_293" />
+			<a href="http://localhost:8000/vui-nhon-games/santa-luom-qua">
+									<img data-src="http://localhost:8000/images/game_avatar/santa-luom-qua-icon-1483586415.jpg" alt="santa-luom-qua" class="swiper-lazy showTip el_2467" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/puzzle-games/fractured-2">Fractured 2</a></h2>
+			<h2><a href="http://localhost:8000/vui-nhon-games/santa-luom-qua">Santa lượm quà</a></h2>
 		</div>
 	    	</div>
-				<div id="el_293" class="tipContent">
-        <h2><a href="http://teengame.net/puzzle-games/fractured-2">Fractured 2</a></h2>
+				<div id="el_2467" class="tipContent">
+        <h2><a href="http://localhost:8000/vui-nhon-games/santa-luom-qua">Santa lượm quà</a></h2>
         <div class="tooltip_content">
-        	<img title="Fractured 2" alt="fractured-2" src="http://teengame.net/images/game_avatar/fractured-2-icon-1473155769.jpg" />
+        	<img title="Santa lượm quà" alt="santa-luom-qua" src="http://localhost:8000/images/game_avatar/santa-luom-qua-icon-1483586415.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Puzzle
+                                            Vui nhộn 
                                     </strong>
             	<div>
-            		    					1 plays
+            		    					504 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:74%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Follow the story of a sad little girl who lost her daddy and couldn&#39;t process it. Like in the first sequel of the addicting puzzle platform game it is...</p>
+            	<p> Santa lượm quà là một trong những game vui nhộn thú vị giành cho các gamer trong những ngày cuối năm này. Sở hữu lối chơi...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -2436,30 +2372,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/puzzle-games/fractured">
-									<img data-src="http://teengame.net/images/game_avatar/fractured-icon-1473155635.jpg" alt="fractured" class="swiper-lazy showTip el_292" />
+			<a href="http://localhost:8000/ban-gai-games/belle-kham-rang">
+									<img data-src="http://localhost:8000/images/game_avatar/belle-kham-rang-icon-1483585402.jpg" alt="belle-kham-rang" class="swiper-lazy showTip el_2466" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/puzzle-games/fractured">Fractured</a></h2>
+			<h2><a href="http://localhost:8000/ban-gai-games/belle-kham-rang">Belle khám răng</a></h2>
 		</div>
 	    	</div>
-				<div id="el_292" class="tipContent">
-        <h2><a href="http://teengame.net/puzzle-games/fractured">Fractured</a></h2>
+				<div id="el_2466" class="tipContent">
+        <h2><a href="http://localhost:8000/ban-gai-games/belle-kham-rang">Belle khám răng</a></h2>
         <div class="tooltip_content">
-        	<img title="Fractured" alt="fractured" src="http://teengame.net/images/game_avatar/fractured-icon-1473155635.jpg" />
+        	<img title="Belle khám răng" alt="belle-kham-rang" src="http://localhost:8000/images/game_avatar/belle-kham-rang-icon-1483585402.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Puzzle
+                                            Bạn gái
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					720 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:20%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> In this mystical platform game the mother is separate from her son. Figure out how to move the child through all fragments and get him to his mommy. When...</p>
+            	<p> Perfect Dentist Princess Belle - Belle khám răng là game bạn gái khá thú vị giành cho các game thủ ở mọi lứa tuổi. Nhiệm vụ...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -2467,30 +2403,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/sport-games/speedplay-soccer-4">
-									<img data-src="http://teengame.net/images/game_avatar/speedplay-soccer-4-icon-1473155426.jpg" alt="speedplay-soccer-4" class="swiper-lazy showTip el_291" />
+			<a href="http://localhost:8000/hanh-dong-games/dau-truong-ninja">
+									<img data-src="http://localhost:8000/images/game_avatar/dau-truong-ninja-icon-1483584782.jpg" alt="dau-truong-ninja" class="swiper-lazy showTip el_2465" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/sport-games/speedplay-soccer-4">Speedplay Soccer 4</a></h2>
+			<h2><a href="http://localhost:8000/hanh-dong-games/dau-truong-ninja">Đấu trường Ninja</a></h2>
 		</div>
 	    	</div>
-				<div id="el_291" class="tipContent">
-        <h2><a href="http://teengame.net/sport-games/speedplay-soccer-4">Speedplay Soccer 4</a></h2>
+				<div id="el_2465" class="tipContent">
+        <h2><a href="http://localhost:8000/hanh-dong-games/dau-truong-ninja">Đấu trường Ninja</a></h2>
         <div class="tooltip_content">
-        	<img title="Speedplay Soccer 4" alt="speedplay-soccer-4" src="http://teengame.net/images/game_avatar/speedplay-soccer-4-icon-1473155426.jpg" />
+        	<img title="Đấu trường Ninja" alt="dau-truong-ninja" src="http://localhost:8000/images/game_avatar/dau-truong-ninja-icon-1483584782.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Sport
+                                            Hành động
                                     </strong>
             	<div>
-            		    					1 plays
+            		    					587 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:72%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> SpeedPlay World Soccer 4 is a great new soccer game. Select your favorite tournament, whether it&#39;s the Euro Cup or the Copa America, and start beating...</p>
+            	<p> Nếu yêu thích anh chàng Ninja anh hùng thì chắc chắn bạn sẽ không thể bỏ qua tựa game hấp dẫn Ninja War - Đấu trường...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -2502,30 +2438,30 @@ How to...</p>
 																											<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/puzzle-games/snail-bob-8-island-story">
-									<img data-src="http://teengame.net/images/game_avatar/snail-bob-8-icon-1473069096.jpg" alt="snail-bob-8-island-story" class="swiper-lazy showTip el_290" />
+			<a href="http://localhost:8000/the-thao-games/truot-tuyet-dia-hinh">
+									<img data-src="http://localhost:8000/images/game_avatar/truot-tuyet-dia-hinh-icon-1483584064.jpg" alt="truot-tuyet-dia-hinh" class="swiper-lazy showTip el_2464" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/puzzle-games/snail-bob-8-island-story">Snail Bob 8 Island Story</a></h2>
+			<h2><a href="http://localhost:8000/the-thao-games/truot-tuyet-dia-hinh"> Trượt tuyết địa...</a></h2>
 		</div>
 	    	</div>
-				<div id="el_290" class="tipContent">
-        <h2><a href="http://teengame.net/puzzle-games/snail-bob-8-island-story">Snail Bob 8 Island Story</a></h2>
+				<div id="el_2464" class="tipContent">
+        <h2><a href="http://localhost:8000/the-thao-games/truot-tuyet-dia-hinh">Trượt tuyết địa hình</a></h2>
         <div class="tooltip_content">
-        	<img title="Snail Bob 8 Island Story" alt="snail-bob-8-island-story" src="http://teengame.net/images/game_avatar/snail-bob-8-icon-1473069096.jpg" />
+        	<img title="Trượt tuyết địa hình" alt="truot-tuyet-dia-hinh" src="http://localhost:8000/images/game_avatar/truot-tuyet-dia-hinh-icon-1483584064.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Puzzle
+                                            Thể thao
                                     </strong>
             	<div>
-            		    					1 plays
+            		    					229 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:96%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Snail Bob 8: Island Story is another physics-based puzzle game with the lazy sluggard Bob. Help Bob the Snail back home from the island full of puzzles...</p>
+            	<p> Trượt tuyết địa hình - Icey là một trong những game thể thao hấp dẫn được nhiều gamer vô cùng yêu thích. Với nội dung...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -2533,32 +2469,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/puzzle-games/snail-bob-7-fantasy-story">
-									<img data-src="http://teengame.net/images/game_avatar/snail-bob-7-icon-1473068842.jpg" alt="snail-bob-7-fantasy-story" class="swiper-lazy showTip el_289" />
+			<a href="http://localhost:8000/thoi-trang-games/thoi-trang-nu-hoang-2">
+									<img data-src="http://localhost:8000/images/game_avatar/thoi-trang-nu-hoang-2-icon-1483583132.jpg" alt="thoi-trang-nu-hoang-2" class="swiper-lazy showTip el_2463" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/puzzle-games/snail-bob-7-fantasy-story"> Snail Bob 7 Fantasy Story</a></h2>
+			<h2><a href="http://localhost:8000/thoi-trang-games/thoi-trang-nu-hoang-2"> Thời trang nữ hoàng...</a></h2>
 		</div>
 	    	</div>
-				<div id="el_289" class="tipContent">
-        <h2><a href="http://teengame.net/puzzle-games/snail-bob-7-fantasy-story">Snail Bob 7 Fantasy Story</a></h2>
+				<div id="el_2463" class="tipContent">
+        <h2><a href="http://localhost:8000/thoi-trang-games/thoi-trang-nu-hoang-2">Thời trang nữ hoàng 2</a></h2>
         <div class="tooltip_content">
-        	<img title="Snail Bob 7 Fantasy Story" alt="snail-bob-7-fantasy-story" src="http://teengame.net/images/game_avatar/snail-bob-7-icon-1473068842.jpg" />
+        	<img title="Thời trang nữ hoàng 2" alt="thoi-trang-nu-hoang-2" src="http://localhost:8000/images/game_avatar/thoi-trang-nu-hoang-2-icon-1483583132.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Puzzle
+                                            Thời trang
                                     </strong>
             	<div>
-            		    					1 plays
+            		    					1097 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:82%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Snail Bob returns with a new fantasy story. Help the cute slug to overcome all adventures by pointing and clicking on interactive spots. Much fun!
-
-How...</p>
+            	<p> Nếu yêu thích thể loại game thời trang thì chắc hẳn bạn sẽ khó có thể bỏ qua tựa game đình đám Ice Queen Beauty - Thời...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -2566,32 +2500,30 @@ How...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/puzzle-games/snail-bob-6-winter-story">
-									<img data-src="http://teengame.net/images/game_avatar/snail-bob-6-icon-1473068592.jpg" alt="snail-bob-6-winter-story" class="swiper-lazy showTip el_288" />
+			<a href="http://localhost:8000/nau-an-games/tiem-kem-cua-riley-2">
+									<img data-src="http://localhost:8000/images/game_avatar/tiem-kem-cua-riley-2-icon-1483582318.jpg" alt="tiem-kem-cua-riley-2" class="swiper-lazy showTip el_2462" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/puzzle-games/snail-bob-6-winter-story">Snail Bob 6 Winter Story</a></h2>
+			<h2><a href="http://localhost:8000/nau-an-games/tiem-kem-cua-riley-2">Tiệm kem của Riley 2</a></h2>
 		</div>
 	    	</div>
-				<div id="el_288" class="tipContent">
-        <h2><a href="http://teengame.net/puzzle-games/snail-bob-6-winter-story">Snail Bob 6 Winter Story</a></h2>
+				<div id="el_2462" class="tipContent">
+        <h2><a href="http://localhost:8000/nau-an-games/tiem-kem-cua-riley-2">Tiệm kem của Riley 2</a></h2>
         <div class="tooltip_content">
-        	<img title="Snail Bob 6 Winter Story" alt="snail-bob-6-winter-story" src="http://teengame.net/images/game_avatar/snail-bob-6-icon-1473068592.jpg" />
+        	<img title="Tiệm kem của Riley 2" alt="tiem-kem-cua-riley-2" src="http://localhost:8000/images/game_avatar/tiem-kem-cua-riley-2-icon-1483582318.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Puzzle
+                                            Nấu ăn
                                     </strong>
             	<div>
-            		    					1 plays
+            		    					296 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:80%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Snail Bob 6 is another cool sequel of the popular platform game from A10. Keep Snail Bob alive in this puzzle-ridden winter wonderland. Enjoy!
-
-How to...</p>
+            	<p> Ice O Matik - Tiệm kem của Riley 2 là một trò chơi nấu ăn khá thú vị được các bạn gái vô cùng yêu thích. Nhiệm vụ của...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -2599,30 +2531,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/puzzle-games/snail-bob-5-love-story">
-									<img data-src="http://teengame.net/images/game_avatar/snail-bob-5-icon-1473069619.jpg" alt="snail-bob-5-love-story" class="swiper-lazy showTip el_287" />
+			<a href="http://localhost:8000/vui-nhon-games/truot-van-nuoc">
+									<img data-src="http://localhost:8000/images/game_avatar/truot-van-nuoc-icon-1483581820.jpg" alt="truot-van-nuoc" class="swiper-lazy showTip el_2461" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/puzzle-games/snail-bob-5-love-story">Snail Bob 5 Love Story</a></h2>
+			<h2><a href="http://localhost:8000/vui-nhon-games/truot-van-nuoc">Trượt ván nước</a></h2>
 		</div>
 	    	</div>
-				<div id="el_287" class="tipContent">
-        <h2><a href="http://teengame.net/puzzle-games/snail-bob-5-love-story">Snail Bob 5 Love Story</a></h2>
+				<div id="el_2461" class="tipContent">
+        <h2><a href="http://localhost:8000/vui-nhon-games/truot-van-nuoc">Trượt ván nước</a></h2>
         <div class="tooltip_content">
-        	<img title="Snail Bob 5 Love Story" alt="snail-bob-5-love-story" src="http://teengame.net/images/game_avatar/snail-bob-5-icon-1473069619.jpg" />
+        	<img title="Trượt ván nước" alt="truot-van-nuoc" src="http://localhost:8000/images/game_avatar/truot-van-nuoc-icon-1483581820.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Puzzle
+                                            Vui nhộn 
                                     </strong>
             	<div>
-            		    					1 plays
+            		    					505 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:88%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Love is in the air for the world&#39;s most famous snail. Help Bob in this fun sequel to make his way through each stage to the exit to win his beloved...</p>
+            	<p> Happy Summer - Trượt ván nước là một game vui nhộn thú vị giành cho các gamer yêu thích thể loại này. Sở hữu lối chơi đơn...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -2630,30 +2562,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/puzzle-games/snail-bob-4-space">
-									<img data-src="http://teengame.net/images/game_avatar/snail-bob-4-icon-1473067748.jpg" alt="snail-bob-4-space" class="swiper-lazy showTip el_286" />
+			<a href="http://localhost:8000/hanh-dong-games/frankenstein-tim-kho-bau">
+									<img data-src="http://localhost:8000/images/game_avatar/frankenstein-tim-kho-bau-icon-1483581393.jpg" alt="frankenstein-tim-kho-bau" class="swiper-lazy showTip el_2460" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/puzzle-games/snail-bob-4-space">Snail Bob 4 Space</a></h2>
+			<h2><a href="http://localhost:8000/hanh-dong-games/frankenstein-tim-kho-bau"> Frankenstein tìm kho...</a></h2>
 		</div>
 	    	</div>
-				<div id="el_286" class="tipContent">
-        <h2><a href="http://teengame.net/puzzle-games/snail-bob-4-space">Snail Bob 4 Space</a></h2>
+				<div id="el_2460" class="tipContent">
+        <h2><a href="http://localhost:8000/hanh-dong-games/frankenstein-tim-kho-bau">Frankenstein tìm kho báu</a></h2>
         <div class="tooltip_content">
-        	<img title="Snail Bob 4 Space" alt="snail-bob-4-space" src="http://teengame.net/images/game_avatar/snail-bob-4-icon-1473067748.jpg" />
+        	<img title="Frankenstein tìm kho báu" alt="frankenstein-tim-kho-bau" src="http://localhost:8000/images/game_avatar/frankenstein-tim-kho-bau-icon-1483581393.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Puzzle
+                                            Hành động
                                     </strong>
             	<div>
-            		    					1 plays
+            		    					154 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:84%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Snail Bob 4 is here, ready to save our lovely planet one more time. In the fourth sequel you have to attend our beloved slowpoke to an adventurous mission...</p>
+            	<p> Frankenstein tìm kho báu - Frankenstein Adventures là một tựa game hành động hấp dẫn được các game thủ trên toàn thế giới vô...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -2661,30 +2593,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/puzzle-games/snail-bob-3">
-									<img data-src="http://teengame.net/images/game_avatar/snail-bob-3-icon-1473067388.jpg" alt="snail-bob-3" class="swiper-lazy showTip el_285" />
+			<a href="http://localhost:8000/ban-gai-games/trang-diem-cong-chua-disney">
+									<img data-src="http://localhost:8000/images/game_avatar/trang-diem-cong-chua-disney-icon-1483515834.jpg" alt="trang-diem-cong-chua-disney" class="swiper-lazy showTip el_2459" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/puzzle-games/snail-bob-3">Snail Bob 3</a></h2>
+			<h2><a href="http://localhost:8000/ban-gai-games/trang-diem-cong-chua-disney"> Trang điểm công chúa...</a></h2>
 		</div>
 	    	</div>
-				<div id="el_285" class="tipContent">
-        <h2><a href="http://teengame.net/puzzle-games/snail-bob-3">Snail Bob 3</a></h2>
+				<div id="el_2459" class="tipContent">
+        <h2><a href="http://localhost:8000/ban-gai-games/trang-diem-cong-chua-disney">Trang điểm công chúa Disney</a></h2>
         <div class="tooltip_content">
-        	<img title="Snail Bob 3" alt="snail-bob-3" src="http://teengame.net/images/game_avatar/snail-bob-3-icon-1473067388.jpg" />
+        	<img title="Trang điểm công chúa Disney" alt="trang-diem-cong-chua-disney" src="http://localhost:8000/images/game_avatar/trang-diem-cong-chua-disney-icon-1483515834.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Puzzle
+                                            Bạn gái
                                     </strong>
             	<div>
-            		    					1 plays
+            		    					2538 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:72%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Snail Bob 3 is the brandnew sequel of the fun physics-based puzzle game, created by Andrey Kovalishin. This time the popular snail Bob traveled to the...</p>
+            	<p> Disney Princess Makeover Princess - Trang điểm công chúa Disney là một trong những trò chơi khá thú vị giành cho các bạn gái yêu...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -2692,30 +2624,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/puzzle-games/snail-bob-2">
-									<img data-src="http://teengame.net/images/game_avatar/snail-bob-2-icon-1473066874.jpg" alt="snail-bob-2" class="swiper-lazy showTip el_284" />
+			<a href="http://localhost:8000/dua-xe-games/tay-lai-cu-khoi-2">
+									<img data-src="http://localhost:8000/images/game_avatar/tay-lai-cu-khoi-2-icon-1483515205.jpg" alt="tay-lai-cu-khoi-2" class="swiper-lazy showTip el_2458" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/puzzle-games/snail-bob-2">Snail Bob 2</a></h2>
+			<h2><a href="http://localhost:8000/dua-xe-games/tay-lai-cu-khoi-2">Tay lái cừ khôi 2</a></h2>
 		</div>
 	    	</div>
-				<div id="el_284" class="tipContent">
-        <h2><a href="http://teengame.net/puzzle-games/snail-bob-2">Snail Bob 2</a></h2>
+				<div id="el_2458" class="tipContent">
+        <h2><a href="http://localhost:8000/dua-xe-games/tay-lai-cu-khoi-2">Tay lái cừ khôi 2</a></h2>
         <div class="tooltip_content">
-        	<img title="Snail Bob 2" alt="snail-bob-2" src="http://teengame.net/images/game_avatar/snail-bob-2-icon-1473066874.jpg" />
+        	<img title="Tay lái cừ khôi 2" alt="tay-lai-cu-khoi-2" src="http://localhost:8000/images/game_avatar/tay-lai-cu-khoi-2-icon-1483515205.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Puzzle
+                                            Đua xe
                                     </strong>
             	<div>
-            		    					1 plays
+            		    					380 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:80%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Snail Bob 2 is another cool physics puzzle game made by Hunter Hamster. A dangerous forest stands between Snail Bob and his Grandpa. Guide Bob through...</p>
+            	<p> Tay lái cừ khôi 2 - Confident Driver là một trong những trò chơi thú vị giành cho các gamer yêu thích thể loại game đua xe tốc...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -2723,30 +2655,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/puzzle-games/snail-bob">
-									<img data-src="http://teengame.net/images/game_avatar/snail-bob-icon-1473059160.jpg" alt="snail-bob" class="swiper-lazy showTip el_283" />
+			<a href="http://localhost:8000/vui-nhon-games/ban-bong-bay">
+									<img data-src="http://localhost:8000/images/game_avatar/ban-bong-bay-icon-1483504203.jpg" alt="ban-bong-bay" class="swiper-lazy showTip el_2457" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/puzzle-games/snail-bob">Snail Bob</a></h2>
+			<h2><a href="http://localhost:8000/vui-nhon-games/ban-bong-bay">Bắn bóng bay</a></h2>
 		</div>
 	    	</div>
-				<div id="el_283" class="tipContent">
-        <h2><a href="http://teengame.net/puzzle-games/snail-bob">Snail Bob</a></h2>
+				<div id="el_2457" class="tipContent">
+        <h2><a href="http://localhost:8000/vui-nhon-games/ban-bong-bay">Bắn bóng bay</a></h2>
         <div class="tooltip_content">
-        	<img title="Snail Bob" alt="snail-bob" src="http://teengame.net/images/game_avatar/snail-bob-icon-1473059160.jpg" />
+        	<img title="Bắn bóng bay" alt="ban-bong-bay" src="http://localhost:8000/images/game_avatar/ban-bong-bay-icon-1483504203.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Puzzle
+                                            Vui nhộn 
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					266 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:46%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Snail Bob is a new physics based puzzle game from Andrey Kovalishin. Snail Bob is lost, help him to find the right path. Use tools to guide Bob through...</p>
+            	<p> Bắn bóng bay - Carnival Balloon Shoot là một game vui nhộn thú vị giành cho các gamer ở mọi lứa tuổi. Với lối chơi đơn giản...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -2754,30 +2686,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/action-games/tu-95">
-									<img data-src="http://teengame.net/images/game_avatar/tu-95-icon-1472723911.jpg" alt="tu-95" class="swiper-lazy showTip el_282" />
+			<a href="http://localhost:8000/the-thao-games/choi-bong-ro-3">
+									<img data-src="http://localhost:8000/images/game_avatar/choi-bong-ro-3-icon-1483496334.jpg" alt="choi-bong-ro-3" class="swiper-lazy showTip el_2456" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/action-games/tu-95">TU 95</a></h2>
+			<h2><a href="http://localhost:8000/the-thao-games/choi-bong-ro-3">Chơi bóng rổ 3</a></h2>
 		</div>
 	    	</div>
-				<div id="el_282" class="tipContent">
-        <h2><a href="http://teengame.net/action-games/tu-95">TU 95</a></h2>
+				<div id="el_2456" class="tipContent">
+        <h2><a href="http://localhost:8000/the-thao-games/choi-bong-ro-3">Chơi bóng rổ 3</a></h2>
         <div class="tooltip_content">
-        	<img title="TU 95" alt="tu-95" src="http://teengame.net/images/game_avatar/tu-95-icon-1472723911.jpg" />
+        	<img title="Chơi bóng rổ 3" alt="choi-bong-ro-3" src="http://localhost:8000/images/game_avatar/choi-bong-ro-3-icon-1483496334.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Action
+                                            Thể thao
                                     </strong>
             	<div>
-            		    					3 plays
+            		    					317 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:100%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Mission of Tupolev 95 (TU 95) is to control, fly and land this soviet bomber. Learn to steer the plane and become a successful bomber pilot in the soviet...</p>
+            	<p> Nếu yêu thích các trò chơi thể thao thì chắc hẳn bạn sẽ không thể bỏ lỡ tựa game đình đám Chơi bóng rổ 3. Nằm trong...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -2785,30 +2717,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/action-games/tu-46">
-									<img data-src="http://teengame.net/images/game_avatar/TU-46-icon-1472723844.jpg" alt="tu-46" class="swiper-lazy showTip el_281" />
+			<a href="http://localhost:8000/thoi-trang-games/thoi-trang-cua-annie">
+									<img data-src="http://localhost:8000/images/game_avatar/thoi-trang-cua-annie-icon-1483495147.jpg" alt="thoi-trang-cua-annie" class="swiper-lazy showTip el_2455" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/action-games/tu-46">TU 46</a></h2>
+			<h2><a href="http://localhost:8000/thoi-trang-games/thoi-trang-cua-annie">Thời trang của Annie</a></h2>
 		</div>
 	    	</div>
-				<div id="el_281" class="tipContent">
-        <h2><a href="http://teengame.net/action-games/tu-46">TU 46</a></h2>
+				<div id="el_2455" class="tipContent">
+        <h2><a href="http://localhost:8000/thoi-trang-games/thoi-trang-cua-annie">Thời trang của Annie</a></h2>
         <div class="tooltip_content">
-        	<img title="TU 46" alt="tu-46" src="http://teengame.net/images/game_avatar/TU-46-icon-1472723844.jpg" />
+        	<img title="Thời trang của Annie" alt="thoi-trang-cua-annie" src="http://localhost:8000/images/game_avatar/thoi-trang-cua-annie-icon-1483495147.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Action
+                                            Thời trang
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					1038 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:60%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> TU-46 is another cool airline simulator inspired by TU-95. You get to control the brand new passenger aircrafts from Tupolev. Deliver passengers around 6...</p>
+            	<p> Thời trang của Annie - Annie Winter Dress là một game thời trang thú vị giành cho những bé gái có niềm đam mê với công việc...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -2816,30 +2748,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/strategy-games/swords-and-souls">
-									<img data-src="http://teengame.net/images/game_avatar/swords-and-souls-icon-1472723720.jpg" alt="swords-and-souls" class="swiper-lazy showTip el_280" />
+			<a href="http://localhost:8000/ban-gai-games/ky-nghi-cua-tom-va-angela">
+									<img data-src="http://localhost:8000/images/game_avatar/ky-nghi-cua-tom-va-angela-icon-1483494073.jpg" alt="ky-nghi-cua-tom-va-angela" class="swiper-lazy showTip el_2454" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/strategy-games/swords-and-souls">Swords And Souls</a></h2>
+			<h2><a href="http://localhost:8000/ban-gai-games/ky-nghi-cua-tom-va-angela"> Kỳ nghỉ của Tom và...</a></h2>
 		</div>
 	    	</div>
-				<div id="el_280" class="tipContent">
-        <h2><a href="http://teengame.net/strategy-games/swords-and-souls">Swords And Souls</a></h2>
+				<div id="el_2454" class="tipContent">
+        <h2><a href="http://localhost:8000/ban-gai-games/ky-nghi-cua-tom-va-angela">Kỳ nghỉ của Tom và Angela</a></h2>
         <div class="tooltip_content">
-        	<img title="Swords And Souls" alt="swords-and-souls" src="http://teengame.net/images/game_avatar/swords-and-souls-icon-1472723720.jpg" />
+        	<img title="Kỳ nghỉ của Tom và Angela" alt="ky-nghi-cua-tom-va-angela" src="http://localhost:8000/images/game_avatar/ky-nghi-cua-tom-va-angela-icon-1483494073.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Strategy
+                                            Bạn gái
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					468 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:90%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Welcome to Soul Town! Design your Soul, train him and step into the Arena! Unlock new skills, buy new equipment and make your way to the top in this...</p>
+            	<p> Angela And Tom Beach Vacation - Kỳ nghỉ của Tom và Angela là một trong những game bạn gái khá thú vị giành cho gamer ở mọi lứa...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -2847,30 +2779,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/action-games/stunt-pilot">
-									<img data-src="http://teengame.net/images/game_avatar/stunt-pilot-icon-1472723527.jpg" alt="stunt-pilot" class="swiper-lazy showTip el_279" />
+			<a href="http://localhost:8000/ban-gai-games/hoa-trang-halloween-2">
+									<img data-src="http://localhost:8000/images/game_avatar/hoa-trang-halloween-2-icon-1479713905.jpg" alt="hoa-trang-halloween-2" class="swiper-lazy showTip el_2288" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/action-games/stunt-pilot">Stunt Pilot</a></h2>
+			<h2><a href="http://localhost:8000/ban-gai-games/hoa-trang-halloween-2">Hóa trang Halloween 2</a></h2>
 		</div>
 	    	</div>
-				<div id="el_279" class="tipContent">
-        <h2><a href="http://teengame.net/action-games/stunt-pilot">Stunt Pilot</a></h2>
+				<div id="el_2288" class="tipContent">
+        <h2><a href="http://localhost:8000/ban-gai-games/hoa-trang-halloween-2">Hóa trang Halloween 2</a></h2>
         <div class="tooltip_content">
-        	<img title="Stunt Pilot" alt="stunt-pilot" src="http://teengame.net/images/game_avatar/stunt-pilot-icon-1472723527.jpg" />
+        	<img title="Hóa trang Halloween 2" alt="hoa-trang-halloween-2" src="http://localhost:8000/images/game_avatar/hoa-trang-halloween-2-icon-1479713905.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Action
+                                            Bạn gái
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					554 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:80%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Mission of Stunt Pilot is to complete all the courses without crashing! Control the plane with the arrow keys and pilot your stunt plane through various...</p>
+            	<p> Face Painting Central Park – Hóa trang Halloween 2 – một trong những game bạn gái mới mẻ, ấn tượng nhất nửa cuối năm...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -2882,30 +2814,30 @@ How to...</p>
 																											<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/action-games/speedboat-shooting">
-									<img data-src="http://teengame.net/images/game_avatar/speedboat-shooting-icon-1472723427.jpg" alt="speedboat-shooting" class="swiper-lazy showTip el_278" />
+			<a href="http://localhost:8000/nau-an-games/phuc-vu-quan-bar">
+									<img data-src="http://localhost:8000/images/game_avatar/phuc-vu-quan-bar-banner-icon-1479714249.jpg" alt="phuc-vu-quan-bar" class="swiper-lazy showTip el_2290" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/action-games/speedboat-shooting">Speedboat Shooting</a></h2>
+			<h2><a href="http://localhost:8000/nau-an-games/phuc-vu-quan-bar">Phục vụ quán bar</a></h2>
 		</div>
 	    	</div>
-				<div id="el_278" class="tipContent">
-        <h2><a href="http://teengame.net/action-games/speedboat-shooting">Speedboat Shooting</a></h2>
+				<div id="el_2290" class="tipContent">
+        <h2><a href="http://localhost:8000/nau-an-games/phuc-vu-quan-bar">Phục vụ quán bar</a></h2>
         <div class="tooltip_content">
-        	<img title="Speedboat Shooting" alt="speedboat-shooting" src="http://teengame.net/images/game_avatar/speedboat-shooting-icon-1472723427.jpg" />
+        	<img title="Phục vụ quán bar" alt="phuc-vu-quan-bar" src="http://localhost:8000/images/game_avatar/phuc-vu-quan-bar-banner-icon-1479714249.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Action
+                                            Nấu ăn
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					791 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:70%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Enemy chasers keep after a speedboat like crazy, ready to shoot it down. So it&#39;s up to you to guard the race boat from all attackers by using a...</p>
+            	<p> Quán bar ngày một đông, để đáp ứng hết yêu cầu của khách hàng đích thân cô chủ Mania phải đứng ra phục vụ. Hãy khéo...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -2913,30 +2845,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/puzzle-games/shape-fold-animals">
-									<img data-src="http://teengame.net/images/game_avatar/shape-fold-animals-icon-1472723127.jpg" alt="shape-fold-animals" class="swiper-lazy showTip el_277" />
+			<a href="http://localhost:8000/vui-nhon-games/dap-pha-sieu-xe">
+									<img data-src="http://localhost:8000/images/game_avatar/dap-pha-sieu-xe-icon-1479713732.jpg" alt="dap-pha-sieu-xe" class="swiper-lazy showTip el_2287" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/puzzle-games/shape-fold-animals">Shape Fold Animals</a></h2>
+			<h2><a href="http://localhost:8000/vui-nhon-games/dap-pha-sieu-xe">Đập phá siêu xe</a></h2>
 		</div>
 	    	</div>
-				<div id="el_277" class="tipContent">
-        <h2><a href="http://teengame.net/puzzle-games/shape-fold-animals">Shape Fold Animals</a></h2>
+				<div id="el_2287" class="tipContent">
+        <h2><a href="http://localhost:8000/vui-nhon-games/dap-pha-sieu-xe">Đập phá siêu xe</a></h2>
         <div class="tooltip_content">
-        	<img title="Shape Fold Animals" alt="shape-fold-animals" src="http://teengame.net/images/game_avatar/shape-fold-animals-icon-1472723127.jpg" />
+        	<img title="Đập phá siêu xe" alt="dap-pha-sieu-xe" src="http://localhost:8000/images/game_avatar/dap-pha-sieu-xe-icon-1479713732.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Puzzle
+                                            Vui nhộn 
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					453 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:46%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Shape Fold Animals is a classic puzzle game. Your mission? Move or rotate the shapes and create animals. Can you put together each of these paper...</p>
+            	<p> Đập phá siêu xe - Click Car là một game vui nhộn thú vị giành cho các game thủ ở mọi lứa tuổi. Nhiệm vụ của bạn trong...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -2944,30 +2876,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/fashion-games/red-riding-hood-and-snow-white-hollywood-divas">
-									<img data-src="http://teengame.net/images/game_avatar/red-riding-hood-and-snow-white-hollywood-divas-icon-1472722687.jpg" alt="red-riding-hood-and-snow-white-hollywood-divas" class="swiper-lazy showTip el_276" />
+			<a href="http://localhost:8000/tri-tue-games/cau-do-toan-hoc">
+									<img data-src="http://localhost:8000/images/game_avatar/cau-do-toan-hoc-icon-1479713374.jpg" alt="cau-do-toan-hoc" class="swiper-lazy showTip el_2285" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/fashion-games/red-riding-hood-and-snow-white-hollywood-divas"> Red Riding Hood And Snow...</a></h2>
+			<h2><a href="http://localhost:8000/tri-tue-games/cau-do-toan-hoc">Câu đố toán học</a></h2>
 		</div>
 	    	</div>
-				<div id="el_276" class="tipContent">
-        <h2><a href="http://teengame.net/fashion-games/red-riding-hood-and-snow-white-hollywood-divas">Red Riding Hood And Snow White Hollywood Divas</a></h2>
+				<div id="el_2285" class="tipContent">
+        <h2><a href="http://localhost:8000/tri-tue-games/cau-do-toan-hoc">Câu đố toán học</a></h2>
         <div class="tooltip_content">
-        	<img title="Red Riding Hood And Snow White Hollywood Divas" alt="red-riding-hood-and-snow-white-hollywood-divas" src="http://teengame.net/images/game_avatar/red-riding-hood-and-snow-white-hollywood-divas-icon-1472722687.jpg" />
+        	<img title="Câu đố toán học" alt="cau-do-toan-hoc" src="http://localhost:8000/images/game_avatar/cau-do-toan-hoc-icon-1479713374.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Fashion
+                                            Trí tuệ
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					395 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:72%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> We would like you girls to join us today within all these interesting and cute categories, because we have uploaded nothing but the most exciting and fun...</p>
+            	<p> Nếu là một fan trung thành của các câu đố toán học thì chắc hẳn bạn sẽ không thể bỏ qua tựa game Quiz Goose Math – Câu...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -2975,30 +2907,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/cooking-games/papas-cupcakeria">
-									<img data-src="http://teengame.net/images/game_avatar/papascupcakeria-icon-1472722521.jpg" alt="papas-cupcakeria" class="swiper-lazy showTip el_275" />
+			<a href="http://localhost:8000/vui-nhon-games/ten-trom-lupin">
+									<img data-src="http://localhost:8000/images/game_avatar/ten-trom-lupin-icon-1479714401.jpg" alt="ten-trom-lupin" class="swiper-lazy showTip el_2291" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/cooking-games/papas-cupcakeria">Papa's Cupcakeria</a></h2>
+			<h2><a href="http://localhost:8000/vui-nhon-games/ten-trom-lupin">Tên trộm Lupin</a></h2>
 		</div>
 	    	</div>
-				<div id="el_275" class="tipContent">
-        <h2><a href="http://teengame.net/cooking-games/papas-cupcakeria">Papa's Cupcakeria</a></h2>
+				<div id="el_2291" class="tipContent">
+        <h2><a href="http://localhost:8000/vui-nhon-games/ten-trom-lupin">Tên trộm Lupin</a></h2>
         <div class="tooltip_content">
-        	<img title="Papa's Cupcakeria" alt="papas-cupcakeria" src="http://teengame.net/images/game_avatar/papascupcakeria-icon-1472722521.jpg" />
+        	<img title="Tên trộm Lupin" alt="ten-trom-lupin" src="http://localhost:8000/images/game_avatar/ten-trom-lupin-icon-1479714401.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Cooking
+                                            Vui nhộn 
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					316 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:94%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Bake cupcakes in Papa&#39;s Bakery to earn cash! You will begin by training at the restaurant. Learn how to take orders, mix batter, and bake cupcakes....</p>
+            	<p> Swing Robber – Tên trộm Lupin là một game vui nhộn khá thú vị giành cho các game thủ yêu thích thể loại trò chơi này. Với...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -3006,30 +2938,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/cooking-games/papas-cheeseria">
-									<img data-src="http://teengame.net/images/game_avatar/papascheeseria-icon-1472722256.jpg" alt="papas-cheeseria" class="swiper-lazy showTip el_274" />
+			<a href="http://localhost:8000/ban-gai-games/thoi-trang-cua-mia">
+									<img data-src="http://localhost:8000/images/game_avatar/thoi-trang-cua-mia-icon-1479714574.jpg" alt="thoi-trang-cua-mia" class="swiper-lazy showTip el_2292" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/cooking-games/papas-cheeseria">Papa's Cheeseria</a></h2>
+			<h2><a href="http://localhost:8000/ban-gai-games/thoi-trang-cua-mia">Thời trang của Mia</a></h2>
 		</div>
 	    	</div>
-				<div id="el_274" class="tipContent">
-        <h2><a href="http://teengame.net/cooking-games/papas-cheeseria">Papa's Cheeseria</a></h2>
+				<div id="el_2292" class="tipContent">
+        <h2><a href="http://localhost:8000/ban-gai-games/thoi-trang-cua-mia">Thời trang của Mia</a></h2>
         <div class="tooltip_content">
-        	<img title="Papa's Cheeseria" alt="papas-cheeseria" src="http://teengame.net/images/game_avatar/papascheeseria-icon-1472722256.jpg" />
+        	<img title="Thời trang của Mia" alt="thoi-trang-cua-mia" src="http://localhost:8000/images/game_avatar/thoi-trang-cua-mia-icon-1479714574.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Cooking
+                                            Bạn gái
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					2152 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:60%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Cook gooey, grilled cheese sandwiches for hungry customers! Papa’s Cheeseria puts you back behind the counter, where you will serve made-to-order meals....</p>
+            	<p> Mia Dress Up – Thời trang của Mia là game bạn gái khá thú vị giành cho các gamer ở mọi lứa tuổi. Nội dung game xoay quanh công...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -3037,32 +2969,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/action-games/metal-slug-brutal">
-									<img data-src="http://teengame.net/images/game_avatar/metalslug-brutal-icon-1472721977.jpg" alt="metal-slug-brutal" class="swiper-lazy showTip el_273" />
+			<a href="http://localhost:8000/thoi-trang-games/mua-sam-cung-barbie">
+									<img data-src="http://localhost:8000/images/game_avatar/mua-sam-cung-barbie-icon-1479714099.jpg" alt="mua-sam-cung-barbie" class="swiper-lazy showTip el_2289" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/action-games/metal-slug-brutal">Metal Slug Brutal</a></h2>
+			<h2><a href="http://localhost:8000/thoi-trang-games/mua-sam-cung-barbie">Mua sắm cùng Barbie</a></h2>
 		</div>
 	    	</div>
-				<div id="el_273" class="tipContent">
-        <h2><a href="http://teengame.net/action-games/metal-slug-brutal">Metal Slug Brutal</a></h2>
+				<div id="el_2289" class="tipContent">
+        <h2><a href="http://localhost:8000/thoi-trang-games/mua-sam-cung-barbie">Mua sắm cùng Barbie</a></h2>
         <div class="tooltip_content">
-        	<img title="Metal Slug Brutal" alt="metal-slug-brutal" src="http://teengame.net/images/game_avatar/metalslug-brutal-icon-1472721977.jpg" />
+        	<img title="Mua sắm cùng Barbie" alt="mua-sam-cung-barbie" src="http://localhost:8000/images/game_avatar/mua-sam-cung-barbie-icon-1479714099.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Action
+                                            Thời trang
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					885 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:78%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Get into the skin of the bloody Metal Slug command. Eliminate all the enemy soldiers and destroy the military facilities on your way.
-
-How to...</p>
+            	<p> Barbie Nightlife Shopping – Mua sắm cùng Barbie là một game cực hay thuộc thể loại game thời trang giành cho các bạn...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -3070,30 +3000,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/racing-games/max-fury-death-racer">
-									<img data-src="http://teengame.net/images/game_avatar/max_fury-icon-1472721803.jpg" alt="max-fury-death-racer" class="swiper-lazy showTip el_272" />
+			<a href="http://localhost:8000/ban-gai-games/trang-diem-cong-chua">
+									<img data-src="http://localhost:8000/images/game_avatar/trang-diem-cong-chua-icon-1479714766.jpg" alt="trang-diem-cong-chua" class="swiper-lazy showTip el_2293" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/racing-games/max-fury-death-racer">Max Fury Death Racer</a></h2>
+			<h2><a href="http://localhost:8000/ban-gai-games/trang-diem-cong-chua"> Trang điểm công chúa</a></h2>
 		</div>
 	    	</div>
-				<div id="el_272" class="tipContent">
-        <h2><a href="http://teengame.net/racing-games/max-fury-death-racer">Max Fury Death Racer</a></h2>
+				<div id="el_2293" class="tipContent">
+        <h2><a href="http://localhost:8000/ban-gai-games/trang-diem-cong-chua">Trang điểm công chúa</a></h2>
         <div class="tooltip_content">
-        	<img title="Max Fury Death Racer" alt="max-fury-death-racer" src="http://teengame.net/images/game_avatar/max_fury-icon-1472721803.jpg" />
+        	<img title="Trang điểm công chúa" alt="trang-diem-cong-chua" src="http://localhost:8000/images/game_avatar/trang-diem-cong-chua-icon-1479714766.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Racing
+                                            Bạn gái
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					1294 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:82%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Max Fury Death Racer is the racing game for the ultimate fun! Drive your tiny car as fast as you can, shoot other racers, perform flips, collect stuff and...</p>
+            	<p> Trang điểm công chúa - Royal Princess Dress Up là một trong những trò chơi khá hấp dẫn giành cho các game thủ ở mọi lứa tuổi....</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -3101,30 +3031,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/action-games/mad-day-2">
-									<img data-src="http://teengame.net/images/game_avatar/mad-day-2-icon-1472721648.jpg" alt="mad-day-2" class="swiper-lazy showTip el_271" />
+			<a href="http://localhost:8000/the-thao-games/bong-chuyen-kieu-moi">
+									<img data-src="http://localhost:8000/images/game_avatar/bong-chuyen-kieu-moi-icon-1479713179.jpg" alt="bong-chuyen-kieu-moi" class="swiper-lazy showTip el_2284" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/action-games/mad-day-2">Mad Day 2</a></h2>
+			<h2><a href="http://localhost:8000/the-thao-games/bong-chuyen-kieu-moi"> Bóng chuyền kiểu...</a></h2>
 		</div>
 	    	</div>
-				<div id="el_271" class="tipContent">
-        <h2><a href="http://teengame.net/action-games/mad-day-2">Mad Day 2</a></h2>
+				<div id="el_2284" class="tipContent">
+        <h2><a href="http://localhost:8000/the-thao-games/bong-chuyen-kieu-moi">Bóng chuyền kiểu mới</a></h2>
         <div class="tooltip_content">
-        	<img title="Mad Day 2" alt="mad-day-2" src="http://teengame.net/images/game_avatar/mad-day-2-icon-1472721648.jpg" />
+        	<img title="Bóng chuyền kiểu mới" alt="bong-chuyen-kieu-moi" src="http://localhost:8000/images/game_avatar/bong-chuyen-kieu-moi-icon-1479713179.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Action
+                                            Thể thao
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					254 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:90%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> It&#39;s the second mad day you have since the alien plague arrived mother Earth. Drive and gun your way through the whole map. Survive for as long as you...</p>
+            	<p> Volley Boll - Bóng chuyển kiểu mới là một trong những trò chơi thể thao khá mới mẻ và thú vị giành cho các game thủ ở mọi...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -3132,30 +3062,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/strategy-games/juicy-bazooka">
-									<img data-src="http://teengame.net/images/game_avatar/juicy-bazooka-icon-1472721527.jpg" alt="juicy-bazooka" class="swiper-lazy showTip el_270" />
+			<a href="http://localhost:8000/hanh-dong-games/cong-vien-ky-jura">
+									<img data-src="http://localhost:8000/images/game_avatar/cong-vien-ky-jura-icon-1479971422.jpg" alt="cong-vien-ky-jura" class="swiper-lazy showTip el_2286" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/strategy-games/juicy-bazooka">Juicy Bazooka</a></h2>
+			<h2><a href="http://localhost:8000/hanh-dong-games/cong-vien-ky-jura">Công viên kỷ Jura</a></h2>
 		</div>
 	    	</div>
-				<div id="el_270" class="tipContent">
-        <h2><a href="http://teengame.net/strategy-games/juicy-bazooka">Juicy Bazooka</a></h2>
+				<div id="el_2286" class="tipContent">
+        <h2><a href="http://localhost:8000/hanh-dong-games/cong-vien-ky-jura">Công viên kỷ Jura</a></h2>
         <div class="tooltip_content">
-        	<img title="Juicy Bazooka" alt="juicy-bazooka" src="http://teengame.net/images/game_avatar/juicy-bazooka-icon-1472721527.jpg" />
+        	<img title="Công viên kỷ Jura" alt="cong-vien-ky-jura" src="http://localhost:8000/images/game_avatar/cong-vien-ky-jura-icon-1479971422.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Strategy
+                                            Hành động
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					401 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:74%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> This rugged-looking guy with three-day stubble needs your help to get rid of baddies as vengeance for stealing his food in Juicy Bazooka, a fun shooting...</p>
+            	<p> Nếu yêu thích những tựa game hành động bắn súng thì chắc chắn bạn sẽ khó có thể bỏ qua Tower Defense vs Monster – Công...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -3163,30 +3093,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/funny-games/judy-hopps-and-nick-wilde-kissing">
-									<img data-src="http://teengame.net/images/game_avatar/judy_hopps_and_nick_wilde_kissing-icon-1472714936.jpg" alt="judy-hopps-and-nick-wilde-kissing" class="swiper-lazy showTip el_269" />
+			<a href="http://localhost:8000/hanh-dong-games/ben-10-ban-linh-anh-hung">
+									<img data-src="http://localhost:8000/images/game_avatar/ben-10-ban-linh-anh-hung-icon-1479712949.jpg" alt="ben-10-ban-linh-anh-hung" class="swiper-lazy showTip el_2283" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/funny-games/judy-hopps-and-nick-wilde-kissing"> Judy Hopps And Nick Wilde...</a></h2>
+			<h2><a href="http://localhost:8000/hanh-dong-games/ben-10-ban-linh-anh-hung"> Ben 10: bản lĩnh anh...</a></h2>
 		</div>
 	    	</div>
-				<div id="el_269" class="tipContent">
-        <h2><a href="http://teengame.net/funny-games/judy-hopps-and-nick-wilde-kissing">Judy Hopps And Nick Wilde Kissing</a></h2>
+				<div id="el_2283" class="tipContent">
+        <h2><a href="http://localhost:8000/hanh-dong-games/ben-10-ban-linh-anh-hung">Ben 10: bản lĩnh anh hùng</a></h2>
         <div class="tooltip_content">
-        	<img title="Judy Hopps And Nick Wilde Kissing" alt="judy-hopps-and-nick-wilde-kissing" src="http://teengame.net/images/game_avatar/judy_hopps_and_nick_wilde_kissing-icon-1472714936.jpg" />
+        	<img title="Ben 10: bản lĩnh anh hùng" alt="ben-10-ban-linh-anh-hung" src="http://localhost:8000/images/game_avatar/ben-10-ban-linh-anh-hung-icon-1479712949.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Funny
+                                            Hành động
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					915 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:72%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Enjoy a new kissing game featuring your characters from Zootopia,Judy Hopps and Nick Wilde.They are living a love story and you can take part to their...</p>
+            	<p> Ben 10: Hero Time – Ben 10: bản lĩnh anh hùng – là một trong những game hành động thú vị giành cho những ai yêu thích anh chàng...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -3194,32 +3124,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/action-games/fury-clicker">
-									<img data-src="http://teengame.net/images/game_avatar/fury-clicker-icon-1472714727.jpg" alt="fury-clicker" class="swiper-lazy showTip el_268" />
+			<a href="http://localhost:8000/ban-gai-games/trang-diem-dien-vien">
+									<img data-src="http://localhost:8000/images/game_avatar/trang-diem-dien-vien-icon-1477105229.jpg" alt="trang-diem-dien-vien" class="swiper-lazy showTip el_2020" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/action-games/fury-clicker">Fury Clicker</a></h2>
+			<h2><a href="http://localhost:8000/ban-gai-games/trang-diem-dien-vien"> Trang điểm diễn...</a></h2>
 		</div>
 	    	</div>
-				<div id="el_268" class="tipContent">
-        <h2><a href="http://teengame.net/action-games/fury-clicker">Fury Clicker</a></h2>
+				<div id="el_2020" class="tipContent">
+        <h2><a href="http://localhost:8000/ban-gai-games/trang-diem-dien-vien">Trang điểm diễn viên</a></h2>
         <div class="tooltip_content">
-        	<img title="Fury Clicker" alt="fury-clicker" src="http://teengame.net/images/game_avatar/fury-clicker-icon-1472714727.jpg" />
+        	<img title="Trang điểm diễn viên" alt="trang-diem-dien-vien" src="http://localhost:8000/images/game_avatar/trang-diem-dien-vien-icon-1477105229.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Action
+                                            Bạn gái
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					682 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:80%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Kill all the rebels and leave no man alive. Increase and upgrade your units and defense. See how far you can go in this killing madness!
-
-How to...</p>
+            	<p> Trang điểm diễn viên là một trong những game bạn gái lấy chủ đề làm đẹp siêu hấp dẫn. Trong game online này, nhiệm vụ...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -3227,30 +3155,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/girl-games/elsa-dish-washing-realife">
-									<img data-src="http://teengame.net/images/game_avatar/ellie-dish-washing-realife-icon-1472714547.jpg" alt="elsa-dish-washing-realife" class="swiper-lazy showTip el_267" />
+			<a href="http://localhost:8000/tri-tue-games/tiny-tim-kho-bau">
+									<img data-src="http://localhost:8000/images/game_avatar/tiny-tim-kho-bau-icon-1477104921.jpg" alt="tiny-tim-kho-bau" class="swiper-lazy showTip el_2019" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/girl-games/elsa-dish-washing-realife"> Elsa Dish Washing Realife</a></h2>
+			<h2><a href="http://localhost:8000/tri-tue-games/tiny-tim-kho-bau">Tiny tìm kho báu</a></h2>
 		</div>
 	    	</div>
-				<div id="el_267" class="tipContent">
-        <h2><a href="http://teengame.net/girl-games/elsa-dish-washing-realife">Elsa Dish Washing Realife</a></h2>
+				<div id="el_2019" class="tipContent">
+        <h2><a href="http://localhost:8000/tri-tue-games/tiny-tim-kho-bau">Tiny tìm kho báu</a></h2>
         <div class="tooltip_content">
-        	<img title="Elsa Dish Washing Realife" alt="elsa-dish-washing-realife" src="http://teengame.net/images/game_avatar/ellie-dish-washing-realife-icon-1472714547.jpg" />
+        	<img title="Tiny tìm kho báu" alt="tiny-tim-kho-bau" src="http://localhost:8000/images/game_avatar/tiny-tim-kho-bau-icon-1477104921.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Girl
+                                            Trí tuệ
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					370 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:84%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> What do you say about a new and fun online game, a new game in which you are about to spend some time with one of your favorite disney princesses. Today...</p>
+            	<p> Tiny tìm kho báu - Tiny Pirates Treasure Island là một game trí tuệ hấp dẫn giành cho các gamer ở mọi lứa tuổi. Nội dung game là...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -3262,30 +3190,30 @@ How to...</p>
 																											<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/action-games/dragon-age-legends">
-									<img data-src="http://teengame.net/images/game_avatar/dragon-age-legends-icon-1472714140.jpg" alt="dragon-age-legends" class="swiper-lazy showTip el_266" />
+			<a href="http://localhost:8000/dua-xe-games/tay-lai-toc-do">
+									<img data-src="http://localhost:8000/images/game_avatar/tay-lai-toc-do-icon-1477103890.jpg" alt="tay-lai-toc-do" class="swiper-lazy showTip el_2018" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/action-games/dragon-age-legends">Dragon Age Legends</a></h2>
+			<h2><a href="http://localhost:8000/dua-xe-games/tay-lai-toc-do">Tay lái tốc độ</a></h2>
 		</div>
 	    	</div>
-				<div id="el_266" class="tipContent">
-        <h2><a href="http://teengame.net/action-games/dragon-age-legends">Dragon Age Legends</a></h2>
+				<div id="el_2018" class="tipContent">
+        <h2><a href="http://localhost:8000/dua-xe-games/tay-lai-toc-do">Tay lái tốc độ</a></h2>
         <div class="tooltip_content">
-        	<img title="Dragon Age Legends" alt="dragon-age-legends" src="http://teengame.net/images/game_avatar/dragon-age-legends-icon-1472714140.jpg" />
+        	<img title="Tay lái tốc độ" alt="tay-lai-toc-do" src="http://localhost:8000/images/game_avatar/tay-lai-toc-do-icon-1477103890.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Action
+                                            Đua xe
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					411 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:76%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Dragon Age Legends is an awesome Hack &#39;N&#39; Slash RPG made by EA and the indie game developer Pixelante. Your mission in this side scrolling action...</p>
+            	<p> Nếu là fans của trò chơi đua xe tốc độ thì chắc chắn bạn sẽ khó có thể bỏ qua tựa game đình đám nhất hiện nay Tay...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -3293,30 +3221,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/action-games/dead-samurai">
-									<img data-src="http://teengame.net/images/game_avatar/dead-samurai-icon-1472713659.jpg" alt="dead-samurai" class="swiper-lazy showTip el_265" />
+			<a href="http://localhost:8000/dua-xe-games/tay-dua-xe-tai">
+									<img data-src="http://localhost:8000/images/game_avatar/tay-dua-xe-tai-icon-1477103581.jpg" alt="tay-dua-xe-tai" class="swiper-lazy showTip el_2017" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/action-games/dead-samurai">Dead Samurai</a></h2>
+			<h2><a href="http://localhost:8000/dua-xe-games/tay-dua-xe-tai">Tay đua xe tải</a></h2>
 		</div>
 	    	</div>
-				<div id="el_265" class="tipContent">
-        <h2><a href="http://teengame.net/action-games/dead-samurai">Dead Samurai</a></h2>
+				<div id="el_2017" class="tipContent">
+        <h2><a href="http://localhost:8000/dua-xe-games/tay-dua-xe-tai">Tay đua xe tải</a></h2>
         <div class="tooltip_content">
-        	<img title="Dead Samurai" alt="dead-samurai" src="http://teengame.net/images/game_avatar/dead-samurai-icon-1472713659.jpg" />
+        	<img title="Tay đua xe tải" alt="tay-dua-xe-tai" src="http://localhost:8000/images/game_avatar/tay-dua-xe-tai-icon-1477103581.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Action
+                                            Đua xe
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					272 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:54%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Grab your blade and get ready to walk the path of the Dead Samurai in this intense hack &#39;n&#39; slash game. Your objective is to win all duels to...</p>
+            	<p> Tay đua xe tải - Truck Racer là một game đua xe hấp dẫn giành cho fans của thể loại game tốc độ. Nội dung game là câu chuyện...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -3324,32 +3252,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/sport-games/bmx-master">
-									<img data-src="http://teengame.net/images/game_avatar/bmx-master-icon-1472712963.jpg" alt="bmx-master" class="swiper-lazy showTip el_264" />
+			<a href="http://localhost:8000/vui-nhon-games/ninja-dao-vang-2">
+									<img data-src="http://localhost:8000/images/game_avatar/ninja-dao-vang-2-icon-1477103054.jpg" alt="ninja-dao-vang-2" class="swiper-lazy showTip el_2016" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/sport-games/bmx-master">BMX Master</a></h2>
+			<h2><a href="http://localhost:8000/vui-nhon-games/ninja-dao-vang-2">Ninja đào vàng 2</a></h2>
 		</div>
 	    	</div>
-				<div id="el_264" class="tipContent">
-        <h2><a href="http://teengame.net/sport-games/bmx-master">BMX Master</a></h2>
+				<div id="el_2016" class="tipContent">
+        <h2><a href="http://localhost:8000/vui-nhon-games/ninja-dao-vang-2">Ninja đào vàng 2</a></h2>
         <div class="tooltip_content">
-        	<img title="BMX Master" alt="bmx-master" src="http://teengame.net/images/game_avatar/bmx-master-icon-1472712963.jpg" />
+        	<img title="Ninja đào vàng 2" alt="ninja-dao-vang-2" src="http://localhost:8000/images/game_avatar/ninja-dao-vang-2-icon-1477103054.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Sport
+                                            Vui nhộn 
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					596 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:80%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> BMX Master is an addictive bicycle motocross game. Try to perform as many awesome stunts with your BMX as you can and do not plant your face.
-
-How to...</p>
+            	<p> Là một trong những game hay nằm trong series game đào vàng kinh điển được các gamer trên toàn thế giới yêu thích Ninja đào...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -3357,30 +3283,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/fashion-games/barbie-dates-a-celebrity">
-									<img data-src="http://teengame.net/images/game_avatar/barbie-dates-a-celebrity-icon-1472712619.jpg" alt="barbie-dates-a-celebrity" class="swiper-lazy showTip el_263" />
+			<a href="http://localhost:8000/vui-nhon-games/ninja-dao-vang">
+									<img data-src="http://localhost:8000/images/game_avatar/ninja-dao-vang-icon-1477102810.jpg" alt="ninja-dao-vang" class="swiper-lazy showTip el_2015" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/fashion-games/barbie-dates-a-celebrity">Barbie Dates a Celebrity</a></h2>
+			<h2><a href="http://localhost:8000/vui-nhon-games/ninja-dao-vang">Ninja đào vàng</a></h2>
 		</div>
 	    	</div>
-				<div id="el_263" class="tipContent">
-        <h2><a href="http://teengame.net/fashion-games/barbie-dates-a-celebrity">Barbie Dates a Celebrity</a></h2>
+				<div id="el_2015" class="tipContent">
+        <h2><a href="http://localhost:8000/vui-nhon-games/ninja-dao-vang">Ninja đào vàng</a></h2>
         <div class="tooltip_content">
-        	<img title="Barbie Dates a Celebrity" alt="barbie-dates-a-celebrity" src="http://teengame.net/images/game_avatar/barbie-dates-a-celebrity-icon-1472712619.jpg" />
+        	<img title="Ninja đào vàng" alt="ninja-dao-vang" src="http://localhost:8000/images/game_avatar/ninja-dao-vang-icon-1477102810.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Fashion
+                                            Vui nhộn 
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					460 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:92%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Barbie is single. She wants to go on a date with a great guy. On her social media page she has three different messages from three amazing guys. They are...</p>
+            	<p> Ninja đào vàng - Ninja Miner là một game vui nhộn hấp dẫn giành cho các gamer ở mọi lứa tuổi. Game là câu chuyện về hành...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -3388,30 +3314,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/girl-games/barbie-be-my-valentine">
-									<img data-src="http://teengame.net/images/game_avatar/barbie-be-my-valentine-icon-1472712358.jpg" alt="barbie-be-my-valentine" class="swiper-lazy showTip el_262" />
+			<a href="http://localhost:8000/thoi-trang-games/elsa-di-picnic">
+									<img data-src="http://localhost:8000/images/game_avatar/elsa-di-picnic-icon-1477102562.jpg" alt="elsa-di-picnic" class="swiper-lazy showTip el_2014" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/girl-games/barbie-be-my-valentine">Barbie Be My Valentine</a></h2>
+			<h2><a href="http://localhost:8000/thoi-trang-games/elsa-di-picnic">Elsa đi picnic</a></h2>
 		</div>
 	    	</div>
-				<div id="el_262" class="tipContent">
-        <h2><a href="http://teengame.net/girl-games/barbie-be-my-valentine">Barbie Be My Valentine</a></h2>
+				<div id="el_2014" class="tipContent">
+        <h2><a href="http://localhost:8000/thoi-trang-games/elsa-di-picnic">Elsa đi picnic</a></h2>
         <div class="tooltip_content">
-        	<img title="Barbie Be My Valentine" alt="barbie-be-my-valentine" src="http://teengame.net/images/game_avatar/barbie-be-my-valentine-icon-1472712358.jpg" />
+        	<img title="Elsa đi picnic" alt="elsa-di-picnic" src="http://localhost:8000/images/game_avatar/elsa-di-picnic-icon-1477102562.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Girl
+                                            Thời trang
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					636 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:84%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Barbie is single on Valentine&#39;s Day, but don&#39;t worry, there are already three guys that want to take her out. Ken, Flynn and Hiccup have already...</p>
+            	<p> Elsa đi picnic - Elsa Picnic Style là món quà tuyệt vời giành tặng cho những gamer yêu thích thời trang. Với lối chơi đơn giản,...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -3419,30 +3345,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/girl-games/ariel-moves-in-with-eric">
-									<img data-src="http://teengame.net/images/game_avatar/ariel-moves-in-with-eric-icon-1472712159.jpg" alt="ariel-moves-in-with-eric" class="swiper-lazy showTip el_261" />
+			<a href="http://localhost:8000/vui-nhon-games/danh-dan-piano">
+									<img data-src="http://localhost:8000/images/game_avatar/danh-dan-piano-icon-1477102270.jpg" alt="danh-dan-piano" class="swiper-lazy showTip el_2013" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/girl-games/ariel-moves-in-with-eric">Ariel Moves In With Eric</a></h2>
+			<h2><a href="http://localhost:8000/vui-nhon-games/danh-dan-piano">Đánh đàn Piano</a></h2>
 		</div>
 	    	</div>
-				<div id="el_261" class="tipContent">
-        <h2><a href="http://teengame.net/girl-games/ariel-moves-in-with-eric">Ariel Moves In With Eric</a></h2>
+				<div id="el_2013" class="tipContent">
+        <h2><a href="http://localhost:8000/vui-nhon-games/danh-dan-piano">Đánh đàn Piano</a></h2>
         <div class="tooltip_content">
-        	<img title="Ariel Moves In With Eric" alt="ariel-moves-in-with-eric" src="http://teengame.net/images/game_avatar/ariel-moves-in-with-eric-icon-1472712159.jpg" />
+        	<img title="Đánh đàn Piano" alt="danh-dan-piano" src="http://localhost:8000/images/game_avatar/danh-dan-piano-icon-1477102270.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Girl
+                                            Vui nhộn 
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					1149 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:86%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Ariel, the great mermaid, wants to move in with Prince Eric. She is very happy about this decision, because this is a very important moment in their lives...</p>
+            	<p> Đánh đàn Piano - Dont Tap là phiên bản game mini giành riêng cho PC của tựa game đình đám thế giới Piano Tiles. Sở hữu lối...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -3450,30 +3376,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/action-games/action-bros">
-									<img data-src="http://teengame.net/images/game_avatar/action-bros-icon-1472711987.jpg" alt="action-bros" class="swiper-lazy showTip el_260" />
+			<a href="http://localhost:8000/thoi-trang-games/co-phuc-vu-xinh-dep">
+									<img data-src="http://localhost:8000/images/game_avatar/co-phuc-vu-xinh-dep-icon-1477101442.jpg" alt="co-phuc-vu-xinh-dep" class="swiper-lazy showTip el_2012" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/action-games/action-bros">Action Bros</a></h2>
+			<h2><a href="http://localhost:8000/thoi-trang-games/co-phuc-vu-xinh-dep"> Cô phục vụ xinh...</a></h2>
 		</div>
 	    	</div>
-				<div id="el_260" class="tipContent">
-        <h2><a href="http://teengame.net/action-games/action-bros">Action Bros</a></h2>
+				<div id="el_2012" class="tipContent">
+        <h2><a href="http://localhost:8000/thoi-trang-games/co-phuc-vu-xinh-dep">Cô phục vụ xinh đẹp</a></h2>
         <div class="tooltip_content">
-        	<img title="Action Bros" alt="action-bros" src="http://teengame.net/images/game_avatar/action-bros-icon-1472711987.jpg" />
+        	<img title="Cô phục vụ xinh đẹp" alt="co-phuc-vu-xinh-dep" src="http://localhost:8000/images/game_avatar/co-phuc-vu-xinh-dep-icon-1477101442.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Action
+                                            Thời trang
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					1511 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:60%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Accomplish your missions in this fun shooting game Action Bros. Choose your character, weapons and shoot anyone who stands in your way or they will kill...</p>
+            	<p> Nếu yêu thích các trò chơi thời trang bạn gái thì chắc hẳn bạn sẽ không thể bỏ qua tựa game hấp dẫn Cô phục vụ xinh...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -3481,30 +3407,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/fashion-games/barbies-villian-makeover">
-									<img data-src="http://teengame.net/images/game_avatar/barbies-villain-makeover-icon-1472271509.jpg" alt="barbies-villian-makeover" class="swiper-lazy showTip el_259" />
+			<a href="http://localhost:8000/thoi-trang-games/cong-chua-nhat-ban">
+									<img data-src="http://localhost:8000/images/game_avatar/cong-chua-nhat-ban-icon-1477101195.jpg" alt="cong-chua-nhat-ban" class="swiper-lazy showTip el_2011" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/fashion-games/barbies-villian-makeover"> Barbie's Villian Makeover</a></h2>
+			<h2><a href="http://localhost:8000/thoi-trang-games/cong-chua-nhat-ban">Công chúa Nhật Bản</a></h2>
 		</div>
 	    	</div>
-				<div id="el_259" class="tipContent">
-        <h2><a href="http://teengame.net/fashion-games/barbies-villian-makeover">Barbie's Villian Makeover</a></h2>
+				<div id="el_2011" class="tipContent">
+        <h2><a href="http://localhost:8000/thoi-trang-games/cong-chua-nhat-ban">Công chúa Nhật Bản</a></h2>
         <div class="tooltip_content">
-        	<img title="Barbie's Villian Makeover" alt="barbies-villian-makeover" src="http://teengame.net/images/game_avatar/barbies-villain-makeover-icon-1472271509.jpg" />
+        	<img title="Công chúa Nhật Bản" alt="cong-chua-nhat-ban" src="http://localhost:8000/images/game_avatar/cong-chua-nhat-ban-icon-1477101195.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Fashion
+                                            Thời trang
                                     </strong>
             	<div>
-            		    					3 plays
+            		    					1429 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:80%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Barbie loves all things Disney and lately she began to be interested in the mysterious and interesting Disney villains. She always loves a challenge and...</p>
+            	<p> Công chúa Nhật Bản - Barbie Japanese Princess là một game thời trang vô cùng thú vị giành cho các gamer ở mọi lứa...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -3512,30 +3438,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/fashion-games/lucy-hale-round-the-clock-fashionista">
-									<img data-src="http://teengame.net/images/game_avatar/lucy-hale-round-the-clock-fashionista-icon-1472270744.jpg" alt="lucy-hale-round-the-clock-fashionista" class="swiper-lazy showTip el_258" />
+			<a href="http://localhost:8000/thoi-trang-games/cong-chua-co-tich">
+									<img data-src="http://localhost:8000/images/game_avatar/cong-chua-co-tich-icon-1477100931.jpg" alt="cong-chua-co-tich" class="swiper-lazy showTip el_2010" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/fashion-games/lucy-hale-round-the-clock-fashionista"> Lucy Hale Round the Clock...</a></h2>
+			<h2><a href="http://localhost:8000/thoi-trang-games/cong-chua-co-tich">Công chúa cổ tích</a></h2>
 		</div>
 	    	</div>
-				<div id="el_258" class="tipContent">
-        <h2><a href="http://teengame.net/fashion-games/lucy-hale-round-the-clock-fashionista">Lucy Hale Round the Clock Fashionista</a></h2>
+				<div id="el_2010" class="tipContent">
+        <h2><a href="http://localhost:8000/thoi-trang-games/cong-chua-co-tich">Công chúa cổ tích</a></h2>
         <div class="tooltip_content">
-        	<img title="Lucy Hale Round the Clock Fashionista" alt="lucy-hale-round-the-clock-fashionista" src="http://teengame.net/images/game_avatar/lucy-hale-round-the-clock-fashionista-icon-1472270744.jpg" />
+        	<img title="Công chúa cổ tích" alt="cong-chua-co-tich" src="http://localhost:8000/images/game_avatar/cong-chua-co-tich-icon-1477100931.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Fashion
+                                            Thời trang
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					1485 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:50%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Pretty Little Liars actress Lucy Hale is looking at a very busy day ahead! First up is lunch with her PPL co-stars. Then in the afternoon there is a...</p>
+            	<p> Công chúa cổ tích - Barbie Fairy Dress Up là một trong những game thời trang miễn phí thú vị giành cho các gamer ở mọi lứa...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -3543,30 +3469,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/fashion-games/tris-date-night-dressup">
-									<img data-src="http://teengame.net/images/game_avatar/tris-date-night-dress-up-icon-1472270489.jpg" alt="tris-date-night-dressup" class="swiper-lazy showTip el_257" />
+			<a href="http://localhost:8000/hanh-dong-games/chim-canh-cut-phong-thu">
+									<img data-src="http://localhost:8000/images/game_avatar/chim-canh-cut-phong-thu-icon-1477100612.jpg" alt="chim-canh-cut-phong-thu" class="swiper-lazy showTip el_2009" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/fashion-games/tris-date-night-dressup">Tris Date Night Dressup</a></h2>
+			<h2><a href="http://localhost:8000/hanh-dong-games/chim-canh-cut-phong-thu"> Chim cánh cụt phòng...</a></h2>
 		</div>
 	    	</div>
-				<div id="el_257" class="tipContent">
-        <h2><a href="http://teengame.net/fashion-games/tris-date-night-dressup">Tris Date Night Dressup</a></h2>
+				<div id="el_2009" class="tipContent">
+        <h2><a href="http://localhost:8000/hanh-dong-games/chim-canh-cut-phong-thu">Chim cánh cụt phòng thủ</a></h2>
         <div class="tooltip_content">
-        	<img title="Tris Date Night Dressup" alt="tris-date-night-dressup" src="http://teengame.net/images/game_avatar/tris-date-night-dress-up-icon-1472270489.jpg" />
+        	<img title="Chim cánh cụt phòng thủ" alt="chim-canh-cut-phong-thu" src="http://localhost:8000/images/game_avatar/chim-canh-cut-phong-thu-icon-1477100612.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Fashion
+                                            Hành động
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					272 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:72%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Tris is going out on a date tonight. What should she wear to impress her boyfriend? Open up the secret boxes to find the most stylish clothes ever,...</p>
+            	<p> Chim cánh cụt phòng thủ - Pengiun vs Snowman là game hành động cực kỳ hấp dẫn được các gamer trên toàn thế giới vô cùng...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -3574,30 +3500,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/fashion-games/winter-friends">
-									<img data-src="http://teengame.net/images/game_avatar/winter_friends-icon-1472270359.jpg" alt="winter-friends" class="swiper-lazy showTip el_256" />
+			<a href="http://localhost:8000/tri-tue-games/caro-halloween">
+									<img data-src="http://localhost:8000/images/game_avatar/caro-halloween-icon-1477100295.jpg" alt="caro-halloween" class="swiper-lazy showTip el_2008" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/fashion-games/winter-friends">Winter Friends</a></h2>
+			<h2><a href="http://localhost:8000/tri-tue-games/caro-halloween">Caro halloween</a></h2>
 		</div>
 	    	</div>
-				<div id="el_256" class="tipContent">
-        <h2><a href="http://teengame.net/fashion-games/winter-friends">Winter Friends</a></h2>
+				<div id="el_2008" class="tipContent">
+        <h2><a href="http://localhost:8000/tri-tue-games/caro-halloween">Caro halloween</a></h2>
         <div class="tooltip_content">
-        	<img title="Winter Friends" alt="winter-friends" src="http://teengame.net/images/game_avatar/winter_friends-icon-1472270359.jpg" />
+        	<img title="Caro halloween" alt="caro-halloween" src="http://localhost:8000/images/game_avatar/caro-halloween-icon-1477100295.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Fashion
+                                            Trí tuệ
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					274 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:66%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> I think it will be a lovely winter day and the four friends are going out for a walk in the snow. Get them all dressed up, or any of the four if you like,...</p>
+            	<p> Caro Halloween - Halloween TicTacToe được biết đến như phiên bản mới nhất của game kinh điển Caro. Sở hữu lối chơi quen...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -3605,30 +3531,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/fashion-games/super-tattoo-artist-2">
-									<img data-src="http://teengame.net/images/game_avatar/super-tattoo-artist-2-icon-1472270279.jpg" alt="super-tattoo-artist-2" class="swiper-lazy showTip el_255" />
+			<a href="http://localhost:8000/ban-gai-games/alie-don-phong">
+									<img data-src="http://localhost:8000/images/game_avatar/alie-don-phong-icon-1477099958.jpg" alt="alie-don-phong" class="swiper-lazy showTip el_2007" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/fashion-games/super-tattoo-artist-2">Super Tattoo Artist 2</a></h2>
+			<h2><a href="http://localhost:8000/ban-gai-games/alie-don-phong">Alie dọn phòng</a></h2>
 		</div>
 	    	</div>
-				<div id="el_255" class="tipContent">
-        <h2><a href="http://teengame.net/fashion-games/super-tattoo-artist-2">Super Tattoo Artist 2</a></h2>
+				<div id="el_2007" class="tipContent">
+        <h2><a href="http://localhost:8000/ban-gai-games/alie-don-phong">Alie dọn phòng</a></h2>
         <div class="tooltip_content">
-        	<img title="Super Tattoo Artist 2" alt="super-tattoo-artist-2" src="http://teengame.net/images/game_avatar/super-tattoo-artist-2-icon-1472270279.jpg" />
+        	<img title="Alie dọn phòng" alt="alie-don-phong" src="http://localhost:8000/images/game_avatar/alie-don-phong-icon-1477099958.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Fashion
+                                            Bạn gái
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					683 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:52%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> You are the super tattoo artist in town. Everyone wants to get inked in your tattoo shop. Today 4 clients come to your shop and want to get a tattoo. They...</p>
+            	<p> Alie dọn phòng - Ice Queen Wadrope Cleaning là một game bạn gái hấp dẫn giành cho những ai yêu thích cô công chúa xinh đẹp...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -3640,30 +3566,30 @@ How to...</p>
 																											<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/fashion-games/sery-prom-dolly-dressup">
-									<img data-src="http://teengame.net/images/game_avatar/sery-prom-dolly-dress-up-icon-1472269837.jpg" alt="sery-prom-dolly-dressup" class="swiper-lazy showTip el_254" />
+			<a href="http://localhost:8000/hanh-dong-games/5-anh-em-sieu-nhan-3">
+									<img data-src="http://localhost:8000/images/game_avatar/5-anh-em-sieu-nhan-3-icon-1477099581.jpg" alt="5-anh-em-sieu-nhan-3" class="swiper-lazy showTip el_2006" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/fashion-games/sery-prom-dolly-dressup">Sery Prom Dolly Dressup</a></h2>
+			<h2><a href="http://localhost:8000/hanh-dong-games/5-anh-em-sieu-nhan-3">5 anh em siêu nhân 3</a></h2>
 		</div>
 	    	</div>
-				<div id="el_254" class="tipContent">
-        <h2><a href="http://teengame.net/fashion-games/sery-prom-dolly-dressup">Sery Prom Dolly Dressup</a></h2>
+				<div id="el_2006" class="tipContent">
+        <h2><a href="http://localhost:8000/hanh-dong-games/5-anh-em-sieu-nhan-3">5 anh em siêu nhân 3</a></h2>
         <div class="tooltip_content">
-        	<img title="Sery Prom Dolly Dressup" alt="sery-prom-dolly-dressup" src="http://teengame.net/images/game_avatar/sery-prom-dolly-dress-up-icon-1472269837.jpg" />
+        	<img title="5 anh em siêu nhân 3" alt="5-anh-em-sieu-nhan-3" src="http://localhost:8000/images/game_avatar/5-anh-em-sieu-nhan-3-icon-1477099581.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Fashion
+                                            Hành động
                                     </strong>
             	<div>
-            		    					1 plays
+            		    					658 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:66%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Sery is going to prom tonight so that means she needs a fashion adviser for her outfit! Open up mystery boxes and try out different dresses, shoes, bags...</p>
+            	<p> Bạn yêu thích các trò chơi hành động? Bạn là fans ruột của bộ phim hoạt hình đình đám thế giới 5 anh em siêu nhân? Nếu...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -3671,30 +3597,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/fashion-games/cinderellas-glittery-skirt">
-									<img data-src="http://teengame.net/images/game_avatar/cinderellas-glittery-skirt-icon-1472269580.jpg" alt="cinderellas-glittery-skirt" class="swiper-lazy showTip el_253" />
+			<a href="http://localhost:8000/hanh-dong-games/tho-san-quai-vat">
+									<img data-src="http://localhost:8000/images/game_avatar/tho-san-quai-vat-icon-1476153257.jpg" alt="tho-san-quai-vat" class="swiper-lazy showTip el_1875" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/fashion-games/cinderellas-glittery-skirt"> Cinderella's Glittery...</a></h2>
+			<h2><a href="http://localhost:8000/hanh-dong-games/tho-san-quai-vat">Thợ săn quái vật</a></h2>
 		</div>
 	    	</div>
-				<div id="el_253" class="tipContent">
-        <h2><a href="http://teengame.net/fashion-games/cinderellas-glittery-skirt">Cinderella's Glittery Skirt</a></h2>
+				<div id="el_1875" class="tipContent">
+        <h2><a href="http://localhost:8000/hanh-dong-games/tho-san-quai-vat">Thợ săn quái vật</a></h2>
         <div class="tooltip_content">
-        	<img title="Cinderella's Glittery Skirt" alt="cinderellas-glittery-skirt" src="http://teengame.net/images/game_avatar/cinderellas-glittery-skirt-icon-1472269580.jpg" />
+        	<img title="Thợ săn quái vật" alt="tho-san-quai-vat" src="http://localhost:8000/images/game_avatar/tho-san-quai-vat-icon-1476153257.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Fashion
+                                            Hành động
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					266 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:30%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Choose between two styles of skirts, pick from three glittery colors and you&#39;re off to create two different outfits to wear with the skirt. First...</p>
+            	<p> Thợ săn quái vật - Monster Hunter là một game html5 vô cùng hấp dẫn giành cho người chơi yêu thích thể loại trò chơi hành...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -3702,30 +3628,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/fashion-games/elsa-art-deco-couture">
-									<img data-src="http://teengame.net/images/game_avatar/elsa_art_deco_couture-icon-1472269325.jpg" alt="elsa-art-deco-couture" class="swiper-lazy showTip el_252" />
+			<a href="http://localhost:8000/thoi-trang-games/thoi-trang-hoc-sinh">
+									<img data-src="http://localhost:8000/images/game_avatar/thoi-trang-hoc-sinh-icon-1476152708.jpg" alt="thoi-trang-hoc-sinh" class="swiper-lazy showTip el_1874" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/fashion-games/elsa-art-deco-couture">Elsa Art Deco Couture</a></h2>
+			<h2><a href="http://localhost:8000/thoi-trang-games/thoi-trang-hoc-sinh">Thời trang học sinh</a></h2>
 		</div>
 	    	</div>
-				<div id="el_252" class="tipContent">
-        <h2><a href="http://teengame.net/fashion-games/elsa-art-deco-couture">Elsa Art Deco Couture</a></h2>
+				<div id="el_1874" class="tipContent">
+        <h2><a href="http://localhost:8000/thoi-trang-games/thoi-trang-hoc-sinh">Thời trang học sinh</a></h2>
         <div class="tooltip_content">
-        	<img title="Elsa Art Deco Couture" alt="elsa-art-deco-couture" src="http://teengame.net/images/game_avatar/elsa_art_deco_couture-icon-1472269325.jpg" />
+        	<img title="Thời trang học sinh" alt="thoi-trang-hoc-sinh" src="http://localhost:8000/images/game_avatar/thoi-trang-hoc-sinh-icon-1476152708.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Fashion
+                                            Thời trang
                                     </strong>
             	<div>
-            		    					1 plays
+            		    					1221 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:86%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> The always glamourous ice queen Elsa knows a thing or two about fashion and when she discovers Art Deco she begins to try out new looks. Experiment with...</p>
+            	<p> Thời trang học sinh - Blossom style là một game thời trang hấp dẫn dành cho các bạn gái yêu thích may vá. Với lối chơi đơn...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -3733,30 +3659,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/fashion-games/arial-design-my-fedora-hat">
-									<img data-src="http://teengame.net/images/game_avatar/ariel-design-my-fedora-hat-icon-1472269238.jpg" alt="arial-design-my-fedora-hat" class="swiper-lazy showTip el_251" />
+			<a href="http://localhost:8000/thoi-trang-games/thoi-trang-cong-chua-4">
+									<img data-src="http://localhost:8000/images/game_avatar/thoi-trang-cong-chua-4-icon-1476152236.jpg" alt="thoi-trang-cong-chua-4" class="swiper-lazy showTip el_1873" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/fashion-games/arial-design-my-fedora-hat"> Arial Design My Fedora...</a></h2>
+			<h2><a href="http://localhost:8000/thoi-trang-games/thoi-trang-cong-chua-4"> Thời trang công chúa...</a></h2>
 		</div>
 	    	</div>
-				<div id="el_251" class="tipContent">
-        <h2><a href="http://teengame.net/fashion-games/arial-design-my-fedora-hat">Arial Design My Fedora Hat</a></h2>
+				<div id="el_1873" class="tipContent">
+        <h2><a href="http://localhost:8000/thoi-trang-games/thoi-trang-cong-chua-4">Thời trang công chúa 4</a></h2>
         <div class="tooltip_content">
-        	<img title="Arial Design My Fedora Hat" alt="arial-design-my-fedora-hat" src="http://teengame.net/images/game_avatar/ariel-design-my-fedora-hat-icon-1472269238.jpg" />
+        	<img title="Thời trang công chúa 4" alt="thoi-trang-cong-chua-4" src="http://localhost:8000/images/game_avatar/thoi-trang-cong-chua-4-icon-1476152236.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Fashion
+                                            Thời trang
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					475 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:48%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Ladies, do you know the gorgeous princess Ariel? The little mermaid enjoys modern fashion and she wants to wear a great summer hat. Help her design a...</p>
+            	<p> Nếu yêu thích các trò chơi thời trang thì chắc hẳn bạn sẽ không thể bỏ qua tựa game hấp dẫn Thời trang công chúa 4...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -3764,30 +3690,32 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/fashion-games/elsas-snapchat">
-									<img data-src="http://teengame.net/images/game_avatar/elsas-snapchat-icon-1472268730.jpg" alt="elsas-snapchat" class="swiper-lazy showTip el_250" />
+			<a href="http://localhost:8000/ban-gai-games/nong-trai-online-2">
+									<img data-src="http://localhost:8000/images/game_avatar/nong-trai-online-2-icon-1476151715.jpg" alt="nong-trai-online-2" class="swiper-lazy showTip el_1872" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/fashion-games/elsas-snapchat">Elsa's Snapchat</a></h2>
+			<h2><a href="http://localhost:8000/ban-gai-games/nong-trai-online-2">Nông trại online 2</a></h2>
 		</div>
 	    	</div>
-				<div id="el_250" class="tipContent">
-        <h2><a href="http://teengame.net/fashion-games/elsas-snapchat">Elsa's Snapchat</a></h2>
+				<div id="el_1872" class="tipContent">
+        <h2><a href="http://localhost:8000/ban-gai-games/nong-trai-online-2">Nông trại online 2</a></h2>
         <div class="tooltip_content">
-        	<img title="Elsa's Snapchat" alt="elsas-snapchat" src="http://teengame.net/images/game_avatar/elsas-snapchat-icon-1472268730.jpg" />
+        	<img title="Nông trại online 2" alt="nong-trai-online-2" src="http://localhost:8000/images/game_avatar/nong-trai-online-2-icon-1476151715.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Fashion
+                                            Bạn gái
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					1014 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:48%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Here’s a super fun Frozen Dress Up Game for you ladies to play today! Queen Elsa has just managed to set up her Snapchat profile and right now she’s...</p>
+            	<p> Nông trại online 2 - Farm Frenzy 2 là một game bạn gái siêu hấp dẫn. 
+
+Rời xa thành phố nhộn nhịp và cùng trở về miền...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -3795,30 +3723,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/fashion-games/princess-american-idol">
-									<img data-src="http://teengame.net/images/game_avatar/princess-american-idol-icon-1472268639.jpg" alt="princess-american-idol" class="swiper-lazy showTip el_249" />
+			<a href="http://localhost:8000/thoi-trang-games/le-hoi-hoa-trang">
+									<img data-src="http://localhost:8000/images/game_avatar/le-hoi-hoa-trang-icon-1476151000.jpg" alt="le-hoi-hoa-trang" class="swiper-lazy showTip el_1871" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/fashion-games/princess-american-idol">Princess American Idol</a></h2>
+			<h2><a href="http://localhost:8000/thoi-trang-games/le-hoi-hoa-trang">Lễ hội hóa trang</a></h2>
 		</div>
 	    	</div>
-				<div id="el_249" class="tipContent">
-        <h2><a href="http://teengame.net/fashion-games/princess-american-idol">Princess American Idol</a></h2>
+				<div id="el_1871" class="tipContent">
+        <h2><a href="http://localhost:8000/thoi-trang-games/le-hoi-hoa-trang">Lễ hội hóa trang</a></h2>
         <div class="tooltip_content">
-        	<img title="Princess American Idol" alt="princess-american-idol" src="http://teengame.net/images/game_avatar/princess-american-idol-icon-1472268639.jpg" />
+        	<img title="Lễ hội hóa trang" alt="le-hoi-hoa-trang" src="http://localhost:8000/images/game_avatar/le-hoi-hoa-trang-icon-1476151000.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Fashion
+                                            Thời trang
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					603 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:40%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Every teenage princess has a dream to be a American idol, especially the lovely princess Rapunzel. She would like to join contest to win. Do you want to...</p>
+            	<p> Trung học Ovest sắp tới sẽ tổ chức mội buổi lễ long trọng để đón chào mùa lễ hội Halloween. Anna muốn gây ấn tượng...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -3826,30 +3754,1770 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/fashion-games/barbie-and-elsa-bridesmaids-rivals">
-									<img data-src="http://teengame.net/images/game_avatar/barbie-and-elsa-bridesmaids-rivals-icon-1472268431.jpg" alt="barbie-and-elsa-bridesmaids-rivals" class="swiper-lazy showTip el_248" />
+			<a href="http://localhost:8000/dua-xe-games/lai-xe-vuot-dia-hinh">
+									<img data-src="http://localhost:8000/images/game_avatar/lai-xe-vuot-dia-hinh-icon-1476150489.jpg" alt="lai-xe-vuot-dia-hinh" class="swiper-lazy showTip el_1870" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/fashion-games/barbie-and-elsa-bridesmaids-rivals"> Barbie And Elsa...</a></h2>
+			<h2><a href="http://localhost:8000/dua-xe-games/lai-xe-vuot-dia-hinh"> Lái xe vượt địa...</a></h2>
 		</div>
 	    	</div>
-				<div id="el_248" class="tipContent">
-        <h2><a href="http://teengame.net/fashion-games/barbie-and-elsa-bridesmaids-rivals">Barbie And Elsa Bridesmaids Rivals</a></h2>
+				<div id="el_1870" class="tipContent">
+        <h2><a href="http://localhost:8000/dua-xe-games/lai-xe-vuot-dia-hinh">Lái xe vượt địa hình </a></h2>
         <div class="tooltip_content">
-        	<img title="Barbie And Elsa Bridesmaids Rivals" alt="barbie-and-elsa-bridesmaids-rivals" src="http://teengame.net/images/game_avatar/barbie-and-elsa-bridesmaids-rivals-icon-1472268431.jpg" />
+        	<img title="Lái xe vượt địa hình " alt="lai-xe-vuot-dia-hinh" src="http://localhost:8000/images/game_avatar/lai-xe-vuot-dia-hinh-icon-1476150489.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Fashion
+                                            Đua xe
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					706 plays
     				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:74%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Lái xe vượt địa hình - Endless Truck là một trong những game đua xe thú vị được game thủ trên toàn thế giới vô cùng yêu...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/chien-thuat-games/de-che-ong-vang">
+									<img data-src="http://localhost:8000/images/game_avatar/de-che-ong-vang-icon-1476150045.jpg" alt="de-che-ong-vang" class="swiper-lazy showTip el_1869" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/chien-thuat-games/de-che-ong-vang">Đế chế ong vàng</a></h2>
+		</div>
+	    	</div>
+				<div id="el_1869" class="tipContent">
+        <h2><a href="http://localhost:8000/chien-thuat-games/de-che-ong-vang">Đế chế ong vàng</a></h2>
+        <div class="tooltip_content">
+        	<img title="Đế chế ong vàng" alt="de-che-ong-vang" src="http://localhost:8000/images/game_avatar/de-che-ong-vang-icon-1476150045.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Chiến thuật
+                                    </strong>
+            	<div>
+            		    					692 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:84%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Đế chế ong vàng - Angry Bees là một trong những game chiến thuật, hành động vô cùng hấp dẫn được nhiều game thủ yêu...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/the-thao-games/da-banh-tranh-cup">
+									<img data-src="http://localhost:8000/images/game_avatar/da-banh-tranh-cup-icon-1476149600.jpg" alt="da-banh-tranh-cup" class="swiper-lazy showTip el_1868" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/the-thao-games/da-banh-tranh-cup">Đá banh tranh cúp</a></h2>
+		</div>
+	    	</div>
+				<div id="el_1868" class="tipContent">
+        <h2><a href="http://localhost:8000/the-thao-games/da-banh-tranh-cup">Đá banh tranh cúp</a></h2>
+        <div class="tooltip_content">
+        	<img title="Đá banh tranh cúp" alt="da-banh-tranh-cup" src="http://localhost:8000/images/game_avatar/da-banh-tranh-cup-icon-1476149600.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Thể thao
+                                    </strong>
+            	<div>
+            		    					387 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:76%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Đá banh tranh cúp - Heads Arena Euro Soccer là một game thể thao rất hấp dẫn giành tặng các fan của bộ môn thể thao vua. Sở...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/thoi-trang-games/cong-chua-arap">
+									<img data-src="http://localhost:8000/images/game_avatar/cong-chua-arap-icon-1476091376.jpg" alt="cong-chua-arap" class="swiper-lazy showTip el_1867" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/thoi-trang-games/cong-chua-arap">Công chúa Arap</a></h2>
+		</div>
+	    	</div>
+				<div id="el_1867" class="tipContent">
+        <h2><a href="http://localhost:8000/thoi-trang-games/cong-chua-arap">Công chúa Arap</a></h2>
+        <div class="tooltip_content">
+        	<img title="Công chúa Arap" alt="cong-chua-arap" src="http://localhost:8000/images/game_avatar/cong-chua-arap-icon-1476091376.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Thời trang
+                                    </strong>
+            	<div>
+            		    					269 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:90%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Công chúa Arap - Arabian Girl Fashion là một game thời trang hết sức hấp dẫn dành cho gamer ở mọi lứa tuổi. Nhiệm vụ của...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/tri-tue-games/caro-kieu-moi">
+									<img data-src="http://localhost:8000/images/game_avatar/caro-kieu-moi-icon-1476090116.jpg" alt="caro-kieu-moi" class="swiper-lazy showTip el_1866" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/tri-tue-games/caro-kieu-moi">Caro Kiểu mới</a></h2>
+		</div>
+	    	</div>
+				<div id="el_1866" class="tipContent">
+        <h2><a href="http://localhost:8000/tri-tue-games/caro-kieu-moi">Caro Kiểu mới</a></h2>
+        <div class="tooltip_content">
+        	<img title="Caro Kiểu mới" alt="caro-kieu-moi" src="http://localhost:8000/images/game_avatar/caro-kieu-moi-icon-1476090116.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Trí tuệ
+                                    </strong>
+            	<div>
+            		    					290 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:60%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Nếu yêu thích trò chơi Caro thần thánh thì chắc hẳn bạn sẽ khó có thể bỏ qua Caro kiểu mới - TicTacToe, một trong những...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/thoi-trang-games/baby-don-giang-sinh">
+									<img data-src="http://localhost:8000/images/game_avatar/baby-don-giang-sinh-icon-1476089562.jpg" alt="baby-don-giang-sinh" class="swiper-lazy showTip el_1865" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/thoi-trang-games/baby-don-giang-sinh">Baby đón giáng sinh</a></h2>
+		</div>
+	    	</div>
+				<div id="el_1865" class="tipContent">
+        <h2><a href="http://localhost:8000/thoi-trang-games/baby-don-giang-sinh">Baby đón giáng sinh</a></h2>
+        <div class="tooltip_content">
+        	<img title="Baby đón giáng sinh" alt="baby-don-giang-sinh" src="http://localhost:8000/images/game_avatar/baby-don-giang-sinh-icon-1476089562.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Thời trang
+                                    </strong>
+            	<div>
+            		    					361 plays
+    				                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:54%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Baby đón giáng sinh - Baby Halen Christmas Dress Up là một trong những game thời trang hấp dẫn được nhiều người chơi vô cùng...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																	</div>
+							</div>
+											</div>
+					<div class="swiper-pagination"></div>
+					<div class="boxgame-pagination">
+						<a class="prev"><i class="fa fa-caret-left"></i> Previous</a>
+						<div class="boxgame-pagenumber"><span class="numberPage">1</span>/5</div>
+						<a class="next">Next <i class="fa fa-caret-right"></i></a>
+					</div>
+				</div>
+						<div class="adsense center">
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- choinhanh-PC-Home -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7546981319298869"
+     data-ad-slot="7814818308"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+			</div>
+								<h3><a href="#">Game Android</a></h3>
+											<div class="swiper-container">
+					<div class="swiper-wrapper">
+													<div class="swiper-slide boxgame">
+								<div class="row">
+																											<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/subway-surfers">
+									<img data-src="http://localhost:8000/images/game_avatar/Subway-surfers-148-1449201211.jpg" alt="subway-surfers" class="swiper-lazy showTip el_90" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/subway-surfers">Subway surfers</a></h2>
+		</div>
+	    	</div>
+				<div id="el_90" class="tipContent">
+        <h2><a href="http://localhost:8000/game-android/subway-surfers">Subway surfers</a></h2>
+        <div class="tooltip_content">
+        	<img title="Subway surfers" alt="subway-surfers" src="http://localhost:8000/images/game_avatar/Subway-surfers-148-1449201211.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Hành động
+                                    </strong>
+            	<div>
+            		            			26092 plays
+            		                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:62%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Subway Surfers for Android là tựa game lướt ván hấp dẫn và miễn phí trên các thiết bị Android.Tham gia trò chơi hành động...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/temple-run-2">
+									<img data-src="http://localhost:8000/images/game_avatar/Temple-Run-2-162-1449204360.jpg" alt="temple-run-2" class="swiper-lazy showTip el_17" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/temple-run-2">Temple Run 2</a></h2>
+		</div>
+	    	</div>
+				<div id="el_17" class="tipContent">
+        <h2><a href="http://localhost:8000/game-android/temple-run-2">Temple Run 2</a></h2>
+        <div class="tooltip_content">
+        	<img title="Temple Run 2" alt="temple-run-2" src="http://localhost:8000/images/game_avatar/Temple-Run-2-162-1449204360.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Hành động
+                                    </strong>
+            	<div>
+            		            			20757 plays
+            		                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:68%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Với hàng triệu lượt tải Temple run 2 được đánh giá là tựa game offline thu hút nhiều người chơi nhất hiện nay. Temple run 2...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/talking-tom-gold-run">
+									<img data-src="http://localhost:8000/images/game_avatar/talking-tom-gold-run-1468634943.jpg" alt="talking-tom-gold-run" class="swiper-lazy showTip el_1092" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/talking-tom-gold-run">Talking Tom Gold Run</a></h2>
+		</div>
+	    	</div>
+				<div id="el_1092" class="tipContent">
+        <h2><a href="http://localhost:8000/game-android/talking-tom-gold-run">Talking Tom Gold Run</a></h2>
+        <div class="tooltip_content">
+        	<img title="Talking Tom Gold Run" alt="talking-tom-gold-run" src="http://localhost:8000/images/game_avatar/talking-tom-gold-run-1468634943.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Vui nhộn 
+                                    </strong>
+            	<div>
+            		            			13685 plays
+            		                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:72%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> You’ve been robbed! Explore this endless runner as TALKING TOM and TALKING ANGELA to chase down the robber and get your gold back! Discover new worlds,...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/ngoi-sao-thoi-trang">
+									<img data-src="http://localhost:8000/images/game_avatar/ngoi-sao-thoi-trang-1-1462766299.PNG" alt="ngoi-sao-thoi-trang" class="swiper-lazy showTip el_567" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/ngoi-sao-thoi-trang">Ngôi sao thời trang</a></h2>
+		</div>
+	    	</div>
+				<div id="el_567" class="tipContent">
+        <h2><a href="http://localhost:8000/game-android/ngoi-sao-thoi-trang">Ngôi sao thời trang</a></h2>
+        <div class="tooltip_content">
+        	<img title="Ngôi sao thời trang" alt="ngoi-sao-thoi-trang" src="http://localhost:8000/images/game_avatar/ngoi-sao-thoi-trang-1-1462766299.PNG" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Thời trang
+                                    </strong>
+            	<div>
+            		            			10528 plays
+            		                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:72%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Ngôi Sao Thời Trang – Ngoi Sao Thoi Trang là game thời trang giành cho mobile đầu tiên tại Việt Nam. Với hình ảnh lung linh, cốt...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/traffic-rider">
+									<img data-src="http://localhost:8000/images/game_avatar/traffic-rider-icon-1458101747.jpg" alt="traffic-rider" class="swiper-lazy showTip el_388" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/traffic-rider">Traffic Rider</a></h2>
+		</div>
+	    	</div>
+				<div id="el_388" class="tipContent">
+        <h2><a href="http://localhost:8000/game-android/traffic-rider">Traffic Rider</a></h2>
+        <div class="tooltip_content">
+        	<img title="Traffic Rider" alt="traffic-rider" src="http://localhost:8000/images/game_avatar/traffic-rider-icon-1458101747.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Đua xe
+                                    </strong>
+            	<div>
+            		            			10440 plays
+            		                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:60%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Tựa game android Traffic Rider - Món quà tuyệt vời giành cho những fans yêu tốc độ.  
+
+Là game đua xe phiên bản mới nhất...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/shadow-fight-2">
+									<img data-src="http://localhost:8000/images/game_avatar/shadow-fight-2-1467171515.jpg" alt="shadow-fight-2" class="swiper-lazy showTip el_1038" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/shadow-fight-2">Shadow Fight 2</a></h2>
+		</div>
+	    	</div>
+				<div id="el_1038" class="tipContent">
+        <h2><a href="http://localhost:8000/game-android/shadow-fight-2">Shadow Fight 2</a></h2>
+        <div class="tooltip_content">
+        	<img title="Shadow Fight 2" alt="shadow-fight-2" src="http://localhost:8000/images/game_avatar/shadow-fight-2-1467171515.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Hành động
+                                    </strong>
+            	<div>
+            		            			10080 plays
+            		                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:78%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Shadow Fight 2 is a nail-biting mix of RPG and classical Fighting. This game lets you equip your character with countless lethal weapons and rare armor...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/ong-trum-nau-an">
+									<img data-src="http://localhost:8000/images/game_avatar/Ong-trum-nau-an-246-1449199234.jpg" alt="ong-trum-nau-an" class="swiper-lazy showTip el_97" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/ong-trum-nau-an">Ông trùm nấu ăn</a></h2>
+		</div>
+	    	</div>
+				<div id="el_97" class="tipContent">
+        <h2><a href="http://localhost:8000/game-android/ong-trum-nau-an">Ông trùm nấu ăn</a></h2>
+        <div class="tooltip_content">
+        	<img title="Ông trùm nấu ăn" alt="ong-trum-nau-an" src="http://localhost:8000/images/game_avatar/Ong-trum-nau-an-246-1449199234.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Nấu ăn
+                                    </strong>
+            	<div>
+            		            			9266 plays
+            		                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:70%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Ông trùm nấu ăn là một trò chơi quán ăn hư ảo cho bạn sự trải nghiệm tươi mới. Trò chơi hướng dẫn bạn cách phục...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/counter-striker-mobile">
+									<img data-src="http://localhost:8000/images/game_avatar/Counter-striker-Mobile-123-1449204327.jpg" alt="counter-striker-mobile" class="swiper-lazy showTip el_19" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/counter-striker-mobile">Counter striker mobile</a></h2>
+		</div>
+	    	</div>
+				<div id="el_19" class="tipContent">
+        <h2><a href="http://localhost:8000/game-android/counter-striker-mobile">Counter striker mobile</a></h2>
+        <div class="tooltip_content">
+        	<img title="Counter striker mobile" alt="counter-striker-mobile" src="http://localhost:8000/images/game_avatar/Counter-striker-Mobile-123-1449204327.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Hành động
+                                    </strong>
+            	<div>
+            		            			9069 plays
+            		                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:60%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Là người yêu thích thể loại game bắn súng chắc chắn bạn không thể bỏ qua tựa game đình đám Counter striker mobile. Ở...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/talking-tom-cat-2">
+									<img data-src="http://localhost:8000/images/game_avatar/Talking-Tom-2-217-1449198365.jpg" alt="talking-tom-cat-2" class="swiper-lazy showTip el_114" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/talking-tom-cat-2">Talking Tom Cat 2</a></h2>
+		</div>
+	    	</div>
+				<div id="el_114" class="tipContent">
+        <h2><a href="http://localhost:8000/game-android/talking-tom-cat-2">Talking Tom Cat 2</a></h2>
+        <div class="tooltip_content">
+        	<img title="Talking Tom Cat 2" alt="talking-tom-cat-2" src="http://localhost:8000/images/game_avatar/Talking-Tom-2-217-1449198365.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Vui nhộn 
+                                    </strong>
+            	<div>
+            		            			8085 plays
+            		                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:64%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Talking Tom Cat là game không còn xa lạ với các em nhỏ và ngay cả người lớn. Trò chơi chỉ đơn giản là trêu chọc chú mèo...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/do-vui-hai-nao-max-troll">
+									<img data-src="http://localhost:8000/images/game_avatar/do-vui-hai-nao-icon-1454474937.jpg" alt="do-vui-hai-nao-max-troll" class="swiper-lazy showTip el_311" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/do-vui-hai-nao-max-troll"> Đố Vui Hại Não -...</a></h2>
+		</div>
+	    	</div>
+				<div id="el_311" class="tipContent">
+        <h2><a href="http://localhost:8000/game-android/do-vui-hai-nao-max-troll">Đố Vui Hại Não - Max Troll</a></h2>
+        <div class="tooltip_content">
+        	<img title="Đố Vui Hại Não - Max Troll" alt="do-vui-hai-nao-max-troll" src="http://localhost:8000/images/game_avatar/do-vui-hai-nao-icon-1454474937.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Trí tuệ
+                                    </strong>
+            	<div>
+            		            			7402 plays
+            		                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:68%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Đố vui hại não là một trò chơi thú vị bao gồm những câu đố dân gian, trí tuệ và các câu đố hại não mang tính chất...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/sonic-dash">
+									<img data-src="http://localhost:8000/images/game_avatar/sonic-dash-icon-1457928446.jpg" alt="sonic-dash" class="swiper-lazy showTip el_376" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/sonic-dash">Sonic Dash</a></h2>
+		</div>
+	    	</div>
+				<div id="el_376" class="tipContent">
+        <h2><a href="http://localhost:8000/game-android/sonic-dash">Sonic Dash</a></h2>
+        <div class="tooltip_content">
+        	<img title="Sonic Dash" alt="sonic-dash" src="http://localhost:8000/images/game_avatar/sonic-dash-icon-1457928446.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Vui nhộn 
+                                    </strong>
+            	<div>
+            		            			6729 plays
+            		                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:70%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Hãy phá kỉ lục thế giới và trở thành người chạy nhanh nhất hành tinh ngay hôm nay trong tựa game android đình đám Sonic Dash....</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/clash-of-clans">
+									<img data-src="http://localhost:8000/images/game_avatar/clash-of-clans-1468550603.jpg" alt="clash-of-clans" class="swiper-lazy showTip el_1091" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/clash-of-clans">Clash of Clans</a></h2>
+		</div>
+	    	</div>
+				<div id="el_1091" class="tipContent">
+        <h2><a href="http://localhost:8000/game-android/clash-of-clans">Clash of Clans</a></h2>
+        <div class="tooltip_content">
+        	<img title="Clash of Clans" alt="clash-of-clans" src="http://localhost:8000/images/game_avatar/clash-of-clans-1468550603.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Chiến thuật
+                                    </strong>
+            	<div>
+            		            			6180 plays
+            		                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:74%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> From rage-­filled Barbarians with glorious mustaches to pyromaniac wizards, raise your own army and lead your clan to victory! Build your village to fend...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																	</div>
+							</div>
+													<div class="swiper-slide boxgame">
+								<div class="row">
+																											<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/ai-la-thanh-troll-2016">
+									<img data-src="http://localhost:8000/images/game_avatar/Ai-la-thanh-troll-426-1449456525.jpg" alt="ai-la-thanh-troll-2016" class="swiper-lazy showTip el_135" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/ai-la-thanh-troll-2016">Ai là thánh troll 2016</a></h2>
+		</div>
+	    	</div>
+				<div id="el_135" class="tipContent">
+        <h2><a href="http://localhost:8000/game-android/ai-la-thanh-troll-2016">Ai là thánh troll 2016</a></h2>
+        <div class="tooltip_content">
+        	<img title="Ai là thánh troll 2016" alt="ai-la-thanh-troll-2016" src="http://localhost:8000/images/game_avatar/Ai-la-thanh-troll-426-1449456525.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Vui nhộn 
+                                    </strong>
+            	<div>
+            		            			5336 plays
+            		                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:78%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Có gì trong phiên bản : Ai là thánh troll 2016 phiên bản mới với nhiều chức năng mới:
+- Bổ sung thêm hơn 200 câu hỏi mới...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/beauty-idol">
+									<img data-src="http://localhost:8000/images/game_avatar/Beauty-Idol-306-1449455338.jpg" alt="beauty-idol" class="swiper-lazy showTip el_123" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/beauty-idol">Beauty idol</a></h2>
+		</div>
+	    	</div>
+				<div id="el_123" class="tipContent">
+        <h2><a href="http://localhost:8000/game-android/beauty-idol">Beauty idol</a></h2>
+        <div class="tooltip_content">
+        	<img title="Beauty idol" alt="beauty-idol" src="http://localhost:8000/images/game_avatar/Beauty-Idol-306-1449455338.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Thời trang
+                                    </strong>
+            	<div>
+            		            			3087 plays
+            		                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:72%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Là một ngôi sao thường xuyên phải đi party, show diễn lớn. Nhờ con mắt thời trang của mình, bạn hãy tham gia Beauty idol...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/zombie-tsunami">
+									<img data-src="http://localhost:8000/images/game_avatar/zombie-tsunami-icon-1458118624.jpg" alt="zombie-tsunami" class="swiper-lazy showTip el_396" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/zombie-tsunami">Zombie Tsunami</a></h2>
+		</div>
+	    	</div>
+				<div id="el_396" class="tipContent">
+        <h2><a href="http://localhost:8000/game-android/zombie-tsunami">Zombie Tsunami</a></h2>
+        <div class="tooltip_content">
+        	<img title="Zombie Tsunami" alt="zombie-tsunami" src="http://localhost:8000/images/game_avatar/zombie-tsunami-icon-1458118624.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Chiến thuật
+                                    </strong>
+            	<div>
+            		            			2173 plays
+            		                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:64%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Bè lũ thây ma đang tấn công vào thành phố bạn. Bọn chúng thật ghê tởm. Hãy vào vai cảnh sát trưởng và tiêu diệt bọn...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/card-wars-kingdom">
+									<img data-src="http://localhost:8000/images/game_avatar/card-wars-kingdom-2-1471591806.png" alt="card-wars-kingdom" class="swiper-lazy showTip el_1281" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/card-wars-kingdom">Card Wars Kingdom</a></h2>
+		</div>
+	    	</div>
+				<div id="el_1281" class="tipContent">
+        <h2><a href="http://localhost:8000/game-android/card-wars-kingdom">Card Wars Kingdom</a></h2>
+        <div class="tooltip_content">
+        	<img title="Card Wars Kingdom" alt="card-wars-kingdom" src="http://localhost:8000/images/game_avatar/card-wars-kingdom-2-1471591806.png" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Chiến thuật
+                                    </strong>
+            	<div>
+            		            			1739 plays
+            		                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:78%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Take Card Wars to the next level in Card Wars Kingdom!
+
+EPIC CREATURE COMBAT
+-Assemble a team of awesome creatures and fight for Card Wars...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/dream-league-soccer-2016">
+									<img data-src="http://localhost:8000/images/game_avatar/dream-league-soccer-2016-1468391484.jpg" alt="dream-league-soccer-2016" class="swiper-lazy showTip el_1085" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/dream-league-soccer-2016">Dream League Soccer 2016</a></h2>
+		</div>
+	    	</div>
+				<div id="el_1085" class="tipContent">
+        <h2><a href="http://localhost:8000/game-android/dream-league-soccer-2016">Dream League Soccer 2016</a></h2>
+        <div class="tooltip_content">
+        	<img title="Dream League Soccer 2016" alt="dream-league-soccer-2016" src="http://localhost:8000/images/game_avatar/dream-league-soccer-2016-1468391484.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Thể thao
+                                    </strong>
+            	<div>
+            		            			1681 plays
+            		                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:66%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Dream League Soccer 2016 is here, and it’s better than ever! Soccer as we know it has changed, and this is YOUR chance to build THE best team on the...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/pokemon-go">
+									<img data-src="http://localhost:8000/images/game_avatar/pokemon-go-2-1470643853.png" alt="pokemon-go" class="swiper-lazy showTip el_1234" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/pokemon-go">Pokémon GO</a></h2>
+		</div>
+	    	</div>
+				<div id="el_1234" class="tipContent">
+        <h2><a href="http://localhost:8000/game-android/pokemon-go">Pokémon GO</a></h2>
+        <div class="tooltip_content">
+        	<img title="Pokémon GO" alt="pokemon-go" src="http://localhost:8000/images/game_avatar/pokemon-go-2-1470643853.png" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Vui nhộn 
+                                    </strong>
+            	<div>
+            		            			1318 plays
+            		                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:36%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Venusaur, Charizard, Blastoise, Pikachu, and many other Pokémon have been discovered on planet Earth! 
+Now’s your chance to discover and capture the...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/racing-in-car">
+									<img data-src="http://localhost:8000/images/game_avatar/racing-in-car-2-1470731813.png" alt="racing-in-car" class="swiper-lazy showTip el_1247" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/racing-in-car">Racing in Car</a></h2>
+		</div>
+	    	</div>
+				<div id="el_1247" class="tipContent">
+        <h2><a href="http://localhost:8000/game-android/racing-in-car">Racing in Car</a></h2>
+        <div class="tooltip_content">
+        	<img title="Racing in Car" alt="racing-in-car" src="http://localhost:8000/images/game_avatar/racing-in-car-2-1470731813.png" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Đua xe
+                                    </strong>
+            	<div>
+            		            			1307 plays
+            		                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:64%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Sick of endless racing games with third person perspective? Racing in Car is the best mobile racing game you have been looking for. You drive your car in...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/bus-rush">
+									<img data-src="http://localhost:8000/images/game_avatar/bus-rush-icon-1457931120.jpg" alt="bus-rush" class="swiper-lazy showTip el_379" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/bus-rush">Bus Rush</a></h2>
+		</div>
+	    	</div>
+				<div id="el_379" class="tipContent">
+        <h2><a href="http://localhost:8000/game-android/bus-rush">Bus Rush</a></h2>
+        <div class="tooltip_content">
+        	<img title="Bus Rush" alt="bus-rush" src="http://localhost:8000/images/game_avatar/bus-rush-icon-1457931120.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Vui nhộn 
+                                    </strong>
+            	<div>
+            		            			1149 plays
+            		                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:68%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Bus Rush tựa game android tuyệt vời dành cho những ai yêu thích thể loại game hành động vui nhộn. Đồng hành cùng Bobby trong...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/anger-of-stick-5">
+									<img data-src="http://localhost:8000/images/game_avatar/anger-of-stick-5-icon-1469155810.png" alt="anger-of-stick-5" class="swiper-lazy showTip el_1108" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/anger-of-stick-5">Anger of Stick 5</a></h2>
+		</div>
+	    	</div>
+				<div id="el_1108" class="tipContent">
+        <h2><a href="http://localhost:8000/game-android/anger-of-stick-5">Anger of Stick 5</a></h2>
+        <div class="tooltip_content">
+        	<img title="Anger of Stick 5" alt="anger-of-stick-5" src="http://localhost:8000/images/game_avatar/anger-of-stick-5-icon-1469155810.png" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Hành động
+                                    </strong>
+            	<div>
+            		            			1140 plays
+            		                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:86%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Chúng xuất hiện đám đông khó tả thành phố đã sử dụng những người như là một công cụ thí nghiệm.
+Nhiều người đã...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/train-simulator-2016">
+									<img data-src="http://localhost:8000/images/game_avatar/train-simulator-2016-icon-1475031833.png" alt="train-simulator-2016" class="swiper-lazy showTip el_1680" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/train-simulator-2016">Train Simulator 2016</a></h2>
+		</div>
+	    	</div>
+				<div id="el_1680" class="tipContent">
+        <h2><a href="http://localhost:8000/game-android/train-simulator-2016">Train Simulator 2016</a></h2>
+        <div class="tooltip_content">
+        	<img title="Train Simulator 2016" alt="train-simulator-2016" src="http://localhost:8000/images/game_avatar/train-simulator-2016-icon-1475031833.png" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Đua xe
+                                    </strong>
+            	<div>
+            		            			1120 plays
+            		                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:62%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Train Simulator 2016 là tàu mô phỏng tiên tiến mới nhất mà sẽ cho phép bạn để trở thành tài xế xe lửa tốt nhất!
+Phóng...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/star-girl-beauty-queen">
+									<img data-src="http://localhost:8000/images/game_avatar/Star-girl-017-1449461992.jpg" alt="star-girl-beauty-queen" class="swiper-lazy showTip el_156" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/star-girl-beauty-queen">Star Girl: Beauty Queen</a></h2>
+		</div>
+	    	</div>
+				<div id="el_156" class="tipContent">
+        <h2><a href="http://localhost:8000/game-android/star-girl-beauty-queen">Star Girl: Beauty Queen</a></h2>
+        <div class="tooltip_content">
+        	<img title="Star Girl: Beauty Queen" alt="star-girl-beauty-queen" src="http://localhost:8000/images/game_avatar/Star-girl-017-1449461992.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Bạn gái
+                                    </strong>
+            	<div>
+            		            			1110 plays
+            		                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:76%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Nữ hoàng sắc đẹp sẽ đưa bạn vào một cuộc hành trình vào thế giới của thời trang cao cấp. Đặt trên đôi giày cao gót...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/dragon-city">
+									<img data-src="http://localhost:8000/images/game_avatar/dragon-city-1469691078.png" alt="dragon-city" class="swiper-lazy showTip el_1144" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/dragon-city">Dragon City</a></h2>
+		</div>
+	    	</div>
+				<div id="el_1144" class="tipContent">
+        <h2><a href="http://localhost:8000/game-android/dragon-city">Dragon City</a></h2>
+        <div class="tooltip_content">
+        	<img title="Dragon City" alt="dragon-city" src="http://localhost:8000/images/game_avatar/dragon-city-1469691078.png" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Chiến thuật
+                                    </strong>
+            	<div>
+            		            			1088 plays
+            		                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:90%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> From June 2nd, Dragon City joins the foot fun and is hosting its very own Summer Cup Party! Enjoy themed events inside the game, including calendars full...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																	</div>
+							</div>
+													<div class="swiper-slide boxgame">
+								<div class="row">
+																											<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/halloween-makeup-me">
+									<img data-src="http://localhost:8000/images/game_avatar/halloween-makeup-2-1468376530.jpeg" alt="halloween-makeup-me" class="swiper-lazy showTip el_1083" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/halloween-makeup-me">Halloween Makeup Me</a></h2>
+		</div>
+	    	</div>
+				<div id="el_1083" class="tipContent">
+        <h2><a href="http://localhost:8000/game-android/halloween-makeup-me">Halloween Makeup Me</a></h2>
+        <div class="tooltip_content">
+        	<img title="Halloween Makeup Me" alt="halloween-makeup-me" src="http://localhost:8000/images/game_avatar/halloween-makeup-2-1468376530.jpeg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Bạn gái
+                                    </strong>
+            	<div>
+            		            			1049 plays
+            		                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:80%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Tham gia Halloween Makeup Me ngay hôm nay để được trải nghiệm công việc của một chuyên gia trang điểm thực thụ. Hãy giúp các...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/bake-cupcakes-cooking">
+									<img data-src="http://localhost:8000/images/game_avatar/bake-cupcakes-cooking-icon-1458108814.jpg" alt="bake-cupcakes-cooking" class="swiper-lazy showTip el_391" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/bake-cupcakes-cooking">Bake Cupcakes Cooking </a></h2>
+		</div>
+	    	</div>
+				<div id="el_391" class="tipContent">
+        <h2><a href="http://localhost:8000/game-android/bake-cupcakes-cooking">Bake Cupcakes Cooking </a></h2>
+        <div class="tooltip_content">
+        	<img title="Bake Cupcakes Cooking " alt="bake-cupcakes-cooking" src="http://localhost:8000/images/game_avatar/bake-cupcakes-cooking-icon-1458108814.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Nấu ăn
+                                    </strong>
+            	<div>
+            		            			1042 plays
+            		                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:58%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Bake Cupcakes Cooking là game nấu ăn dành riêng cho hệ điều hành android. Tựa game này đang gây bão trên BXH game online với hơn 15...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/walking-war-robots">
+									<img data-src="http://localhost:8000/images/game_avatar/walking-war-robots-1-1468463754.png" alt="walking-war-robots" class="swiper-lazy showTip el_1087" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/walking-war-robots">Walking War Robots</a></h2>
+		</div>
+	    	</div>
+				<div id="el_1087" class="tipContent">
+        <h2><a href="http://localhost:8000/game-android/walking-war-robots">Walking War Robots</a></h2>
+        <div class="tooltip_content">
+        	<img title="Walking War Robots" alt="walking-war-robots" src="http://localhost:8000/images/game_avatar/walking-war-robots-1-1468463754.png" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Hành động
+                                    </strong>
+            	<div>
+            		            			1025 plays
+            		                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:86%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Walking War Robots là trò chơi hành động nhiều người chơi thú vị với những trận chiến thời gian thực giữa các nhóm 6...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/cooking-mama-lets-cook">
+									<img data-src="http://localhost:8000/images/game_avatar/cooking-mama-let's-cook-icon-1458109350.jpg" alt="cooking-mama-lets-cook" class="swiper-lazy showTip el_392" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/cooking-mama-lets-cook">Cooking mama Let's Cook</a></h2>
+		</div>
+	    	</div>
+				<div id="el_392" class="tipContent">
+        <h2><a href="http://localhost:8000/game-android/cooking-mama-lets-cook">Cooking mama Let's Cook</a></h2>
+        <div class="tooltip_content">
+        	<img title="Cooking mama Let's Cook" alt="cooking-mama-lets-cook" src="http://localhost:8000/images/game_avatar/cooking-mama-let's-cook-icon-1458109350.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Nấu ăn
+                                    </strong>
+            	<div>
+            		            			903 plays
+            		                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:84%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Cooking mama Let&#39;s Cook game nấu ăn giành riêng cho android chính thức ra mắt. Đây là món quà ý nghĩa giành tặng cho các nàng...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/spider-man-unlimited">
+									<img data-src="http://localhost:8000/images/game_avatar/spider-man-unlimited-1-1468378554.jpg" alt="spider-man-unlimited" class="swiper-lazy showTip el_1084" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/spider-man-unlimited">Spider-Man Unlimited</a></h2>
+		</div>
+	    	</div>
+				<div id="el_1084" class="tipContent">
+        <h2><a href="http://localhost:8000/game-android/spider-man-unlimited">Spider-Man Unlimited</a></h2>
+        <div class="tooltip_content">
+        	<img title="Spider-Man Unlimited" alt="spider-man-unlimited" src="http://localhost:8000/images/game_avatar/spider-man-unlimited-1-1468378554.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Hành động
+                                    </strong>
+            	<div>
+            		            			863 plays
+            		                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:86%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Tham gia Spider-Man Unlimited để trải nghiệm cuộc sống của các anh hùng thực thụ trong thế giới Marvel. Đấu với Sinister Six...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/winx-bloomix-quest">
+									<img data-src="http://localhost:8000/images/game_avatar/winx-bloomix-quest-icon-1467173995.jpg" alt="winx-bloomix-quest" class="swiper-lazy showTip el_1040" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/winx-bloomix-quest">Winx Bloomix Quest</a></h2>
+		</div>
+	    	</div>
+				<div id="el_1040" class="tipContent">
+        <h2><a href="http://localhost:8000/game-android/winx-bloomix-quest">Winx Bloomix Quest</a></h2>
+        <div class="tooltip_content">
+        	<img title="Winx Bloomix Quest" alt="winx-bloomix-quest" src="http://localhost:8000/images/game_avatar/winx-bloomix-quest-icon-1467173995.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Hành động
+                                    </strong>
+            	<div>
+            		            			841 plays
+            		                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:80%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> ***Now even more magic! Complete missions and get weekly rewards! Get the best outfit for Bloom in the showroom. Change clothes right on the run!***
+This...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/piano-tiles-2">
+									<img data-src="http://localhost:8000/images/game_avatar/piano-tiles-2-icon-1454553210.jpg" alt="piano-tiles-2" class="swiper-lazy showTip el_320" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/piano-tiles-2">Piano Tiles 2</a></h2>
+		</div>
+	    	</div>
+				<div id="el_320" class="tipContent">
+        <h2><a href="http://localhost:8000/game-android/piano-tiles-2">Piano Tiles 2</a></h2>
+        <div class="tooltip_content">
+        	<img title="Piano Tiles 2" alt="piano-tiles-2" src="http://localhost:8000/images/game_avatar/piano-tiles-2-icon-1454553210.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Vui nhộn 
+                                    </strong>
+            	<div>
+            		            			826 plays
+            		                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:66%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Piano Tiles là series game đang HOT nhất hiện nay. Tiếp nối Piano Tiles 1, Piano Tiles 2 được nâng cấp thêm về mặt âm thanh và...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/exorun">
+									<img data-src="http://localhost:8000/images/game_avatar/EXORUN-1468805230.jpg" alt="exorun" class="swiper-lazy showTip el_1095" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/exorun">EXORUN</a></h2>
+		</div>
+	    	</div>
+				<div id="el_1095" class="tipContent">
+        <h2><a href="http://localhost:8000/game-android/exorun">EXORUN</a></h2>
+        <div class="tooltip_content">
+        	<img title="EXORUN" alt="exorun" src="http://localhost:8000/images/game_avatar/EXORUN-1468805230.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Vui nhộn 
+                                    </strong>
+            	<div>
+            		            			771 plays
+            		                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:68%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Chơi trò chơi tuyệt vời với các ngôi sao. EXORUN!
+Bạn đã sẵn sàng bắt đầu cuộc phiêu lưu với EXO chưa?
+
+Nào ta cùng...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/hungry-shark-evolution">
+									<img data-src="http://localhost:8000/images/game_avatar/hungry-shark-evolution-icon-1458118103.jpg" alt="hungry-shark-evolution" class="swiper-lazy showTip el_395" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/hungry-shark-evolution">Hungry Shark Evolution</a></h2>
+		</div>
+	    	</div>
+				<div id="el_395" class="tipContent">
+        <h2><a href="http://localhost:8000/game-android/hungry-shark-evolution">Hungry Shark Evolution</a></h2>
+        <div class="tooltip_content">
+        	<img title="Hungry Shark Evolution" alt="hungry-shark-evolution" src="http://localhost:8000/images/game_avatar/hungry-shark-evolution-icon-1458118103.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Vui nhộn 
+                                    </strong>
+            	<div>
+            		            			717 plays
+            		                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:64%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Cá mập bị bỏ đói, hãy giúp chú tìm kiếm thức ăn để có thể tồn tại được càng lâu càng tốt bằng cách ăn tất cả...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/dragon-mania-legends">
+									<img data-src="http://localhost:8000/images/game_avatar/dragon-mania-legends-3-1470387362.jpg" alt="dragon-mania-legends" class="swiper-lazy showTip el_1213" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/dragon-mania-legends">Dragon Mania Legends</a></h2>
+		</div>
+	    	</div>
+				<div id="el_1213" class="tipContent">
+        <h2><a href="http://localhost:8000/game-android/dragon-mania-legends">Dragon Mania Legends</a></h2>
+        <div class="tooltip_content">
+        	<img title="Dragon Mania Legends" alt="dragon-mania-legends" src="http://localhost:8000/images/game_avatar/dragon-mania-legends-3-1470387362.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Chiến thuật
+                                    </strong>
+            	<div>
+            		            			670 plays
+            		                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:60%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Truyền sức sống cho rồng của bạn để chuẩn bị cho các trận đấu huyền thoại! Giành lại quê hương yêu dấu của bạn...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/stick-war-legacy">
+									<img data-src="http://localhost:8000/images/game_avatar/stick-war-legacy-icon-1476085596.png" alt="stick-war-legacy" class="swiper-lazy showTip el_1861" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/stick-war-legacy">Stick War: Legacy</a></h2>
+		</div>
+	    	</div>
+				<div id="el_1861" class="tipContent">
+        <h2><a href="http://localhost:8000/game-android/stick-war-legacy">Stick War: Legacy</a></h2>
+        <div class="tooltip_content">
+        	<img title="Stick War: Legacy" alt="stick-war-legacy" src="http://localhost:8000/images/game_avatar/stick-war-legacy-icon-1476085596.png" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Hành động
+                                    </strong>
+            	<div>
+            		            			662 plays
+            		                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:76%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> One of the most popular and highest rated web games of all time now comes to mobile!
+
+Play the game Stick War, one of the biggest, most fun, challenging...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/sniper-3d-assassin">
+									<img data-src="http://localhost:8000/images/game_avatar/sniper-3d-assassin-1477275696.png" alt="sniper-3d-assassin" class="swiper-lazy showTip el_2027" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/sniper-3d-assassin">Sniper 3D Assassin</a></h2>
+		</div>
+	    	</div>
+				<div id="el_2027" class="tipContent">
+        <h2><a href="http://localhost:8000/game-android/sniper-3d-assassin">Sniper 3D Assassin</a></h2>
+        <div class="tooltip_content">
+        	<img title="Sniper 3D Assassin" alt="sniper-3d-assassin" src="http://localhost:8000/images/game_avatar/sniper-3d-assassin-1477275696.png" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Hành động
+                                    </strong>
+            	<div>
+            		            			659 plays
+            		                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:100%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Sẵn sàng để CHƠI VUI? Hãy tải ngay miễn phí một trong những trò chơi bắn súng hay nhất!
+Hãy nhận tay súng bắn tỉa của...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																	</div>
+							</div>
+													<div class="swiper-slide boxgame">
+								<div class="row">
+																											<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/icy-dressup-frozen-land">
+									<img data-src="http://localhost:8000/images/game_avatar/icy-dressup-frozen-land-1469782369.png" alt="icy-dressup-frozen-land" class="swiper-lazy showTip el_1161" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/icy-dressup-frozen-land">Icy dressup: Frozen land</a></h2>
+		</div>
+	    	</div>
+				<div id="el_1161" class="tipContent">
+        <h2><a href="http://localhost:8000/game-android/icy-dressup-frozen-land">Icy dressup: Frozen land</a></h2>
+        <div class="tooltip_content">
+        	<img title="Icy dressup: Frozen land" alt="icy-dressup-frozen-land" src="http://localhost:8000/images/game_avatar/icy-dressup-frozen-land-1469782369.png" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Thời trang
+                                    </strong>
+            	<div>
+            		            			615 plays
+            		                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:62%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> She is still the princess, but soon or later she will become a queen, means she need to be dressed for success. Little by little all part of her ice...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/coco-party-dancing-queens">
+									<img data-src="http://localhost:8000/images/game_avatar/coco-party-dancing-queens-icon-1457921777.jpg" alt="coco-party-dancing-queens" class="swiper-lazy showTip el_372" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/coco-party-dancing-queens"> Coco Party Dancing Queens</a></h2>
+		</div>
+	    	</div>
+				<div id="el_372" class="tipContent">
+        <h2><a href="http://localhost:8000/game-android/coco-party-dancing-queens">Coco Party Dancing Queens</a></h2>
+        <div class="tooltip_content">
+        	<img title="Coco Party Dancing Queens" alt="coco-party-dancing-queens" src="http://localhost:8000/images/game_avatar/coco-party-dancing-queens-icon-1457921777.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Bạn gái
+                                    </strong>
+            	<div>
+            		            			594 plays
+            		                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:64%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Buổi dạ hội lớn nhất trong năm sắp diễn ra, Coco đang háo hức và mong muốn mình trở thành người lộng lấy nhất trong...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/trials-frontier">
+									<img data-src="http://localhost:8000/images/game_avatar/trials-frontier-icon-1475631740.png" alt="trials-frontier" class="swiper-lazy showTip el_1782" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/trials-frontier">Trials Frontier</a></h2>
+		</div>
+	    	</div>
+				<div id="el_1782" class="tipContent">
+        <h2><a href="http://localhost:8000/game-android/trials-frontier">Trials Frontier</a></h2>
+        <div class="tooltip_content">
+        	<img title="Trials Frontier" alt="trials-frontier" src="http://localhost:8000/images/game_avatar/trials-frontier-icon-1475631740.png" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Đua xe
+                                    </strong>
+            	<div>
+            		            			582 plays
+            		                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:50%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Explore a vast world on your motorcycle. Compete against your friends on global leaderboards. Master physics-based tracks and challenge the world&#39;s...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/pretty-ballerina">
+									<img data-src="http://localhost:8000/images/game_avatar/pretty-ballerina-1-1471829634.jpg" alt="pretty-ballerina" class="swiper-lazy showTip el_1287" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/pretty-ballerina">Pretty Ballerina</a></h2>
+		</div>
+	    	</div>
+				<div id="el_1287" class="tipContent">
+        <h2><a href="http://localhost:8000/game-android/pretty-ballerina">Pretty Ballerina</a></h2>
+        <div class="tooltip_content">
+        	<img title="Pretty Ballerina" alt="pretty-ballerina" src="http://localhost:8000/images/game_avatar/pretty-ballerina-1-1471829634.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Thời trang
+                                    </strong>
+            	<div>
+            		            			561 plays
+            		                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:94%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Be the Prima Ballerina in the best dance company & make your ballet dreams come true!
+Create & choreograph professional dances with tons of dance moves &...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/crash-drive-3d-offroad-race">
+									<img data-src="http://localhost:8000/images/game_avatar/crash-drive-3d-offroad-race-1475033746.png" alt="crash-drive-3d-offroad-race" class="swiper-lazy showTip el_1682" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/crash-drive-3d-offroad-race"> Crash Drive 3D - Offroad...</a></h2>
+		</div>
+	    	</div>
+				<div id="el_1682" class="tipContent">
+        <h2><a href="http://localhost:8000/game-android/crash-drive-3d-offroad-race">Crash Drive 3D - Offroad race</a></h2>
+        <div class="tooltip_content">
+        	<img title="Crash Drive 3D - Offroad race" alt="crash-drive-3d-offroad-race" src="http://localhost:8000/images/game_avatar/crash-drive-3d-offroad-race-1475033746.png" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Đua xe
+                                    </strong>
+            	<div>
+            		            			557 plays
+            		                    <div class="rate-result-cnt">
         <div class="rate-bg" style="width:0%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p>Find out which bridesmaid is the winner and which one knows Anna best by playing this new game Barbie And Elsa Bridesmaids Rivals!
+            	<p> Offroad racers at the ready! Time to start your engines….
+
+Hold on tight for the world’s hottest off road contest: jump in your speed buggy and let...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/castle-clash-de-che-anh-hung">
+									<img data-src="http://localhost:8000/images/game_avatar/castle-clash-de-che-anh-hung-2-1468549299.png" alt="castle-clash-de-che-anh-hung" class="swiper-lazy showTip el_1090" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/castle-clash-de-che-anh-hung"> Castle Clash: Đế Chế...</a></h2>
+		</div>
+	    	</div>
+				<div id="el_1090" class="tipContent">
+        <h2><a href="http://localhost:8000/game-android/castle-clash-de-che-anh-hung">Castle Clash: Đế Chế Anh Hùng</a></h2>
+        <div class="tooltip_content">
+        	<img title="Castle Clash: Đế Chế Anh Hùng" alt="castle-clash-de-che-anh-hung" src="http://localhost:8000/images/game_avatar/castle-clash-de-che-anh-hung-2-1468549299.png" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Chiến thuật
+                                    </strong>
+            	<div>
+            		            			495 plays
+            		                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:60%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Xây dựng, chiến đấu và vươn tới đỉnh vinh quang cùng Castle Clash - Game chiến thuật cho điện thoại HOT nhất hiện nay với...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/temple-run">
+									<img data-src="http://localhost:8000/images/game_avatar/temple-run-1463109004.png" alt="temple-run" class="swiper-lazy showTip el_607" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/temple-run">Temple Run</a></h2>
+		</div>
+	    	</div>
+				<div id="el_607" class="tipContent">
+        <h2><a href="http://localhost:8000/game-android/temple-run">Temple Run</a></h2>
+        <div class="tooltip_content">
+        	<img title="Temple Run" alt="temple-run" src="http://localhost:8000/images/game_avatar/temple-run-1463109004.png" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Hành động
+                                    </strong>
+            	<div>
+            		            			493 plays
+            		                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:64%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> The addictive mega-hit Temple Run is now out for Android! All your friends are playing it - can you beat their high scores?!
+
+You&#39;ve stolen the...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/giai-cuu-cau-do-vui-dan-gian">
+									<img data-src="http://localhost:8000/images/game_avatar/giai-cuu-cau-do-icon-1454484976.jpg" alt="giai-cuu-cau-do-vui-dan-gian" class="swiper-lazy showTip el_312" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/giai-cuu-cau-do-vui-dan-gian"> Giải Cứu Câu Đố...</a></h2>
+		</div>
+	    	</div>
+				<div id="el_312" class="tipContent">
+        <h2><a href="http://localhost:8000/game-android/giai-cuu-cau-do-vui-dan-gian">Giải Cứu Câu Đố Vui Dân Gian</a></h2>
+        <div class="tooltip_content">
+        	<img title="Giải Cứu Câu Đố Vui Dân Gian" alt="giai-cuu-cau-do-vui-dan-gian" src="http://localhost:8000/images/game_avatar/giai-cuu-cau-do-icon-1454484976.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Vui nhộn 
+                                    </strong>
+            	<div>
+            		            			491 plays
+            		                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:86%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Giải Cứu Câu Đố là một trò chơi đố vui trí tuệ kế thừa nền tảng trò chơi truyền thống Hangman của đất nước...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/online-head-ball">
+									<img data-src="http://localhost:8000/images/game_avatar/online-head-ball-icon-1478503340.png" alt="online-head-ball" class="swiper-lazy showTip el_2199" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/online-head-ball">Online Head Ball</a></h2>
+		</div>
+	    	</div>
+				<div id="el_2199" class="tipContent">
+        <h2><a href="http://localhost:8000/game-android/online-head-ball">Online Head Ball</a></h2>
+        <div class="tooltip_content">
+        	<img title="Online Head Ball" alt="online-head-ball" src="http://localhost:8000/images/game_avatar/online-head-ball-icon-1478503340.png" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Thể thao
+                                    </strong>
+            	<div>
+            		            			476 plays
+            		                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:30%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Online Head Ball is a football game played by 10 million players. You can play live 1 on 1 matches with your friends and other people and affect the...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/co-ty-phu">
+									<img data-src="http://localhost:8000/images/game_avatar/co-ty-phu-1462937331.jpg" alt="co-ty-phu" class="swiper-lazy showTip el_599" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/co-ty-phu">Cờ Tỷ Phú</a></h2>
+		</div>
+	    	</div>
+				<div id="el_599" class="tipContent">
+        <h2><a href="http://localhost:8000/game-android/co-ty-phu">Cờ Tỷ Phú</a></h2>
+        <div class="tooltip_content">
+        	<img title="Cờ Tỷ Phú" alt="co-ty-phu" src="http://localhost:8000/images/game_avatar/co-ty-phu-1462937331.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Trí tuệ
+                                    </strong>
+            	<div>
+            		            			470 plays
+            		                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:84%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Cờ Tỷ Phú – Co Ty Phu ZingPlay là game mô phỏng Trò chơi Cờ Tỷ Phú dân gian, game xoay quanh chiến lược kinh doanh bất động...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/drive-ahead">
+									<img data-src="http://localhost:8000/images/game_avatar/drive-ahead-1474617537.png" alt="drive-ahead" class="swiper-lazy showTip el_1624" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/drive-ahead">Drive Ahead</a></h2>
+		</div>
+	    	</div>
+				<div id="el_1624" class="tipContent">
+        <h2><a href="http://localhost:8000/game-android/drive-ahead">Drive Ahead</a></h2>
+        <div class="tooltip_content">
+        	<img title="Drive Ahead" alt="drive-ahead" src="http://localhost:8000/images/game_avatar/drive-ahead-1474617537.png" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Đua xe
+                                    </strong>
+            	<div>
+            		            			455 plays
+            		                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Drive Ahead! is a gladiator car fight. Wreck your friends by knocking their helmets with a variety of cars from monster trucks to alien saucers! Hundreds...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/angry-birds-go">
+									<img data-src="http://localhost:8000/images/game_avatar/angry-birds-go-icon-1458101354.jpg" alt="angry-birds-go" class="swiper-lazy showTip el_387" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/angry-birds-go">Angry Birds Go</a></h2>
+		</div>
+	    	</div>
+				<div id="el_387" class="tipContent">
+        <h2><a href="http://localhost:8000/game-android/angry-birds-go">Angry Birds Go</a></h2>
+        <div class="tooltip_content">
+        	<img title="Angry Birds Go" alt="angry-birds-go" src="http://localhost:8000/images/game_avatar/angry-birds-go-icon-1458101354.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Vui nhộn 
+                                    </strong>
+            	<div>
+            		            			421 plays
+            		                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:0%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Là fan trung thành của Angry Bird bạn sẽ không thể bỏ qua sức hấp dẫn trong game vui nhộn Angry Birds Go dành riêng cho hệ...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																	</div>
+							</div>
+													<div class="swiper-slide boxgame">
+								<div class="row">
+																											<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/asphalt-8-airborne">
+									<img data-src="http://localhost:8000/images/game_avatar/asphalt-8-airborne-1-1469429723.jpg" alt="asphalt-8-airborne" class="swiper-lazy showTip el_1115" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/asphalt-8-airborne">Asphalt 8: Airborne</a></h2>
+		</div>
+	    	</div>
+				<div id="el_1115" class="tipContent">
+        <h2><a href="http://localhost:8000/game-android/asphalt-8-airborne">Asphalt 8: Airborne</a></h2>
+        <div class="tooltip_content">
+        	<img title="Asphalt 8: Airborne" alt="asphalt-8-airborne" src="http://localhost:8000/images/game_avatar/asphalt-8-airborne-1-1469429723.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Đua xe
+                                    </strong>
+            	<div>
+            		            			402 plays
+            		                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:100%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p>CƯỠI MÂY XÉ GIÓ VỚI TAY CHƠI SỐ MỘT DÒNG GAME ĐUA XE DI ĐỘNG!
+
+
 </p>
             </div>
             <div class="clearfix"></div>
@@ -3858,30 +5526,34 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/fashion-games/harley-quinn-dress-up">
-									<img data-src="http://teengame.net/images/game_avatar/harley-quinn-dress-up-icon-1472268147.jpg" alt="harley-quinn-dress-up" class="swiper-lazy showTip el_247" />
+			<a href="http://localhost:8000/game-android/onet-connect-animal">
+									<img data-src="http://localhost:8000/images/game_avatar/onet-connect-animal-1471659521.jpg" alt="onet-connect-animal" class="swiper-lazy showTip el_1284" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/fashion-games/harley-quinn-dress-up">Harley Quinn Dress Up</a></h2>
+			<h2><a href="http://localhost:8000/game-android/onet-connect-animal">Onet Connect Animal</a></h2>
 		</div>
 	    	</div>
-				<div id="el_247" class="tipContent">
-        <h2><a href="http://teengame.net/fashion-games/harley-quinn-dress-up">Harley Quinn Dress Up</a></h2>
+				<div id="el_1284" class="tipContent">
+        <h2><a href="http://localhost:8000/game-android/onet-connect-animal">Onet Connect Animal</a></h2>
         <div class="tooltip_content">
-        	<img title="Harley Quinn Dress Up" alt="harley-quinn-dress-up" src="http://teengame.net/images/game_avatar/harley-quinn-dress-up-icon-1472268147.jpg" />
+        	<img title="Onet Connect Animal" alt="onet-connect-animal" src="http://localhost:8000/images/game_avatar/onet-connect-animal-1471659521.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Fashion
+                                            Trí tuệ
                                     </strong>
             	<div>
-            		    					2 plays
-    				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+            		            			402 plays
+            		                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:50%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> She is disorganized and a jokester, but hey, she is really fun! The resident class clown, Harley, lives for the LOL&#39;s and loves playing over-the-top...</p>
+            	<p> Phiên bản cổ điển hay nhất!
+
+Cách chơi:
+- Nối 2 hình với nhau với tối đa 3 đường nối để làm chúng biến mất.
+-...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -3889,30 +5561,32 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/fashion-games/fluttershy-real-haircuts">
-									<img data-src="http://teengame.net/images/game_avatar/fluttershy-real-haircuts-icon-1472268029.jpg" alt="fluttershy-real-haircuts" class="swiper-lazy showTip el_246" />
+			<a href="http://localhost:8000/game-android/earn-to-die-2">
+									<img data-src="http://localhost:8000/images/game_avatar/earn-to-die-2-1473471785.png" alt="earn-to-die-2" class="swiper-lazy showTip el_1426" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/fashion-games/fluttershy-real-haircuts">Fluttershy Real Haircuts</a></h2>
+			<h2><a href="http://localhost:8000/game-android/earn-to-die-2">Earn to Die 2</a></h2>
 		</div>
 	    	</div>
-				<div id="el_246" class="tipContent">
-        <h2><a href="http://teengame.net/fashion-games/fluttershy-real-haircuts">Fluttershy Real Haircuts</a></h2>
+				<div id="el_1426" class="tipContent">
+        <h2><a href="http://localhost:8000/game-android/earn-to-die-2">Earn to Die 2</a></h2>
         <div class="tooltip_content">
-        	<img title="Fluttershy Real Haircuts" alt="fluttershy-real-haircuts" src="http://teengame.net/images/game_avatar/fluttershy-real-haircuts-icon-1472268029.jpg" />
+        	<img title="Earn to Die 2" alt="earn-to-die-2" src="http://localhost:8000/images/game_avatar/earn-to-die-2-1473471785.png" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Fashion
+                                            Đua xe
                                     </strong>
             	<div>
-            		    					2 plays
-    				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+            		            			402 plays
+            		                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:20%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> This cute Pegasus pony is known for her kindness and sweet nature, but today she decided she wanted a different hairstyle and thinks you would be the...</p>
+            	<p> Drive your car through a zombie apocalypse in this massive follow-up to the chart-topping hit Earn to Die!
+
+An evacuation ship is waiting on the other...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -3920,30 +5594,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/fashion-games/tom-and-angela-real-haircuts">
-									<img data-src="http://teengame.net/images/game_avatar/tom-and-angela-real-haircuts-icon-1472267932.jpg" alt="tom-and-angela-real-haircuts" class="swiper-lazy showTip el_245" />
+			<a href="http://localhost:8000/game-android/shinobi-war">
+									<img data-src="http://localhost:8000/images/game_avatar/Shinobi-war-216-1449460075.jpg" alt="shinobi-war" class="swiper-lazy showTip el_147" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/fashion-games/tom-and-angela-real-haircuts"> Tom And Angela Real...</a></h2>
+			<h2><a href="http://localhost:8000/game-android/shinobi-war">Shinobi War</a></h2>
 		</div>
 	    	</div>
-				<div id="el_245" class="tipContent">
-        <h2><a href="http://teengame.net/fashion-games/tom-and-angela-real-haircuts">Tom And Angela Real Haircuts</a></h2>
+				<div id="el_147" class="tipContent">
+        <h2><a href="http://localhost:8000/game-android/shinobi-war">Shinobi War</a></h2>
         <div class="tooltip_content">
-        	<img title="Tom And Angela Real Haircuts" alt="tom-and-angela-real-haircuts" src="http://teengame.net/images/game_avatar/tom-and-angela-real-haircuts-icon-1472267932.jpg" />
+        	<img title="Shinobi War" alt="shinobi-war" src="http://localhost:8000/images/game_avatar/Shinobi-war-216-1449460075.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Fashion
+                                            Hành động
                                     </strong>
             	<div>
-            		    					2 plays
-    				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+            		            			401 plays
+            		                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:90%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Tom and Angela are the perfect kitty couple and they decided to get a new haircut together! Have fun in a unique Real Haircuts game with two funtastic...</p>
+            	<p> Shinobi War là một trò chơi hành động online rất hay và thích hợp cho những bạn yêu thích những nhân vật hoạt...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -3951,30 +5625,30 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/fashion-games/minions-real-haircuts">
-									<img data-src="http://teengame.net/images/game_avatar/minions-real-haircuts-icon-1472267794.jpg" alt="minions-real-haircuts" class="swiper-lazy showTip el_244" />
+			<a href="http://localhost:8000/game-android/clash-royale">
+									<img data-src="http://localhost:8000/images/game_avatar/clash-royale-1468462798.jpg" alt="clash-royale" class="swiper-lazy showTip el_1086" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/fashion-games/minions-real-haircuts">Minions Real Haircuts</a></h2>
+			<h2><a href="http://localhost:8000/game-android/clash-royale">Clash Royale</a></h2>
 		</div>
 	    	</div>
-				<div id="el_244" class="tipContent">
-        <h2><a href="http://teengame.net/fashion-games/minions-real-haircuts">Minions Real Haircuts</a></h2>
+				<div id="el_1086" class="tipContent">
+        <h2><a href="http://localhost:8000/game-android/clash-royale">Clash Royale</a></h2>
         <div class="tooltip_content">
-        	<img title="Minions Real Haircuts" alt="minions-real-haircuts" src="http://teengame.net/images/game_avatar/minions-real-haircuts-icon-1472267794.jpg" />
+        	<img title="Clash Royale" alt="clash-royale" src="http://localhost:8000/images/game_avatar/clash-royale-1468462798.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Fashion
+                                            Chiến thuật
                                     </strong>
             	<div>
-            		    					2 plays
-    				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+            		            			382 plays
+            		                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:40%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> The minions are on their way to rule the world, but they have to stop by the salon to get new haircuts. Help one of these lovable creatures with an...</p>
+            	<p> Enter the Arena! From the creators of Clash of Clans comes a real-time multiplayer game starring the Royales, your favorite Clash characters and much,...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -3982,30 +5656,223 @@ How to...</p>
 	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
 	<div class="item">
 	    <div class="item-image">
-			<a href="http://teengame.net/fashion-games/rapunzel-mommy-real-makeover">
-									<img data-src="http://teengame.net/images/game_avatar/rapunzel-mommy-real-makeover-icon-1472267613.jpg" alt="rapunzel-mommy-real-makeover" class="swiper-lazy showTip el_243" />
+			<a href="http://localhost:8000/game-android/road-drivers-legacy">
+									<img data-src="http://localhost:8000/images/game_avatar/road-drivers-legacy-2-1472528285.png" alt="road-drivers-legacy" class="swiper-lazy showTip el_1321" />
 							</a>
 	    </div>
 	    <div class="item-title">
-			<h2><a href="http://teengame.net/fashion-games/rapunzel-mommy-real-makeover"> Rapunzel Mommy Real...</a></h2>
+			<h2><a href="http://localhost:8000/game-android/road-drivers-legacy">Road Drivers: Legacy</a></h2>
 		</div>
 	    	</div>
-				<div id="el_243" class="tipContent">
-        <h2><a href="http://teengame.net/fashion-games/rapunzel-mommy-real-makeover">Rapunzel Mommy Real Makeover</a></h2>
+				<div id="el_1321" class="tipContent">
+        <h2><a href="http://localhost:8000/game-android/road-drivers-legacy">Road Drivers: Legacy</a></h2>
         <div class="tooltip_content">
-        	<img title="Rapunzel Mommy Real Makeover" alt="rapunzel-mommy-real-makeover" src="http://teengame.net/images/game_avatar/rapunzel-mommy-real-makeover-icon-1472267613.jpg" />
+        	<img title="Road Drivers: Legacy" alt="road-drivers-legacy" src="http://localhost:8000/images/game_avatar/road-drivers-legacy-2-1472528285.png" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Fashion
+                                            Đua xe
                                     </strong>
             	<div>
-            		    					2 plays
-    				                    <div class="rate-result-cnt">
+            		            			377 plays
+            		                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:74%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Road Drivers: Legacy là một milestone trong cái thể loại tận quảng trường đua. Lái xe qua đường giao thông, kiếm tiền, nâng...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/food-street">
+									<img data-src="http://localhost:8000/images/game_avatar/food-street-3-1463024390.jpeg" alt="food-street" class="swiper-lazy showTip el_603" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/food-street">Food Street</a></h2>
+		</div>
+	    	</div>
+				<div id="el_603" class="tipContent">
+        <h2><a href="http://localhost:8000/game-android/food-street">Food Street</a></h2>
+        <div class="tooltip_content">
+        	<img title="Food Street" alt="food-street" src="http://localhost:8000/images/game_avatar/food-street-3-1463024390.jpeg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Nấu ăn
+                                    </strong>
+            	<div>
+            		            			374 plays
+            		                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:72%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Welcome to Food Street, a fun new restaurant management game!
+
+CREATE THE RESTAURANT OF YOUR DREAMS! 
+Set in a stunning 3D world, with delightful...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/warlings">
+									<img data-src="http://localhost:8000/images/game_avatar/Warlings-071-1449455616.jpg" alt="warlings" class="swiper-lazy showTip el_127" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/warlings">Warlings</a></h2>
+		</div>
+	    	</div>
+				<div id="el_127" class="tipContent">
+        <h2><a href="http://localhost:8000/game-android/warlings">Warlings</a></h2>
+        <div class="tooltip_content">
+        	<img title="Warlings" alt="warlings" src="http://localhost:8000/images/game_avatar/Warlings-071-1449455616.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Chiến thuật
+                                    </strong>
+            	<div>
+            		            			369 plays
+            		                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:66%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Khi chơi game warlings bạn cần phải tiêu diệt kẻ thù bằng cách sử dụng súng, chiến thuật và cả thủ đoạn bẩn bựa!...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/giet-kien">
+									<img data-src="http://localhost:8000/images/game_avatar/giet-kien-455-1449470938.jpg" alt="giet-kien" class="swiper-lazy showTip el_169" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/giet-kien">Giết kiến</a></h2>
+		</div>
+	    	</div>
+				<div id="el_169" class="tipContent">
+        <h2><a href="http://localhost:8000/game-android/giet-kien">Giết kiến</a></h2>
+        <div class="tooltip_content">
+        	<img title="Giết kiến" alt="giet-kien" src="http://localhost:8000/images/game_avatar/giet-kien-455-1449470938.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Vui nhộn 
+                                    </strong>
+            	<div>
+            		            			369 plays
+            		                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:40%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Sử dụng ngón tay của bạn trong trò chơi tuyệt vời này!
+Trò chơi giết kiến mang tính giải trí cao cho tất cả mọi người...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/shopping-mall-girl">
+									<img data-src="http://localhost:8000/images/game_avatar/shopping-mall-girl-icon-1480389267.png" alt="shopping-mall-girl" class="swiper-lazy showTip el_2325" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/shopping-mall-girl">Shopping Mall Girl</a></h2>
+		</div>
+	    	</div>
+				<div id="el_2325" class="tipContent">
+        <h2><a href="http://localhost:8000/game-android/shopping-mall-girl">Shopping Mall Girl</a></h2>
+        <div class="tooltip_content">
+        	<img title="Shopping Mall Girl" alt="shopping-mall-girl" src="http://localhost:8000/images/game_avatar/shopping-mall-girl-icon-1480389267.png" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Thời trang
+                                    </strong>
+            	<div>
+            		            			337 plays
+            		                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:100%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Shop till you drop in the coolest shopping mall in town! Show off your style, you gorgeous girl! 
+Tons of real-life shopping mall activities! Dress up...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/bong-chuyen-3d">
+									<img data-src="http://localhost:8000/images/game_avatar/Bong-chuyen-271-1449459987.jpg" alt="bong-chuyen-3d" class="swiper-lazy showTip el_146" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/bong-chuyen-3d">Bóng chuyền 3D</a></h2>
+		</div>
+	    	</div>
+				<div id="el_146" class="tipContent">
+        <h2><a href="http://localhost:8000/game-android/bong-chuyen-3d">Bóng chuyền 3D</a></h2>
+        <div class="tooltip_content">
+        	<img title="Bóng chuyền 3D" alt="bong-chuyen-3d" src="http://localhost:8000/images/game_avatar/Bong-chuyen-271-1449459987.jpg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Thể thao
+                                    </strong>
+            	<div>
+            		            			314 plays
+            		                    <div class="rate-result-cnt">
         <div class="rate-bg" style="width:0%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Like mother, like daughter, princess Rapunzel`s daughter likes to explore the beauty world and see what`s like to be a grown-up. Discover the secrets of a...</p>
+            	<p> Game Bóng chuyền 3D mang tình vật lý thực tế cao kết hợp với điều khiển trực quan và đồ họa đẹp làm cho đây trở...</p>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+	</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/crash-drive-2-car-simulator">
+									<img data-src="http://localhost:8000/images/game_avatar/crash-drive-2-car-simulator-1-1475034463.jpeg" alt="crash-drive-2-car-simulator" class="swiper-lazy showTip el_1683" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/crash-drive-2-car-simulator"> Crash Drive 2: Car...</a></h2>
+		</div>
+	    	</div>
+				<div id="el_1683" class="tipContent">
+        <h2><a href="http://localhost:8000/game-android/crash-drive-2-car-simulator">Crash Drive 2: Car simulator</a></h2>
+        <div class="tooltip_content">
+        	<img title="Crash Drive 2: Car simulator" alt="crash-drive-2-car-simulator" src="http://localhost:8000/images/game_avatar/crash-drive-2-car-simulator-1-1475034463.jpeg" />
+            <div class="tooltip_text">
+                <span>Category: </span>
+                <strong>
+                                            Đua xe
+                                    </strong>
+            	<div>
+            		            			296 plays
+            		                    <div class="rate-result-cnt">
+        <div class="rate-bg" style="width:60%"></div>
+    <div class="rate-stars"></div>
+</div>            	</div>
+            	<p> Crash Drive 3D is back !
+
+A sequel to the awesome off-road racing game Crash Drive 3D! Pick your car at the garage and get ready for some fun, mad,...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -4028,37 +5895,37 @@ How to...</p>
 									<div class="col-sm-4">
 					<div class="boxmini">
 						<div class="boxmini-title">
-							<h3><a href="http://teengame.net/action-games">Action Games</a></h3>
-							<a href="http://teengame.net/action-games" class="boxmini-seemore">Show all</a>
+							<h3><a href="http://localhost:8000/nau-an-games">Nấu ăn Games</a></h3>
+							<a href="http://localhost:8000/nau-an-games" class="boxmini-seemore">Show all</a>
 						</div>
 						<div class="row">
 																							<div class="col-xs-4">
 									<div class="item">
 									    <div class="item-image">
-											<a href="http://teengame.net/action-games/i-am-the-ninja">
-												<img src="http://teengame.net/images/game_avatar/i-am-the-ninja-icon-1473213148.jpg" alt="I Am The Ninja" class="showTip el_302" />
+											<a href="http://localhost:8000/nau-an-games/tiem-kem-cua-riley-2">
+												<img src="http://localhost:8000/images/game_avatar/tiem-kem-cua-riley-2-icon-1483582318.jpg" alt="Tiệm kem của Riley 2" class="showTip el_2462" />
 											</a>
 									    </div>
 									    <div class="item-title">
-											<a href="http://teengame.net/action-games/i-am-the-ninja">I Am The Ninja</a>
+											<a href="http://localhost:8000/nau-an-games/tiem-kem-cua-riley-2">Tiệm kem của Riley 2</a>
 										</div>
 									</div>
-																			<div id="el_302" class="tipContent">
-        <h2><a href="http://teengame.net/action-games/i-am-the-ninja">I Am The Ninja</a></h2>
+																			<div id="el_2462" class="tipContent">
+        <h2><a href="http://localhost:8000/nau-an-games/tiem-kem-cua-riley-2">Tiệm kem của Riley 2</a></h2>
         <div class="tooltip_content">
-        	<img title="I Am The Ninja" alt="i-am-the-ninja" src="http://teengame.net/images/game_avatar/i-am-the-ninja-icon-1473213148.jpg" />
+        	<img title="Tiệm kem của Riley 2" alt="tiem-kem-cua-riley-2" src="http://localhost:8000/images/game_avatar/tiem-kem-cua-riley-2-icon-1483582318.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Action
+                                            Nấu ăn
                                     </strong>
             	<div>
-            		    					1 plays
+            		    					296 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:80%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> You are a true ninja if you can master this final mission. Use your powers to pass several barriers and traps to reach the exit in each stage of the...</p>
+            	<p> Ice O Matik - Tiệm kem của Riley 2 là một trò chơi nấu ăn khá thú vị được các bạn gái vô cùng yêu thích. Nhiệm vụ của...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -4067,30 +5934,30 @@ How to...</p>
 																							<div class="col-xs-4">
 									<div class="item">
 									    <div class="item-image">
-											<a href="http://teengame.net/action-games/mr-timan">
-												<img src="http://teengame.net/images/game_avatar/mr-timan-icon-1473213051.jpg" alt="Mr. Timan" class="showTip el_301" />
+											<a href="http://localhost:8000/nau-an-games/phuc-vu-quan-bar">
+												<img src="http://localhost:8000/images/game_avatar/phuc-vu-quan-bar-banner-icon-1479714249.jpg" alt="Phục vụ quán bar" class="showTip el_2290" />
 											</a>
 									    </div>
 									    <div class="item-title">
-											<a href="http://teengame.net/action-games/mr-timan">Mr. Timan</a>
+											<a href="http://localhost:8000/nau-an-games/phuc-vu-quan-bar">Phục vụ quán bar</a>
 										</div>
 									</div>
-																			<div id="el_301" class="tipContent">
-        <h2><a href="http://teengame.net/action-games/mr-timan">Mr. Timan</a></h2>
+																			<div id="el_2290" class="tipContent">
+        <h2><a href="http://localhost:8000/nau-an-games/phuc-vu-quan-bar">Phục vụ quán bar</a></h2>
         <div class="tooltip_content">
-        	<img title="Mr. Timan" alt="mr-timan" src="http://teengame.net/images/game_avatar/mr-timan-icon-1473213051.jpg" />
+        	<img title="Phục vụ quán bar" alt="phuc-vu-quan-bar" src="http://localhost:8000/images/game_avatar/phuc-vu-quan-bar-banner-icon-1479714249.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Action
+                                            Nấu ăn
                                     </strong>
             	<div>
-            		    					1 plays
+            		    					791 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:70%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> In a near future Mr. Timan is hired by the powerful institution for science that is working on time travels. The new boss just welcomed him when suddenly...</p>
+            	<p> Quán bar ngày một đông, để đáp ứng hết yêu cầu của khách hàng đích thân cô chủ Mania phải đứng ra phục vụ. Hãy khéo...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -4099,30 +5966,30 @@ How to...</p>
 																							<div class="col-xs-4">
 									<div class="item">
 									    <div class="item-image">
-											<a href="http://teengame.net/action-games/gym-class-racers">
-												<img src="http://teengame.net/images/game_avatar/gym-class-racers-icon-1473212915.jpg" alt="Gym Class Racers" class="showTip el_300" />
+											<a href="http://localhost:8000/nau-an-games/hoc-lam-banh-chuoi">
+												<img src="http://localhost:8000/images/game_avatar/hoc-lam-banh-chuoi-icon-1472608037.jpg" alt="Học Làm Bánh Chuối" class="showTip el_1328" />
 											</a>
 									    </div>
 									    <div class="item-title">
-											<a href="http://teengame.net/action-games/gym-class-racers">Gym Class Racers</a>
+											<a href="http://localhost:8000/nau-an-games/hoc-lam-banh-chuoi">Học Làm Bánh Chuối</a>
 										</div>
 									</div>
-																			<div id="el_300" class="tipContent">
-        <h2><a href="http://teengame.net/action-games/gym-class-racers">Gym Class Racers</a></h2>
+																			<div id="el_1328" class="tipContent">
+        <h2><a href="http://localhost:8000/nau-an-games/hoc-lam-banh-chuoi">Học Làm Bánh Chuối</a></h2>
         <div class="tooltip_content">
-        	<img title="Gym Class Racers" alt="gym-class-racers" src="http://teengame.net/images/game_avatar/gym-class-racers-icon-1473212915.jpg" />
+        	<img title="Học Làm Bánh Chuối" alt="hoc-lam-banh-chuoi" src="http://localhost:8000/images/game_avatar/hoc-lam-banh-chuoi-icon-1472608037.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Action
+                                            Nấu ăn
                                     </strong>
             	<div>
-            		    					1 plays
+            		    					738 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:60%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Gym Class Racers is cool high school styled racing game. Pick one of the 5 characters and reach the finish line first. Each competitor has a special...</p>
+            	<p> Bánh chuối là một trong những món bánh được rất nhiều người yêu thích. Với cách làm đơn giản, nguyên liệu dễ kiếm...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -4131,30 +5998,30 @@ How to...</p>
 																							<div class="col-xs-4">
 									<div class="item">
 									    <div class="item-image">
-											<a href="http://teengame.net/action-games/clicker-troops">
-												<img src="http://teengame.net/images/game_avatar/clicker-troops-icon-1473212356.jpg" alt="Clicker Troops" class="showTip el_298" />
+											<a href="http://localhost:8000/nau-an-games/banh-pho-mat-socola">
+												<img src="http://localhost:8000/images/game_avatar/banh-pho-mat-socola-icon-1472607260.jpg" alt="Bánh Pho Mát Socola" class="showTip el_1326" />
 											</a>
 									    </div>
 									    <div class="item-title">
-											<a href="http://teengame.net/action-games/clicker-troops">Clicker Troops</a>
+											<a href="http://localhost:8000/nau-an-games/banh-pho-mat-socola">Bánh Pho Mát Socola</a>
 										</div>
 									</div>
-																			<div id="el_298" class="tipContent">
-        <h2><a href="http://teengame.net/action-games/clicker-troops">Clicker Troops</a></h2>
+																			<div id="el_1326" class="tipContent">
+        <h2><a href="http://localhost:8000/nau-an-games/banh-pho-mat-socola">Bánh Pho Mát Socola</a></h2>
         <div class="tooltip_content">
-        	<img title="Clicker Troops" alt="clicker-troops" src="http://teengame.net/images/game_avatar/clicker-troops-icon-1473212356.jpg" />
+        	<img title="Bánh Pho Mát Socola" alt="banh-pho-mat-socola" src="http://localhost:8000/images/game_avatar/banh-pho-mat-socola-icon-1472607260.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Action
+                                            Nấu ăn
                                     </strong>
             	<div>
-            		    					1 plays
+            		    					869 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:66%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Your troops are under attack by evil creatures. Save them with your clicking power in this fun fantasy clicker adventure. To defeat all enemies you come...</p>
+            	<p> Lần trước bạn đã được cô giáo Sara hướng dẫn làm món Cơm Ni Thịt Cừu vô cùng thơm ngon, bổ dưỡng đến từ đất...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -4163,30 +6030,30 @@ How to...</p>
 																							<div class="col-xs-4">
 									<div class="item">
 									    <div class="item-image">
-											<a href="http://teengame.net/action-games/worlds-hardest-game-4">
-												<img src="http://teengame.net/images/game_avatar/worlds-hardest-game-4-icon-1473211583.jpg" alt="World's Hardest Game 4" class="showTip el_297" />
+											<a href="http://localhost:8000/nau-an-games/hoc-lam-banh-quy">
+												<img src="http://localhost:8000/images/game_avatar/hoc-lam-banh-quy-icon-1472606708.jpg" alt="Học Làm Bánh Quy" class="showTip el_1325" />
 											</a>
 									    </div>
 									    <div class="item-title">
-											<a href="http://teengame.net/action-games/worlds-hardest-game-4">World's Hardest Game 4</a>
+											<a href="http://localhost:8000/nau-an-games/hoc-lam-banh-quy">Học Làm Bánh Quy</a>
 										</div>
 									</div>
-																			<div id="el_297" class="tipContent">
-        <h2><a href="http://teengame.net/action-games/worlds-hardest-game-4">World's Hardest Game 4</a></h2>
+																			<div id="el_1325" class="tipContent">
+        <h2><a href="http://localhost:8000/nau-an-games/hoc-lam-banh-quy">Học Làm Bánh Quy</a></h2>
         <div class="tooltip_content">
-        	<img title="World's Hardest Game 4" alt="worlds-hardest-game-4" src="http://teengame.net/images/game_avatar/worlds-hardest-game-4-icon-1473211583.jpg" />
+        	<img title="Học Làm Bánh Quy" alt="hoc-lam-banh-quy" src="http://localhost:8000/images/game_avatar/hoc-lam-banh-quy-icon-1472606708.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Action
+                                            Nấu ăn
                                     </strong>
             	<div>
-            		    					1 plays
+            		    					843 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:66%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> This is the worlds hardest game number 4. It is harder than any game you have ever played. Really? Who said that? The developer of the game. OK, it&#39;s...</p>
+            	<p> Ngày lễ valentine sắp đến, Anna muốn có một món quà thật ý nghĩa giành tặng cho bạn trai của mình. Sau nhiều lần suy nghĩ...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -4195,30 +6062,30 @@ How to...</p>
 																							<div class="col-xs-4">
 									<div class="item">
 									    <div class="item-image">
-											<a href="http://teengame.net/action-games/tu-95">
-												<img src="http://teengame.net/images/game_avatar/tu-95-icon-1472723911.jpg" alt="TU 95" class="showTip el_282" />
+											<a href="http://localhost:8000/nau-an-games/com-ni-thit-cuu">
+												<img src="http://localhost:8000/images/game_avatar/com-ni-thit-cuu-icon-1473066484.jpg" alt="Cơm Ni Thịt Cừu" class="showTip el_1323" />
 											</a>
 									    </div>
 									    <div class="item-title">
-											<a href="http://teengame.net/action-games/tu-95">TU 95</a>
+											<a href="http://localhost:8000/nau-an-games/com-ni-thit-cuu">Cơm Ni Thịt Cừu</a>
 										</div>
 									</div>
-																			<div id="el_282" class="tipContent">
-        <h2><a href="http://teengame.net/action-games/tu-95">TU 95</a></h2>
+																			<div id="el_1323" class="tipContent">
+        <h2><a href="http://localhost:8000/nau-an-games/com-ni-thit-cuu">Cơm Ni Thịt Cừu</a></h2>
         <div class="tooltip_content">
-        	<img title="TU 95" alt="tu-95" src="http://teengame.net/images/game_avatar/tu-95-icon-1472723911.jpg" />
+        	<img title="Cơm Ni Thịt Cừu" alt="com-ni-thit-cuu" src="http://localhost:8000/images/game_avatar/com-ni-thit-cuu-icon-1473066484.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Action
+                                            Nấu ăn
                                     </strong>
             	<div>
-            		    					3 plays
+            		    					529 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:64%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Mission of Tupolev 95 (TU 95) is to control, fly and land this soviet bomber. Learn to steer the plane and become a successful bomber pilot in the soviet...</p>
+            	<p> Với những ai yêu thích thể loại game nấu ăn thì chắc hẳn sẽ không thể quên được cô đầu bếp Sara xinh đẹp, tài...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -4230,37 +6097,37 @@ How to...</p>
 												<div class="col-sm-4">
 					<div class="boxmini">
 						<div class="boxmini-title">
-							<h3><a href="http://teengame.net/racing-games">Racing Games</a></h3>
-							<a href="http://teengame.net/racing-games" class="boxmini-seemore">Show all</a>
+							<h3><a href="http://localhost:8000/chien-thuat-games">Chiến thuật Games</a></h3>
+							<a href="http://localhost:8000/chien-thuat-games" class="boxmini-seemore">Show all</a>
 						</div>
 						<div class="row">
 																							<div class="col-xs-4">
 									<div class="item">
 									    <div class="item-image">
-											<a href="http://teengame.net/racing-games/outworld-motocross">
-												<img src="http://teengame.net/images/game_avatar/outworld-motocross-icon-1473212683.jpg" alt="Outworld Motocross" class="showTip el_299" />
+											<a href="http://localhost:8000/chien-thuat-games/de-che-ong-vang">
+												<img src="http://localhost:8000/images/game_avatar/de-che-ong-vang-icon-1476150045.jpg" alt="Đế chế ong vàng" class="showTip el_1869" />
 											</a>
 									    </div>
 									    <div class="item-title">
-											<a href="http://teengame.net/racing-games/outworld-motocross">Outworld Motocross</a>
+											<a href="http://localhost:8000/chien-thuat-games/de-che-ong-vang">Đế chế ong vàng</a>
 										</div>
 									</div>
-																			<div id="el_299" class="tipContent">
-        <h2><a href="http://teengame.net/racing-games/outworld-motocross">Outworld Motocross</a></h2>
+																			<div id="el_1869" class="tipContent">
+        <h2><a href="http://localhost:8000/chien-thuat-games/de-che-ong-vang">Đế chế ong vàng</a></h2>
         <div class="tooltip_content">
-        	<img title="Outworld Motocross" alt="outworld-motocross" src="http://teengame.net/images/game_avatar/outworld-motocross-icon-1473212683.jpg" />
+        	<img title="Đế chế ong vàng" alt="de-che-ong-vang" src="http://localhost:8000/images/game_avatar/de-che-ong-vang-icon-1476150045.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Racing
+                                            Chiến thuật
                                     </strong>
             	<div>
-            		    					1 plays
+            		    					692 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:84%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Gear up for another motocross challenge and steer your dirt bike across the hilly ground of the mysterious world of silver bolts. In this cool Outworld...</p>
+            	<p> Đế chế ong vàng - Angry Bees là một trong những game chiến thuật, hành động vô cùng hấp dẫn được nhiều game thủ yêu...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -4269,30 +6136,30 @@ How to...</p>
 																							<div class="col-xs-4">
 									<div class="item">
 									    <div class="item-image">
-											<a href="http://teengame.net/racing-games/super-trucks-3d">
-												<img src="http://teengame.net/images/game_avatar/super-trucks-3d-icon-1473211419.jpg" alt="Super Trucks 3D" class="showTip el_296" />
+											<a href="http://localhost:8000/chien-thuat-games/hanh-trinh-cua-bob-8">
+												<img src="http://localhost:8000/images/game_avatar/hanh-trinh-cua-bob-8-icon-1470727835.jpg" alt="Hành trình của Bob 8" class="showTip el_1244" />
 											</a>
 									    </div>
 									    <div class="item-title">
-											<a href="http://teengame.net/racing-games/super-trucks-3d">Super Trucks 3D</a>
+											<a href="http://localhost:8000/chien-thuat-games/hanh-trinh-cua-bob-8">Hành trình của Bob 8</a>
 										</div>
 									</div>
-																			<div id="el_296" class="tipContent">
-        <h2><a href="http://teengame.net/racing-games/super-trucks-3d">Super Trucks 3D</a></h2>
+																			<div id="el_1244" class="tipContent">
+        <h2><a href="http://localhost:8000/chien-thuat-games/hanh-trinh-cua-bob-8">Hành trình của Bob 8</a></h2>
         <div class="tooltip_content">
-        	<img title="Super Trucks 3D" alt="super-trucks-3d" src="http://teengame.net/images/game_avatar/super-trucks-3d-icon-1473211419.jpg" />
+        	<img title="Hành trình của Bob 8" alt="hanh-trinh-cua-bob-8" src="http://localhost:8000/images/game_avatar/hanh-trinh-cua-bob-8-icon-1470727835.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Racing
+                                            Chiến thuật
                                     </strong>
             	<div>
-            		    					1 plays
+            		    					556 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:72%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Master the hilly track of this fast-paced monster truck racing game Super Truck 3D! Avoid obstacles and collect nitro power ups to live all competitors...</p>
+            	<p> Hành trình của Bob 8 - Snail Bob là một game chiến thuật cực kỳ hấp dẫn. Với nội dung xoay quanh chuyến đi đầy thú vị...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -4301,30 +6168,30 @@ How to...</p>
 																							<div class="col-xs-4">
 									<div class="item">
 									    <div class="item-image">
-											<a href="http://teengame.net/racing-games/max-fury-death-racer">
-												<img src="http://teengame.net/images/game_avatar/max_fury-icon-1472721803.jpg" alt="Max Fury Death Racer" class="showTip el_272" />
+											<a href="http://localhost:8000/chien-thuat-games/ban-bong-co-dien-2">
+												<img src="http://localhost:8000/images/game_avatar/ban-bong-co-dien-2-icon-1470725026.jpg" alt="Bắn bóng cổ điển 2" class="showTip el_1243" />
 											</a>
 									    </div>
 									    <div class="item-title">
-											<a href="http://teengame.net/racing-games/max-fury-death-racer">Max Fury Death Racer</a>
+											<a href="http://localhost:8000/chien-thuat-games/ban-bong-co-dien-2">Bắn bóng cổ điển 2</a>
 										</div>
 									</div>
-																			<div id="el_272" class="tipContent">
-        <h2><a href="http://teengame.net/racing-games/max-fury-death-racer">Max Fury Death Racer</a></h2>
+																			<div id="el_1243" class="tipContent">
+        <h2><a href="http://localhost:8000/chien-thuat-games/ban-bong-co-dien-2">Bắn bóng cổ điển 2</a></h2>
         <div class="tooltip_content">
-        	<img title="Max Fury Death Racer" alt="max-fury-death-racer" src="http://teengame.net/images/game_avatar/max_fury-icon-1472721803.jpg" />
+        	<img title="Bắn bóng cổ điển 2" alt="ban-bong-co-dien-2" src="http://localhost:8000/images/game_avatar/ban-bong-co-dien-2-icon-1470725026.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Racing
+                                            Chiến thuật
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					943 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:66%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Max Fury Death Racer is the racing game for the ultimate fun! Drive your tiny car as fast as you can, shoot other racers, perform flips, collect stuff and...</p>
+            	<p> Bắn bóng cổ điển 2 - Smarty Bubbles X-MAS Edition là một game chiến thuật hấp dẫn thuộc series game kinh điển được mọi...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -4333,30 +6200,30 @@ How to...</p>
 																							<div class="col-xs-4">
 									<div class="item">
 									    <div class="item-image">
-											<a href="http://teengame.net/racing-games/american-racing-2">
-												<img src="http://teengame.net/images/game_avatar/american-racing-2-icon-1471409279.jpg" alt="American Racing 2" class="showTip el_138" />
+											<a href="http://localhost:8000/chien-thuat-games/mania-diet-quai">
+												<img src="http://localhost:8000/images/game_avatar/mania-diet-quai-icon-1470624728.jpg" alt="Mania diệt quái" class="showTip el_1225" />
 											</a>
 									    </div>
 									    <div class="item-title">
-											<a href="http://teengame.net/racing-games/american-racing-2">American Racing 2</a>
+											<a href="http://localhost:8000/chien-thuat-games/mania-diet-quai">Mania diệt quái</a>
 										</div>
 									</div>
-																			<div id="el_138" class="tipContent">
-        <h2><a href="http://teengame.net/racing-games/american-racing-2">American Racing 2</a></h2>
+																			<div id="el_1225" class="tipContent">
+        <h2><a href="http://localhost:8000/chien-thuat-games/mania-diet-quai">Mania diệt quái</a></h2>
         <div class="tooltip_content">
-        	<img title="American Racing 2" alt="american-racing-2" src="http://teengame.net/images/game_avatar/american-racing-2-icon-1471409279.jpg" />
+        	<img title="Mania diệt quái" alt="mania-diet-quai" src="http://localhost:8000/images/game_avatar/mania-diet-quai-icon-1470624728.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Racing
+                                            Chiến thuật
                                     </strong>
             	<div>
-            		    					3 plays
+            		    					300 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:72%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Play another fun-addicting and challenging racing game developed by TurboNuke. Live the american dream and go up against much opposing racing cars. Try to...</p>
+            	<p> Những con quái vật đang tấn công khu vườn của Mania. Mặc dù đã cố gắng hết sức nhưng có vẻ như mọi chuyện đều...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -4365,30 +6232,30 @@ How to...</p>
 																							<div class="col-xs-4">
 									<div class="item">
 									    <div class="item-image">
-											<a href="http://teengame.net/racing-games/dirtbike-racing">
-												<img src="http://teengame.net/images/game_avatar/dirt-bike-racing-icon-1471409118.jpg" alt="Dirtbike Racing" class="showTip el_137" />
+											<a href="http://localhost:8000/chien-thuat-games/gau-con-ban-bong-2">
+												<img src="http://localhost:8000/images/game_avatar/gau-con-ban-bong-2-icon-1470299124.jpg" alt="Gấu con bắn bóng 2" class="showTip el_1206" />
 											</a>
 									    </div>
 									    <div class="item-title">
-											<a href="http://teengame.net/racing-games/dirtbike-racing">Dirtbike Racing</a>
+											<a href="http://localhost:8000/chien-thuat-games/gau-con-ban-bong-2">Gấu con bắn bóng 2</a>
 										</div>
 									</div>
-																			<div id="el_137" class="tipContent">
-        <h2><a href="http://teengame.net/racing-games/dirtbike-racing">Dirtbike Racing</a></h2>
+																			<div id="el_1206" class="tipContent">
+        <h2><a href="http://localhost:8000/chien-thuat-games/gau-con-ban-bong-2">Gấu con bắn bóng 2</a></h2>
         <div class="tooltip_content">
-        	<img title="Dirtbike Racing" alt="dirtbike-racing" src="http://teengame.net/images/game_avatar/dirt-bike-racing-icon-1471409118.jpg" />
+        	<img title="Gấu con bắn bóng 2" alt="gau-con-ban-bong-2" src="http://localhost:8000/images/game_avatar/gau-con-ban-bong-2-icon-1470299124.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Racing
+                                            Chiến thuật
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					322 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:100%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Race against other skilled dirt bike racers and try to reach the finish line as the first in this fast-paced motocross game. Along the way you should...</p>
+            	<p> Tham gia Gấu con bắn bóng 2 - Bubble Pop Adventures để được đắm mình trong thế giới bóng tròn nhiều màu sắc. Với lối chơi...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -4397,30 +6264,30 @@ How to...</p>
 																							<div class="col-xs-4">
 									<div class="item">
 									    <div class="item-image">
-											<a href="http://teengame.net/racing-games/super-bikes-track-stars">
-												<img src="http://teengame.net/images/game_avatar/super-bike-track-stars-icon-1471408756.jpg" alt="Super Bikes: Track Stars" class="showTip el_136" />
+											<a href="http://localhost:8000/chien-thuat-games/kham-pha-lang-mo">
+												<img src="http://localhost:8000/images/game_avatar/kham-pha-lang-mo-icon-1470208068.jpg" alt="Khám phá lăng mộ" class="showTip el_1193" />
 											</a>
 									    </div>
 									    <div class="item-title">
-											<a href="http://teengame.net/racing-games/super-bikes-track-stars">Super Bikes: Track Stars</a>
+											<a href="http://localhost:8000/chien-thuat-games/kham-pha-lang-mo">Khám phá lăng mộ</a>
 										</div>
 									</div>
-																			<div id="el_136" class="tipContent">
-        <h2><a href="http://teengame.net/racing-games/super-bikes-track-stars">Super Bikes: Track Stars</a></h2>
+																			<div id="el_1193" class="tipContent">
+        <h2><a href="http://localhost:8000/chien-thuat-games/kham-pha-lang-mo">Khám phá lăng mộ</a></h2>
         <div class="tooltip_content">
-        	<img title="Super Bikes: Track Stars" alt="super-bikes-track-stars" src="http://teengame.net/images/game_avatar/super-bike-track-stars-icon-1471408756.jpg" />
+        	<img title="Khám phá lăng mộ" alt="kham-pha-lang-mo" src="http://localhost:8000/images/game_avatar/kham-pha-lang-mo-icon-1470208068.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Racing
+                                            Chiến thuật
                                     </strong>
             	<div>
-            		    					5 plays
+            		    					343 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:68%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Challenge your skills in this fast-paced two-wheeler racing action! In Superbikes: Track Stars you have to ride your super nitro powered motorcycle past...</p>
+            	<p> Tương truyền tại các khu kim tự tháp của các Pharaong luôn ẩn chứa những kho báu khổng lồ, tuy nhiên chưa ai đặt chân...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -4432,37 +6299,37 @@ How to...</p>
 												<div class="col-sm-4">
 					<div class="boxmini">
 						<div class="boxmini-title">
-							<h3><a href="http://teengame.net/girl-games">Girl Games</a></h3>
-							<a href="http://teengame.net/girl-games" class="boxmini-seemore">Show all</a>
+							<h3><a href="http://localhost:8000/tri-tue-games">Trí tuệ Games</a></h3>
+							<a href="http://localhost:8000/tri-tue-games" class="boxmini-seemore">Show all</a>
 						</div>
 						<div class="row">
 																							<div class="col-xs-4">
 									<div class="item">
 									    <div class="item-image">
-											<a href="http://teengame.net/girl-games/elsa-dish-washing-realife">
-												<img src="http://teengame.net/images/game_avatar/ellie-dish-washing-realife-icon-1472714547.jpg" alt="Elsa Dish Washing Realife" class="showTip el_267" />
+											<a href="http://localhost:8000/tri-tue-games/tham-tu-barbie">
+												<img src="http://localhost:8000/images/game_avatar/tham-tu-barbie-icon-1485231169.jpg" alt="Thám tử Barbie" class="showTip el_2579" />
 											</a>
 									    </div>
 									    <div class="item-title">
-											<a href="http://teengame.net/girl-games/elsa-dish-washing-realife">Elsa Dish Washing Realife</a>
+											<a href="http://localhost:8000/tri-tue-games/tham-tu-barbie">Thám tử Barbie</a>
 										</div>
 									</div>
-																			<div id="el_267" class="tipContent">
-        <h2><a href="http://teengame.net/girl-games/elsa-dish-washing-realife">Elsa Dish Washing Realife</a></h2>
+																			<div id="el_2579" class="tipContent">
+        <h2><a href="http://localhost:8000/tri-tue-games/tham-tu-barbie">Thám tử Barbie</a></h2>
         <div class="tooltip_content">
-        	<img title="Elsa Dish Washing Realife" alt="elsa-dish-washing-realife" src="http://teengame.net/images/game_avatar/ellie-dish-washing-realife-icon-1472714547.jpg" />
+        	<img title="Thám tử Barbie" alt="tham-tu-barbie" src="http://localhost:8000/images/game_avatar/tham-tu-barbie-icon-1485231169.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Girl
+                                            Trí tuệ
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					495 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:80%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> What do you say about a new and fun online game, a new game in which you are about to spend some time with one of your favorite disney princesses. Today...</p>
+            	<p> Thám tử Barbie – Barbie School Uniform Secret là một trong những tựa game trí tuệ vô cùng hấp dẫn giành cho các fan yêu thích cô...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -4471,30 +6338,30 @@ How to...</p>
 																							<div class="col-xs-4">
 									<div class="item">
 									    <div class="item-image">
-											<a href="http://teengame.net/girl-games/barbie-be-my-valentine">
-												<img src="http://teengame.net/images/game_avatar/barbie-be-my-valentine-icon-1472712358.jpg" alt="Barbie Be My Valentine" class="showTip el_262" />
+											<a href="http://localhost:8000/tri-tue-games/ghep-hinh-moana">
+												<img src="http://localhost:8000/images/game_avatar/ghep-hinh-moana-icon-1485229752.jpg" alt="Ghép hình Moana" class="showTip el_2576" />
 											</a>
 									    </div>
 									    <div class="item-title">
-											<a href="http://teengame.net/girl-games/barbie-be-my-valentine">Barbie Be My Valentine</a>
+											<a href="http://localhost:8000/tri-tue-games/ghep-hinh-moana">Ghép hình Moana</a>
 										</div>
 									</div>
-																			<div id="el_262" class="tipContent">
-        <h2><a href="http://teengame.net/girl-games/barbie-be-my-valentine">Barbie Be My Valentine</a></h2>
+																			<div id="el_2576" class="tipContent">
+        <h2><a href="http://localhost:8000/tri-tue-games/ghep-hinh-moana">Ghép hình Moana</a></h2>
         <div class="tooltip_content">
-        	<img title="Barbie Be My Valentine" alt="barbie-be-my-valentine" src="http://teengame.net/images/game_avatar/barbie-be-my-valentine-icon-1472712358.jpg" />
+        	<img title="Ghép hình Moana" alt="ghep-hinh-moana" src="http://localhost:8000/images/game_avatar/ghep-hinh-moana-icon-1485229752.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Girl
+                                            Trí tuệ
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					161 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:42%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Barbie is single on Valentine&#39;s Day, but don&#39;t worry, there are already three guys that want to take her out. Ken, Flynn and Hiccup have already...</p>
+            	<p> Ghép hình Moana – Moana Jigsaw là một trong những game trí tuệ hấp dẫn giành cho người chơi ở mọi lứa tuổi. Với lối chơi...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -4503,30 +6370,30 @@ How to...</p>
 																							<div class="col-xs-4">
 									<div class="item">
 									    <div class="item-image">
-											<a href="http://teengame.net/girl-games/ariel-moves-in-with-eric">
-												<img src="http://teengame.net/images/game_avatar/ariel-moves-in-with-eric-icon-1472712159.jpg" alt="Ariel Moves In With Eric" class="showTip el_261" />
+											<a href="http://localhost:8000/tri-tue-games/cau-do-toan-hoc">
+												<img src="http://localhost:8000/images/game_avatar/cau-do-toan-hoc-icon-1479713374.jpg" alt="Câu đố toán học" class="showTip el_2285" />
 											</a>
 									    </div>
 									    <div class="item-title">
-											<a href="http://teengame.net/girl-games/ariel-moves-in-with-eric">Ariel Moves In With Eric</a>
+											<a href="http://localhost:8000/tri-tue-games/cau-do-toan-hoc">Câu đố toán học</a>
 										</div>
 									</div>
-																			<div id="el_261" class="tipContent">
-        <h2><a href="http://teengame.net/girl-games/ariel-moves-in-with-eric">Ariel Moves In With Eric</a></h2>
+																			<div id="el_2285" class="tipContent">
+        <h2><a href="http://localhost:8000/tri-tue-games/cau-do-toan-hoc">Câu đố toán học</a></h2>
         <div class="tooltip_content">
-        	<img title="Ariel Moves In With Eric" alt="ariel-moves-in-with-eric" src="http://teengame.net/images/game_avatar/ariel-moves-in-with-eric-icon-1472712159.jpg" />
+        	<img title="Câu đố toán học" alt="cau-do-toan-hoc" src="http://localhost:8000/images/game_avatar/cau-do-toan-hoc-icon-1479713374.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Girl
+                                            Trí tuệ
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					395 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:72%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Ariel, the great mermaid, wants to move in with Prince Eric. She is very happy about this decision, because this is a very important moment in their lives...</p>
+            	<p> Nếu là một fan trung thành của các câu đố toán học thì chắc hẳn bạn sẽ không thể bỏ qua tựa game Quiz Goose Math – Câu...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -4535,30 +6402,30 @@ How to...</p>
 																							<div class="col-xs-4">
 									<div class="item">
 									    <div class="item-image">
-											<a href="http://teengame.net/girl-games/bad-kid-babysitter-carnival">
-												<img src="http://teengame.net/images/game_avatar/bad-kids-babysitter-carnival-icon-1470909002.jpg" alt="Bad Kid Babysitter Carnival" class="showTip el_104" />
+											<a href="http://localhost:8000/tri-tue-games/tiny-tim-kho-bau">
+												<img src="http://localhost:8000/images/game_avatar/tiny-tim-kho-bau-icon-1477104921.jpg" alt="Tiny tìm kho báu" class="showTip el_2019" />
 											</a>
 									    </div>
 									    <div class="item-title">
-											<a href="http://teengame.net/girl-games/bad-kid-babysitter-carnival">Bad Kid Babysitter Carnival</a>
+											<a href="http://localhost:8000/tri-tue-games/tiny-tim-kho-bau">Tiny tìm kho báu</a>
 										</div>
 									</div>
-																			<div id="el_104" class="tipContent">
-        <h2><a href="http://teengame.net/girl-games/bad-kid-babysitter-carnival">Bad Kid Babysitter Carnival</a></h2>
+																			<div id="el_2019" class="tipContent">
+        <h2><a href="http://localhost:8000/tri-tue-games/tiny-tim-kho-bau">Tiny tìm kho báu</a></h2>
         <div class="tooltip_content">
-        	<img title="Bad Kid Babysitter Carnival" alt="bad-kid-babysitter-carnival" src="http://teengame.net/images/game_avatar/bad-kids-babysitter-carnival-icon-1470909002.jpg" />
+        	<img title="Tiny tìm kho báu" alt="tiny-tim-kho-bau" src="http://localhost:8000/images/game_avatar/tiny-tim-kho-bau-icon-1477104921.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Girl
+                                            Trí tuệ
                                     </strong>
             	<div>
-            		    					6 plays
+            		    					370 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:84%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Tink is going on an adventure to the ccarnival with her babysitter Wendy. Help Wendy be a good babysitter to Tink who loves to be bad. Girl games, Bad Kid...</p>
+            	<p> Tiny tìm kho báu - Tiny Pirates Treasure Island là một game trí tuệ hấp dẫn giành cho các gamer ở mọi lứa tuổi. Nội dung game là...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -4567,30 +6434,30 @@ How to...</p>
 																							<div class="col-xs-4">
 									<div class="item">
 									    <div class="item-image">
-											<a href="http://teengame.net/girl-games/cinderella-tailor-ball-dress">
-												<img src="http://teengame.net/images/game_avatar/cinderella-tailor-ball-dress-icon-1470906170.jpg" alt="Cinderella Tailor Ball Dress" class="showTip el_101" />
+											<a href="http://localhost:8000/tri-tue-games/caro-halloween">
+												<img src="http://localhost:8000/images/game_avatar/caro-halloween-icon-1477100295.jpg" alt="Caro halloween" class="showTip el_2008" />
 											</a>
 									    </div>
 									    <div class="item-title">
-											<a href="http://teengame.net/girl-games/cinderella-tailor-ball-dress">Cinderella Tailor Ball Dress</a>
+											<a href="http://localhost:8000/tri-tue-games/caro-halloween">Caro halloween</a>
 										</div>
 									</div>
-																			<div id="el_101" class="tipContent">
-        <h2><a href="http://teengame.net/girl-games/cinderella-tailor-ball-dress">Cinderella Tailor Ball Dress</a></h2>
+																			<div id="el_2008" class="tipContent">
+        <h2><a href="http://localhost:8000/tri-tue-games/caro-halloween">Caro halloween</a></h2>
         <div class="tooltip_content">
-        	<img title="Cinderella Tailor Ball Dress" alt="cinderella-tailor-ball-dress" src="http://teengame.net/images/game_avatar/cinderella-tailor-ball-dress-icon-1470906170.jpg" />
+        	<img title="Caro halloween" alt="caro-halloween" src="http://localhost:8000/images/game_avatar/caro-halloween-icon-1477100295.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Girl
+                                            Trí tuệ
                                     </strong>
             	<div>
-            		    					5 plays
+            		    					274 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:66%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> The Fairy Godmother has an important task to complete and that is to make Cinderella a ball gown, but the studio is messy. Clean up the room by finding...</p>
+            	<p> Caro Halloween - Halloween TicTacToe được biết đến như phiên bản mới nhất của game kinh điển Caro. Sở hữu lối chơi quen...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -4599,30 +6466,30 @@ How to...</p>
 																							<div class="col-xs-4">
 									<div class="item">
 									    <div class="item-image">
-											<a href="http://teengame.net/girl-games/elsa-real-dentist">
-												<img src="http://teengame.net/images/game_avatar/elsa-real-dentist-icon-1470906063.jpg" alt="Elsa Real Dentist" class="showTip el_100" />
+											<a href="http://localhost:8000/tri-tue-games/caro-kieu-moi">
+												<img src="http://localhost:8000/images/game_avatar/caro-kieu-moi-icon-1476090116.jpg" alt="Caro Kiểu mới" class="showTip el_1866" />
 											</a>
 									    </div>
 									    <div class="item-title">
-											<a href="http://teengame.net/girl-games/elsa-real-dentist">Elsa Real Dentist</a>
+											<a href="http://localhost:8000/tri-tue-games/caro-kieu-moi">Caro Kiểu mới</a>
 										</div>
 									</div>
-																			<div id="el_100" class="tipContent">
-        <h2><a href="http://teengame.net/girl-games/elsa-real-dentist">Elsa Real Dentist</a></h2>
+																			<div id="el_1866" class="tipContent">
+        <h2><a href="http://localhost:8000/tri-tue-games/caro-kieu-moi">Caro Kiểu mới</a></h2>
         <div class="tooltip_content">
-        	<img title="Elsa Real Dentist" alt="elsa-real-dentist" src="http://teengame.net/images/game_avatar/elsa-real-dentist-icon-1470906063.jpg" />
+        	<img title="Caro Kiểu mới" alt="caro-kieu-moi" src="http://localhost:8000/images/game_avatar/caro-kieu-moi-icon-1476090116.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Girl
+                                            Trí tuệ
                                     </strong>
             	<div>
-            		    					4 plays
+            		    					290 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:60%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> The ice queen has a toothache and it`s because she has a cavity, rush to the dentist office and help her out. Do a regular check-up to see which tooth is...</p>
+            	<p> Nếu yêu thích trò chơi Caro thần thánh thì chắc hẳn bạn sẽ khó có thể bỏ qua Caro kiểu mới - TicTacToe, một trong những...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -4634,37 +6501,37 @@ How to...</p>
 												<div class="col-sm-4">
 					<div class="boxmini">
 						<div class="boxmini-title">
-							<h3><a href="http://teengame.net/sport-games">Sport Games</a></h3>
-							<a href="http://teengame.net/sport-games" class="boxmini-seemore">Show all</a>
+							<h3><a href="http://localhost:8000/ban-gai-games">Bạn gái Games</a></h3>
+							<a href="http://localhost:8000/ban-gai-games" class="boxmini-seemore">Show all</a>
 						</div>
 						<div class="row">
 																							<div class="col-xs-4">
 									<div class="item">
 									    <div class="item-image">
-											<a href="http://teengame.net/sport-games/speedplay-soccer-4">
-												<img src="http://teengame.net/images/game_avatar/speedplay-soccer-4-icon-1473155426.jpg" alt="Speedplay Soccer 4" class="showTip el_291" />
+											<a href="http://localhost:8000/ban-gai-games/bua-tiec-giang-sinh">
+												<img src="http://localhost:8000/images/game_avatar/bua-tiec-giang-sinh-icon-1483587153.jpg" alt="Bữa tiệc giáng sinh" class="showTip el_2468" />
 											</a>
 									    </div>
 									    <div class="item-title">
-											<a href="http://teengame.net/sport-games/speedplay-soccer-4">Speedplay Soccer 4</a>
+											<a href="http://localhost:8000/ban-gai-games/bua-tiec-giang-sinh">Bữa tiệc giáng sinh</a>
 										</div>
 									</div>
-																			<div id="el_291" class="tipContent">
-        <h2><a href="http://teengame.net/sport-games/speedplay-soccer-4">Speedplay Soccer 4</a></h2>
+																			<div id="el_2468" class="tipContent">
+        <h2><a href="http://localhost:8000/ban-gai-games/bua-tiec-giang-sinh">Bữa tiệc giáng sinh</a></h2>
         <div class="tooltip_content">
-        	<img title="Speedplay Soccer 4" alt="speedplay-soccer-4" src="http://teengame.net/images/game_avatar/speedplay-soccer-4-icon-1473155426.jpg" />
+        	<img title="Bữa tiệc giáng sinh" alt="bua-tiec-giang-sinh" src="http://localhost:8000/images/game_avatar/bua-tiec-giang-sinh-icon-1483587153.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Sport
+                                            Bạn gái
                                     </strong>
             	<div>
-            		    					1 plays
+            		    					467 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:54%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> SpeedPlay World Soccer 4 is a great new soccer game. Select your favorite tournament, whether it&#39;s the Euro Cup or the Copa America, and start beating...</p>
+            	<p> Villians Christmas Party - Bữa tiệc giáng sinh là một trong những trò chơi bạn gái khá thú vị giành cho các cô nàng yêu thích...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -4673,32 +6540,30 @@ How to...</p>
 																							<div class="col-xs-4">
 									<div class="item">
 									    <div class="item-image">
-											<a href="http://teengame.net/sport-games/bmx-master">
-												<img src="http://teengame.net/images/game_avatar/bmx-master-icon-1472712963.jpg" alt="BMX Master" class="showTip el_264" />
+											<a href="http://localhost:8000/ban-gai-games/belle-kham-rang">
+												<img src="http://localhost:8000/images/game_avatar/belle-kham-rang-icon-1483585402.jpg" alt="Belle khám răng" class="showTip el_2466" />
 											</a>
 									    </div>
 									    <div class="item-title">
-											<a href="http://teengame.net/sport-games/bmx-master">BMX Master</a>
+											<a href="http://localhost:8000/ban-gai-games/belle-kham-rang">Belle khám răng</a>
 										</div>
 									</div>
-																			<div id="el_264" class="tipContent">
-        <h2><a href="http://teengame.net/sport-games/bmx-master">BMX Master</a></h2>
+																			<div id="el_2466" class="tipContent">
+        <h2><a href="http://localhost:8000/ban-gai-games/belle-kham-rang">Belle khám răng</a></h2>
         <div class="tooltip_content">
-        	<img title="BMX Master" alt="bmx-master" src="http://teengame.net/images/game_avatar/bmx-master-icon-1472712963.jpg" />
+        	<img title="Belle khám răng" alt="belle-kham-rang" src="http://localhost:8000/images/game_avatar/belle-kham-rang-icon-1483585402.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Sport
+                                            Bạn gái
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					720 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:20%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> BMX Master is an addictive bicycle motocross game. Try to perform as many awesome stunts with your BMX as you can and do not plant your face.
-
-How to...</p>
+            	<p> Perfect Dentist Princess Belle - Belle khám răng là game bạn gái khá thú vị giành cho các game thủ ở mọi lứa tuổi. Nhiệm vụ...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -4707,30 +6572,30 @@ How to...</p>
 																							<div class="col-xs-4">
 									<div class="item">
 									    <div class="item-image">
-											<a href="http://teengame.net/sport-games/billiard-blitz-3">
-												<img src="http://teengame.net/images/game_avatar/billiard-blitz-3-icon-1471589391.jpg" alt="Billiard Blitz 3" class="showTip el_153" />
+											<a href="http://localhost:8000/ban-gai-games/trang-diem-cong-chua-disney">
+												<img src="http://localhost:8000/images/game_avatar/trang-diem-cong-chua-disney-icon-1483515834.jpg" alt="Trang điểm công chúa Disney" class="showTip el_2459" />
 											</a>
 									    </div>
 									    <div class="item-title">
-											<a href="http://teengame.net/sport-games/billiard-blitz-3">Billiard Blitz 3</a>
+											<a href="http://localhost:8000/ban-gai-games/trang-diem-cong-chua-disney">Trang điểm công chúa Disney</a>
 										</div>
 									</div>
-																			<div id="el_153" class="tipContent">
-        <h2><a href="http://teengame.net/sport-games/billiard-blitz-3">Billiard Blitz 3</a></h2>
+																			<div id="el_2459" class="tipContent">
+        <h2><a href="http://localhost:8000/ban-gai-games/trang-diem-cong-chua-disney">Trang điểm công chúa Disney</a></h2>
         <div class="tooltip_content">
-        	<img title="Billiard Blitz 3" alt="billiard-blitz-3" src="http://teengame.net/images/game_avatar/billiard-blitz-3-icon-1471589391.jpg" />
+        	<img title="Trang điểm công chúa Disney" alt="trang-diem-cong-chua-disney" src="http://localhost:8000/images/game_avatar/trang-diem-cong-chua-disney-icon-1483515834.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Sport
+                                            Bạn gái
                                     </strong>
             	<div>
-            		    					1 plays
+            		    					2538 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:72%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> This game was built to be the slickest, most realistic and most engaging Flash pool game available. The game features 3D ball rotation, realistic physics...</p>
+            	<p> Disney Princess Makeover Princess - Trang điểm công chúa Disney là một trong những trò chơi khá thú vị giành cho các bạn gái yêu...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -4739,34 +6604,30 @@ How to...</p>
 																							<div class="col-xs-4">
 									<div class="item">
 									    <div class="item-image">
-											<a href="http://teengame.net/sport-games/upstream-kayak">
-												<img src="http://teengame.net/images/game_avatar/upstream-kayak-icon-1471589277.jpg" alt="Upstream Kayak" class="showTip el_152" />
+											<a href="http://localhost:8000/ban-gai-games/ky-nghi-cua-tom-va-angela">
+												<img src="http://localhost:8000/images/game_avatar/ky-nghi-cua-tom-va-angela-icon-1483494073.jpg" alt="Kỳ nghỉ của Tom và Angela" class="showTip el_2454" />
 											</a>
 									    </div>
 									    <div class="item-title">
-											<a href="http://teengame.net/sport-games/upstream-kayak">Upstream Kayak</a>
+											<a href="http://localhost:8000/ban-gai-games/ky-nghi-cua-tom-va-angela">Kỳ nghỉ của Tom và Angela</a>
 										</div>
 									</div>
-																			<div id="el_152" class="tipContent">
-        <h2><a href="http://teengame.net/sport-games/upstream-kayak">Upstream Kayak</a></h2>
+																			<div id="el_2454" class="tipContent">
+        <h2><a href="http://localhost:8000/ban-gai-games/ky-nghi-cua-tom-va-angela">Kỳ nghỉ của Tom và Angela</a></h2>
         <div class="tooltip_content">
-        	<img title="Upstream Kayak" alt="upstream-kayak" src="http://teengame.net/images/game_avatar/upstream-kayak-icon-1471589277.jpg" />
+        	<img title="Kỳ nghỉ của Tom và Angela" alt="ky-nghi-cua-tom-va-angela" src="http://localhost:8000/images/game_avatar/ky-nghi-cua-tom-va-angela-icon-1483494073.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Sport
+                                            Bạn gái
                                     </strong>
             	<div>
-            		    					1 plays
+            		    					468 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:90%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Upstream Kayak is a funny kayaking game. Aim of the game is to conquer the river up stream. Can you do it?
-
-How to play
-
-Control your Kayak with the...</p>
+            	<p> Angela And Tom Beach Vacation - Kỳ nghỉ của Tom và Angela là một trong những game bạn gái khá thú vị giành cho gamer ở mọi lứa...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -4775,30 +6636,30 @@ Control your Kayak with the...</p>
 																							<div class="col-xs-4">
 									<div class="item">
 									    <div class="item-image">
-											<a href="http://teengame.net/sport-games/football-legends-2016">
-												<img src="http://teengame.net/images/game_avatar/football-legends-2016-icon-1471572770.jpg" alt="Football Legends 2016" class="showTip el_151" />
+											<a href="http://localhost:8000/ban-gai-games/hoa-trang-halloween-2">
+												<img src="http://localhost:8000/images/game_avatar/hoa-trang-halloween-2-icon-1479713905.jpg" alt="Hóa trang Halloween 2" class="showTip el_2288" />
 											</a>
 									    </div>
 									    <div class="item-title">
-											<a href="http://teengame.net/sport-games/football-legends-2016">Football Legends 2016</a>
+											<a href="http://localhost:8000/ban-gai-games/hoa-trang-halloween-2">Hóa trang Halloween 2</a>
 										</div>
 									</div>
-																			<div id="el_151" class="tipContent">
-        <h2><a href="http://teengame.net/sport-games/football-legends-2016">Football Legends 2016</a></h2>
+																			<div id="el_2288" class="tipContent">
+        <h2><a href="http://localhost:8000/ban-gai-games/hoa-trang-halloween-2">Hóa trang Halloween 2</a></h2>
         <div class="tooltip_content">
-        	<img title="Football Legends 2016" alt="football-legends-2016" src="http://teengame.net/images/game_avatar/football-legends-2016-icon-1471572770.jpg" />
+        	<img title="Hóa trang Halloween 2" alt="hoa-trang-halloween-2" src="http://localhost:8000/images/game_avatar/hoa-trang-halloween-2-icon-1479713905.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Sport
+                                            Bạn gái
                                     </strong>
             	<div>
-            		    					3 plays
+            		    					554 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:80%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> The fabulous Football Legends 2016 are ready to play a game of soccer with you. Choose your desired gods of soccer and make some awesome goals to win the...</p>
+            	<p> Face Painting Central Park – Hóa trang Halloween 2 – một trong những game bạn gái mới mẻ, ấn tượng nhất nửa cuối năm...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -4807,30 +6668,30 @@ Control your Kayak with the...</p>
 																							<div class="col-xs-4">
 									<div class="item">
 									    <div class="item-image">
-											<a href="http://teengame.net/sport-games/basket-balls">
-												<img src="http://teengame.net/images/game_avatar/basketballs-icon-1471572654.jpg" alt="Basket Balls" class="showTip el_150" />
+											<a href="http://localhost:8000/ban-gai-games/thoi-trang-cua-mia">
+												<img src="http://localhost:8000/images/game_avatar/thoi-trang-cua-mia-icon-1479714574.jpg" alt="Thời trang của Mia" class="showTip el_2292" />
 											</a>
 									    </div>
 									    <div class="item-title">
-											<a href="http://teengame.net/sport-games/basket-balls">Basket Balls</a>
+											<a href="http://localhost:8000/ban-gai-games/thoi-trang-cua-mia">Thời trang của Mia</a>
 										</div>
 									</div>
-																			<div id="el_150" class="tipContent">
-        <h2><a href="http://teengame.net/sport-games/basket-balls">Basket Balls</a></h2>
+																			<div id="el_2292" class="tipContent">
+        <h2><a href="http://localhost:8000/ban-gai-games/thoi-trang-cua-mia">Thời trang của Mia</a></h2>
         <div class="tooltip_content">
-        	<img title="Basket Balls" alt="basket-balls" src="http://teengame.net/images/game_avatar/basketballs-icon-1471572654.jpg" />
+        	<img title="Thời trang của Mia" alt="thoi-trang-cua-mia" src="http://localhost:8000/images/game_avatar/thoi-trang-cua-mia-icon-1479714574.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Sport
+                                            Bạn gái
                                     </strong>
             	<div>
-            		    					3 plays
+            		    					2152 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:60%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Basketballs is an addictive sports game made by Turbo Nuke. Throw basketballs into the basket as fast as you can. You need to score in every basket to...</p>
+            	<p> Mia Dress Up – Thời trang của Mia là game bạn gái khá thú vị giành cho các gamer ở mọi lứa tuổi. Nội dung game xoay quanh công...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -4842,37 +6703,37 @@ Control your Kayak with the...</p>
 												<div class="col-sm-4">
 					<div class="boxmini">
 						<div class="boxmini-title">
-							<h3><a href="http://teengame.net/cooking-games">Cooking Games</a></h3>
-							<a href="http://teengame.net/cooking-games" class="boxmini-seemore">Show all</a>
+							<h3><a href="http://localhost:8000/hanh-dong-games">Hành động Games</a></h3>
+							<a href="http://localhost:8000/hanh-dong-games" class="boxmini-seemore">Show all</a>
 						</div>
 						<div class="row">
 																							<div class="col-xs-4">
 									<div class="item">
 									    <div class="item-image">
-											<a href="http://teengame.net/cooking-games/papas-cupcakeria">
-												<img src="http://teengame.net/images/game_avatar/papascupcakeria-icon-1472722521.jpg" alt="Papa's Cupcakeria" class="showTip el_275" />
+											<a href="http://localhost:8000/hanh-dong-games/vuong-quoc-lam-nguy">
+												<img src="http://localhost:8000/images/game_avatar/vuong-quoc-lam-nguy-icon-1485231749.jpg" alt="Vương quốc lâm nguy" class="showTip el_2581" />
 											</a>
 									    </div>
 									    <div class="item-title">
-											<a href="http://teengame.net/cooking-games/papas-cupcakeria">Papa's Cupcakeria</a>
+											<a href="http://localhost:8000/hanh-dong-games/vuong-quoc-lam-nguy">Vương quốc lâm nguy</a>
 										</div>
 									</div>
-																			<div id="el_275" class="tipContent">
-        <h2><a href="http://teengame.net/cooking-games/papas-cupcakeria">Papa's Cupcakeria</a></h2>
+																			<div id="el_2581" class="tipContent">
+        <h2><a href="http://localhost:8000/hanh-dong-games/vuong-quoc-lam-nguy">Vương quốc lâm nguy</a></h2>
         <div class="tooltip_content">
-        	<img title="Papa's Cupcakeria" alt="papas-cupcakeria" src="http://teengame.net/images/game_avatar/papascupcakeria-icon-1472722521.jpg" />
+        	<img title="Vương quốc lâm nguy" alt="vuong-quoc-lam-nguy" src="http://localhost:8000/images/game_avatar/vuong-quoc-lam-nguy-icon-1485231749.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Cooking
+                                            Hành động
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					630 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:84%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Bake cupcakes in Papa&#39;s Bakery to earn cash! You will begin by training at the restaurant. Learn how to take orders, mix batter, and bake cupcakes....</p>
+            	<p> Vương quốc lâm nguy - Medieval Defenders là một trong những tựa game hành động khá thú vị giành cho các game thủ ở mọi lứa...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -4881,30 +6742,30 @@ Control your Kayak with the...</p>
 																							<div class="col-xs-4">
 									<div class="item">
 									    <div class="item-image">
-											<a href="http://teengame.net/cooking-games/papas-cheeseria">
-												<img src="http://teengame.net/images/game_avatar/papascheeseria-icon-1472722256.jpg" alt="Papa's Cheeseria" class="showTip el_274" />
+											<a href="http://localhost:8000/hanh-dong-games/sieu-nhan-dai-chien">
+												<img src="http://localhost:8000/images/game_avatar/sieu-nhan-dai-chien-icon-1485230717.jpg" alt="Siêu nhân đại chiến" class="showTip el_2578" />
 											</a>
 									    </div>
 									    <div class="item-title">
-											<a href="http://teengame.net/cooking-games/papas-cheeseria">Papa's Cheeseria</a>
+											<a href="http://localhost:8000/hanh-dong-games/sieu-nhan-dai-chien">Siêu nhân đại chiến</a>
 										</div>
 									</div>
-																			<div id="el_274" class="tipContent">
-        <h2><a href="http://teengame.net/cooking-games/papas-cheeseria">Papa's Cheeseria</a></h2>
+																			<div id="el_2578" class="tipContent">
+        <h2><a href="http://localhost:8000/hanh-dong-games/sieu-nhan-dai-chien">Siêu nhân đại chiến</a></h2>
         <div class="tooltip_content">
-        	<img title="Papa's Cheeseria" alt="papas-cheeseria" src="http://teengame.net/images/game_avatar/papascheeseria-icon-1472722256.jpg" />
+        	<img title="Siêu nhân đại chiến" alt="sieu-nhan-dai-chien" src="http://localhost:8000/images/game_avatar/sieu-nhan-dai-chien-icon-1485230717.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Cooking
+                                            Hành động
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					1400 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:92%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Cook gooey, grilled cheese sandwiches for hungry customers! Papa’s Cheeseria puts you back behind the counter, where you will serve made-to-order meals....</p>
+            	<p> Siêu nhân đại chiến - TMNT Vs Power Rangers 2 là một trong những game hành động hấp dẫn cho người chơi ở mọi lứa tuổi....</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -4913,30 +6774,30 @@ Control your Kayak with the...</p>
 																							<div class="col-xs-4">
 									<div class="item">
 									    <div class="item-image">
-											<a href="http://teengame.net/cooking-games/owl-cake-saras-cooking-class">
-												<img src="http://teengame.net/images/game_avatar/owl-cake-saras-cooking-class-icon-1471662830.jpg" alt="Owl Cake: Sara's Cooking Class" class="showTip el_178" />
+											<a href="http://localhost:8000/hanh-dong-games/dung-si-diet-chuot">
+												<img src="http://localhost:8000/images/game_avatar/dung-si-diet-chuot-icon-1485229331.jpg" alt="Dũng sĩ diệt chuột" class="showTip el_2575" />
 											</a>
 									    </div>
 									    <div class="item-title">
-											<a href="http://teengame.net/cooking-games/owl-cake-saras-cooking-class">Owl Cake: Sara's Cooking Class</a>
+											<a href="http://localhost:8000/hanh-dong-games/dung-si-diet-chuot">Dũng sĩ diệt chuột</a>
 										</div>
 									</div>
-																			<div id="el_178" class="tipContent">
-        <h2><a href="http://teengame.net/cooking-games/owl-cake-saras-cooking-class">Owl Cake: Sara's Cooking Class</a></h2>
+																			<div id="el_2575" class="tipContent">
+        <h2><a href="http://localhost:8000/hanh-dong-games/dung-si-diet-chuot">Dũng sĩ diệt chuột</a></h2>
         <div class="tooltip_content">
-        	<img title="Owl Cake: Sara's Cooking Class" alt="owl-cake-saras-cooking-class" src="http://teengame.net/images/game_avatar/owl-cake-saras-cooking-class-icon-1471662830.jpg" />
+        	<img title="Dũng sĩ diệt chuột" alt="dung-si-diet-chuot" src="http://localhost:8000/images/game_avatar/dung-si-diet-chuot-icon-1485229331.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Cooking
+                                            Hành động
                                     </strong>
             	<div>
-            		    					6 plays
+            		    					233 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:62%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Have you ever tasted an owl cake? Well, Sara did and right now she will teach you the secret recipe. Play this game and follow properly her steps, to cook...</p>
+            	<p> Dũng sĩ diệt chuột - Kick The Rat là một trong những game hành động khá thú vị giành cho các gamer ở mọi lứa tuổi. Sở hữu...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -4945,30 +6806,30 @@ Control your Kayak with the...</p>
 																							<div class="col-xs-4">
 									<div class="item">
 									    <div class="item-image">
-											<a href="http://teengame.net/cooking-games/chocolate-churros-saras-cooking-class">
-												<img src="http://teengame.net/images/game_avatar/chocolata-churros-saras-cooking-class-icon-1471662658.jpg" alt="Chocolate Churros: Sara's Cooking Class" class="showTip el_177" />
+											<a href="http://localhost:8000/hanh-dong-games/dau-truong-ninja">
+												<img src="http://localhost:8000/images/game_avatar/dau-truong-ninja-icon-1483584782.jpg" alt="Đấu trường Ninja" class="showTip el_2465" />
 											</a>
 									    </div>
 									    <div class="item-title">
-											<a href="http://teengame.net/cooking-games/chocolate-churros-saras-cooking-class">Chocolate Churros: Sara's Cooking Class</a>
+											<a href="http://localhost:8000/hanh-dong-games/dau-truong-ninja">Đấu trường Ninja</a>
 										</div>
 									</div>
-																			<div id="el_177" class="tipContent">
-        <h2><a href="http://teengame.net/cooking-games/chocolate-churros-saras-cooking-class">Chocolate Churros: Sara's Cooking Class</a></h2>
+																			<div id="el_2465" class="tipContent">
+        <h2><a href="http://localhost:8000/hanh-dong-games/dau-truong-ninja">Đấu trường Ninja</a></h2>
         <div class="tooltip_content">
-        	<img title="Chocolate Churros: Sara's Cooking Class" alt="chocolate-churros-saras-cooking-class" src="http://teengame.net/images/game_avatar/chocolata-churros-saras-cooking-class-icon-1471662658.jpg" />
+        	<img title="Đấu trường Ninja" alt="dau-truong-ninja" src="http://localhost:8000/images/game_avatar/dau-truong-ninja-icon-1483584782.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Cooking
+                                            Hành động
                                     </strong>
             	<div>
-            		    					4 plays
+            		    					587 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:72%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Yep. A fried doughnuty treat dipped in chocolate sauce. FEED ME!Churros are popular all over the world and people love to dip them in chocolate. Ready to...</p>
+            	<p> Nếu yêu thích anh chàng Ninja anh hùng thì chắc chắn bạn sẽ không thể bỏ qua tựa game hấp dẫn Ninja War - Đấu trường...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -4977,30 +6838,30 @@ Control your Kayak with the...</p>
 																							<div class="col-xs-4">
 									<div class="item">
 									    <div class="item-image">
-											<a href="http://teengame.net/cooking-games/chocolate-pizza-saras-cooking-class">
-												<img src="http://teengame.net/images/game_avatar/chocolate-pizza-sarah-cooking-class-icon-1471662516.jpg" alt="Chocolate Pizza: Sara's Cooking Class" class="showTip el_176" />
+											<a href="http://localhost:8000/hanh-dong-games/frankenstein-tim-kho-bau">
+												<img src="http://localhost:8000/images/game_avatar/frankenstein-tim-kho-bau-icon-1483581393.jpg" alt="Frankenstein tìm kho báu" class="showTip el_2460" />
 											</a>
 									    </div>
 									    <div class="item-title">
-											<a href="http://teengame.net/cooking-games/chocolate-pizza-saras-cooking-class">Chocolate Pizza: Sara's Cooking Class</a>
+											<a href="http://localhost:8000/hanh-dong-games/frankenstein-tim-kho-bau">Frankenstein tìm kho báu</a>
 										</div>
 									</div>
-																			<div id="el_176" class="tipContent">
-        <h2><a href="http://teengame.net/cooking-games/chocolate-pizza-saras-cooking-class">Chocolate Pizza: Sara's Cooking Class</a></h2>
+																			<div id="el_2460" class="tipContent">
+        <h2><a href="http://localhost:8000/hanh-dong-games/frankenstein-tim-kho-bau">Frankenstein tìm kho báu</a></h2>
         <div class="tooltip_content">
-        	<img title="Chocolate Pizza: Sara's Cooking Class" alt="chocolate-pizza-saras-cooking-class" src="http://teengame.net/images/game_avatar/chocolate-pizza-sarah-cooking-class-icon-1471662516.jpg" />
+        	<img title="Frankenstein tìm kho báu" alt="frankenstein-tim-kho-bau" src="http://localhost:8000/images/game_avatar/frankenstein-tim-kho-bau-icon-1483581393.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Cooking
+                                            Hành động
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					154 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:84%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Welcome to Saras Cooking Class. Today she will teach you how to make delicious "Chocolate Pizza". Follow Saras directions to make a delicious Chocolate...</p>
+            	<p> Frankenstein tìm kho báu - Frankenstein Adventures là một tựa game hành động hấp dẫn được các game thủ trên toàn thế giới vô...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -5009,30 +6870,30 @@ Control your Kayak with the...</p>
 																							<div class="col-xs-4">
 									<div class="item">
 									    <div class="item-image">
-											<a href="http://teengame.net/cooking-games/key-lime-pie-saras-cooking-class">
-												<img src="http://teengame.net/images/game_avatar/key-lime-pie-saras-cooking-class-icon-1471662366.jpg" alt="Key Lime Pie: Sara's Cooking Class" class="showTip el_175" />
+											<a href="http://localhost:8000/hanh-dong-games/cong-vien-ky-jura">
+												<img src="http://localhost:8000/images/game_avatar/cong-vien-ky-jura-icon-1479971422.jpg" alt="Công viên kỷ Jura" class="showTip el_2286" />
 											</a>
 									    </div>
 									    <div class="item-title">
-											<a href="http://teengame.net/cooking-games/key-lime-pie-saras-cooking-class">Key Lime Pie: Sara's Cooking Class</a>
+											<a href="http://localhost:8000/hanh-dong-games/cong-vien-ky-jura">Công viên kỷ Jura</a>
 										</div>
 									</div>
-																			<div id="el_175" class="tipContent">
-        <h2><a href="http://teengame.net/cooking-games/key-lime-pie-saras-cooking-class">Key Lime Pie: Sara's Cooking Class</a></h2>
+																			<div id="el_2286" class="tipContent">
+        <h2><a href="http://localhost:8000/hanh-dong-games/cong-vien-ky-jura">Công viên kỷ Jura</a></h2>
         <div class="tooltip_content">
-        	<img title="Key Lime Pie: Sara's Cooking Class" alt="key-lime-pie-saras-cooking-class" src="http://teengame.net/images/game_avatar/key-lime-pie-saras-cooking-class-icon-1471662366.jpg" />
+        	<img title="Công viên kỷ Jura" alt="cong-vien-ky-jura" src="http://localhost:8000/images/game_avatar/cong-vien-ky-jura-icon-1479971422.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Cooking
+                                            Hành động
                                     </strong>
             	<div>
-            		    					4 plays
+            		    					401 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:74%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Welcome to Saras Cooking Class. Today she will teach you how to make delicious "Key Lime Pie". Follow Saras directions to make a delicious Key Lime Pie....</p>
+            	<p> Nếu yêu thích những tựa game hành động bắn súng thì chắc chắn bạn sẽ khó có thể bỏ qua Tower Defense vs Monster – Công...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -5044,37 +6905,37 @@ Control your Kayak with the...</p>
 												<div class="col-sm-4">
 					<div class="boxmini">
 						<div class="boxmini-title">
-							<h3><a href="http://teengame.net/funny-games">Funny Games</a></h3>
-							<a href="http://teengame.net/funny-games" class="boxmini-seemore">Show all</a>
+							<h3><a href="http://localhost:8000/the-thao-games">Thể thao Games</a></h3>
+							<a href="http://localhost:8000/the-thao-games" class="boxmini-seemore">Show all</a>
 						</div>
 						<div class="row">
 																							<div class="col-xs-4">
 									<div class="item">
 									    <div class="item-image">
-											<a href="http://teengame.net/funny-games/judy-hopps-and-nick-wilde-kissing">
-												<img src="http://teengame.net/images/game_avatar/judy_hopps_and_nick_wilde_kissing-icon-1472714936.jpg" alt="Judy Hopps And Nick Wilde Kissing" class="showTip el_269" />
+											<a href="http://localhost:8000/the-thao-games/truot-tuyet-dia-hinh">
+												<img src="http://localhost:8000/images/game_avatar/truot-tuyet-dia-hinh-icon-1483584064.jpg" alt="Trượt tuyết địa hình" class="showTip el_2464" />
 											</a>
 									    </div>
 									    <div class="item-title">
-											<a href="http://teengame.net/funny-games/judy-hopps-and-nick-wilde-kissing">Judy Hopps And Nick Wilde Kissing</a>
+											<a href="http://localhost:8000/the-thao-games/truot-tuyet-dia-hinh">Trượt tuyết địa hình</a>
 										</div>
 									</div>
-																			<div id="el_269" class="tipContent">
-        <h2><a href="http://teengame.net/funny-games/judy-hopps-and-nick-wilde-kissing">Judy Hopps And Nick Wilde Kissing</a></h2>
+																			<div id="el_2464" class="tipContent">
+        <h2><a href="http://localhost:8000/the-thao-games/truot-tuyet-dia-hinh">Trượt tuyết địa hình</a></h2>
         <div class="tooltip_content">
-        	<img title="Judy Hopps And Nick Wilde Kissing" alt="judy-hopps-and-nick-wilde-kissing" src="http://teengame.net/images/game_avatar/judy_hopps_and_nick_wilde_kissing-icon-1472714936.jpg" />
+        	<img title="Trượt tuyết địa hình" alt="truot-tuyet-dia-hinh" src="http://localhost:8000/images/game_avatar/truot-tuyet-dia-hinh-icon-1483584064.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Funny
+                                            Thể thao
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					229 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:96%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Enjoy a new kissing game featuring your characters from Zootopia,Judy Hopps and Nick Wilde.They are living a love story and you can take part to their...</p>
+            	<p> Trượt tuyết địa hình - Icey là một trong những game thể thao hấp dẫn được nhiều gamer vô cùng yêu thích. Với nội dung...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -5083,30 +6944,30 @@ Control your Kayak with the...</p>
 																							<div class="col-xs-4">
 									<div class="item">
 									    <div class="item-image">
-											<a href="http://teengame.net/funny-games/zootopia-investigation-mischief">
-												<img src="http://teengame.net/images/game_avatar/zootopia-investigation-mischief-icon-1472091702.jpg" alt="Zootopia Investigation Mischief" class="showTip el_215" />
+											<a href="http://localhost:8000/the-thao-games/choi-bong-ro-3">
+												<img src="http://localhost:8000/images/game_avatar/choi-bong-ro-3-icon-1483496334.jpg" alt="Chơi bóng rổ 3" class="showTip el_2456" />
 											</a>
 									    </div>
 									    <div class="item-title">
-											<a href="http://teengame.net/funny-games/zootopia-investigation-mischief">Zootopia Investigation Mischief</a>
+											<a href="http://localhost:8000/the-thao-games/choi-bong-ro-3">Chơi bóng rổ 3</a>
 										</div>
 									</div>
-																			<div id="el_215" class="tipContent">
-        <h2><a href="http://teengame.net/funny-games/zootopia-investigation-mischief">Zootopia Investigation Mischief</a></h2>
+																			<div id="el_2456" class="tipContent">
+        <h2><a href="http://localhost:8000/the-thao-games/choi-bong-ro-3">Chơi bóng rổ 3</a></h2>
         <div class="tooltip_content">
-        	<img title="Zootopia Investigation Mischief" alt="zootopia-investigation-mischief" src="http://teengame.net/images/game_avatar/zootopia-investigation-mischief-icon-1472091702.jpg" />
+        	<img title="Chơi bóng rổ 3" alt="choi-bong-ro-3" src="http://localhost:8000/images/game_avatar/choi-bong-ro-3-icon-1483496334.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Funny
+                                            Thể thao
                                     </strong>
             	<div>
-            		    					1 plays
+            		    					317 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:100%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Judy and Nick have no time to waste on their investigation of a missing otter, help them run a license plate sneakily at the DMV, before the sloths catch...</p>
+            	<p> Nếu yêu thích các trò chơi thể thao thì chắc hẳn bạn sẽ không thể bỏ lỡ tựa game đình đám Chơi bóng rổ 3. Nằm trong...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -5115,32 +6976,30 @@ Control your Kayak with the...</p>
 																							<div class="col-xs-4">
 									<div class="item">
 									    <div class="item-image">
-											<a href="http://teengame.net/funny-games/my-dear-bosses">
-												<img src="http://teengame.net/images/game_avatar/my-dear-bosses-icon-1472090314.jpg" alt="My Dear Bosses" class="showTip el_214" />
+											<a href="http://localhost:8000/the-thao-games/bong-chuyen-kieu-moi">
+												<img src="http://localhost:8000/images/game_avatar/bong-chuyen-kieu-moi-icon-1479713179.jpg" alt="Bóng chuyền kiểu mới" class="showTip el_2284" />
 											</a>
 									    </div>
 									    <div class="item-title">
-											<a href="http://teengame.net/funny-games/my-dear-bosses">My Dear Bosses</a>
+											<a href="http://localhost:8000/the-thao-games/bong-chuyen-kieu-moi">Bóng chuyền kiểu mới</a>
 										</div>
 									</div>
-																			<div id="el_214" class="tipContent">
-        <h2><a href="http://teengame.net/funny-games/my-dear-bosses">My Dear Bosses</a></h2>
+																			<div id="el_2284" class="tipContent">
+        <h2><a href="http://localhost:8000/the-thao-games/bong-chuyen-kieu-moi">Bóng chuyền kiểu mới</a></h2>
         <div class="tooltip_content">
-        	<img title="My Dear Bosses" alt="my-dear-bosses" src="http://teengame.net/images/game_avatar/my-dear-bosses-icon-1472090314.jpg" />
+        	<img title="Bóng chuyền kiểu mới" alt="bong-chuyen-kieu-moi" src="http://localhost:8000/images/game_avatar/bong-chuyen-kieu-moi-icon-1479713179.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Funny
+                                            Thể thao
                                     </strong>
             	<div>
-            		    					3 plays
+            		    					254 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:90%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> My Dear Bosses is the sequel to the funny distance game, in which you must shoot your boss through the window over the maximal distance. Much fun!
-
-How...</p>
+            	<p> Volley Boll - Bóng chuyển kiểu mới là một trong những trò chơi thể thao khá mới mẻ và thú vị giành cho các game thủ ở mọi...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -5149,30 +7008,30 @@ How...</p>
 																							<div class="col-xs-4">
 									<div class="item">
 									    <div class="item-image">
-											<a href="http://teengame.net/funny-games/my-dear-boss">
-												<img src="http://teengame.net/images/game_avatar/my-dear-boss-icon-1472089857.jpg" alt="My Dear Boss" class="showTip el_213" />
+											<a href="http://localhost:8000/the-thao-games/da-banh-tranh-cup">
+												<img src="http://localhost:8000/images/game_avatar/da-banh-tranh-cup-icon-1476149600.jpg" alt="Đá banh tranh cúp" class="showTip el_1868" />
 											</a>
 									    </div>
 									    <div class="item-title">
-											<a href="http://teengame.net/funny-games/my-dear-boss">My Dear Boss</a>
+											<a href="http://localhost:8000/the-thao-games/da-banh-tranh-cup">Đá banh tranh cúp</a>
 										</div>
 									</div>
-																			<div id="el_213" class="tipContent">
-        <h2><a href="http://teengame.net/funny-games/my-dear-boss">My Dear Boss</a></h2>
+																			<div id="el_1868" class="tipContent">
+        <h2><a href="http://localhost:8000/the-thao-games/da-banh-tranh-cup">Đá banh tranh cúp</a></h2>
         <div class="tooltip_content">
-        	<img title="My Dear Boss" alt="my-dear-boss" src="http://teengame.net/images/game_avatar/my-dear-boss-icon-1472089857.jpg" />
+        	<img title="Đá banh tranh cúp" alt="da-banh-tranh-cup" src="http://localhost:8000/images/game_avatar/da-banh-tranh-cup-icon-1476149600.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Funny
+                                            Thể thao
                                     </strong>
             	<div>
-            		    					3 plays
+            		    					387 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:76%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> My Dear Boss is a funny distance game presented by agame.com. Do you think you&#39;re a good employee? Think your boss hates you? You&#39;re probably...</p>
+            	<p> Đá banh tranh cúp - Heads Arena Euro Soccer là một game thể thao rất hấp dẫn giành tặng các fan của bộ môn thể thao vua. Sở...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -5181,30 +7040,30 @@ How...</p>
 																							<div class="col-xs-4">
 									<div class="item">
 									    <div class="item-image">
-											<a href="http://teengame.net/funny-games/naughty-vacation">
-												<img src="http://teengame.net/images/game_avatar/naughty-vacation-icon-1472089709.jpg" alt="Naughty Vacation" class="showTip el_212" />
+											<a href="http://localhost:8000/the-thao-games/sieu-sao-sut-phat">
+												<img src="http://localhost:8000/images/game_avatar/sieu-sao-sut-phat-icon-1469761674.jpg" alt="Siêu sao sút phạt" class="showTip el_1155" />
 											</a>
 									    </div>
 									    <div class="item-title">
-											<a href="http://teengame.net/funny-games/naughty-vacation">Naughty Vacation</a>
+											<a href="http://localhost:8000/the-thao-games/sieu-sao-sut-phat">Siêu sao sút phạt</a>
 										</div>
 									</div>
-																			<div id="el_212" class="tipContent">
-        <h2><a href="http://teengame.net/funny-games/naughty-vacation">Naughty Vacation</a></h2>
+																			<div id="el_1155" class="tipContent">
+        <h2><a href="http://localhost:8000/the-thao-games/sieu-sao-sut-phat">Siêu sao sút phạt</a></h2>
         <div class="tooltip_content">
-        	<img title="Naughty Vacation" alt="naughty-vacation" src="http://teengame.net/images/game_avatar/naughty-vacation-icon-1472089709.jpg" />
+        	<img title="Siêu sao sút phạt" alt="sieu-sao-sut-phat" src="http://localhost:8000/images/game_avatar/sieu-sao-sut-phat-icon-1469761674.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Funny
+                                            Thể thao
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					306 plays
     				                    <div class="rate-result-cnt">
         <div class="rate-bg" style="width:0%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Pull pranks on girls at the airport, beach, pool and the water park. Use wits and hints to trigger funny events. Click on the prankster and embarrass the...</p>
+            	<p> Nếu yêu thích bộ môn thể thao được cả thế giới hâm mộ là bóng đá thì chắc chắn bạn sẽ không thể rời mắt khỏi...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -5213,35 +7072,30 @@ How...</p>
 																							<div class="col-xs-4">
 									<div class="item">
 									    <div class="item-image">
-											<a href="http://teengame.net/funny-games/naughty-gym">
-												<img src="http://teengame.net/images/game_avatar/naughty-gym-icon-1472089575.jpg" alt="Naughty Gym" class="showTip el_211" />
+											<a href="http://localhost:8000/the-thao-games/tap-danh-bong-ban">
+												<img src="http://localhost:8000/images/game_avatar/tap-danh-bong-ban-icon-1466220840.jpg" alt="Tập đánh bóng bàn" class="showTip el_933" />
 											</a>
 									    </div>
 									    <div class="item-title">
-											<a href="http://teengame.net/funny-games/naughty-gym">Naughty Gym</a>
+											<a href="http://localhost:8000/the-thao-games/tap-danh-bong-ban">Tập đánh bóng bàn</a>
 										</div>
 									</div>
-																			<div id="el_211" class="tipContent">
-        <h2><a href="http://teengame.net/funny-games/naughty-gym">Naughty Gym</a></h2>
+																			<div id="el_933" class="tipContent">
+        <h2><a href="http://localhost:8000/the-thao-games/tap-danh-bong-ban">Tập đánh bóng bàn</a></h2>
         <div class="tooltip_content">
-        	<img title="Naughty Gym" alt="naughty-gym" src="http://teengame.net/images/game_avatar/naughty-gym-icon-1472089575.jpg" />
+        	<img title="Tập đánh bóng bàn" alt="tap-danh-bong-ban" src="http://localhost:8000/images/game_avatar/tap-danh-bong-ban-icon-1466220840.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Funny
+                                            Thể thao
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					455 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:100%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p>Play this online naughty game and get ready for a naughty work out!
-
-How to play
-
-Use your mouse to play
-</p>
+            	<p> Trở thành vận bóng bàn số 1 thế giới trong mini game Tập đánh bóng bàn - Paddle ngay hôm nay. Được biết đến là trò chơi...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -5253,37 +7107,37 @@ Use your mouse to play
 												<div class="col-sm-4">
 					<div class="boxmini">
 						<div class="boxmini-title">
-							<h3><a href="http://teengame.net/fashion-games">Fashion Games</a></h3>
-							<a href="http://teengame.net/fashion-games" class="boxmini-seemore">Show all</a>
+							<h3><a href="http://localhost:8000/dua-xe-games">Đua xe Games</a></h3>
+							<a href="http://localhost:8000/dua-xe-games" class="boxmini-seemore">Show all</a>
 						</div>
 						<div class="row">
 																							<div class="col-xs-4">
 									<div class="item">
 									    <div class="item-image">
-											<a href="http://teengame.net/fashion-games/red-riding-hood-and-snow-white-hollywood-divas">
-												<img src="http://teengame.net/images/game_avatar/red-riding-hood-and-snow-white-hollywood-divas-icon-1472722687.jpg" alt="Red Riding Hood And Snow White Hollywood Divas" class="showTip el_276" />
+											<a href="http://localhost:8000/dua-xe-games/tay-lai-cu-khoi-2">
+												<img src="http://localhost:8000/images/game_avatar/tay-lai-cu-khoi-2-icon-1483515205.jpg" alt="Tay lái cừ khôi 2" class="showTip el_2458" />
 											</a>
 									    </div>
 									    <div class="item-title">
-											<a href="http://teengame.net/fashion-games/red-riding-hood-and-snow-white-hollywood-divas">Red Riding Hood And Snow White Hollywood Divas</a>
+											<a href="http://localhost:8000/dua-xe-games/tay-lai-cu-khoi-2">Tay lái cừ khôi 2</a>
 										</div>
 									</div>
-																			<div id="el_276" class="tipContent">
-        <h2><a href="http://teengame.net/fashion-games/red-riding-hood-and-snow-white-hollywood-divas">Red Riding Hood And Snow White Hollywood Divas</a></h2>
+																			<div id="el_2458" class="tipContent">
+        <h2><a href="http://localhost:8000/dua-xe-games/tay-lai-cu-khoi-2">Tay lái cừ khôi 2</a></h2>
         <div class="tooltip_content">
-        	<img title="Red Riding Hood And Snow White Hollywood Divas" alt="red-riding-hood-and-snow-white-hollywood-divas" src="http://teengame.net/images/game_avatar/red-riding-hood-and-snow-white-hollywood-divas-icon-1472722687.jpg" />
+        	<img title="Tay lái cừ khôi 2" alt="tay-lai-cu-khoi-2" src="http://localhost:8000/images/game_avatar/tay-lai-cu-khoi-2-icon-1483515205.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Fashion
+                                            Đua xe
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					380 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:80%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> We would like you girls to join us today within all these interesting and cute categories, because we have uploaded nothing but the most exciting and fun...</p>
+            	<p> Tay lái cừ khôi 2 - Confident Driver là một trong những trò chơi thú vị giành cho các gamer yêu thích thể loại game đua xe tốc...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -5292,30 +7146,30 @@ Use your mouse to play
 																							<div class="col-xs-4">
 									<div class="item">
 									    <div class="item-image">
-											<a href="http://teengame.net/fashion-games/barbie-dates-a-celebrity">
-												<img src="http://teengame.net/images/game_avatar/barbie-dates-a-celebrity-icon-1472712619.jpg" alt="Barbie Dates a Celebrity" class="showTip el_263" />
+											<a href="http://localhost:8000/dua-xe-games/tay-lai-toc-do">
+												<img src="http://localhost:8000/images/game_avatar/tay-lai-toc-do-icon-1477103890.jpg" alt="Tay lái tốc độ" class="showTip el_2018" />
 											</a>
 									    </div>
 									    <div class="item-title">
-											<a href="http://teengame.net/fashion-games/barbie-dates-a-celebrity">Barbie Dates a Celebrity</a>
+											<a href="http://localhost:8000/dua-xe-games/tay-lai-toc-do">Tay lái tốc độ</a>
 										</div>
 									</div>
-																			<div id="el_263" class="tipContent">
-        <h2><a href="http://teengame.net/fashion-games/barbie-dates-a-celebrity">Barbie Dates a Celebrity</a></h2>
+																			<div id="el_2018" class="tipContent">
+        <h2><a href="http://localhost:8000/dua-xe-games/tay-lai-toc-do">Tay lái tốc độ</a></h2>
         <div class="tooltip_content">
-        	<img title="Barbie Dates a Celebrity" alt="barbie-dates-a-celebrity" src="http://teengame.net/images/game_avatar/barbie-dates-a-celebrity-icon-1472712619.jpg" />
+        	<img title="Tay lái tốc độ" alt="tay-lai-toc-do" src="http://localhost:8000/images/game_avatar/tay-lai-toc-do-icon-1477103890.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Fashion
+                                            Đua xe
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					411 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:76%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Barbie is single. She wants to go on a date with a great guy. On her social media page she has three different messages from three amazing guys. They are...</p>
+            	<p> Nếu là fans của trò chơi đua xe tốc độ thì chắc chắn bạn sẽ khó có thể bỏ qua tựa game đình đám nhất hiện nay Tay...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -5324,30 +7178,30 @@ Use your mouse to play
 																							<div class="col-xs-4">
 									<div class="item">
 									    <div class="item-image">
-											<a href="http://teengame.net/fashion-games/barbies-villian-makeover">
-												<img src="http://teengame.net/images/game_avatar/barbies-villain-makeover-icon-1472271509.jpg" alt="Barbie's Villian Makeover" class="showTip el_259" />
+											<a href="http://localhost:8000/dua-xe-games/tay-dua-xe-tai">
+												<img src="http://localhost:8000/images/game_avatar/tay-dua-xe-tai-icon-1477103581.jpg" alt="Tay đua xe tải" class="showTip el_2017" />
 											</a>
 									    </div>
 									    <div class="item-title">
-											<a href="http://teengame.net/fashion-games/barbies-villian-makeover">Barbie's Villian Makeover</a>
+											<a href="http://localhost:8000/dua-xe-games/tay-dua-xe-tai">Tay đua xe tải</a>
 										</div>
 									</div>
-																			<div id="el_259" class="tipContent">
-        <h2><a href="http://teengame.net/fashion-games/barbies-villian-makeover">Barbie's Villian Makeover</a></h2>
+																			<div id="el_2017" class="tipContent">
+        <h2><a href="http://localhost:8000/dua-xe-games/tay-dua-xe-tai">Tay đua xe tải</a></h2>
         <div class="tooltip_content">
-        	<img title="Barbie's Villian Makeover" alt="barbies-villian-makeover" src="http://teengame.net/images/game_avatar/barbies-villain-makeover-icon-1472271509.jpg" />
+        	<img title="Tay đua xe tải" alt="tay-dua-xe-tai" src="http://localhost:8000/images/game_avatar/tay-dua-xe-tai-icon-1477103581.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Fashion
+                                            Đua xe
                                     </strong>
             	<div>
-            		    					3 plays
+            		    					272 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:54%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Barbie loves all things Disney and lately she began to be interested in the mysterious and interesting Disney villains. She always loves a challenge and...</p>
+            	<p> Tay đua xe tải - Truck Racer là một game đua xe hấp dẫn giành cho fans của thể loại game tốc độ. Nội dung game là câu chuyện...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -5356,30 +7210,30 @@ Use your mouse to play
 																							<div class="col-xs-4">
 									<div class="item">
 									    <div class="item-image">
-											<a href="http://teengame.net/fashion-games/lucy-hale-round-the-clock-fashionista">
-												<img src="http://teengame.net/images/game_avatar/lucy-hale-round-the-clock-fashionista-icon-1472270744.jpg" alt="Lucy Hale Round the Clock Fashionista" class="showTip el_258" />
+											<a href="http://localhost:8000/dua-xe-games/lai-xe-vuot-dia-hinh">
+												<img src="http://localhost:8000/images/game_avatar/lai-xe-vuot-dia-hinh-icon-1476150489.jpg" alt="Lái xe vượt địa hình " class="showTip el_1870" />
 											</a>
 									    </div>
 									    <div class="item-title">
-											<a href="http://teengame.net/fashion-games/lucy-hale-round-the-clock-fashionista">Lucy Hale Round the Clock Fashionista</a>
+											<a href="http://localhost:8000/dua-xe-games/lai-xe-vuot-dia-hinh">Lái xe vượt địa hình </a>
 										</div>
 									</div>
-																			<div id="el_258" class="tipContent">
-        <h2><a href="http://teengame.net/fashion-games/lucy-hale-round-the-clock-fashionista">Lucy Hale Round the Clock Fashionista</a></h2>
+																			<div id="el_1870" class="tipContent">
+        <h2><a href="http://localhost:8000/dua-xe-games/lai-xe-vuot-dia-hinh">Lái xe vượt địa hình </a></h2>
         <div class="tooltip_content">
-        	<img title="Lucy Hale Round the Clock Fashionista" alt="lucy-hale-round-the-clock-fashionista" src="http://teengame.net/images/game_avatar/lucy-hale-round-the-clock-fashionista-icon-1472270744.jpg" />
+        	<img title="Lái xe vượt địa hình " alt="lai-xe-vuot-dia-hinh" src="http://localhost:8000/images/game_avatar/lai-xe-vuot-dia-hinh-icon-1476150489.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Fashion
+                                            Đua xe
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					706 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:74%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Pretty Little Liars actress Lucy Hale is looking at a very busy day ahead! First up is lunch with her PPL co-stars. Then in the afternoon there is a...</p>
+            	<p> Lái xe vượt địa hình - Endless Truck là một trong những game đua xe thú vị được game thủ trên toàn thế giới vô cùng yêu...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -5388,30 +7242,30 @@ Use your mouse to play
 																							<div class="col-xs-4">
 									<div class="item">
 									    <div class="item-image">
-											<a href="http://teengame.net/fashion-games/tris-date-night-dressup">
-												<img src="http://teengame.net/images/game_avatar/tris-date-night-dress-up-icon-1472270489.jpg" alt="Tris Date Night Dressup" class="showTip el_257" />
+											<a href="http://localhost:8000/dua-xe-games/do-xe-dung-cach-4">
+												<img src="http://localhost:8000/images/game_avatar/do-xe-dung-cach-4-icon-1470723643.jpg" alt="Đỗ xe đúng cách 4" class="showTip el_1242" />
 											</a>
 									    </div>
 									    <div class="item-title">
-											<a href="http://teengame.net/fashion-games/tris-date-night-dressup">Tris Date Night Dressup</a>
+											<a href="http://localhost:8000/dua-xe-games/do-xe-dung-cach-4">Đỗ xe đúng cách 4</a>
 										</div>
 									</div>
-																			<div id="el_257" class="tipContent">
-        <h2><a href="http://teengame.net/fashion-games/tris-date-night-dressup">Tris Date Night Dressup</a></h2>
+																			<div id="el_1242" class="tipContent">
+        <h2><a href="http://localhost:8000/dua-xe-games/do-xe-dung-cach-4">Đỗ xe đúng cách 4</a></h2>
         <div class="tooltip_content">
-        	<img title="Tris Date Night Dressup" alt="tris-date-night-dressup" src="http://teengame.net/images/game_avatar/tris-date-night-dress-up-icon-1472270489.jpg" />
+        	<img title="Đỗ xe đúng cách 4" alt="do-xe-dung-cach-4" src="http://localhost:8000/images/game_avatar/do-xe-dung-cach-4-icon-1470723643.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Fashion
+                                            Đua xe
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					377 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:90%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Tris is going out on a date tonight. What should she wear to impress her boyfriend? Open up the secret boxes to find the most stylish clothes ever,...</p>
+            	<p> Park My Car - Đỗ xe đúng cách 4 là một game đua xe cực kỳ thú vị giành cho các game thủ. Sở hữu hình ảnh chân thực, sắc...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -5420,30 +7274,30 @@ Use your mouse to play
 																							<div class="col-xs-4">
 									<div class="item">
 									    <div class="item-image">
-											<a href="http://teengame.net/fashion-games/winter-friends">
-												<img src="http://teengame.net/images/game_avatar/winter_friends-icon-1472270359.jpg" alt="Winter Friends" class="showTip el_256" />
+											<a href="http://localhost:8000/dua-xe-games/do-xe-dung-cach-3">
+												<img src="http://localhost:8000/images/game_avatar/do-xe-dung-cach-3-icon-1470016803.jpg" alt="Đỗ xe đúng cách 3" class="showTip el_1173" />
 											</a>
 									    </div>
 									    <div class="item-title">
-											<a href="http://teengame.net/fashion-games/winter-friends">Winter Friends</a>
+											<a href="http://localhost:8000/dua-xe-games/do-xe-dung-cach-3">Đỗ xe đúng cách 3</a>
 										</div>
 									</div>
-																			<div id="el_256" class="tipContent">
-        <h2><a href="http://teengame.net/fashion-games/winter-friends">Winter Friends</a></h2>
+																			<div id="el_1173" class="tipContent">
+        <h2><a href="http://localhost:8000/dua-xe-games/do-xe-dung-cach-3">Đỗ xe đúng cách 3</a></h2>
         <div class="tooltip_content">
-        	<img title="Winter Friends" alt="winter-friends" src="http://teengame.net/images/game_avatar/winter_friends-icon-1472270359.jpg" />
+        	<img title="Đỗ xe đúng cách 3" alt="do-xe-dung-cach-3" src="http://localhost:8000/images/game_avatar/do-xe-dung-cach-3-icon-1470016803.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Fashion
+                                            Đua xe
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					423 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:56%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> I think it will be a lovely winter day and the four friends are going out for a walk in the snow. Get them all dressed up, or any of the four if you like,...</p>
+            	<p> Đỗ xe đúng cách 3 - Fire Truck là một trong những game vô cùng hấp dẫn giành cho những ai yêu thích thể loại game đua...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -5455,37 +7309,37 @@ Use your mouse to play
 												<div class="col-sm-4">
 					<div class="boxmini">
 						<div class="boxmini-title">
-							<h3><a href="http://teengame.net/strategy-games">Strategy Games</a></h3>
-							<a href="http://teengame.net/strategy-games" class="boxmini-seemore">Show all</a>
+							<h3><a href="http://localhost:8000/vui-nhon-games">Vui nhộn  Games</a></h3>
+							<a href="http://localhost:8000/vui-nhon-games" class="boxmini-seemore">Show all</a>
 						</div>
 						<div class="row">
 																							<div class="col-xs-4">
 									<div class="item">
 									    <div class="item-image">
-											<a href="http://teengame.net/strategy-games/swords-and-souls">
-												<img src="http://teengame.net/images/game_avatar/swords-and-souls-icon-1472723720.jpg" alt="Swords And Souls" class="showTip el_280" />
+											<a href="http://localhost:8000/vui-nhon-games/lily-nghich-ngom">
+												<img src="http://localhost:8000/images/game_avatar/lily-nghich-ngom-icon-1485230117.jpg" alt="Lily nghịch ngợm" class="showTip el_2577" />
 											</a>
 									    </div>
 									    <div class="item-title">
-											<a href="http://teengame.net/strategy-games/swords-and-souls">Swords And Souls</a>
+											<a href="http://localhost:8000/vui-nhon-games/lily-nghich-ngom">Lily nghịch ngợm</a>
 										</div>
 									</div>
-																			<div id="el_280" class="tipContent">
-        <h2><a href="http://teengame.net/strategy-games/swords-and-souls">Swords And Souls</a></h2>
+																			<div id="el_2577" class="tipContent">
+        <h2><a href="http://localhost:8000/vui-nhon-games/lily-nghich-ngom">Lily nghịch ngợm</a></h2>
         <div class="tooltip_content">
-        	<img title="Swords And Souls" alt="swords-and-souls" src="http://teengame.net/images/game_avatar/swords-and-souls-icon-1472723720.jpg" />
+        	<img title="Lily nghịch ngợm" alt="lily-nghich-ngom" src="http://localhost:8000/images/game_avatar/lily-nghich-ngom-icon-1485230117.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Strategy
+                                            Vui nhộn 
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					394 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:100%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Welcome to Soul Town! Design your Soul, train him and step into the Arena! Unlock new skills, buy new equipment and make your way to the top in this...</p>
+            	<p> Nếu yêu thích các tựa game vui nhộn thì chắc hẳn bạn sẽ không thể bỏ lỡ game online đình đám được các gamer ở mọi...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -5494,30 +7348,30 @@ Use your mouse to play
 																							<div class="col-xs-4">
 									<div class="item">
 									    <div class="item-image">
-											<a href="http://teengame.net/strategy-games/juicy-bazooka">
-												<img src="http://teengame.net/images/game_avatar/juicy-bazooka-icon-1472721527.jpg" alt="Juicy Bazooka" class="showTip el_270" />
+											<a href="http://localhost:8000/vui-nhon-games/dora-nghich-ngom">
+												<img src="http://localhost:8000/images/game_avatar/dora-nghich-ngom-icon-1485228317.jpg" alt="Dora nghịch ngợm" class="showTip el_2574" />
 											</a>
 									    </div>
 									    <div class="item-title">
-											<a href="http://teengame.net/strategy-games/juicy-bazooka">Juicy Bazooka</a>
+											<a href="http://localhost:8000/vui-nhon-games/dora-nghich-ngom">Dora nghịch ngợm</a>
 										</div>
 									</div>
-																			<div id="el_270" class="tipContent">
-        <h2><a href="http://teengame.net/strategy-games/juicy-bazooka">Juicy Bazooka</a></h2>
+																			<div id="el_2574" class="tipContent">
+        <h2><a href="http://localhost:8000/vui-nhon-games/dora-nghich-ngom">Dora nghịch ngợm</a></h2>
         <div class="tooltip_content">
-        	<img title="Juicy Bazooka" alt="juicy-bazooka" src="http://teengame.net/images/game_avatar/juicy-bazooka-icon-1472721527.jpg" />
+        	<img title="Dora nghịch ngợm" alt="dora-nghich-ngom" src="http://localhost:8000/images/game_avatar/dora-nghich-ngom-icon-1485228317.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Strategy
+                                            Vui nhộn 
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					636 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:86%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> This rugged-looking guy with three-day stubble needs your help to get rid of baddies as vengeance for stealing his food in Juicy Bazooka, a fun shooting...</p>
+            	<p> Dora Baby Caring Slacking – Dora nghịch ngợm là một trong những trò chơi thú vị thuộc series game vui nhộn Slacking đình đám...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -5526,30 +7380,30 @@ Use your mouse to play
 																							<div class="col-xs-4">
 									<div class="item">
 									    <div class="item-image">
-											<a href="http://teengame.net/strategy-games/cursed-treasure-2">
-												<img src="http://teengame.net/images/game_avatar/cursed-treasure-2-icon-1472119553.jpg" alt="Cursed Treasure 2" class="showTip el_237" />
+											<a href="http://localhost:8000/vui-nhon-games/santa-luom-qua">
+												<img src="http://localhost:8000/images/game_avatar/santa-luom-qua-icon-1483586415.jpg" alt="Santa lượm quà" class="showTip el_2467" />
 											</a>
 									    </div>
 									    <div class="item-title">
-											<a href="http://teengame.net/strategy-games/cursed-treasure-2">Cursed Treasure 2</a>
+											<a href="http://localhost:8000/vui-nhon-games/santa-luom-qua">Santa lượm quà</a>
 										</div>
 									</div>
-																			<div id="el_237" class="tipContent">
-        <h2><a href="http://teengame.net/strategy-games/cursed-treasure-2">Cursed Treasure 2</a></h2>
+																			<div id="el_2467" class="tipContent">
+        <h2><a href="http://localhost:8000/vui-nhon-games/santa-luom-qua">Santa lượm quà</a></h2>
         <div class="tooltip_content">
-        	<img title="Cursed Treasure 2" alt="cursed-treasure-2" src="http://teengame.net/images/game_avatar/cursed-treasure-2-icon-1472119553.jpg" />
+        	<img title="Santa lượm quà" alt="santa-luom-qua" src="http://localhost:8000/images/game_avatar/santa-luom-qua-icon-1483586415.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Strategy
+                                            Vui nhộn 
                                     </strong>
             	<div>
-            		    					3 plays
+            		    					504 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:74%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Cursed Treasure 2 is here. They are coming! And you say: Hey! Heroes! Leave my gems alone! Or you are damned! Certainly you will need some more power to...</p>
+            	<p> Santa lượm quà là một trong những game vui nhộn thú vị giành cho các gamer trong những ngày cuối năm này. Sở hữu lối chơi...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -5558,30 +7412,30 @@ Use your mouse to play
 																							<div class="col-xs-4">
 									<div class="item">
 									    <div class="item-image">
-											<a href="http://teengame.net/strategy-games/incursion-2-the-artifact">
-												<img src="http://teengame.net/images/game_avatar/incursion-2-the-artifact-icon-1472119487.jpg" alt="Incursion 2: The Artifact" class="showTip el_236" />
+											<a href="http://localhost:8000/vui-nhon-games/truot-van-nuoc">
+												<img src="http://localhost:8000/images/game_avatar/truot-van-nuoc-icon-1483581820.jpg" alt="Trượt ván nước" class="showTip el_2461" />
 											</a>
 									    </div>
 									    <div class="item-title">
-											<a href="http://teengame.net/strategy-games/incursion-2-the-artifact">Incursion 2: The Artifact</a>
+											<a href="http://localhost:8000/vui-nhon-games/truot-van-nuoc">Trượt ván nước</a>
 										</div>
 									</div>
-																			<div id="el_236" class="tipContent">
-        <h2><a href="http://teengame.net/strategy-games/incursion-2-the-artifact">Incursion 2: The Artifact</a></h2>
+																			<div id="el_2461" class="tipContent">
+        <h2><a href="http://localhost:8000/vui-nhon-games/truot-van-nuoc">Trượt ván nước</a></h2>
         <div class="tooltip_content">
-        	<img title="Incursion 2: The Artifact" alt="incursion-2-the-artifact" src="http://teengame.net/images/game_avatar/incursion-2-the-artifact-icon-1472119487.jpg" />
+        	<img title="Trượt ván nước" alt="truot-van-nuoc" src="http://localhost:8000/images/game_avatar/truot-van-nuoc-icon-1483581820.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Strategy
+                                            Vui nhộn 
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					505 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:88%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Protect the kingdom from dark forces in Incursion 2 The Artefact. Create an army and place your troops along the path to stop all incomming waves. Good...</p>
+            	<p> Happy Summer - Trượt ván nước là một game vui nhộn thú vị giành cho các gamer yêu thích thể loại này. Sở hữu lối chơi đơn...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -5590,30 +7444,30 @@ Use your mouse to play
 																							<div class="col-xs-4">
 									<div class="item">
 									    <div class="item-image">
-											<a href="http://teengame.net/strategy-games/age-of-war-2">
-												<img src="http://teengame.net/images/game_avatar/age-of-war-2-icon-1472119408.jpg" alt="Age Of War 2" class="showTip el_235" />
+											<a href="http://localhost:8000/vui-nhon-games/ban-bong-bay">
+												<img src="http://localhost:8000/images/game_avatar/ban-bong-bay-icon-1483504203.jpg" alt="Bắn bóng bay" class="showTip el_2457" />
 											</a>
 									    </div>
 									    <div class="item-title">
-											<a href="http://teengame.net/strategy-games/age-of-war-2">Age Of War 2</a>
+											<a href="http://localhost:8000/vui-nhon-games/ban-bong-bay">Bắn bóng bay</a>
 										</div>
 									</div>
-																			<div id="el_235" class="tipContent">
-        <h2><a href="http://teengame.net/strategy-games/age-of-war-2">Age Of War 2</a></h2>
+																			<div id="el_2457" class="tipContent">
+        <h2><a href="http://localhost:8000/vui-nhon-games/ban-bong-bay">Bắn bóng bay</a></h2>
         <div class="tooltip_content">
-        	<img title="Age Of War 2" alt="age-of-war-2" src="http://teengame.net/images/game_avatar/age-of-war-2-icon-1472119408.jpg" />
+        	<img title="Bắn bóng bay" alt="ban-bong-bay" src="http://localhost:8000/images/game_avatar/ban-bong-bay-icon-1483504203.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Strategy
+                                            Vui nhộn 
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					266 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:46%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Age of War 2 is a strategic defense game. Aim of the game is to destroy the enemy base while defending your own. Build turrets to defend your base and...</p>
+            	<p> Bắn bóng bay - Carnival Balloon Shoot là một game vui nhộn thú vị giành cho các gamer ở mọi lứa tuổi. Với lối chơi đơn giản...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -5622,30 +7476,30 @@ Use your mouse to play
 																							<div class="col-xs-4">
 									<div class="item">
 									    <div class="item-image">
-											<a href="http://teengame.net/strategy-games/tech-and-magic">
-												<img src="http://teengame.net/images/game_avatar/tech-and-magic-icon-1472119333.jpg" alt="Tech And Magic" class="showTip el_234" />
+											<a href="http://localhost:8000/vui-nhon-games/dap-pha-sieu-xe">
+												<img src="http://localhost:8000/images/game_avatar/dap-pha-sieu-xe-icon-1479713732.jpg" alt="Đập phá siêu xe" class="showTip el_2287" />
 											</a>
 									    </div>
 									    <div class="item-title">
-											<a href="http://teengame.net/strategy-games/tech-and-magic">Tech And Magic</a>
+											<a href="http://localhost:8000/vui-nhon-games/dap-pha-sieu-xe">Đập phá siêu xe</a>
 										</div>
 									</div>
-																			<div id="el_234" class="tipContent">
-        <h2><a href="http://teengame.net/strategy-games/tech-and-magic">Tech And Magic</a></h2>
+																			<div id="el_2287" class="tipContent">
+        <h2><a href="http://localhost:8000/vui-nhon-games/dap-pha-sieu-xe">Đập phá siêu xe</a></h2>
         <div class="tooltip_content">
-        	<img title="Tech And Magic" alt="tech-and-magic" src="http://teengame.net/images/game_avatar/tech-and-magic-icon-1472119333.jpg" />
+        	<img title="Đập phá siêu xe" alt="dap-pha-sieu-xe" src="http://localhost:8000/images/game_avatar/dap-pha-sieu-xe-icon-1479713732.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Strategy
+                                            Vui nhộn 
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					453 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:46%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> In this fun strategy game you have to fight against waves of attacking robots. Use your wand to blast all enemies away before they destroy your squat....</p>
+            	<p> Đập phá siêu xe - Click Car là một game vui nhộn thú vị giành cho các game thủ ở mọi lứa tuổi. Nhiệm vụ của bạn trong...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -5657,37 +7511,37 @@ Use your mouse to play
 												<div class="col-sm-4">
 					<div class="boxmini">
 						<div class="boxmini-title">
-							<h3><a href="http://teengame.net/puzzle-games">Puzzle Games</a></h3>
-							<a href="http://teengame.net/puzzle-games" class="boxmini-seemore">Show all</a>
+							<h3><a href="http://localhost:8000/thoi-trang-games">Thời trang Games</a></h3>
+							<a href="http://localhost:8000/thoi-trang-games" class="boxmini-seemore">Show all</a>
 						</div>
 						<div class="row">
 																							<div class="col-xs-4">
 									<div class="item">
 									    <div class="item-image">
-											<a href="http://teengame.net/puzzle-games/fractured-4">
-												<img src="http://teengame.net/images/game_avatar/fractured-4-icon-1473156019.jpg" alt="Fractured 4" class="showTip el_295" />
+											<a href="http://localhost:8000/thoi-trang-games/thoi-trang-cua-anna">
+												<img src="http://localhost:8000/images/game_avatar/thoi-trang-cua-anna-icon-1485231468.jpg" alt="Thời trang của Anna" class="showTip el_2580" />
 											</a>
 									    </div>
 									    <div class="item-title">
-											<a href="http://teengame.net/puzzle-games/fractured-4">Fractured 4</a>
+											<a href="http://localhost:8000/thoi-trang-games/thoi-trang-cua-anna">Thời trang của Anna</a>
 										</div>
 									</div>
-																			<div id="el_295" class="tipContent">
-        <h2><a href="http://teengame.net/puzzle-games/fractured-4">Fractured 4</a></h2>
+																			<div id="el_2580" class="tipContent">
+        <h2><a href="http://localhost:8000/thoi-trang-games/thoi-trang-cua-anna">Thời trang của Anna</a></h2>
         <div class="tooltip_content">
-        	<img title="Fractured 4" alt="fractured-4" src="http://teengame.net/images/game_avatar/fractured-4-icon-1473156019.jpg" />
+        	<img title="Thời trang của Anna" alt="thoi-trang-cua-anna" src="http://localhost:8000/images/game_avatar/thoi-trang-cua-anna-icon-1485231468.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Puzzle
+                                            Thời trang
                                     </strong>
             	<div>
-            		    					1 plays
+            		    					1475 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:62%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Help these two children who are caught up in the strange world of Fractured 4. Solve puzzles and pilot both through shattered pieces to bring them...</p>
+            	<p> Nếu yêu thích bộ phim hoạt hình đình đám Nữ hoàng băng giá thì chắc hẳn bạn khó có thể bỏ qua tựa game thời trang công...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -5696,30 +7550,30 @@ Use your mouse to play
 																							<div class="col-xs-4">
 									<div class="item">
 									    <div class="item-image">
-											<a href="http://teengame.net/puzzle-games/fractured-3">
-												<img src="http://teengame.net/images/game_avatar/fractured-3-icon-1473155936.jpg" alt="Fractured 3" class="showTip el_294" />
+											<a href="http://localhost:8000/thoi-trang-games/thoi-trang-nu-hoang-2">
+												<img src="http://localhost:8000/images/game_avatar/thoi-trang-nu-hoang-2-icon-1483583132.jpg" alt="Thời trang nữ hoàng 2" class="showTip el_2463" />
 											</a>
 									    </div>
 									    <div class="item-title">
-											<a href="http://teengame.net/puzzle-games/fractured-3">Fractured 3</a>
+											<a href="http://localhost:8000/thoi-trang-games/thoi-trang-nu-hoang-2">Thời trang nữ hoàng 2</a>
 										</div>
 									</div>
-																			<div id="el_294" class="tipContent">
-        <h2><a href="http://teengame.net/puzzle-games/fractured-3">Fractured 3</a></h2>
+																			<div id="el_2463" class="tipContent">
+        <h2><a href="http://localhost:8000/thoi-trang-games/thoi-trang-nu-hoang-2">Thời trang nữ hoàng 2</a></h2>
         <div class="tooltip_content">
-        	<img title="Fractured 3" alt="fractured-3" src="http://teengame.net/images/game_avatar/fractured-3-icon-1473155936.jpg" />
+        	<img title="Thời trang nữ hoàng 2" alt="thoi-trang-nu-hoang-2" src="http://localhost:8000/images/game_avatar/thoi-trang-nu-hoang-2-icon-1483583132.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Puzzle
+                                            Thời trang
                                     </strong>
             	<div>
-            		    					1 plays
+            		    					1097 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:82%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Put together the single pieces in the third episode of the mysterious puzzle platform game, Fractured 3. Your objective is to help a little girl and boy...</p>
+            	<p> Nếu yêu thích thể loại game thời trang thì chắc hẳn bạn sẽ khó có thể bỏ qua tựa game đình đám Ice Queen Beauty - Thời...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -5728,30 +7582,30 @@ Use your mouse to play
 																							<div class="col-xs-4">
 									<div class="item">
 									    <div class="item-image">
-											<a href="http://teengame.net/puzzle-games/fractured-2">
-												<img src="http://teengame.net/images/game_avatar/fractured-2-icon-1473155769.jpg" alt="Fractured 2" class="showTip el_293" />
+											<a href="http://localhost:8000/thoi-trang-games/thoi-trang-cua-annie">
+												<img src="http://localhost:8000/images/game_avatar/thoi-trang-cua-annie-icon-1483495147.jpg" alt="Thời trang của Annie" class="showTip el_2455" />
 											</a>
 									    </div>
 									    <div class="item-title">
-											<a href="http://teengame.net/puzzle-games/fractured-2">Fractured 2</a>
+											<a href="http://localhost:8000/thoi-trang-games/thoi-trang-cua-annie">Thời trang của Annie</a>
 										</div>
 									</div>
-																			<div id="el_293" class="tipContent">
-        <h2><a href="http://teengame.net/puzzle-games/fractured-2">Fractured 2</a></h2>
+																			<div id="el_2455" class="tipContent">
+        <h2><a href="http://localhost:8000/thoi-trang-games/thoi-trang-cua-annie">Thời trang của Annie</a></h2>
         <div class="tooltip_content">
-        	<img title="Fractured 2" alt="fractured-2" src="http://teengame.net/images/game_avatar/fractured-2-icon-1473155769.jpg" />
+        	<img title="Thời trang của Annie" alt="thoi-trang-cua-annie" src="http://localhost:8000/images/game_avatar/thoi-trang-cua-annie-icon-1483495147.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Puzzle
+                                            Thời trang
                                     </strong>
             	<div>
-            		    					1 plays
+            		    					1038 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:60%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Follow the story of a sad little girl who lost her daddy and couldn&#39;t process it. Like in the first sequel of the addicting puzzle platform game it is...</p>
+            	<p> Thời trang của Annie - Annie Winter Dress là một game thời trang thú vị giành cho những bé gái có niềm đam mê với công việc...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -5760,30 +7614,30 @@ Use your mouse to play
 																							<div class="col-xs-4">
 									<div class="item">
 									    <div class="item-image">
-											<a href="http://teengame.net/puzzle-games/fractured">
-												<img src="http://teengame.net/images/game_avatar/fractured-icon-1473155635.jpg" alt="Fractured" class="showTip el_292" />
+											<a href="http://localhost:8000/thoi-trang-games/thoi-trang-cua-mia">
+												<img src="http://localhost:8000/images/game_avatar/thoi-trang-cua-mia-icon-1479714574.jpg" alt="Thời trang của Mia" class="showTip el_2292" />
 											</a>
 									    </div>
 									    <div class="item-title">
-											<a href="http://teengame.net/puzzle-games/fractured">Fractured</a>
+											<a href="http://localhost:8000/thoi-trang-games/thoi-trang-cua-mia">Thời trang của Mia</a>
 										</div>
 									</div>
-																			<div id="el_292" class="tipContent">
-        <h2><a href="http://teengame.net/puzzle-games/fractured">Fractured</a></h2>
+																			<div id="el_2292" class="tipContent">
+        <h2><a href="http://localhost:8000/thoi-trang-games/thoi-trang-cua-mia">Thời trang của Mia</a></h2>
         <div class="tooltip_content">
-        	<img title="Fractured" alt="fractured" src="http://teengame.net/images/game_avatar/fractured-icon-1473155635.jpg" />
+        	<img title="Thời trang của Mia" alt="thoi-trang-cua-mia" src="http://localhost:8000/images/game_avatar/thoi-trang-cua-mia-icon-1479714574.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Puzzle
+                                            Bạn gái
                                     </strong>
             	<div>
-            		    					2 plays
+            		    					2152 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:60%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> In this mystical platform game the mother is separate from her son. Figure out how to move the child through all fragments and get him to his mommy. When...</p>
+            	<p> Mia Dress Up – Thời trang của Mia là game bạn gái khá thú vị giành cho các gamer ở mọi lứa tuổi. Nội dung game xoay quanh công...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -5792,30 +7646,30 @@ Use your mouse to play
 																							<div class="col-xs-4">
 									<div class="item">
 									    <div class="item-image">
-											<a href="http://teengame.net/puzzle-games/snail-bob-8-island-story">
-												<img src="http://teengame.net/images/game_avatar/snail-bob-8-icon-1473069096.jpg" alt="Snail Bob 8 Island Story" class="showTip el_290" />
+											<a href="http://localhost:8000/thoi-trang-games/mua-sam-cung-barbie">
+												<img src="http://localhost:8000/images/game_avatar/mua-sam-cung-barbie-icon-1479714099.jpg" alt="Mua sắm cùng Barbie" class="showTip el_2289" />
 											</a>
 									    </div>
 									    <div class="item-title">
-											<a href="http://teengame.net/puzzle-games/snail-bob-8-island-story">Snail Bob 8 Island Story</a>
+											<a href="http://localhost:8000/thoi-trang-games/mua-sam-cung-barbie">Mua sắm cùng Barbie</a>
 										</div>
 									</div>
-																			<div id="el_290" class="tipContent">
-        <h2><a href="http://teengame.net/puzzle-games/snail-bob-8-island-story">Snail Bob 8 Island Story</a></h2>
+																			<div id="el_2289" class="tipContent">
+        <h2><a href="http://localhost:8000/thoi-trang-games/mua-sam-cung-barbie">Mua sắm cùng Barbie</a></h2>
         <div class="tooltip_content">
-        	<img title="Snail Bob 8 Island Story" alt="snail-bob-8-island-story" src="http://teengame.net/images/game_avatar/snail-bob-8-icon-1473069096.jpg" />
+        	<img title="Mua sắm cùng Barbie" alt="mua-sam-cung-barbie" src="http://localhost:8000/images/game_avatar/mua-sam-cung-barbie-icon-1479714099.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Puzzle
+                                            Thời trang
                                     </strong>
             	<div>
-            		    					1 plays
+            		    					885 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:78%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Snail Bob 8: Island Story is another physics-based puzzle game with the lazy sluggard Bob. Help Bob the Snail back home from the island full of puzzles...</p>
+            	<p> Barbie Nightlife Shopping – Mua sắm cùng Barbie là một game cực hay thuộc thể loại game thời trang giành cho các bạn...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -5824,32 +7678,30 @@ Use your mouse to play
 																							<div class="col-xs-4">
 									<div class="item">
 									    <div class="item-image">
-											<a href="http://teengame.net/puzzle-games/snail-bob-7-fantasy-story">
-												<img src="http://teengame.net/images/game_avatar/snail-bob-7-icon-1473068842.jpg" alt="Snail Bob 7 Fantasy Story" class="showTip el_289" />
+											<a href="http://localhost:8000/thoi-trang-games/elsa-di-picnic">
+												<img src="http://localhost:8000/images/game_avatar/elsa-di-picnic-icon-1477102562.jpg" alt="Elsa đi picnic" class="showTip el_2014" />
 											</a>
 									    </div>
 									    <div class="item-title">
-											<a href="http://teengame.net/puzzle-games/snail-bob-7-fantasy-story">Snail Bob 7 Fantasy Story</a>
+											<a href="http://localhost:8000/thoi-trang-games/elsa-di-picnic">Elsa đi picnic</a>
 										</div>
 									</div>
-																			<div id="el_289" class="tipContent">
-        <h2><a href="http://teengame.net/puzzle-games/snail-bob-7-fantasy-story">Snail Bob 7 Fantasy Story</a></h2>
+																			<div id="el_2014" class="tipContent">
+        <h2><a href="http://localhost:8000/thoi-trang-games/elsa-di-picnic">Elsa đi picnic</a></h2>
         <div class="tooltip_content">
-        	<img title="Snail Bob 7 Fantasy Story" alt="snail-bob-7-fantasy-story" src="http://teengame.net/images/game_avatar/snail-bob-7-icon-1473068842.jpg" />
+        	<img title="Elsa đi picnic" alt="elsa-di-picnic" src="http://localhost:8000/images/game_avatar/elsa-di-picnic-icon-1477102562.jpg" />
             <div class="tooltip_text">
                 <span>Category: </span>
                 <strong>
-                                            Puzzle
+                                            Thời trang
                                     </strong>
             	<div>
-            		    					1 plays
+            		    					636 plays
     				                    <div class="rate-result-cnt">
-        <div class="rate-bg" style="width:0%"></div>
+        <div class="rate-bg" style="width:84%"></div>
     <div class="rate-stars"></div>
 </div>            	</div>
-            	<p> Snail Bob returns with a new fantasy story. Help the cute slug to overcome all adventures by pointing and clicking on interactive spots. Much fun!
-
-How...</p>
+            	<p> Elsa đi picnic - Elsa Picnic Style là món quà tuyệt vời giành tặng cho những gamer yêu thích thời trang. Với lối chơi đơn giản,...</p>
             </div>
             <div class="clearfix"></div>
         </div>
@@ -5861,9 +7713,9 @@ How...</p>
 						</div>
 </div>
 
-<script src="http://teengame.net/assets/js/swiper.min.js"></script>
+<script src="http://localhost:8000/assets/js/swiper.min.js"></script>
 
-<link media="all" type="text/css" rel="stylesheet" href="http://teengame.net/assets/css/swiper.min.css">
+<link media="all" type="text/css" rel="stylesheet" href="http://localhost:8000/assets/css/swiper.min.css">
 
 <style rel="stylesheet" type="text/css" media="all">
 	.boxgame-pagination {
@@ -5940,14 +7792,38 @@ How...</p>
 
 				<div class="tags">
 	<ul>
+			<li><a href="http://localhost:8000/kinh-dien-games">Game Kinh dien</a><span>|</span></li>
+			<li><a href="http://localhost:8000/lam-banh-games">Game Lam banh</a><span>|</span></li>
+			<li><a href="http://localhost:8000/xep-hinh-games">Game Xep hinh</a><span>|</span></li>
+			<li><a href="http://localhost:8000/zombie-games">Game Zombie</a><span>|</span></li>
+			<li><a href="http://localhost:8000/mario-games">Game Mario</a><span>|</span></li>
+			<li><a href="http://localhost:8000/bong-da-games">Game Bong da</a><span>|</span></li>
+			<li><a href="http://localhost:8000/kinh-di-games">Game Kinh di</a><span>|</span></li>
+			<li><a href="http://localhost:8000/2-nguoi-choi-games">Game 2 nguoi choi</a><span>|</span></li>
+			<li><a href="http://localhost:8000/nong-trai-games">Game Nong trai</a><span>|</span></li>
+			<li><a href="http://localhost:8000/phieu-luu-games">Game Phieu luu</a><span>|</span></li>
+			<li><a href="http://localhost:8000/dua-xe-dia-hinh-games">Game Dua xe dia hinh</a><span>|</span></li>
+			<li><a href="http://localhost:8000/dat-boom-games">Game Dat boom</a><span>|</span></li>
+			<li><a href="http://localhost:8000/tom-and-jerry-games">Game Tom and Jerry</a><span>|</span></li>
+			<li><a href="http://localhost:8000/minion-games">Game Minion</a><span>|</span></li>
+			<li><a href="http://localhost:8000/hoat-hinh-games">Game Hoat hinh</a><span>|</span></li>
+			<li><a href="http://localhost:8000/naruto-games">Game Naruto</a><span>|</span></li>
+			<li><a href="http://localhost:8000/pikachu-games">Game Pikachu</a><span>|</span></li>
+			<li><a href="http://localhost:8000/7-vien-ngoc-rong-games">Game 7 Vien Ngoc Rong</a><span>|</span></li>
+			<li><a href="http://localhost:8000/ban-sung-games">Game Ban sung</a><span>|</span></li>
+			<li><a href="http://localhost:8000/dao-vang-games">Game Dao vang</a><span>|</span></li>
+			<li><a href="http://localhost:8000/doremon-games">Game Doremon</a><span>|</span></li>
+			<li><a href="http://localhost:8000/trang-diem-games">Game Trang diem</a><span>|</span></li>
+			<li><a href="http://localhost:8000/thu-thanh-games">Game Thu thanh</a><span>|</span></li>
+			<li><a href="http://localhost:8000/to-mau-games">Game To Mau</a><span>|</span></li>
 		</ul>
 	<div class="clearfix"></div>
 </div>
 <div class="footer">
 	<ul>
-	  <li><a href="http://teengame.net" >Home</a></li>
-	  <li><a href="http://teengame.net/feedback" >Feedback</a></li>
-	  <li><a href="http://teengame.net/policy" >Policy</a></li>
+	  <li><a href="http://localhost:8000" >Home</a></li>
+	  <li><a href="http://localhost:8000/feedback" >Feedback</a></li>
+	  <li><a href="http://localhost:8000/policy" >Policy</a></li>
 	</ul>
 	<div class="copyright">
 	  	<p>Copyright 2016 by Teengame.net</p>
@@ -5959,8 +7835,14 @@ How...</p>
 
 	  	<div class="glass"></div>
 
-					
-		
+	  	<div class="container">
+			<div class="row">
+				<div class="col-xs-12 center">
+											<strong><a href="http://choinhanh.vn/game-hanh-dong" title="game hanh dong,game hành động" target="_blank">game hanh dong</a></strong> - <strong><a href="http://choinhanh.vn" title="choi game mien phi,game mini" target="_blank">choi game mien phi</a></strong> - <strong><a href="http://choinhanh.vn/game-thoi-trang" title="trò chơi thời trang,choi game thoi trang" target="_blank">choi game thoi trang</a></strong> - <strong><a href="http://choinhanh.vn/game-dua-xe" title="game đua xe,tro choi dua xe" target="_blank">tro choi dua xe</a></strong> - <strong><a href="http://choinhanh.vn/game-ban-gai" title="game bạn gái,game ban gai" target="_blank">game ban gai</a></strong> - <strong><a href="http://choinhanh.vn/game-nau-an" title="trò chơi nấu ăn,choi game nau an" target="_blank">choi game nau an</a></strong> - <strong><a href="http://choinhanh.vn/game-vui-nhon" title="tro choi vui,game vui nhon" target="_blank">tro choi vui</a></strong> - <strong><a href="http://choinhanh.vn/game-chien-thuat" title="game chien thuat,trò choi chiến thuật" target="_blank">game chien thuat</a></strong> - <strong><a href="http://choinhanh.vn/game-tri-tue" title="game tri tue,tro choi tri tue" target="_blank">game tri tue</a></strong> - <strong><a href="http://choinhanh.vn/game-hay-nhat" title="game hay nhat, tro choi hay" target="_blank">game hay nhat</a></strong> - <strong><a href="http://choinhanh.vn/game-moi-nhat" title="game moi nhat, game hot" target="_blank">game moi nhat</a></strong>
+									</div>
+			</div>
+		</div>
+
 		<div id="fb-root"></div>
 		<script>(function(d, s, id) {
 			  var js, fjs = d.getElementsByTagName(s)[0];

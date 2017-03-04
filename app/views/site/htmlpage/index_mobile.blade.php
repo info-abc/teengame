@@ -7,7 +7,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta property="fb:app_id" content="1008308405878197"/>
 	<meta property="fb:admins" content="1088553914497350"/>
-	<title>			teengame.net
+	<title>			Chơi game vui | Game online 24h hay nhất | choinhanh.vn
 	</title>
 
 			<meta name="robots" content="noodp,index,follow" />
@@ -19,14 +19,14 @@
 	
 	
 	
-			<meta name="description" content="Online game mobile, Best game">
-		<meta name="keywords" content="teengame">
-		<meta name="title" content="teengame.net">
+			<meta name="description" content="Choi game online - Tai tro choi moi và hot nhat 24h. Giải trí với kho game mini với nhiều thể loại game hấp dẫn, cùng choi game và đua top với choinhanh.vn nhé!">
+		<meta name="keywords" content="game, game 24h, tro choi, choi game, game online, game 24h, game hay">
+		<meta name="title" content="Chơi game vui | Game online 24h hay nhất | choinhanh.vn">
 
-							<meta property="og:url" content="http://teengame.net" />
-				<meta property="og:title" content="" />
-		<meta property="og:description" content="" />
-					<meta property="og:image" content="http://teengame.net/images/avatar-game.jpg" />
+							<meta property="og:url" content="http://localhost:8000" />
+				<meta property="og:title" content="Game hay mỗi ngày | Choinhanh.vn" />
+		<meta property="og:description" content="Cổng game mini viet hoa danh cho mobile hay nhất, tham gia đọ sức và tranh đua giải thưởng. Chơi game vui hàng ngày, game cập nhật liên tục, càng chơi càng vui" />
+					<meta property="og:image" content="http://localhost:8000/images/avatar-game.jpg" />
 				
 	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -36,18 +36,28 @@
 	<![endif]-->
 
 			<meta name="resource-type" content="Document" /> 
-			<meta name="generator" content="teengame.net" />
-			<meta name="copyright" content="teengame.net" />
+<meta name="generator" content="choinhanh.vn" />
+<meta name="copyright" content="choinhanh.vn" />
+<meta content='www.altaVista.com, www.aol.com, www.infoseek.com, www.excite.com, www.hotbot.com, www.lycos.com, www.magellan.com, www.looksmart.com, www.cnet.com, www.voila.com, www.google.fr, www.google.com, www.google.com.vn, www.yahoo.fr, www.yahoo.com, www.alltheweb.com, www.msn.com, www.netscape.com, www.nomade.com' name='Search Engines'/>
 
+<link rel="shortcut icon" href="/images/favicon.png" />
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  ga('create', 'UA-44899633-8', 'auto');
+  ga('create', 'UA-71587519-1', 'auto');
   ga('send', 'pageview');
 
+</script>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-7546981319298869",
+    enable_page_level_ads: true
+  });
 </script>
 	
 </head>	<body>
@@ -67,59 +77,28 @@
 	
 	.logo,.search form,.search1 form{display:inline-block}.search input[type=text],.search1 input[type=text]{letter-spacing:1px;font-style:italic;color:#000;height:34px}.logo,.menu-top{margin-left:10px}.charts-medal,.item-play i.fa,.search,i.download,i.play{float:right}body{background:url(/assets/images/bg.jpg) 100% fixed}a{text-decoration:none;color:#538e3e}a:hover{color:#538E1A}.top{padding-bottom:10px;padding-top:10px}.logo{max-width:100px}.logo img{height:auto;max-width:100%}.logo h1,.logo p{text-align:center;font-size:9px;margin-bottom:0;margin-top:0}.search{margin-top:10px;margin-bottom:5px;text-align:right;width:auto}.item-image,.title_center{text-align:center}.search form{position:relative;width:200px}.search input[type=text]{background:#fff;border:1px solid #e5e5e5;border-radius:5px;font-size:14px;max-width:100%;padding:0 30px 0 10px;width:100%}.search input[type=submit]{background:url(/assets/images/search-icon.png) center center no-repeat rgba(0,0,0,0);border:none;font-size:0;height:34px;position:absolute;right:0;top:0;width:34px}.search1 form{position:relative;width:300px}.search1 input[type=text]{background:#fff;border-left:8px solid #538e3e;border-bottom:1px solid #538e3e;font-size:14px;max-width:100%;padding:7px 13px;width:100%}.search1 input[type=submit]{background:url(/assets/images/search-icon.png) center center no-repeat rgba(0,0,0,0);border:none;font-size:0;height:36px;position:absolute;right:0;top:0;width:34px}#iconseach{display:none}a#iconseach i.fa{font-size:25px}a.iconfacebook,a.icongoogleplus{color:#538e3e;cursor:pointer;font-size:24px;padding:5px 8px;vertical-align:middle}.title_center,.title_left{border-bottom:1px solid #cbcbcb;padding-bottom:15px;padding-top:15px}.main{background:#fff}.title_center h1,.title_left h1{font-size:20px;margin-bottom:10px;margin-top:10px}.box>h1,.box>h1>a,.box>h2,.box>h2>a,.box>h3,.box>h3>a{font-size:18px;font-weight:700;color:#538e3e;text-transform:uppercase}.box{padding-left:30px;padding-right:30px}.box>h1,.box>h2,.box>h3{border-bottom:2px solid #474747;margin-bottom:10px;margin-top:10px;padding-bottom:5px;position:relative}.box>h1>a,.box>h2>a,.box>h3>a{text-decoration:none}.box>h4{color:#538e3e;text-transform:uppercase}.box a.box-more{background:#538e3e;border-radius:30px 0 0;color:#fff;float:right;font-size:16px;font-weight:400;padding:5px 30px 5px 35px;position:absolute;right:0;text-decoration:none;text-transform:none;top:-2px}.box img{max-width:100%;height:auto}.item{border:1px solid #474747;margin-bottom:10px;height:140px}.item-image{position:relative}.item-image img{height:auto;width:100%;max-width:100%}.item-image strong{color:#474747;display:block;font-size:13px;font-weight:700;margin-top:5px;padding-left:5px;padding-right:5px;text-align:left}.charts>h3,.copyright,.footer>ul,.item-star,.item-title a,.menu-hide,.menu-login a.signin,.menu-login a.signup,.menu-static ul,.menu-static ul li a,.no-for-mobile,.overlay{text-align:center}.item-image i.fa{color:#fff;font-size:30px;left:43%;position:absolute;top:40%}.overlay{background:rgba(0,0,0,.2);height:100%;opacity:0;position:absolute;top:0;width:100%;transition:opacity .25s ease 0s;-webkit-transition:opacity .25s ease;-moz-transition:opacity .25s ease}.item:hover .overlay{opacity:1}.item-star{margin-bottom:5px}.item a{text-decoration:none;display:block}.item a:focus,.item a:hover{text-decoration:none}.item-title{color:#474747;display:block;padding:5px 3px}.item-title h2{margin-top:0;margin-bottom:0}.item-title a{color:#474747;font-size:13px;font-weight:700}.item-play{padding:5px;color:#fff}.item-play a{color:#fff;display:block}.item-play span{color:#908c8c;font-size:12px}.item-play i.fa{font-size:24px;margin-top:-2px}i.download{font-size:23px;margin-top:-7px}i.play{font-size:16px;margin-top:-2px}.no-for-mobile{margin-bottom:5px;background:#E61219;display:block;border-radius:5px;font-weight:700;color:#fff;padding:10px 2px;width:100%}.footer{padding-top:20px}.footer>ul{background:#fff;border-bottom:1px solid #538e3e;list-style:none;margin-bottom:0;padding-left:0;padding-top:10px}.footer>ul li{display:inline-block;width:auto;padding-left:20px;padding-right:20px}.footer>ul li a{display:block;padding-bottom:10px;color:#474747;text-align:center;text-transform:uppercase;border-bottom:4px solid transparent}.footer>ul li a.active,.footer>ul li a:focus,.footer>ul li a:hover{color:#538e3e;text-decoration:none;border-bottom-color:#538e3e}.copyright{background:#474747;color:#fff;padding-bottom:12px;padding-top:18px}.copyright p{font-size:12px;margin-bottom:3px}.menu-top{background:#538e3e;margin-right:10px}.menu-static{padding-bottom:0;padding-top:0}.menu-static ul{list-style:none;margin-bottom:0;padding:0}.menu-static ul li{display:inline-block;padding-left:35px;padding-right:35px}.menu-static ul li a{color:#fff;display:block;padding-bottom:5px;padding-top:5px;text-transform:uppercase}.menu-static ul li a.active,.menu-static ul li a:focus,.menu-static ul li a:hover{color:#fff;text-decoration:none}.menu-static ul li a i.fa{font-size:24px}.menu-static ul li a span{display:inline-block;padding-bottom:2px;padding-left:10px;vertical-align:middle}.menu-hide{background:#538e3e}.menu-hide a{color:#fff;display:block;line-height:2!important}.menu-hide a i.fa{font-size:14px}.menu-hide a,.menu-show a{text-decoration:none;cursor:pointer}.menu-show a:focus,.menu-show a:hover{border-bottom-color:transparent!important}.menu-show a i.fa{color:#474747;font-size:20px}.menushow{visibility:visible!important}a.menu_show_list{color:#538e3e;cursor:pointer;margin-left:22px}.menu-account{background:#474747}a.account-name,a.game-favorite,a.game-played,a.signout{color:#fff;display:block;line-height:2!important}a.account-name{font-weight:700!important}a.game-favorite i.fa,a.game-played i.fa,a.signout i.fa{font-size:20px;margin-right:7px}a.game-favorite,a.game-played{background:#a9a8a6;border-bottom:1px solid #fff!important}.menu-login,a.signout{background:#a9a8a6}.menu-login a.signin,.menu-login a.signup{color:#fff;display:inline-block;line-height:2!important;width:148px}.menu-login a.signin{background:#474747}.menu-login a.signup{background:#a9a8a6}#cssmenu{background:#fff;box-shadow:0 1px 3px #474747;visibility:hidden;right:0;position:absolute!important;top:67px;width:300px;z-index:9999}#cssmenu,#cssmenu a,#cssmenu li,#cssmenu ul{border:0;font-size:14px;font-weight:400;line-height:1;list-style:none;margin:0;padding:0;position:relative;text-decoration:none}#cssmenu>ul>li,#cssmenu>ul>li:last-child{border-bottom:1px solid #538e3e}#cssmenu a{line-height:1.5;padding:10px}#cssmenu>ul>li{background:#000;cursor:pointer}#cssmenu>ul>li>a{background:#fff;border-left:8px solid #538e3e;color:#474747;display:block}#cssmenu>ul>li.has-sub.active>a::after,#cssmenu>ul>li.has-sub>a::after{-moz-border-bottom-colors:none;-moz-border-left-colors:none;-moz-border-right-colors:none;-moz-border-top-colors:none;border-image:none;border-style:solid;border-width:5px;top:10px}#cssmenu>ul>li>a:hover{text-decoration:none}#cssmenu>ul>li.has-sub>a::after{border-color:transparent transparent transparent #538e3e;content:"";position:absolute;right:10px}#cssmenu>ul>li.has-sub.active>a::after{border-color:#538e3e transparent transparent;right:14px}#cssmenu ul ul{display:none;padding:0}#cssmenu ul ul a{background:#ebebeb;border-left:8px solid #538e3e;color:#474747;display:block}.charts,.charts>h3{background:#7ea8c1}#cssmenu ul ul li{border-bottom:1px solid #ccc}#cssmenu ul ul li:last-child{border:none}#cssmenu>ul>li>a>i.fa{font-size:25px}.color1{color:#538e3e!important}.color2{color:#a3ca39!important}.color3{color:#f8a24f!important}.top .menu-show{display:none}.charts{border-radius:10px;margin-bottom:10px;margin-top:45px;padding:5px}.charts>h3{border-radius:10px 10px 0 0;color:#fff;font-size:16px;font-weight:700;margin-bottom:0;margin-top:0;padding:10px}.charts ul{list-style:none;margin:0;padding-left:5px;padding-right:5px}.charts ul li{background:#fff;border-bottom:1px solid #538e3e;border-radius:10px;margin-bottom:5px;padding:5px 10px}.charts ul li:last-child{border-bottom:none}.charts-image{width:40px;display:inline-block}.charts-image img{max-width:100%;height:auto}.charts-text{display:inline-block;margin-left:10px;vertical-align:middle}.charts-text strong{color:#538e3e;display:block;font-size:16px}a.download,a.edit-email,a.edit-password{display:inline-block;text-decoration:none;cursor:pointer}.charts-text span{color:#ed933b;font-size:16px}a.edit-email,a.edit-password{color:#474747;margin-top:3px}a.edit-email:hover,a.edit-password:hover{color:#474747}.cachar,.top-right-login a.signout,a.download{color:#fff;text-align:center}a.edit-email i.fa,a.edit-password i.fa{font-size:30px}a.download{background:#ed933b;border-radius:5px;font-weight:700;padding:8px 45px}a.download i.fa{font-size:16px}.btn-block-center{display:block;margin:10px 0;text-align:center}.btn-block-center a.download{padding:10px;width:100%}.btn-click{display:inline-block;margin-bottom:15px;margin-top:15px;width:100%}.mobile_avatar{width:40%;padding:0 15px;display:inline-block;vertical-align:top}.game_avatar,.game_title,.mobile_title{padding:0 15px 0 0;display:inline-block;vertical-align:top}.mobile_title{width:58%}.mobile_title p{margin-bottom:3px}.game_avatar{width:20%}.game_title{width:78%}#code,.cachar{width:50%}.cachar{background:#538e3e;border-radius:0;margin-top:-18px;font-size:13px;padding-top:1px;height:19px}.top-image,.top-pc .logo{width:auto;float:left}.top-image{margin-left:5px;margin-right:5px}.top-image>img{width:100%;height:auto;max-width:100%}.top-ad{float:left;width:auto}.top-right{float:right;width:auto;margin-right:10px;text-align:right}.top-right .search form{vertical-align:top;width:240px;margin-top:5px;margin-left:10px}.top-right-login>span{font-size:12px;margin-right:15px;color:#888}.top-right-login a.account-name{color:#474747;display:inline-block}.top-right-login a.signout{background:#474747;font-size:12px;padding:4px 10px;margin-left:10px;display:inline-block;width:100px;line-height:normal!important;text-decoration:none;text-transform:uppercase}.top-right-login a.signin,.top-right-login a.signup{font-size:12px;color:#fff;padding:3px 5px;width:95px;text-align:center;text-transform:uppercase;display:inline-block;text-decoration:none}.top-right-login a.signin{background:#538e3e;margin-right:10px}.top-right-login a.signup{background:#474747}.menu-top-pc{background:0 0;border-radius:5px 5px 0 0;border:1px solid #538e3e}.menu-top-pc .menu-static{padding-bottom:0;background:#538e3e;padding-top:0}.menu-top-pc ul.nav-type{padding-left:0;overflow:hidden;padding-top:15px;padding-bottom:5px}.menu-top-pc ul.nav-type li{list-style:none;float:left;width:11%;text-align:center}.menu-top-pc ul.nav-type li img{width:20px;height:20px}.menu-top-pc ul.nav-type li a{color:#474747;text-decoration:none}.menu-top-pc ul.nav-type li a.active{color:#538e3e}.menu-top-pc .menu-static ul li a{padding-bottom:7px;padding-top:7px}.sharing{margin:0;overflow-x:auto;display:inline-block}.sharing_tab{float:left;padding-top:5px;width:auto}.sharing>span{display:inline-block;font-size:10px;vertical-align:top}.boxmini-title h3,.boxmini-title h3 a{color:#484848;font-size:16px;font-weight:700}.facebook_comment{margin:25px 0 10px;overflow-x:auto}.fb-like-box{overflow-x:auto;width:100%}.boxmini{margin-bottom:10px;padding-left:5px;padding-right:5px}.boxmini-title{border-bottom:2px solid #484848;padding-bottom:10px;margin-bottom:10px;margin-top:10px}.boxmini-title h3{display:inline-block;padding:0;margin:0;position:relative;text-transform:uppercase}.boxmini-title h3 a{text-decoration:none}.boxmini-title a.boxmini-seemore{background:#484848;padding:4px 10px;border-radius:5px;font-weight:400;float:right;color:#fff;font-size:12px;display:inline-block;text-decoration:none}.boxmini .item{height:120px}@media (max-width:500px){.social,a.download2{text-align:center}.footer,.item-play span{font-size:12px}.label-text{display:none}.social a{margin-right:10px}a.download{background:#E61219;display:block}a.download2{background:#ed933b;border-radius:5px;color:#fff;display:inline-block;font-weight:700;padding:8px 20px;text-decoration:none}.top{padding-top:10px;padding-bottom:8px}.top .menu-show{margin-top:5px;display:none}.footer{padding-top:0}.item-image strong{font-size:12px;color:#908c8c;text-align:left;padding-left:3px;padding-right:3px}.box>h1>a,.box>h3>a{font-size:16px}.box>h1,.box>h3{margin-top:5px;font-size:16px}.ad img{margin-top:-10px}.search,.search1{margin-top:0}.top .menu-show a i.fa{color:#fff}.menu-static .menu-show{display:none!important}.menu-static ul li{width:18%;padding-left:0;padding-right:0}.menu-static ul li a i.fa{font-size:25px}.menu-static ul li a span{font-size:9px}.menu-static ul li a.active,.menu-static ul li a:focus,.menu-static ul li a:hover{border-bottom-color:transparent}.box,.footer>ul li{padding-left:5px;padding-right:5px}.box a.box-more{height:20px;padding-left:17px;padding-top:3px;padding-right:6px;font-size:13px;top:2px}.logo{width:40%}.logo img{height:40px}.search form{width:auto;display:none}#iconseach{display:inline-block;margin-left:3px;margin-right:5px}.search1 form{width:100%}a.report-error{margin-top:10px;padding:0 11px!important;margin-left:10px!important}a.menu_show_list{margin-left:0}a.iconfacebook,a.icongoogleplus{vertical-align:baseline;font-size:22px}div.stars{text-align:center}.startitle{left:0}h1.mobile-title{font-size:16px!important;font-weight:700}}.game,.rating{text-align:center}@media (min-width:501px) and (max-width:800px){.search form{width:auto;display:none}#iconseach{display:inline-block;margin-left:3px;margin-right:5px}a.iconfacebook,a.icongoogleplus{vertical-align:baseline}}.rate-ex2-cnt,a.report-error,div.stars form{display:inline-block}.rate-ex2-cnt{width:150px;height:30px}.rate-ex2-cnt .rate-btn{width:30px;height:30px;float:left;background:url(/assets/images/rate-btn2.png) no-repeat;cursor:pointer}.comment-button,label.star{float:right}.rate-ex2-cnt .rate-btn-active,.rate-ex2-cnt .rate-btn-hover,.rate-ex2-cnt .rate-btn:hover{background:url(/assets/images/rate-btn2-hover.png) no-repeat}.rate-result-cnt{height:18px;margin-bottom:3px;margin-top:3px;position:relative;vertical-align:middle;width:82px}.col,.web_avatar,.web_title{vertical-align:top}.rate-stars{width:82px;height:18px;background:url(/assets/images/rate-stars.png) no-repeat;position:absolute}.rate-bg{height:17px;background-color:#ffbe10;position:absolute}.startitle{position:relative;right:-10px;top:-3px}div.stars{margin-bottom:2px}div.stars strong{position:relative;top:-15px}a.report-error{border:2px solid #ed933b;border-radius:5px;color:#ed933b;font-size:12px;font-weight:700;margin-left:15px;padding:1px 10px;position:relative;text-decoration:none}input.star{display:none}label.star{padding:2px 3px;font-size:24px;color:#474747;margin:0;transition:all .2s}input.star:checked~label.star:before{content:'\f005';color:#FD4;transition:all .25s}input.star-5:checked~label.star:before{color:#FE7}input.star-1:checked~label.star:before{color:#F62}label.star:hover{transform:rotate(-15deg) scale(1.3)}label.star:before{content:'\f006';font-family:FontAwesome}.game{margin-bottom:15px}.game *{max-width:100%;height:auto}h1.title,h2.title{border:none;color:#000;display:inline-block;font-size:24px;margin-bottom:3px;margin-top:0;text-transform:none}.comment .nav-tabs{border:1px solid #538e3e;margin-bottom:10px}.comment .nav-tabs>li{width:50%;margin:0}.comment .nav-tabs>li>a{color:#538e3e;border:none;border-radius:0;font-size:18px;font-weight:700;padding:5px 10px;text-align:center;margin:0}.heading,.homenews{font-size:14px;font-weight:700}.comment .nav-tabs>li>a:hover{border-color:#538e3e}.comment .nav-tabs>li.active>a,.comment .nav-tabs>li.active>a:focus,.comment .nav-tabs>li.active>a:hover{background:#538e3e;border:none;color:#fff}.imgGamedowload,.slideGame{margin-bottom:10px;margin-top:10px;text-align:left}.detail,.list-item{margin-bottom:15px}.imgGamedowload img,.slideGame img{max-width:100%;height:auto}.imgGameContentdowload{width:50%;display:inline-block}.img_game_detail img{margin-right:24px}.imgGame img{width:76%;max-width:100%;height:auto}@media (max-width:767px){.imgGame img,.imgGamedowload img,.slideGame img{width:auto}}.table_container{display:table;width:90%;border-collapse:collapse}.heading{display:table-row;background-color:#C91622;text-align:center;line-height:25px;font-family:georgia;color:#fff}.table-row{display:table-row;text-align:left}.adsense,.center,.playbox,.social{text-align:center}.col{display:table-cell;border:0 solid #CCC;padding-left:20px}.homenews,.web_avatar,.web_title{display:inline-block}@media (max-width:480px){.row{margin-right:-10px;margin-left:-10px}}.web_avatar{width:15%;padding:0 15px}.web_title{width:83%;padding:0 15px 0 0}.col-lg-1,.col-lg-10,.col-lg-11,.col-lg-12,.col-lg-2,.col-lg-3,.col-lg-4,.col-lg-5,.col-lg-6,.col-lg-7,.col-lg-8,.col-lg-9,.col-md-1,.col-md-10,.col-md-11,.col-md-12,.col-md-2,.col-md-3,.col-md-4,.col-md-5,.col-md-6,.col-md-7,.col-md-8,.col-md-9,.col-sm-1,.col-sm-10,.col-sm-11,.col-sm-12,.col-sm-2,.col-sm-3,.col-sm-4,.col-sm-5,.col-sm-6,.col-sm-7,.col-sm-8,.col-sm-9,.col-xs-1,.col-xs-10,.col-xs-11,.col-xs-12,.col-xs-2,.col-xs-3,.col-xs-4,.col-xs-5,.col-xs-6,.col-xs-7,.col-xs-8,.col-xs-9,.container{padding-left:5px;padding-right:5px}.sapo{font-weight:700;margin-top:10px}.detail{margin-top:15px}.detail img,.detail table{max-width:100%;height:auto}.detail iframe{max-width:100%}.adsense{padding-top:5px;padding-bottom:5px}.adsense iframe,.adsense img,.adsense ins{max-width:100%!important}.homenews{color:#727272;margin-top:10px}.social div{vertical-align:middle!important}.comment-avatar,.list-image,.list-text{vertical-align:top}@media (min-width:1200px){.container{width:970px}}.row{margin-left:-5px;margin-right:-5px}.box{padding:0 10px 10px}.playbox{background:#fff;border-radius:10px;margin-top:15px;padding:10px}.social-top .social{text-align:left}.list-item{margin-top:15px;display:block}.breadcrumb ul li,.list-image,.list-text{display:inline-block}.list-image img{width:100%;max-width:100%;height:auto}.list-text h2,.list-text h3{margin-top:0;line-height:16px}.list-text h2 a,.list-text h3 a{color:#333;font-size:16px;font-weight:700;text-decoration:none}.list-text h2 a:focus,.list-text h2 a:hover,.list-text h3 a:focus,.list-text h3 a:hover{color:#538e3e}.list-text p{text-align:justify}.breadcrumb{background:0 0;border-bottom:2px solid #538e3e;border-radius:0;margin:0 0 15px;padding-left:0;padding-right:0}.breadcrumb ul{margin:0;padding-left:0}.breadcrumb ul li{list-style:none}.breadcrumb ul li a{color:#474747;font-size:13px;font-weight:700}.breadcrumb i.fa{color:#474747;padding-left:10px;padding-right:5px}.pager .disabled>a,.pager .disabled>a:focus,.pager .disabled>a:hover,.pager .disabled>span{background-color:#538e3e;color:#fff;border:1px solid #538e3e}.pager li>a,.pager li>span{color:#333}.right{text-align:right}#loadMore,.tags ul,.topgame>h3{text-align:center}.pagination>li:first-child>a,.pagination>li:first-child>span,.pagination>li:last-child>a,.pagination>li:last-child>span{border-radius:0}ul.pagination li a{border-color:#333;color:#333;margin-left:5px}ul.pagination li.current a{background:#538e3e;color:#fff;border-color:#538e3e}.pagination>li>a:focus,.pagination>li>a:hover,.pagination>li>span:focus,.pagination>li>span:hover{background-color:#fff;border-color:#333;color:#333}.related{display:block;margin-bottom:10px;margin-top:10px;overflow:hidden}.related h3{font-size:15px;font-weight:700}.related ul{padding-left:0}.related ul li{list-style:none;margin-bottom:5px}@media (max-width:768px){#cssmenu,.search form{width:200px}.search1 form{position:relative;width:200px;display:inline-block}#cssmenu{top:140px;left:20px}#cssmenu a{padding:5px 10px}.menu-login a.signin,.menu-login a.signup{width:96px;padding:5px 1px!important}}@media (min-width:769px) and (max-width:1024px){#cssmenu{top:135px;left:30px}}@media (max-width:500px){#cssmenu{top:120px;left:10px}}.login-facebook,.login-google{display:block;margin-bottom:10px}.comment-list{padding:0;margin-top:10px;margin-bottom:10px;list-style:none}.comment-list li{border-bottom:1px solid #f4f4f4;padding-bottom:5px;padding-top:5px;display:none}.comment-avatar,.comment-content{display:inline-block}#loadMore,.comment-desc,.comment-user{display:block}.comment-avatar img{width:50px;height:50px}.comment-user{font-size:12px}.comment-user span{font-size:14px;font-weight:700;color:#538e3e}.toptext{display:inline-block;padding-left:160px}@media (min-width:670px) and (max-width:1024px){.toptext{padding-left:70px}}@media (max-width:669px){.toptext{display:none}}.glass{display:none;width:100%;height:100%;position:fixed;top:0;left:0;right:0;bottom:0}.playgame .social-vote,.playgame .social-vote-label,.social-box .social,.topgame-image,.topgame-text{display:inline-block}.playgame{background:#ed933b;border-radius:10px;padding:15px 10px 10px}.playgame h1,.playgame h3{color:#fff;font-size:16px;font-weight:700;margin:0}.playgame .social-box{background:#fff;margin-bottom:15px;margin-top:15px}.playgame .social-vote-label{background:#cedfe9;border-radius:5px;color:#3b6037;font-size:13px;font-weight:700;padding:5px}a.fullscreen,input.fullscreen{background:#538e3e;border:none;border-radius:5px;color:#fff;display:inline-block;font-size:12px;font-weight:700;margin-left:40px;margin-right:40px;padding:3px 8px;text-decoration:none}.social-box .social{border:5px solid #474747;border-radius:5px;padding:15px 30px}.gamenav li a,.gamenav li.active>a{border-radius:10px 10px 0 0}.gamenav{border-bottom:0 none;margin-top:15px;padding-left:40px}.gamenav li a{color:#474747;font-weight:700;padding-bottom:5px;padding-top:5px}.gamenav li.active>a,.gamenav li.active>a:focus,.gamenav li.active>a:hover{background:#538e3e;color:#fff}.gamecontent .gameerror,.gamecontent .web{border:2px solid #538e3e;padding:10px;border-radius:10px}.gamecontent h4{color:#538e3e;text-transform:uppercase}.topgame>h3,.topgame>h3>a{color:#fff;font-size:16px;font-weight:700}.gamecontent-right{margin-left:0;margin-top:15px}.topgame{background:#474747;border-radius:10px;margin-bottom:10px;margin-top:45px;padding:7px 7px 4px}.topgame>h3{background:#474747;border-radius:10px 10px 0 0;margin-bottom:0;margin-top:0;padding:10px}.topgame>h3>a{text-decoration:none}.topgame ul{background:#fff;border-radius:10px;list-style:none;margin:0;padding-left:5px;padding-right:5px;padding-top:5px}.topgame ul li{margin-bottom:5px;margin-top:5px;padding:5px}.topgame ul li:last-child{border-bottom:none}.topgame-image{width:30%}.topgame-image img{max-width:100%;height:auto}.topgame-text{width:60%;margin-left:5px;vertical-align:middle}.topgame-text strong{color:#538e3e;display:block;font-size:16px}.topgame-text span{color:#ed933b;display:block;font-size:13px}.topgame-text a{color:grey;font-weight:700;text-decoration:none}.btn-green{background-color:#538e3e;border-color:#538e3e}.btn-green:focus,.btn-green:hover{background-color:#538E2D;border-color:#538E2D}a.vehicle-text{color:#474747}.tags{background:#538e3e;padding:10px}.tags ul{padding-left:0;overflow:hidden;padding-bottom:0;margin-bottom:0}.tags ul li{list-style:none;width:auto;display:inline-block;padding-left:0;padding-right:0}.tags ul li a{color:#fff}.tags ul li span{color:#ccc;margin-left:5px;margin-right:5px}.tipContent h2,.tipContent h2 a,div#tipDiv h2,div#tipDiv h2 a{color:#fff;font-weight:700;font-size:13px}.tags ul li:last-child span,.tipContent{display:none}.tipContent .tooltip_content .tooltip_text strong,div#tipDiv .tooltip_content .rate-result-cnt,div#tipDiv .tooltip_content .tooltip_text strong{display:inline-block}.tipContent,div#tipDiv{background:#FFF;border:1px solid #538e3e;width:300px;height:auto;padding:3px;font-size:13px}.tipContent h2,div#tipDiv h2{background:#538e3e;margin:0;padding:5px;width:100%}.tipContent .tooltip_content,div#tipDiv .tooltip_content{background:#FFF;overflow:hidden;padding:5px}.tipContent .tooltip_content img,div#tipDiv .tooltip_content img{float:left;height:auto;margin-bottom:7px;margin-right:7px;width:100px}.tipContent .tooltip_content .tooltip_text,div#tipDiv .tooltip_content .tooltip_text{font-size:13px;margin-bottom:0}.tipContent .tooltip_content .tooltip_text div,.tipContent .tooltip_content .tooltip_text span,div#tipDiv .tooltip_content .tooltip_text div,div#tipDiv .tooltip_content .tooltip_text span{color:#888;display:inline-block;padding-bottom:0}.button1,.button1:focus,.button1:hover{background:#474747;border-color:#474747}.boxgamenews{margin-top:15px}a.download_android{background:#a4c639}a.download_ios{background:#999}a.download_winphone{background:#00a1f1}
 </style>
-		<script src="http://teengame.net/assets/js/jquery-2.1.4.min.js"></script>
-		<script src="http://teengame.net/assets/js/bootstrap.min.js"></script>
-		<script src="http://teengame.net/assets/js/dw.js"></script>
-		<script src="http://teengame.net/assets/js/script.js"></script>
+		<script src="http://localhost:8000/assets/js/jquery-2.1.4.min.js"></script>
+		<script src="http://localhost:8000/assets/js/bootstrap.min.js"></script>
+		<script src="http://localhost:8000/assets/js/dw.js"></script>
+		<script src="http://localhost:8000/assets/js/script.js"></script>
 
 		<div class="container">
 			<div class="row">
 
 				<div class="main">
 
-					<!-- menu -->
-<div id='cssmenu'>
-
-	<!-- '; ?> -->
-	@include("site.common.menu_cronjob_inc")
-	<div class="search1">
-		<form action="http://teengame.net/search-game" >
-			<input type="text" name="search" value="" title="search" id="searchmenu" placeholder="Search games" />
-			<input type="submit" value="search" title="submit" />
-		</form>
-	</div>
-	<ul>
-		<li class='active'><a href="http://teengame.net" class="color1"><i class="fa fa-home"></i> <span>Home</span></a></li>
-																				<li><a href="http://teengame.net/game-android" class="color2"><span>Game Android</span></a></li>
-																									<li class='has-sub'><a href= '#' class="color2"><span>Game Online</span></a>
-					<ul>
-											<li><a href="http://teengame.net/action-games"><span>Action</span></a></li>
-											<li><a href="http://teengame.net/racing-games"><span>Racing</span></a></li>
-											<li><a href="http://teengame.net/girl-games"><span>Girl</span></a></li>
-										</ul>
-				</li>
-											<!-- <li class="has-sub">
-			<a href="#" class="color2"><span>Tin game</span></a>
-			<ul>
-									<li><a href="</span></a></li>
-									<li><a href="</span></a></li>
-									<li><a href="</span></a></li>
-							</ul>
-		</li> -->
-	</ul>
-	<div class="menu-hide"><a onclick="menuhide()"><i class="fa fa-times-circle-o"></i> Close</a></div>
-</div>					<div class="top">
+					@include("site.common.menu")					<div class="top">
 	<div class="container">
 		<div class="row">
 			<div class="menu-show"><a onclick="menushow()"><i class="fa fa-navicon"></i></a></div>
 			<div class="logo">
-				<a href="http://teengame.net"><img src="http://teengame.net/assets/images/logo.png" alt="choinhanh.vn" /></a>
+				<a href="http://localhost:8000"><img src="http://localhost:8000/assets/images/logo.png" alt="choinhanh.vn" /></a>
 			</div>
 			
 			<div class="search">
-				<a class="iconfacebook" href="https://www.facebook.com/Choinhanhvn-563511837144725/"><i class="fa fa-facebook"></i></a>
+				<a class="iconfacebook" href="https://www.facebook.com/choinhanhvnn/"><i class="fa fa-facebook"></i></a>
 				<a class="icongoogleplus" href="https://plus.google.com/113571525283953455277/" ><i class="fa fa-google-plus"></i></a>
-				<form action="http://teengame.net/search-game">
+				<form action="http://localhost:8000/search-game">
 					<input type="text" name="search" value="" title="search" placeholder="Search games" />
 					<input type="submit" value="search" title="submit" />
 				</form>
@@ -133,33 +112,2887 @@
 			<div class="menu-static">
 				<ul>
 					<li><a onclick="menushow()" class="menu_show_list"><i class="fa fa-navicon"></i><span>Menu</span></a></li>
-					<li><a href="http://teengame.net" ><i class="fa fa-home"></i><span>Home</span></a></li>
-					<li><a href="http://teengame.net/most-voted-games" ><i class="fa fa-star"></i><span>Most voted</br></span></a></li>
-					<li><a href="http://teengame.net/best-games" ><i class="fa fa-gamepad"></i><span>Best games</span></a></li>
-					<li><a href="http://teengame.net/news" ><i class="fa fa-newspaper-o"></i><span>News</span></a></li>
-					<li><a href="http://teengame.net/game-android" ><i class="fa fa-android"></i><span>Android</span></a></li>
+					<li><a href="http://localhost:8000" ><i class="fa fa-home"></i><span>Home</span></a></li>
+					<li><a href="http://localhost:8000/most-voted-games" ><i class="fa fa-star"></i><span>Most voted</br></span></a></li>
+					<li><a href="http://localhost:8000/best-games" ><i class="fa fa-gamepad"></i><span>Best games</span></a></li>
+					<li><a href="http://localhost:8000/news" ><i class="fa fa-newspaper-o"></i><span>News</span></a></li>
+					<li><a href="http://localhost:8000/game-android" ><i class="fa fa-android"></i><span>Android</span></a></li>
 				</ul>
 				<div class="clearfix"></div>
 			</div>
 		</div>
 	</div>
 </div>					
-					
+					<div class="adsense center">
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- choinhanh-M-Home -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7546981319298869"
+     data-ad-slot="9291551500"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+			</div>
+	
 					
 <div class="box">
-					<h3><a href="http://teengame.net/best-games">Best Games</a></h3>
-													<h3><a href="#">New Games</a></h3>
-									</div>
+					<h3><a href="#">Game hay nhất</a></h3>
+											<div class="swiper-container">
+					<div class="swiper-wrapper">
+													<div class="swiper-slide boxgame">
+								<div class="row">
+																											<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/nau-an-games/lam-banh-socola">
+									<img data-src="http://localhost:8000/images/game_avatar/lam-banh-socola-icon-1471227718.jpg" alt="lam-banh-socola" class="swiper-lazy showTip el_1264" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/nau-an-games/lam-banh-socola">Làm bánh Socola</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/vui-nhon-games/xep-gach-co-dien">
+									<img data-src="http://localhost:8000/images/game_avatar/xep-gach-co-dien-icon-1462327607.jpg" alt="xep-gach-co-dien" class="swiper-lazy showTip el_557" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/vui-nhon-games/xep-gach-co-dien"> Xếp gạch cổ điển</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/tri-tue-games/duoi-hinh-bat-chu">
+									<img data-src="http://localhost:8000/images/game_avatar/duoi-hinh-bat-chu-1449202264.jpg" alt="duoi-hinh-bat-chu" class="swiper-lazy showTip el_77" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/tri-tue-games/duoi-hinh-bat-chu"> Đuổi hình bắt chữ</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/tri-tue-games/chu-khi-buon-mobile">
+									<img data-src="http://localhost:8000/images/game_avatar/chu-khi-buon-mobile-icon-1471317476.PNG" alt="chu-khi-buon-mobile" class="swiper-lazy showTip el_1271" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/tri-tue-games/chu-khi-buon-mobile">Chú Khỉ Buồn Mobile</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/tri-tue-games/duoi-hinh-bat-chu-2">
+									<img data-src="http://localhost:8000/images/game_avatar/duoi-hinh-bat-chu-2-icon-1468031288.jpg" alt="duoi-hinh-bat-chu-2" class="swiper-lazy showTip el_1078" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/tri-tue-games/duoi-hinh-bat-chu-2"> Đuổi hình bắt chữ...</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/ban-gai-games/cap-doi-hoan-hao-2">
+									<img data-src="http://localhost:8000/images/game_avatar/cap-doi-hoan-hao-2-icon-1470715893.jpg" alt="cap-doi-hoan-hao-2" class="swiper-lazy showTip el_1240" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/ban-gai-games/cap-doi-hoan-hao-2"> Cặp đôi hoàn hảo 2</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/hanh-dong-games/perry-va-nhung-nguoi-ban">
+									<img data-src="http://localhost:8000/images/game_avatar/perry-va-nhung-nguoi-ban-icon-1468031028.jpg" alt="perry-va-nhung-nguoi-ban" class="swiper-lazy showTip el_1077" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/hanh-dong-games/perry-va-nhung-nguoi-ban"> Perry và những...</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/thoi-trang-games/nha-thiet-ke-tai-ba-2">
+									<img data-src="http://localhost:8000/images/game_avatar/nha-thiet-ke-tai-ba-2-icon-1469601940.jpg" alt="nha-thiet-ke-tai-ba-2" class="swiper-lazy showTip el_1128" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/thoi-trang-games/nha-thiet-ke-tai-ba-2"> Nhà thiết kế tài ba...</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/chien-thuat-games/cuoc-chien-zombie">
+									<img data-src="http://localhost:8000/images/game_avatar/cuoc-chien-zombie-1449204129.jpg" alt="cuoc-chien-zombie" class="swiper-lazy showTip el_24" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/chien-thuat-games/cuoc-chien-zombie">Cuộc chiến zombie</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/vui-nhon-games/ran-san-moi">
+									<img data-src="http://localhost:8000/images/game_avatar/ran-san-moi-icon-1-1465203669.jpg" alt="ran-san-moi" class="swiper-lazy showTip el_834" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/vui-nhon-games/ran-san-moi">Rắn săn mồi</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/hanh-dong-games/pokemon-dai-chien-2">
+									<img data-src="http://localhost:8000/images/game_avatar/pokemon-dai-chien-2-icon-1467942073.jpg" alt="pokemon-dai-chien-2" class="swiper-lazy showTip el_1054" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/hanh-dong-games/pokemon-dai-chien-2">Pokemon đại chiến 2</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/ban-gai-games/boi-tinh-yeu">
+									<img data-src="http://localhost:8000/images/game_avatar/boi-tinh-yeu-1449204379.jpg" alt="boi-tinh-yeu" class="swiper-lazy showTip el_13" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/ban-gai-games/boi-tinh-yeu">Bói tình yêu</a></h2>
+		</div>
+	    	</div>
+		</div>																	</div>
+							</div>
+													<div class="swiper-slide boxgame">
+								<div class="row">
+																											<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/ban-gai-games/mua-sam-cung-rio">
+									<img data-src="http://localhost:8000/images/game_avatar/mua-sam-cung-rio-icon-1454306449.jpg" alt="mua-sam-cung-rio" class="swiper-lazy showTip el_268" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/ban-gai-games/mua-sam-cung-rio">Mua sắm cùng Rio</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/tri-tue-games/do-vui-hai-nao">
+									<img data-src="http://localhost:8000/images/game_avatar/do-vui-hai-nao-icon-1471924515.PNG" alt="do-vui-hai-nao" class="swiper-lazy showTip el_1293" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/tri-tue-games/do-vui-hai-nao">Đố Vui Hại Não</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/tri-tue-games/ai-la-trieu-phu">
+									<img data-src="http://localhost:8000/images/game_avatar/ai-la-trieu-phu-1459225024.jpg" alt="ai-la-trieu-phu" class="swiper-lazy showTip el_76" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/tri-tue-games/ai-la-trieu-phu">Ai là triệu phú</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/tri-tue-games/o-an-quan">
+									<img data-src="http://localhost:8000/images/game_avatar/o-an-quan-icon-1462865438.jpg" alt="o-an-quan" class="swiper-lazy showTip el_595" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/tri-tue-games/o-an-quan">Ô Ăn Quan</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/thoi-trang-games/kawaii-xinh-dep">
+									<img data-src="http://localhost:8000/images/game_avatar/Kawaii-xinh-dep-1449202578.jpg" alt="kawaii-xinh-dep" class="swiper-lazy showTip el_73" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/thoi-trang-games/kawaii-xinh-dep">Kawaii xinh đẹp</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/thoi-trang-games/tiem-ao-cuoi-tina">
+									<img data-src="http://localhost:8000/images/game_avatar/tiem-ao-cuoi-tina-icon-1456536938.jpg" alt="tiem-ao-cuoi-tina" class="swiper-lazy showTip el_359" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/thoi-trang-games/tiem-ao-cuoi-tina">Tiệm áo cưới tina</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/thoi-trang-games/tieu-thu-quyen-quy">
+									<img data-src="http://localhost:8000/images/game_avatar/tieu-thu-quyen-quy-1449202357.jpg" alt="tieu-thu-quyen-quy" class="swiper-lazy showTip el_74" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/thoi-trang-games/tieu-thu-quyen-quy">Tiểu thư quyền quý</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/ban-gai-games/boi-cong-chua">
+									<img data-src="http://localhost:8000/images/game_avatar/boi-cong-chua-icon-1466145328.jpg" alt="boi-cong-chua" class="swiper-lazy showTip el_913" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/ban-gai-games/boi-cong-chua">Bói công chúa</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/nau-an-games/dau-bep-de-thuong">
+									<img data-src="http://localhost:8000/images/game_avatar/dau-bep-de-thuong-icon-1454307863.jpg" alt="dau-bep-de-thuong" class="swiper-lazy showTip el_275" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/nau-an-games/dau-bep-de-thuong"> Đầu bếp dễ...</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/thoi-trang-games/thoi-trang-cong-chua">
+									<img data-src="http://localhost:8000/images/game_avatar/thoi-trang-cong-chua-icon-1462330548.jpg" alt="thoi-trang-cong-chua" class="swiper-lazy showTip el_558" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/thoi-trang-games/thoi-trang-cong-chua">Thời trang công chúa</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/dua-xe-games/dua-xe-ban-sung">
+									<img data-src="http://localhost:8000/images/game_avatar/dua-xe-ban-sung-1449203691.jpg" alt="dua-xe-ban-sung" class="swiper-lazy showTip el_38" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/dua-xe-games/dua-xe-ban-sung">Đua xe bắn súng</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/hanh-dong-games/pokemon-quyet-dau">
+									<img data-src="http://localhost:8000/images/game_avatar/pokemon-quyet-dau-1449203541.jpg" alt="pokemon-quyet-dau" class="swiper-lazy showTip el_44" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/hanh-dong-games/pokemon-quyet-dau">Pokemon quyết đấu</a></h2>
+		</div>
+	    	</div>
+		</div>																	</div>
+							</div>
+													<div class="swiper-slide boxgame">
+								<div class="row">
+																											<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/nau-an-games/quay-banh-my">
+									<img data-src="http://localhost:8000/images/game_avatar/quay-banh-my-1449203363.jpg" alt="quay-banh-my" class="swiper-lazy showTip el_54" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/nau-an-games/quay-banh-my">Quầy bánh mỳ</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/thoi-trang-games/thoi-trang-tam-bien">
+									<img data-src="http://localhost:8000/images/game_avatar/thoi-trang-tam-bien-icon-1456469951.jpg" alt="thoi-trang-tam-bien" class="swiper-lazy showTip el_357" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/thoi-trang-games/thoi-trang-tam-bien"> Thời trang tắm biển</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/ban-gai-games/mua-sam-dien-cuong">
+									<img data-src="http://localhost:8000/images/game_avatar/mua-sam-dien-cuong-1449204205.jpg" alt="mua-sam-dien-cuong" class="swiper-lazy showTip el_21" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/ban-gai-games/mua-sam-dien-cuong"> Mua sắm điên cuồng </a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/ban-gai-games/tinh-yeu-cong-so">
+									<img data-src="http://localhost:8000/images/game_avatar/tinh-yeu-cong-so-1449201547.jpg" alt="tinh-yeu-cong-so" class="swiper-lazy showTip el_85" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/ban-gai-games/tinh-yeu-cong-so">Tình yêu công sở</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/tri-tue-games/om-nom-an-keo">
+									<img data-src="http://localhost:8000/images/game_avatar/om-nom-an-keo-icon-1454308203.jpg" alt="om-nom-an-keo" class="swiper-lazy showTip el_292" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/tri-tue-games/om-nom-an-keo">Om Nom ăn kẹo</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/thoi-trang-games/thoi-trang-toc-kute">
+									<img data-src="http://localhost:8000/images/game_avatar/thoi-trang-toc-kute-1449202941.jpg" alt="thoi-trang-toc-kute" class="swiper-lazy showTip el_69" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/thoi-trang-games/thoi-trang-toc-kute">Thời trang tóc kute</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/tri-tue-games/line-98-mobile">
+									<img data-src="http://localhost:8000/images/game_avatar/line-98-1449202175-1459390930.jpg" alt="line-98-mobile" class="swiper-lazy showTip el_406" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/tri-tue-games/line-98-mobile">Line 98 - mobile</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/thoi-trang-games/sieu-sao-hollywood">
+									<img data-src="http://localhost:8000/images/game_avatar/sieu-sao-hollywood-1449202862.jpg" alt="sieu-sao-hollywood" class="swiper-lazy showTip el_71" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/thoi-trang-games/sieu-sao-hollywood">Siêu sao Hollywood</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/ban-gai-games/nha-hang-cua-emily">
+									<img data-src="http://localhost:8000/images/game_avatar/Nha-hang-cua-Emily-icon-1459749739.jpg" alt="nha-hang-cua-emily" class="swiper-lazy showTip el_434" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/ban-gai-games/nha-hang-cua-emily">Nhà hàng của Emily</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/tri-tue-games/doraemon-ghep-hinh">
+									<img data-src="http://localhost:8000/images/game_avatar/doraemon-ghep-hinh-1449202336.jpg" alt="doraemon-ghep-hinh" class="swiper-lazy showTip el_75" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/tri-tue-games/doraemon-ghep-hinh">Doraemon ghép hình</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/nau-an-games/lam-banh-pizza-chay">
+									<img data-src="http://localhost:8000/images/game_avatar/banh-pizza-chay-1451447298.jpg" alt="lam-banh-pizza-chay" class="swiper-lazy showTip el_216" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/nau-an-games/lam-banh-pizza-chay">Làm bánh pizza chay</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/nau-an-games/nha-hang-taco">
+									<img data-src="http://localhost:8000/images/game_avatar/nha-hang-taco-1449203319.jpg" alt="nha-hang-taco" class="swiper-lazy showTip el_56" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/nau-an-games/nha-hang-taco">Nhà hàng taco</a></h2>
+		</div>
+	    	</div>
+		</div>																	</div>
+							</div>
+													<div class="swiper-slide boxgame">
+								<div class="row">
+																											<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/vui-nhon-games/ban-ca-an-xu">
+									<img data-src="http://localhost:8000/images/game_avatar/ban-ca-an-xu-1449201291.jpg" alt="ban-ca-an-xu" class="swiper-lazy showTip el_88" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/vui-nhon-games/ban-ca-an-xu">Bắn cá ăn xu</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/tri-tue-games/nho-ten-than-tuong">
+									<img data-src="http://localhost:8000/images/game_avatar/nho-ten-than-tuong-1449202192.jpg" alt="nho-ten-than-tuong" class="swiper-lazy showTip el_80" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/tri-tue-games/nho-ten-than-tuong"> Nhớ tên thần...</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/ban-gai-games/tri-thuong-cho-anna">
+									<img data-src="http://localhost:8000/images/game_avatar/tri-thuong-cho-anna-1451444853.jpg" alt="tri-thuong-cho-anna" class="swiper-lazy showTip el_203" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/ban-gai-games/tri-thuong-cho-anna">Trị thương cho Anna</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/ban-gai-games/trang-trai-tuli">
+									<img data-src="http://localhost:8000/images/game_avatar/trang-trai-tuli-1449204187.jpg" alt="trang-trai-tuli" class="swiper-lazy showTip el_22" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/ban-gai-games/trang-trai-tuli">Trang trại Tuli</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/hanh-dong-games/cuoc-phieu-luu-cua-jack">
+									<img data-src="http://localhost:8000/images/game_avatar/Cuoc-phieu-luu-cua-Jack-icon-1459762372.jpg" alt="cuoc-phieu-luu-cua-jack" class="swiper-lazy showTip el_443" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/hanh-dong-games/cuoc-phieu-luu-cua-jack"> Cuộc phiêu lưu của...</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/nau-an-games/chuan-bi-bua-sang">
+									<img data-src="http://localhost:8000/images/game_avatar/chuan-bi-bua-sang-1449203255.jpg" alt="chuan-bi-bua-sang" class="swiper-lazy showTip el_59" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/nau-an-games/chuan-bi-bua-sang">Chuẩn bị bữa sáng</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/chien-thuat-games/danh-bom-zombie">
+									<img data-src="http://localhost:8000/images/game_avatar/danh-bom-zombie-1449203985.jpg" alt="danh-bom-zombie" class="swiper-lazy showTip el_33" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/chien-thuat-games/danh-bom-zombie">Đánh bom zombie</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/dua-xe-games/tay-dua-sieu-hang-2">
+									<img data-src="http://localhost:8000/images/game_avatar/tay-dua-sieu-hang-2-1449203614.jpg" alt="tay-dua-sieu-hang-2" class="swiper-lazy showTip el_41" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/dua-xe-games/tay-dua-sieu-hang-2">Tay đua siêu hạng 2</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/hanh-dong-games/nguoi-nhen">
+									<img data-src="http://localhost:8000/images/game_avatar/nguoi-nhen-1451445159.jpg" alt="nguoi-nhen" class="swiper-lazy showTip el_209" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/hanh-dong-games/nguoi-nhen">Người nhện</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/chien-thuat-games/ca-lon-nuot-ca-be">
+									<img data-src="http://localhost:8000/images/game_avatar/ca-lon-nuot-ca-be-1449203745.jpg" alt="ca-lon-nuot-ca-be" class="swiper-lazy showTip el_36" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/chien-thuat-games/ca-lon-nuot-ca-be">Cá lớn nuốt cá bé</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/tri-tue-games/qua-khu-cua-om-nom">
+									<img data-src="http://localhost:8000/images/game_avatar/qua-khu-cua-om-nom-icon-1454306866.jpg" alt="qua-khu-cua-om-nom" class="swiper-lazy showTip el_291" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/tri-tue-games/qua-khu-cua-om-nom">Quá khứ của Om Nom</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/chien-thuat-games/mini-gunny">
+									<img data-src="http://localhost:8000/images/game_avatar/mini-gunny-1449204036.jpg" alt="mini-gunny" class="swiper-lazy showTip el_28" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/chien-thuat-games/mini-gunny">Mini Gunny</a></h2>
+		</div>
+	    	</div>
+		</div>																	</div>
+							</div>
+													<div class="swiper-slide boxgame">
+								<div class="row">
+																											<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/dua-xe-games/duong-dua-toc-do">
+									<img data-src="http://localhost:8000/images/game_avatar/duong-dua-toc-do-icon-1454308081.jpg" alt="duong-dua-toc-do" class="swiper-lazy showTip el_287" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/dua-xe-games/duong-dua-toc-do"> Đường đua tốc...</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/dua-xe-games/duong-dua-kinh-hoang">
+									<img data-src="http://localhost:8000/images/game_avatar/duong-dua-kinh-hoang-icon-1456302369.jpg" alt="duong-dua-kinh-hoang" class="swiper-lazy showTip el_346" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/dua-xe-games/duong-dua-kinh-hoang"> Đường đua kinh...</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/nau-an-games/lam-banh-trung">
+									<img data-src="http://localhost:8000/images/game_avatar/lam-banh-trung-1449203226.jpg" alt="lam-banh-trung" class="swiper-lazy showTip el_60" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/nau-an-games/lam-banh-trung">Làm bánh trứng</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/vui-nhon-games/trang-trai-cua-toi">
+									<img data-src="http://localhost:8000/images/game_avatar/trang-trai-cua-toi-1449204398.jpg" alt="trang-trai-cua-toi" class="swiper-lazy showTip el_12" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/vui-nhon-games/trang-trai-cua-toi">Trang trại của tôi</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/chien-thuat-games/chim-dien">
+									<img data-src="http://localhost:8000/images/game_avatar/chim-dien-1449204069.jpg" alt="chim-dien" class="swiper-lazy showTip el_26" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/chien-thuat-games/chim-dien">Chim điên</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/chien-thuat-games/cuoc-chien-quai-vat">
+									<img data-src="http://localhost:8000/images/game_avatar/Cuoc-chien-quai-vat-1449203948.jpg" alt="cuoc-chien-quai-vat" class="swiper-lazy showTip el_35" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/chien-thuat-games/cuoc-chien-quai-vat"> Cuộc chiến quái...</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/chien-thuat-games/huyen-thoai-anh-hung">
+									<img data-src="http://localhost:8000/images/game_avatar/huyen-thoai-anh-hung-icon-1454308055.jpg" alt="huyen-thoai-anh-hung" class="swiper-lazy showTip el_286" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/chien-thuat-games/huyen-thoai-anh-hung"> Huyền thoại anh hùng</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/nau-an-games/lam-rau-chan-vit-cuon">
+									<img data-src="http://localhost:8000/images/game_avatar/lam-rau-chan-vit-cuon-1449203292.jpg" alt="lam-rau-chan-vit-cuon" class="swiper-lazy showTip el_57" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/nau-an-games/lam-rau-chan-vit-cuon"> Làm Rau chân vịt...</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/hanh-dong-games/truy-tim-kho-bau">
+									<img data-src="http://localhost:8000/images/game_avatar/truy-tim-kho-bau-1449203455.jpg" alt="truy-tim-kho-bau" class="swiper-lazy showTip el_49" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/hanh-dong-games/truy-tim-kho-bau">Truy tìm kho báu</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/vui-nhon-games/giai-cuu-bong-xu">
+									<img data-src="http://localhost:8000/images/game_avatar/giai-cuu-bong-xu-1449203415.jpg" alt="giai-cuu-bong-xu" class="swiper-lazy showTip el_51" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/vui-nhon-games/giai-cuu-bong-xu">Giải cứu bóng xù</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/tri-tue-games/pikachu-nong-trai">
+									<img data-src="http://localhost:8000/images/game_avatar/pikachu-nong-trai-1449201857.jpg" alt="pikachu-nong-trai" class="swiper-lazy showTip el_82" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/tri-tue-games/pikachu-nong-trai">Pikachu nông trại</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/ban-gai-games/thoi-trang-bien">
+									<img data-src="http://localhost:8000/images/game_avatar/thoi-trang-bien-1449202756.jpg" alt="thoi-trang-bien" class="swiper-lazy showTip el_72" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/ban-gai-games/thoi-trang-bien">Thời trang biển</a></h2>
+		</div>
+	    	</div>
+		</div>																	</div>
+							</div>
+											</div>
+					<div class="swiper-pagination"></div>
+					<div class="boxgame-pagination">
+						<a class="prev"><i class="fa fa-caret-left"></i> Previous</a>
+						<div class="boxgame-pagenumber"><span class="numberPage">1</span>/5</div>
+						<a class="next">Next <i class="fa fa-caret-right"></i></a>
+					</div>
+				</div>
+						<div class="adsense center">
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- choinhanh-M-300x250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-7546981319298869"
+     data-ad-slot="3245017907"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+			</div>
+								<h3><a href="http://localhost:8000/latest-games">Game mới nhất</a></h3>
+											<div class="swiper-container">
+					<div class="swiper-wrapper">
+													<div class="swiper-slide boxgame">
+								<div class="row">
+																											<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/hanh-dong-games/vuong-quoc-lam-nguy">
+									<img data-src="http://localhost:8000/images/game_avatar/vuong-quoc-lam-nguy-icon-1485231749.jpg" alt="vuong-quoc-lam-nguy" class="swiper-lazy showTip el_2581" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/hanh-dong-games/vuong-quoc-lam-nguy">Vương quốc lâm nguy</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/thoi-trang-games/thoi-trang-cua-anna">
+									<img data-src="http://localhost:8000/images/game_avatar/thoi-trang-cua-anna-icon-1485231468.jpg" alt="thoi-trang-cua-anna" class="swiper-lazy showTip el_2580" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/thoi-trang-games/thoi-trang-cua-anna">Thời trang của Anna</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/tri-tue-games/tham-tu-barbie">
+									<img data-src="http://localhost:8000/images/game_avatar/tham-tu-barbie-icon-1485231169.jpg" alt="tham-tu-barbie" class="swiper-lazy showTip el_2579" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/tri-tue-games/tham-tu-barbie">Thám tử Barbie</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/hanh-dong-games/sieu-nhan-dai-chien">
+									<img data-src="http://localhost:8000/images/game_avatar/sieu-nhan-dai-chien-icon-1485230717.jpg" alt="sieu-nhan-dai-chien" class="swiper-lazy showTip el_2578" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/hanh-dong-games/sieu-nhan-dai-chien"> Siêu nhân đại...</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/vui-nhon-games/lily-nghich-ngom">
+									<img data-src="http://localhost:8000/images/game_avatar/lily-nghich-ngom-icon-1485230117.jpg" alt="lily-nghich-ngom" class="swiper-lazy showTip el_2577" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/vui-nhon-games/lily-nghich-ngom">Lily nghịch ngợm</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/tri-tue-games/ghep-hinh-moana">
+									<img data-src="http://localhost:8000/images/game_avatar/ghep-hinh-moana-icon-1485229752.jpg" alt="ghep-hinh-moana" class="swiper-lazy showTip el_2576" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/tri-tue-games/ghep-hinh-moana">Ghép hình Moana</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/hanh-dong-games/dung-si-diet-chuot">
+									<img data-src="http://localhost:8000/images/game_avatar/dung-si-diet-chuot-icon-1485229331.jpg" alt="dung-si-diet-chuot" class="swiper-lazy showTip el_2575" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/hanh-dong-games/dung-si-diet-chuot">Dũng sĩ diệt chuột</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/vui-nhon-games/dora-nghich-ngom">
+									<img data-src="http://localhost:8000/images/game_avatar/dora-nghich-ngom-icon-1485228317.jpg" alt="dora-nghich-ngom" class="swiper-lazy showTip el_2574" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/vui-nhon-games/dora-nghich-ngom">Dora nghịch ngợm</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/ban-gai-games/bua-tiec-giang-sinh">
+									<img data-src="http://localhost:8000/images/game_avatar/bua-tiec-giang-sinh-icon-1483587153.jpg" alt="bua-tiec-giang-sinh" class="swiper-lazy showTip el_2468" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/ban-gai-games/bua-tiec-giang-sinh">Bữa tiệc giáng sinh</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/vui-nhon-games/santa-luom-qua">
+									<img data-src="http://localhost:8000/images/game_avatar/santa-luom-qua-icon-1483586415.jpg" alt="santa-luom-qua" class="swiper-lazy showTip el_2467" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/vui-nhon-games/santa-luom-qua">Santa lượm quà</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/ban-gai-games/belle-kham-rang">
+									<img data-src="http://localhost:8000/images/game_avatar/belle-kham-rang-icon-1483585402.jpg" alt="belle-kham-rang" class="swiper-lazy showTip el_2466" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/ban-gai-games/belle-kham-rang">Belle khám răng</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/hanh-dong-games/dau-truong-ninja">
+									<img data-src="http://localhost:8000/images/game_avatar/dau-truong-ninja-icon-1483584782.jpg" alt="dau-truong-ninja" class="swiper-lazy showTip el_2465" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/hanh-dong-games/dau-truong-ninja">Đấu trường Ninja</a></h2>
+		</div>
+	    	</div>
+		</div>																	</div>
+							</div>
+													<div class="swiper-slide boxgame">
+								<div class="row">
+																											<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/the-thao-games/truot-tuyet-dia-hinh">
+									<img data-src="http://localhost:8000/images/game_avatar/truot-tuyet-dia-hinh-icon-1483584064.jpg" alt="truot-tuyet-dia-hinh" class="swiper-lazy showTip el_2464" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/the-thao-games/truot-tuyet-dia-hinh"> Trượt tuyết địa...</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/thoi-trang-games/thoi-trang-nu-hoang-2">
+									<img data-src="http://localhost:8000/images/game_avatar/thoi-trang-nu-hoang-2-icon-1483583132.jpg" alt="thoi-trang-nu-hoang-2" class="swiper-lazy showTip el_2463" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/thoi-trang-games/thoi-trang-nu-hoang-2"> Thời trang nữ hoàng...</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/nau-an-games/tiem-kem-cua-riley-2">
+									<img data-src="http://localhost:8000/images/game_avatar/tiem-kem-cua-riley-2-icon-1483582318.jpg" alt="tiem-kem-cua-riley-2" class="swiper-lazy showTip el_2462" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/nau-an-games/tiem-kem-cua-riley-2">Tiệm kem của Riley 2</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/vui-nhon-games/truot-van-nuoc">
+									<img data-src="http://localhost:8000/images/game_avatar/truot-van-nuoc-icon-1483581820.jpg" alt="truot-van-nuoc" class="swiper-lazy showTip el_2461" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/vui-nhon-games/truot-van-nuoc">Trượt ván nước</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/hanh-dong-games/frankenstein-tim-kho-bau">
+									<img data-src="http://localhost:8000/images/game_avatar/frankenstein-tim-kho-bau-icon-1483581393.jpg" alt="frankenstein-tim-kho-bau" class="swiper-lazy showTip el_2460" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/hanh-dong-games/frankenstein-tim-kho-bau"> Frankenstein tìm kho...</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/ban-gai-games/trang-diem-cong-chua-disney">
+									<img data-src="http://localhost:8000/images/game_avatar/trang-diem-cong-chua-disney-icon-1483515834.jpg" alt="trang-diem-cong-chua-disney" class="swiper-lazy showTip el_2459" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/ban-gai-games/trang-diem-cong-chua-disney"> Trang điểm công chúa...</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/dua-xe-games/tay-lai-cu-khoi-2">
+									<img data-src="http://localhost:8000/images/game_avatar/tay-lai-cu-khoi-2-icon-1483515205.jpg" alt="tay-lai-cu-khoi-2" class="swiper-lazy showTip el_2458" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/dua-xe-games/tay-lai-cu-khoi-2">Tay lái cừ khôi 2</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/vui-nhon-games/ban-bong-bay">
+									<img data-src="http://localhost:8000/images/game_avatar/ban-bong-bay-icon-1483504203.jpg" alt="ban-bong-bay" class="swiper-lazy showTip el_2457" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/vui-nhon-games/ban-bong-bay">Bắn bóng bay</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/the-thao-games/choi-bong-ro-3">
+									<img data-src="http://localhost:8000/images/game_avatar/choi-bong-ro-3-icon-1483496334.jpg" alt="choi-bong-ro-3" class="swiper-lazy showTip el_2456" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/the-thao-games/choi-bong-ro-3">Chơi bóng rổ 3</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/thoi-trang-games/thoi-trang-cua-annie">
+									<img data-src="http://localhost:8000/images/game_avatar/thoi-trang-cua-annie-icon-1483495147.jpg" alt="thoi-trang-cua-annie" class="swiper-lazy showTip el_2455" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/thoi-trang-games/thoi-trang-cua-annie">Thời trang của Annie</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/ban-gai-games/ky-nghi-cua-tom-va-angela">
+									<img data-src="http://localhost:8000/images/game_avatar/ky-nghi-cua-tom-va-angela-icon-1483494073.jpg" alt="ky-nghi-cua-tom-va-angela" class="swiper-lazy showTip el_2454" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/ban-gai-games/ky-nghi-cua-tom-va-angela"> Kỳ nghỉ của Tom và...</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/ban-gai-games/hoa-trang-halloween-2">
+									<img data-src="http://localhost:8000/images/game_avatar/hoa-trang-halloween-2-icon-1479713905.jpg" alt="hoa-trang-halloween-2" class="swiper-lazy showTip el_2288" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/ban-gai-games/hoa-trang-halloween-2">Hóa trang Halloween 2</a></h2>
+		</div>
+	    	</div>
+		</div>																	</div>
+							</div>
+													<div class="swiper-slide boxgame">
+								<div class="row">
+																											<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/nau-an-games/phuc-vu-quan-bar">
+									<img data-src="http://localhost:8000/images/game_avatar/phuc-vu-quan-bar-banner-icon-1479714249.jpg" alt="phuc-vu-quan-bar" class="swiper-lazy showTip el_2290" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/nau-an-games/phuc-vu-quan-bar">Phục vụ quán bar</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/vui-nhon-games/dap-pha-sieu-xe">
+									<img data-src="http://localhost:8000/images/game_avatar/dap-pha-sieu-xe-icon-1479713732.jpg" alt="dap-pha-sieu-xe" class="swiper-lazy showTip el_2287" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/vui-nhon-games/dap-pha-sieu-xe">Đập phá siêu xe</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/tri-tue-games/cau-do-toan-hoc">
+									<img data-src="http://localhost:8000/images/game_avatar/cau-do-toan-hoc-icon-1479713374.jpg" alt="cau-do-toan-hoc" class="swiper-lazy showTip el_2285" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/tri-tue-games/cau-do-toan-hoc">Câu đố toán học</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/vui-nhon-games/ten-trom-lupin">
+									<img data-src="http://localhost:8000/images/game_avatar/ten-trom-lupin-icon-1479714401.jpg" alt="ten-trom-lupin" class="swiper-lazy showTip el_2291" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/vui-nhon-games/ten-trom-lupin">Tên trộm Lupin</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/ban-gai-games/thoi-trang-cua-mia">
+									<img data-src="http://localhost:8000/images/game_avatar/thoi-trang-cua-mia-icon-1479714574.jpg" alt="thoi-trang-cua-mia" class="swiper-lazy showTip el_2292" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/ban-gai-games/thoi-trang-cua-mia">Thời trang của Mia</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/thoi-trang-games/mua-sam-cung-barbie">
+									<img data-src="http://localhost:8000/images/game_avatar/mua-sam-cung-barbie-icon-1479714099.jpg" alt="mua-sam-cung-barbie" class="swiper-lazy showTip el_2289" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/thoi-trang-games/mua-sam-cung-barbie">Mua sắm cùng Barbie</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/ban-gai-games/trang-diem-cong-chua">
+									<img data-src="http://localhost:8000/images/game_avatar/trang-diem-cong-chua-icon-1479714766.jpg" alt="trang-diem-cong-chua" class="swiper-lazy showTip el_2293" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/ban-gai-games/trang-diem-cong-chua"> Trang điểm công chúa</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/the-thao-games/bong-chuyen-kieu-moi">
+									<img data-src="http://localhost:8000/images/game_avatar/bong-chuyen-kieu-moi-icon-1479713179.jpg" alt="bong-chuyen-kieu-moi" class="swiper-lazy showTip el_2284" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/the-thao-games/bong-chuyen-kieu-moi"> Bóng chuyền kiểu...</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/hanh-dong-games/cong-vien-ky-jura">
+									<img data-src="http://localhost:8000/images/game_avatar/cong-vien-ky-jura-icon-1479971422.jpg" alt="cong-vien-ky-jura" class="swiper-lazy showTip el_2286" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/hanh-dong-games/cong-vien-ky-jura">Công viên kỷ Jura</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/hanh-dong-games/ben-10-ban-linh-anh-hung">
+									<img data-src="http://localhost:8000/images/game_avatar/ben-10-ban-linh-anh-hung-icon-1479712949.jpg" alt="ben-10-ban-linh-anh-hung" class="swiper-lazy showTip el_2283" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/hanh-dong-games/ben-10-ban-linh-anh-hung"> Ben 10: bản lĩnh anh...</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/ban-gai-games/trang-diem-dien-vien">
+									<img data-src="http://localhost:8000/images/game_avatar/trang-diem-dien-vien-icon-1477105229.jpg" alt="trang-diem-dien-vien" class="swiper-lazy showTip el_2020" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/ban-gai-games/trang-diem-dien-vien"> Trang điểm diễn...</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/tri-tue-games/tiny-tim-kho-bau">
+									<img data-src="http://localhost:8000/images/game_avatar/tiny-tim-kho-bau-icon-1477104921.jpg" alt="tiny-tim-kho-bau" class="swiper-lazy showTip el_2019" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/tri-tue-games/tiny-tim-kho-bau">Tiny tìm kho báu</a></h2>
+		</div>
+	    	</div>
+		</div>																	</div>
+							</div>
+													<div class="swiper-slide boxgame">
+								<div class="row">
+																											<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/dua-xe-games/tay-lai-toc-do">
+									<img data-src="http://localhost:8000/images/game_avatar/tay-lai-toc-do-icon-1477103890.jpg" alt="tay-lai-toc-do" class="swiper-lazy showTip el_2018" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/dua-xe-games/tay-lai-toc-do">Tay lái tốc độ</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/dua-xe-games/tay-dua-xe-tai">
+									<img data-src="http://localhost:8000/images/game_avatar/tay-dua-xe-tai-icon-1477103581.jpg" alt="tay-dua-xe-tai" class="swiper-lazy showTip el_2017" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/dua-xe-games/tay-dua-xe-tai">Tay đua xe tải</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/vui-nhon-games/ninja-dao-vang-2">
+									<img data-src="http://localhost:8000/images/game_avatar/ninja-dao-vang-2-icon-1477103054.jpg" alt="ninja-dao-vang-2" class="swiper-lazy showTip el_2016" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/vui-nhon-games/ninja-dao-vang-2">Ninja đào vàng 2</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/vui-nhon-games/ninja-dao-vang">
+									<img data-src="http://localhost:8000/images/game_avatar/ninja-dao-vang-icon-1477102810.jpg" alt="ninja-dao-vang" class="swiper-lazy showTip el_2015" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/vui-nhon-games/ninja-dao-vang">Ninja đào vàng</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/thoi-trang-games/elsa-di-picnic">
+									<img data-src="http://localhost:8000/images/game_avatar/elsa-di-picnic-icon-1477102562.jpg" alt="elsa-di-picnic" class="swiper-lazy showTip el_2014" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/thoi-trang-games/elsa-di-picnic">Elsa đi picnic</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/vui-nhon-games/danh-dan-piano">
+									<img data-src="http://localhost:8000/images/game_avatar/danh-dan-piano-icon-1477102270.jpg" alt="danh-dan-piano" class="swiper-lazy showTip el_2013" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/vui-nhon-games/danh-dan-piano">Đánh đàn Piano</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/thoi-trang-games/co-phuc-vu-xinh-dep">
+									<img data-src="http://localhost:8000/images/game_avatar/co-phuc-vu-xinh-dep-icon-1477101442.jpg" alt="co-phuc-vu-xinh-dep" class="swiper-lazy showTip el_2012" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/thoi-trang-games/co-phuc-vu-xinh-dep"> Cô phục vụ xinh...</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/thoi-trang-games/cong-chua-nhat-ban">
+									<img data-src="http://localhost:8000/images/game_avatar/cong-chua-nhat-ban-icon-1477101195.jpg" alt="cong-chua-nhat-ban" class="swiper-lazy showTip el_2011" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/thoi-trang-games/cong-chua-nhat-ban">Công chúa Nhật Bản</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/thoi-trang-games/cong-chua-co-tich">
+									<img data-src="http://localhost:8000/images/game_avatar/cong-chua-co-tich-icon-1477100931.jpg" alt="cong-chua-co-tich" class="swiper-lazy showTip el_2010" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/thoi-trang-games/cong-chua-co-tich">Công chúa cổ tích</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/hanh-dong-games/chim-canh-cut-phong-thu">
+									<img data-src="http://localhost:8000/images/game_avatar/chim-canh-cut-phong-thu-icon-1477100612.jpg" alt="chim-canh-cut-phong-thu" class="swiper-lazy showTip el_2009" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/hanh-dong-games/chim-canh-cut-phong-thu"> Chim cánh cụt phòng...</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/tri-tue-games/caro-halloween">
+									<img data-src="http://localhost:8000/images/game_avatar/caro-halloween-icon-1477100295.jpg" alt="caro-halloween" class="swiper-lazy showTip el_2008" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/tri-tue-games/caro-halloween">Caro halloween</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/ban-gai-games/alie-don-phong">
+									<img data-src="http://localhost:8000/images/game_avatar/alie-don-phong-icon-1477099958.jpg" alt="alie-don-phong" class="swiper-lazy showTip el_2007" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/ban-gai-games/alie-don-phong">Alie dọn phòng</a></h2>
+		</div>
+	    	</div>
+		</div>																	</div>
+							</div>
+													<div class="swiper-slide boxgame">
+								<div class="row">
+																											<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/hanh-dong-games/5-anh-em-sieu-nhan-3">
+									<img data-src="http://localhost:8000/images/game_avatar/5-anh-em-sieu-nhan-3-icon-1477099581.jpg" alt="5-anh-em-sieu-nhan-3" class="swiper-lazy showTip el_2006" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/hanh-dong-games/5-anh-em-sieu-nhan-3">5 anh em siêu nhân 3</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/hanh-dong-games/tho-san-quai-vat">
+									<img data-src="http://localhost:8000/images/game_avatar/tho-san-quai-vat-icon-1476153257.jpg" alt="tho-san-quai-vat" class="swiper-lazy showTip el_1875" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/hanh-dong-games/tho-san-quai-vat">Thợ săn quái vật</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/thoi-trang-games/thoi-trang-hoc-sinh">
+									<img data-src="http://localhost:8000/images/game_avatar/thoi-trang-hoc-sinh-icon-1476152708.jpg" alt="thoi-trang-hoc-sinh" class="swiper-lazy showTip el_1874" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/thoi-trang-games/thoi-trang-hoc-sinh">Thời trang học sinh</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/thoi-trang-games/thoi-trang-cong-chua-4">
+									<img data-src="http://localhost:8000/images/game_avatar/thoi-trang-cong-chua-4-icon-1476152236.jpg" alt="thoi-trang-cong-chua-4" class="swiper-lazy showTip el_1873" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/thoi-trang-games/thoi-trang-cong-chua-4"> Thời trang công chúa...</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/ban-gai-games/nong-trai-online-2">
+									<img data-src="http://localhost:8000/images/game_avatar/nong-trai-online-2-icon-1476151715.jpg" alt="nong-trai-online-2" class="swiper-lazy showTip el_1872" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/ban-gai-games/nong-trai-online-2">Nông trại online 2</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/thoi-trang-games/le-hoi-hoa-trang">
+									<img data-src="http://localhost:8000/images/game_avatar/le-hoi-hoa-trang-icon-1476151000.jpg" alt="le-hoi-hoa-trang" class="swiper-lazy showTip el_1871" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/thoi-trang-games/le-hoi-hoa-trang">Lễ hội hóa trang</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/dua-xe-games/lai-xe-vuot-dia-hinh">
+									<img data-src="http://localhost:8000/images/game_avatar/lai-xe-vuot-dia-hinh-icon-1476150489.jpg" alt="lai-xe-vuot-dia-hinh" class="swiper-lazy showTip el_1870" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/dua-xe-games/lai-xe-vuot-dia-hinh"> Lái xe vượt địa...</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/chien-thuat-games/de-che-ong-vang">
+									<img data-src="http://localhost:8000/images/game_avatar/de-che-ong-vang-icon-1476150045.jpg" alt="de-che-ong-vang" class="swiper-lazy showTip el_1869" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/chien-thuat-games/de-che-ong-vang">Đế chế ong vàng</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/the-thao-games/da-banh-tranh-cup">
+									<img data-src="http://localhost:8000/images/game_avatar/da-banh-tranh-cup-icon-1476149600.jpg" alt="da-banh-tranh-cup" class="swiper-lazy showTip el_1868" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/the-thao-games/da-banh-tranh-cup">Đá banh tranh cúp</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/thoi-trang-games/cong-chua-arap">
+									<img data-src="http://localhost:8000/images/game_avatar/cong-chua-arap-icon-1476091376.jpg" alt="cong-chua-arap" class="swiper-lazy showTip el_1867" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/thoi-trang-games/cong-chua-arap">Công chúa Arap</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/tri-tue-games/caro-kieu-moi">
+									<img data-src="http://localhost:8000/images/game_avatar/caro-kieu-moi-icon-1476090116.jpg" alt="caro-kieu-moi" class="swiper-lazy showTip el_1866" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/tri-tue-games/caro-kieu-moi">Caro Kiểu mới</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/thoi-trang-games/baby-don-giang-sinh">
+									<img data-src="http://localhost:8000/images/game_avatar/baby-don-giang-sinh-icon-1476089562.jpg" alt="baby-don-giang-sinh" class="swiper-lazy showTip el_1865" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/thoi-trang-games/baby-don-giang-sinh">Baby đón giáng sinh</a></h2>
+		</div>
+	    	</div>
+		</div>																	</div>
+							</div>
+											</div>
+					<div class="swiper-pagination"></div>
+					<div class="boxgame-pagination">
+						<a class="prev"><i class="fa fa-caret-left"></i> Previous</a>
+						<div class="boxgame-pagenumber"><span class="numberPage">1</span>/5</div>
+						<a class="next">Next <i class="fa fa-caret-right"></i></a>
+					</div>
+				</div>
+						<div class="adsense center">
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- choinhanh-M-300x250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-7546981319298869"
+     data-ad-slot="3245017907"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+			</div>
+								<h3><a href="#">Game Android</a></h3>
+											<div class="swiper-container">
+					<div class="swiper-wrapper">
+													<div class="swiper-slide boxgame">
+								<div class="row">
+																											<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/subway-surfers">
+									<img data-src="http://localhost:8000/images/game_avatar/Subway-surfers-148-1449201211.jpg" alt="subway-surfers" class="swiper-lazy showTip el_90" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/subway-surfers">Subway surfers</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/temple-run-2">
+									<img data-src="http://localhost:8000/images/game_avatar/Temple-Run-2-162-1449204360.jpg" alt="temple-run-2" class="swiper-lazy showTip el_17" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/temple-run-2">Temple Run 2</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/talking-tom-gold-run">
+									<img data-src="http://localhost:8000/images/game_avatar/talking-tom-gold-run-1468634943.jpg" alt="talking-tom-gold-run" class="swiper-lazy showTip el_1092" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/talking-tom-gold-run">Talking Tom Gold Run</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/ngoi-sao-thoi-trang">
+									<img data-src="http://localhost:8000/images/game_avatar/ngoi-sao-thoi-trang-1-1462766299.PNG" alt="ngoi-sao-thoi-trang" class="swiper-lazy showTip el_567" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/ngoi-sao-thoi-trang">Ngôi sao thời trang</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/traffic-rider">
+									<img data-src="http://localhost:8000/images/game_avatar/traffic-rider-icon-1458101747.jpg" alt="traffic-rider" class="swiper-lazy showTip el_388" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/traffic-rider">Traffic Rider</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/shadow-fight-2">
+									<img data-src="http://localhost:8000/images/game_avatar/shadow-fight-2-1467171515.jpg" alt="shadow-fight-2" class="swiper-lazy showTip el_1038" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/shadow-fight-2">Shadow Fight 2</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/ong-trum-nau-an">
+									<img data-src="http://localhost:8000/images/game_avatar/Ong-trum-nau-an-246-1449199234.jpg" alt="ong-trum-nau-an" class="swiper-lazy showTip el_97" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/ong-trum-nau-an">Ông trùm nấu ăn</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/counter-striker-mobile">
+									<img data-src="http://localhost:8000/images/game_avatar/Counter-striker-Mobile-123-1449204327.jpg" alt="counter-striker-mobile" class="swiper-lazy showTip el_19" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/counter-striker-mobile">Counter striker mobile</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/talking-tom-cat-2">
+									<img data-src="http://localhost:8000/images/game_avatar/Talking-Tom-2-217-1449198365.jpg" alt="talking-tom-cat-2" class="swiper-lazy showTip el_114" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/talking-tom-cat-2">Talking Tom Cat 2</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/do-vui-hai-nao-max-troll">
+									<img data-src="http://localhost:8000/images/game_avatar/do-vui-hai-nao-icon-1454474937.jpg" alt="do-vui-hai-nao-max-troll" class="swiper-lazy showTip el_311" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/do-vui-hai-nao-max-troll"> Đố Vui Hại Não -...</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/sonic-dash">
+									<img data-src="http://localhost:8000/images/game_avatar/sonic-dash-icon-1457928446.jpg" alt="sonic-dash" class="swiper-lazy showTip el_376" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/sonic-dash">Sonic Dash</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/clash-of-clans">
+									<img data-src="http://localhost:8000/images/game_avatar/clash-of-clans-1468550603.jpg" alt="clash-of-clans" class="swiper-lazy showTip el_1091" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/clash-of-clans">Clash of Clans</a></h2>
+		</div>
+	    	</div>
+		</div>																	</div>
+							</div>
+													<div class="swiper-slide boxgame">
+								<div class="row">
+																											<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/ai-la-thanh-troll-2016">
+									<img data-src="http://localhost:8000/images/game_avatar/Ai-la-thanh-troll-426-1449456525.jpg" alt="ai-la-thanh-troll-2016" class="swiper-lazy showTip el_135" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/ai-la-thanh-troll-2016">Ai là thánh troll 2016</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/beauty-idol">
+									<img data-src="http://localhost:8000/images/game_avatar/Beauty-Idol-306-1449455338.jpg" alt="beauty-idol" class="swiper-lazy showTip el_123" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/beauty-idol">Beauty idol</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/zombie-tsunami">
+									<img data-src="http://localhost:8000/images/game_avatar/zombie-tsunami-icon-1458118624.jpg" alt="zombie-tsunami" class="swiper-lazy showTip el_396" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/zombie-tsunami">Zombie Tsunami</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/card-wars-kingdom">
+									<img data-src="http://localhost:8000/images/game_avatar/card-wars-kingdom-2-1471591806.png" alt="card-wars-kingdom" class="swiper-lazy showTip el_1281" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/card-wars-kingdom">Card Wars Kingdom</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/dream-league-soccer-2016">
+									<img data-src="http://localhost:8000/images/game_avatar/dream-league-soccer-2016-1468391484.jpg" alt="dream-league-soccer-2016" class="swiper-lazy showTip el_1085" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/dream-league-soccer-2016">Dream League Soccer 2016</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/pokemon-go">
+									<img data-src="http://localhost:8000/images/game_avatar/pokemon-go-2-1470643853.png" alt="pokemon-go" class="swiper-lazy showTip el_1234" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/pokemon-go">Pokémon GO</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/racing-in-car">
+									<img data-src="http://localhost:8000/images/game_avatar/racing-in-car-2-1470731813.png" alt="racing-in-car" class="swiper-lazy showTip el_1247" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/racing-in-car">Racing in Car</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/bus-rush">
+									<img data-src="http://localhost:8000/images/game_avatar/bus-rush-icon-1457931120.jpg" alt="bus-rush" class="swiper-lazy showTip el_379" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/bus-rush">Bus Rush</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/anger-of-stick-5">
+									<img data-src="http://localhost:8000/images/game_avatar/anger-of-stick-5-icon-1469155810.png" alt="anger-of-stick-5" class="swiper-lazy showTip el_1108" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/anger-of-stick-5">Anger of Stick 5</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/train-simulator-2016">
+									<img data-src="http://localhost:8000/images/game_avatar/train-simulator-2016-icon-1475031833.png" alt="train-simulator-2016" class="swiper-lazy showTip el_1680" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/train-simulator-2016">Train Simulator 2016</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/star-girl-beauty-queen">
+									<img data-src="http://localhost:8000/images/game_avatar/Star-girl-017-1449461992.jpg" alt="star-girl-beauty-queen" class="swiper-lazy showTip el_156" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/star-girl-beauty-queen">Star Girl: Beauty Queen</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/dragon-city">
+									<img data-src="http://localhost:8000/images/game_avatar/dragon-city-1469691078.png" alt="dragon-city" class="swiper-lazy showTip el_1144" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/dragon-city">Dragon City</a></h2>
+		</div>
+	    	</div>
+		</div>																	</div>
+							</div>
+													<div class="swiper-slide boxgame">
+								<div class="row">
+																											<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/halloween-makeup-me">
+									<img data-src="http://localhost:8000/images/game_avatar/halloween-makeup-2-1468376530.jpeg" alt="halloween-makeup-me" class="swiper-lazy showTip el_1083" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/halloween-makeup-me">Halloween Makeup Me</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/bake-cupcakes-cooking">
+									<img data-src="http://localhost:8000/images/game_avatar/bake-cupcakes-cooking-icon-1458108814.jpg" alt="bake-cupcakes-cooking" class="swiper-lazy showTip el_391" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/bake-cupcakes-cooking">Bake Cupcakes Cooking </a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/walking-war-robots">
+									<img data-src="http://localhost:8000/images/game_avatar/walking-war-robots-1-1468463754.png" alt="walking-war-robots" class="swiper-lazy showTip el_1087" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/walking-war-robots">Walking War Robots</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/cooking-mama-lets-cook">
+									<img data-src="http://localhost:8000/images/game_avatar/cooking-mama-let's-cook-icon-1458109350.jpg" alt="cooking-mama-lets-cook" class="swiper-lazy showTip el_392" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/cooking-mama-lets-cook">Cooking mama Let's Cook</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/spider-man-unlimited">
+									<img data-src="http://localhost:8000/images/game_avatar/spider-man-unlimited-1-1468378554.jpg" alt="spider-man-unlimited" class="swiper-lazy showTip el_1084" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/spider-man-unlimited">Spider-Man Unlimited</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/winx-bloomix-quest">
+									<img data-src="http://localhost:8000/images/game_avatar/winx-bloomix-quest-icon-1467173995.jpg" alt="winx-bloomix-quest" class="swiper-lazy showTip el_1040" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/winx-bloomix-quest">Winx Bloomix Quest</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/piano-tiles-2">
+									<img data-src="http://localhost:8000/images/game_avatar/piano-tiles-2-icon-1454553210.jpg" alt="piano-tiles-2" class="swiper-lazy showTip el_320" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/piano-tiles-2">Piano Tiles 2</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/exorun">
+									<img data-src="http://localhost:8000/images/game_avatar/EXORUN-1468805230.jpg" alt="exorun" class="swiper-lazy showTip el_1095" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/exorun">EXORUN</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/hungry-shark-evolution">
+									<img data-src="http://localhost:8000/images/game_avatar/hungry-shark-evolution-icon-1458118103.jpg" alt="hungry-shark-evolution" class="swiper-lazy showTip el_395" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/hungry-shark-evolution">Hungry Shark Evolution</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/dragon-mania-legends">
+									<img data-src="http://localhost:8000/images/game_avatar/dragon-mania-legends-3-1470387362.jpg" alt="dragon-mania-legends" class="swiper-lazy showTip el_1213" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/dragon-mania-legends">Dragon Mania Legends</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/stick-war-legacy">
+									<img data-src="http://localhost:8000/images/game_avatar/stick-war-legacy-icon-1476085596.png" alt="stick-war-legacy" class="swiper-lazy showTip el_1861" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/stick-war-legacy">Stick War: Legacy</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/sniper-3d-assassin">
+									<img data-src="http://localhost:8000/images/game_avatar/sniper-3d-assassin-1477275696.png" alt="sniper-3d-assassin" class="swiper-lazy showTip el_2027" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/sniper-3d-assassin">Sniper 3D Assassin</a></h2>
+		</div>
+	    	</div>
+		</div>																	</div>
+							</div>
+													<div class="swiper-slide boxgame">
+								<div class="row">
+																											<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/icy-dressup-frozen-land">
+									<img data-src="http://localhost:8000/images/game_avatar/icy-dressup-frozen-land-1469782369.png" alt="icy-dressup-frozen-land" class="swiper-lazy showTip el_1161" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/icy-dressup-frozen-land">Icy dressup: Frozen land</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/coco-party-dancing-queens">
+									<img data-src="http://localhost:8000/images/game_avatar/coco-party-dancing-queens-icon-1457921777.jpg" alt="coco-party-dancing-queens" class="swiper-lazy showTip el_372" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/coco-party-dancing-queens"> Coco Party Dancing Queens</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/trials-frontier">
+									<img data-src="http://localhost:8000/images/game_avatar/trials-frontier-icon-1475631740.png" alt="trials-frontier" class="swiper-lazy showTip el_1782" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/trials-frontier">Trials Frontier</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/pretty-ballerina">
+									<img data-src="http://localhost:8000/images/game_avatar/pretty-ballerina-1-1471829634.jpg" alt="pretty-ballerina" class="swiper-lazy showTip el_1287" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/pretty-ballerina">Pretty Ballerina</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/crash-drive-3d-offroad-race">
+									<img data-src="http://localhost:8000/images/game_avatar/crash-drive-3d-offroad-race-1475033746.png" alt="crash-drive-3d-offroad-race" class="swiper-lazy showTip el_1682" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/crash-drive-3d-offroad-race"> Crash Drive 3D - Offroad...</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/castle-clash-de-che-anh-hung">
+									<img data-src="http://localhost:8000/images/game_avatar/castle-clash-de-che-anh-hung-2-1468549299.png" alt="castle-clash-de-che-anh-hung" class="swiper-lazy showTip el_1090" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/castle-clash-de-che-anh-hung"> Castle Clash: Đế Chế...</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/temple-run">
+									<img data-src="http://localhost:8000/images/game_avatar/temple-run-1463109004.png" alt="temple-run" class="swiper-lazy showTip el_607" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/temple-run">Temple Run</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/giai-cuu-cau-do-vui-dan-gian">
+									<img data-src="http://localhost:8000/images/game_avatar/giai-cuu-cau-do-icon-1454484976.jpg" alt="giai-cuu-cau-do-vui-dan-gian" class="swiper-lazy showTip el_312" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/giai-cuu-cau-do-vui-dan-gian"> Giải Cứu Câu Đố...</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/online-head-ball">
+									<img data-src="http://localhost:8000/images/game_avatar/online-head-ball-icon-1478503340.png" alt="online-head-ball" class="swiper-lazy showTip el_2199" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/online-head-ball">Online Head Ball</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/co-ty-phu">
+									<img data-src="http://localhost:8000/images/game_avatar/co-ty-phu-1462937331.jpg" alt="co-ty-phu" class="swiper-lazy showTip el_599" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/co-ty-phu">Cờ Tỷ Phú</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/drive-ahead">
+									<img data-src="http://localhost:8000/images/game_avatar/drive-ahead-1474617537.png" alt="drive-ahead" class="swiper-lazy showTip el_1624" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/drive-ahead">Drive Ahead</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/angry-birds-go">
+									<img data-src="http://localhost:8000/images/game_avatar/angry-birds-go-icon-1458101354.jpg" alt="angry-birds-go" class="swiper-lazy showTip el_387" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/angry-birds-go">Angry Birds Go</a></h2>
+		</div>
+	    	</div>
+		</div>																	</div>
+							</div>
+													<div class="swiper-slide boxgame">
+								<div class="row">
+																											<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/asphalt-8-airborne">
+									<img data-src="http://localhost:8000/images/game_avatar/asphalt-8-airborne-1-1469429723.jpg" alt="asphalt-8-airborne" class="swiper-lazy showTip el_1115" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/asphalt-8-airborne">Asphalt 8: Airborne</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/onet-connect-animal">
+									<img data-src="http://localhost:8000/images/game_avatar/onet-connect-animal-1471659521.jpg" alt="onet-connect-animal" class="swiper-lazy showTip el_1284" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/onet-connect-animal">Onet Connect Animal</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/earn-to-die-2">
+									<img data-src="http://localhost:8000/images/game_avatar/earn-to-die-2-1473471785.png" alt="earn-to-die-2" class="swiper-lazy showTip el_1426" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/earn-to-die-2">Earn to Die 2</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/shinobi-war">
+									<img data-src="http://localhost:8000/images/game_avatar/Shinobi-war-216-1449460075.jpg" alt="shinobi-war" class="swiper-lazy showTip el_147" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/shinobi-war">Shinobi War</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/clash-royale">
+									<img data-src="http://localhost:8000/images/game_avatar/clash-royale-1468462798.jpg" alt="clash-royale" class="swiper-lazy showTip el_1086" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/clash-royale">Clash Royale</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/road-drivers-legacy">
+									<img data-src="http://localhost:8000/images/game_avatar/road-drivers-legacy-2-1472528285.png" alt="road-drivers-legacy" class="swiper-lazy showTip el_1321" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/road-drivers-legacy">Road Drivers: Legacy</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/food-street">
+									<img data-src="http://localhost:8000/images/game_avatar/food-street-3-1463024390.jpeg" alt="food-street" class="swiper-lazy showTip el_603" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/food-street">Food Street</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/warlings">
+									<img data-src="http://localhost:8000/images/game_avatar/Warlings-071-1449455616.jpg" alt="warlings" class="swiper-lazy showTip el_127" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/warlings">Warlings</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/giet-kien">
+									<img data-src="http://localhost:8000/images/game_avatar/giet-kien-455-1449470938.jpg" alt="giet-kien" class="swiper-lazy showTip el_169" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/giet-kien">Giết kiến</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/shopping-mall-girl">
+									<img data-src="http://localhost:8000/images/game_avatar/shopping-mall-girl-icon-1480389267.png" alt="shopping-mall-girl" class="swiper-lazy showTip el_2325" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/shopping-mall-girl">Shopping Mall Girl</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/bong-chuyen-3d">
+									<img data-src="http://localhost:8000/images/game_avatar/Bong-chuyen-271-1449459987.jpg" alt="bong-chuyen-3d" class="swiper-lazy showTip el_146" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/bong-chuyen-3d">Bóng chuyền 3D</a></h2>
+		</div>
+	    	</div>
+		</div>																			<div class="col-xs-4 col-sm-3 col-md-2">
+	<div class="item">
+	    <div class="item-image">
+			<a href="http://localhost:8000/game-android/crash-drive-2-car-simulator">
+									<img data-src="http://localhost:8000/images/game_avatar/crash-drive-2-car-simulator-1-1475034463.jpeg" alt="crash-drive-2-car-simulator" class="swiper-lazy showTip el_1683" />
+							</a>
+	    </div>
+	    <div class="item-title">
+			<h2><a href="http://localhost:8000/game-android/crash-drive-2-car-simulator"> Crash Drive 2: Car...</a></h2>
+		</div>
+	    	</div>
+		</div>																	</div>
+							</div>
+											</div>
+					<div class="swiper-pagination"></div>
+					<div class="boxgame-pagination">
+						<a class="prev"><i class="fa fa-caret-left"></i> Previous</a>
+						<div class="boxgame-pagenumber"><span class="numberPage">1</span>/5</div>
+						<a class="next">Next <i class="fa fa-caret-right"></i></a>
+					</div>
+				</div>
+						<div class="adsense center">
+					<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- choinhanh-M-300x250 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-7546981319298869"
+     data-ad-slot="3245017907"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+			</div>
+				</div>
 
 <div class="box">
 	<h3>Mini Games</h3>
 	<div class="row">
-																																																</div>
+									<div class="col-sm-4">
+					<div class="boxmini">
+						<div class="boxmini-title">
+							<h3><a href="http://localhost:8000/nau-an-games">Nấu ăn Games</a></h3>
+							<a href="http://localhost:8000/nau-an-games" class="boxmini-seemore">Show all</a>
+						</div>
+						<div class="row">
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://localhost:8000/nau-an-games/tiem-kem-cua-riley-2">
+												<img src="http://localhost:8000/images/game_avatar/tiem-kem-cua-riley-2-icon-1483582318.jpg" alt="Tiệm kem của Riley 2" class="showTip el_2462" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://localhost:8000/nau-an-games/tiem-kem-cua-riley-2">Tiệm kem của Riley 2</a>
+										</div>
+									</div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://localhost:8000/nau-an-games/phuc-vu-quan-bar">
+												<img src="http://localhost:8000/images/game_avatar/phuc-vu-quan-bar-banner-icon-1479714249.jpg" alt="Phục vụ quán bar" class="showTip el_2290" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://localhost:8000/nau-an-games/phuc-vu-quan-bar">Phục vụ quán bar</a>
+										</div>
+									</div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://localhost:8000/nau-an-games/hoc-lam-banh-chuoi">
+												<img src="http://localhost:8000/images/game_avatar/hoc-lam-banh-chuoi-icon-1472608037.jpg" alt="Học Làm Bánh Chuối" class="showTip el_1328" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://localhost:8000/nau-an-games/hoc-lam-banh-chuoi">Học Làm Bánh Chuối</a>
+										</div>
+									</div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://localhost:8000/nau-an-games/banh-pho-mat-socola">
+												<img src="http://localhost:8000/images/game_avatar/banh-pho-mat-socola-icon-1472607260.jpg" alt="Bánh Pho Mát Socola" class="showTip el_1326" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://localhost:8000/nau-an-games/banh-pho-mat-socola">Bánh Pho Mát Socola</a>
+										</div>
+									</div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://localhost:8000/nau-an-games/hoc-lam-banh-quy">
+												<img src="http://localhost:8000/images/game_avatar/hoc-lam-banh-quy-icon-1472606708.jpg" alt="Học Làm Bánh Quy" class="showTip el_1325" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://localhost:8000/nau-an-games/hoc-lam-banh-quy">Học Làm Bánh Quy</a>
+										</div>
+									</div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://localhost:8000/nau-an-games/com-ni-thit-cuu">
+												<img src="http://localhost:8000/images/game_avatar/com-ni-thit-cuu-icon-1473066484.jpg" alt="Cơm Ni Thịt Cừu" class="showTip el_1323" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://localhost:8000/nau-an-games/com-ni-thit-cuu">Cơm Ni Thịt Cừu</a>
+										</div>
+									</div>
+																	</div>
+													</div>
+					</div>
+				</div>
+												<div class="col-sm-4">
+					<div class="boxmini">
+						<div class="boxmini-title">
+							<h3><a href="http://localhost:8000/chien-thuat-games">Chiến thuật Games</a></h3>
+							<a href="http://localhost:8000/chien-thuat-games" class="boxmini-seemore">Show all</a>
+						</div>
+						<div class="row">
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://localhost:8000/chien-thuat-games/de-che-ong-vang">
+												<img src="http://localhost:8000/images/game_avatar/de-che-ong-vang-icon-1476150045.jpg" alt="Đế chế ong vàng" class="showTip el_1869" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://localhost:8000/chien-thuat-games/de-che-ong-vang">Đế chế ong vàng</a>
+										</div>
+									</div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://localhost:8000/chien-thuat-games/hanh-trinh-cua-bob-8">
+												<img src="http://localhost:8000/images/game_avatar/hanh-trinh-cua-bob-8-icon-1470727835.jpg" alt="Hành trình của Bob 8" class="showTip el_1244" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://localhost:8000/chien-thuat-games/hanh-trinh-cua-bob-8">Hành trình của Bob 8</a>
+										</div>
+									</div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://localhost:8000/chien-thuat-games/ban-bong-co-dien-2">
+												<img src="http://localhost:8000/images/game_avatar/ban-bong-co-dien-2-icon-1470725026.jpg" alt="Bắn bóng cổ điển 2" class="showTip el_1243" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://localhost:8000/chien-thuat-games/ban-bong-co-dien-2">Bắn bóng cổ điển 2</a>
+										</div>
+									</div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://localhost:8000/chien-thuat-games/mania-diet-quai">
+												<img src="http://localhost:8000/images/game_avatar/mania-diet-quai-icon-1470624728.jpg" alt="Mania diệt quái" class="showTip el_1225" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://localhost:8000/chien-thuat-games/mania-diet-quai">Mania diệt quái</a>
+										</div>
+									</div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://localhost:8000/chien-thuat-games/gau-con-ban-bong-2">
+												<img src="http://localhost:8000/images/game_avatar/gau-con-ban-bong-2-icon-1470299124.jpg" alt="Gấu con bắn bóng 2" class="showTip el_1206" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://localhost:8000/chien-thuat-games/gau-con-ban-bong-2">Gấu con bắn bóng 2</a>
+										</div>
+									</div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://localhost:8000/chien-thuat-games/kham-pha-lang-mo">
+												<img src="http://localhost:8000/images/game_avatar/kham-pha-lang-mo-icon-1470208068.jpg" alt="Khám phá lăng mộ" class="showTip el_1193" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://localhost:8000/chien-thuat-games/kham-pha-lang-mo">Khám phá lăng mộ</a>
+										</div>
+									</div>
+																	</div>
+													</div>
+					</div>
+				</div>
+												<div class="col-sm-4">
+					<div class="boxmini">
+						<div class="boxmini-title">
+							<h3><a href="http://localhost:8000/tri-tue-games">Trí tuệ Games</a></h3>
+							<a href="http://localhost:8000/tri-tue-games" class="boxmini-seemore">Show all</a>
+						</div>
+						<div class="row">
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://localhost:8000/tri-tue-games/tham-tu-barbie">
+												<img src="http://localhost:8000/images/game_avatar/tham-tu-barbie-icon-1485231169.jpg" alt="Thám tử Barbie" class="showTip el_2579" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://localhost:8000/tri-tue-games/tham-tu-barbie">Thám tử Barbie</a>
+										</div>
+									</div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://localhost:8000/tri-tue-games/ghep-hinh-moana">
+												<img src="http://localhost:8000/images/game_avatar/ghep-hinh-moana-icon-1485229752.jpg" alt="Ghép hình Moana" class="showTip el_2576" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://localhost:8000/tri-tue-games/ghep-hinh-moana">Ghép hình Moana</a>
+										</div>
+									</div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://localhost:8000/tri-tue-games/cau-do-toan-hoc">
+												<img src="http://localhost:8000/images/game_avatar/cau-do-toan-hoc-icon-1479713374.jpg" alt="Câu đố toán học" class="showTip el_2285" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://localhost:8000/tri-tue-games/cau-do-toan-hoc">Câu đố toán học</a>
+										</div>
+									</div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://localhost:8000/tri-tue-games/tiny-tim-kho-bau">
+												<img src="http://localhost:8000/images/game_avatar/tiny-tim-kho-bau-icon-1477104921.jpg" alt="Tiny tìm kho báu" class="showTip el_2019" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://localhost:8000/tri-tue-games/tiny-tim-kho-bau">Tiny tìm kho báu</a>
+										</div>
+									</div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://localhost:8000/tri-tue-games/caro-halloween">
+												<img src="http://localhost:8000/images/game_avatar/caro-halloween-icon-1477100295.jpg" alt="Caro halloween" class="showTip el_2008" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://localhost:8000/tri-tue-games/caro-halloween">Caro halloween</a>
+										</div>
+									</div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://localhost:8000/tri-tue-games/caro-kieu-moi">
+												<img src="http://localhost:8000/images/game_avatar/caro-kieu-moi-icon-1476090116.jpg" alt="Caro Kiểu mới" class="showTip el_1866" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://localhost:8000/tri-tue-games/caro-kieu-moi">Caro Kiểu mới</a>
+										</div>
+									</div>
+																	</div>
+													</div>
+					</div>
+				</div>
+												<div class="col-sm-4">
+					<div class="boxmini">
+						<div class="boxmini-title">
+							<h3><a href="http://localhost:8000/ban-gai-games">Bạn gái Games</a></h3>
+							<a href="http://localhost:8000/ban-gai-games" class="boxmini-seemore">Show all</a>
+						</div>
+						<div class="row">
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://localhost:8000/ban-gai-games/bua-tiec-giang-sinh">
+												<img src="http://localhost:8000/images/game_avatar/bua-tiec-giang-sinh-icon-1483587153.jpg" alt="Bữa tiệc giáng sinh" class="showTip el_2468" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://localhost:8000/ban-gai-games/bua-tiec-giang-sinh">Bữa tiệc giáng sinh</a>
+										</div>
+									</div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://localhost:8000/ban-gai-games/belle-kham-rang">
+												<img src="http://localhost:8000/images/game_avatar/belle-kham-rang-icon-1483585402.jpg" alt="Belle khám răng" class="showTip el_2466" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://localhost:8000/ban-gai-games/belle-kham-rang">Belle khám răng</a>
+										</div>
+									</div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://localhost:8000/ban-gai-games/trang-diem-cong-chua-disney">
+												<img src="http://localhost:8000/images/game_avatar/trang-diem-cong-chua-disney-icon-1483515834.jpg" alt="Trang điểm công chúa Disney" class="showTip el_2459" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://localhost:8000/ban-gai-games/trang-diem-cong-chua-disney">Trang điểm công chúa Disney</a>
+										</div>
+									</div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://localhost:8000/ban-gai-games/ky-nghi-cua-tom-va-angela">
+												<img src="http://localhost:8000/images/game_avatar/ky-nghi-cua-tom-va-angela-icon-1483494073.jpg" alt="Kỳ nghỉ của Tom và Angela" class="showTip el_2454" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://localhost:8000/ban-gai-games/ky-nghi-cua-tom-va-angela">Kỳ nghỉ của Tom và Angela</a>
+										</div>
+									</div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://localhost:8000/ban-gai-games/hoa-trang-halloween-2">
+												<img src="http://localhost:8000/images/game_avatar/hoa-trang-halloween-2-icon-1479713905.jpg" alt="Hóa trang Halloween 2" class="showTip el_2288" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://localhost:8000/ban-gai-games/hoa-trang-halloween-2">Hóa trang Halloween 2</a>
+										</div>
+									</div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://localhost:8000/ban-gai-games/thoi-trang-cua-mia">
+												<img src="http://localhost:8000/images/game_avatar/thoi-trang-cua-mia-icon-1479714574.jpg" alt="Thời trang của Mia" class="showTip el_2292" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://localhost:8000/ban-gai-games/thoi-trang-cua-mia">Thời trang của Mia</a>
+										</div>
+									</div>
+																	</div>
+													</div>
+					</div>
+				</div>
+												<div class="col-sm-4">
+					<div class="boxmini">
+						<div class="boxmini-title">
+							<h3><a href="http://localhost:8000/hanh-dong-games">Hành động Games</a></h3>
+							<a href="http://localhost:8000/hanh-dong-games" class="boxmini-seemore">Show all</a>
+						</div>
+						<div class="row">
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://localhost:8000/hanh-dong-games/vuong-quoc-lam-nguy">
+												<img src="http://localhost:8000/images/game_avatar/vuong-quoc-lam-nguy-icon-1485231749.jpg" alt="Vương quốc lâm nguy" class="showTip el_2581" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://localhost:8000/hanh-dong-games/vuong-quoc-lam-nguy">Vương quốc lâm nguy</a>
+										</div>
+									</div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://localhost:8000/hanh-dong-games/sieu-nhan-dai-chien">
+												<img src="http://localhost:8000/images/game_avatar/sieu-nhan-dai-chien-icon-1485230717.jpg" alt="Siêu nhân đại chiến" class="showTip el_2578" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://localhost:8000/hanh-dong-games/sieu-nhan-dai-chien">Siêu nhân đại chiến</a>
+										</div>
+									</div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://localhost:8000/hanh-dong-games/dung-si-diet-chuot">
+												<img src="http://localhost:8000/images/game_avatar/dung-si-diet-chuot-icon-1485229331.jpg" alt="Dũng sĩ diệt chuột" class="showTip el_2575" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://localhost:8000/hanh-dong-games/dung-si-diet-chuot">Dũng sĩ diệt chuột</a>
+										</div>
+									</div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://localhost:8000/hanh-dong-games/dau-truong-ninja">
+												<img src="http://localhost:8000/images/game_avatar/dau-truong-ninja-icon-1483584782.jpg" alt="Đấu trường Ninja" class="showTip el_2465" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://localhost:8000/hanh-dong-games/dau-truong-ninja">Đấu trường Ninja</a>
+										</div>
+									</div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://localhost:8000/hanh-dong-games/frankenstein-tim-kho-bau">
+												<img src="http://localhost:8000/images/game_avatar/frankenstein-tim-kho-bau-icon-1483581393.jpg" alt="Frankenstein tìm kho báu" class="showTip el_2460" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://localhost:8000/hanh-dong-games/frankenstein-tim-kho-bau">Frankenstein tìm kho báu</a>
+										</div>
+									</div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://localhost:8000/hanh-dong-games/cong-vien-ky-jura">
+												<img src="http://localhost:8000/images/game_avatar/cong-vien-ky-jura-icon-1479971422.jpg" alt="Công viên kỷ Jura" class="showTip el_2286" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://localhost:8000/hanh-dong-games/cong-vien-ky-jura">Công viên kỷ Jura</a>
+										</div>
+									</div>
+																	</div>
+													</div>
+					</div>
+				</div>
+												<div class="col-sm-4">
+					<div class="boxmini">
+						<div class="boxmini-title">
+							<h3><a href="http://localhost:8000/the-thao-games">Thể thao Games</a></h3>
+							<a href="http://localhost:8000/the-thao-games" class="boxmini-seemore">Show all</a>
+						</div>
+						<div class="row">
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://localhost:8000/the-thao-games/truot-tuyet-dia-hinh">
+												<img src="http://localhost:8000/images/game_avatar/truot-tuyet-dia-hinh-icon-1483584064.jpg" alt="Trượt tuyết địa hình" class="showTip el_2464" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://localhost:8000/the-thao-games/truot-tuyet-dia-hinh">Trượt tuyết địa hình</a>
+										</div>
+									</div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://localhost:8000/the-thao-games/choi-bong-ro-3">
+												<img src="http://localhost:8000/images/game_avatar/choi-bong-ro-3-icon-1483496334.jpg" alt="Chơi bóng rổ 3" class="showTip el_2456" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://localhost:8000/the-thao-games/choi-bong-ro-3">Chơi bóng rổ 3</a>
+										</div>
+									</div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://localhost:8000/the-thao-games/bong-chuyen-kieu-moi">
+												<img src="http://localhost:8000/images/game_avatar/bong-chuyen-kieu-moi-icon-1479713179.jpg" alt="Bóng chuyền kiểu mới" class="showTip el_2284" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://localhost:8000/the-thao-games/bong-chuyen-kieu-moi">Bóng chuyền kiểu mới</a>
+										</div>
+									</div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://localhost:8000/the-thao-games/da-banh-tranh-cup">
+												<img src="http://localhost:8000/images/game_avatar/da-banh-tranh-cup-icon-1476149600.jpg" alt="Đá banh tranh cúp" class="showTip el_1868" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://localhost:8000/the-thao-games/da-banh-tranh-cup">Đá banh tranh cúp</a>
+										</div>
+									</div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://localhost:8000/the-thao-games/sieu-sao-sut-phat">
+												<img src="http://localhost:8000/images/game_avatar/sieu-sao-sut-phat-icon-1469761674.jpg" alt="Siêu sao sút phạt" class="showTip el_1155" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://localhost:8000/the-thao-games/sieu-sao-sut-phat">Siêu sao sút phạt</a>
+										</div>
+									</div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://localhost:8000/the-thao-games/tap-danh-bong-ban">
+												<img src="http://localhost:8000/images/game_avatar/tap-danh-bong-ban-icon-1466220840.jpg" alt="Tập đánh bóng bàn" class="showTip el_933" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://localhost:8000/the-thao-games/tap-danh-bong-ban">Tập đánh bóng bàn</a>
+										</div>
+									</div>
+																	</div>
+													</div>
+					</div>
+				</div>
+												<div class="col-sm-4">
+					<div class="boxmini">
+						<div class="boxmini-title">
+							<h3><a href="http://localhost:8000/dua-xe-games">Đua xe Games</a></h3>
+							<a href="http://localhost:8000/dua-xe-games" class="boxmini-seemore">Show all</a>
+						</div>
+						<div class="row">
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://localhost:8000/dua-xe-games/tay-lai-cu-khoi-2">
+												<img src="http://localhost:8000/images/game_avatar/tay-lai-cu-khoi-2-icon-1483515205.jpg" alt="Tay lái cừ khôi 2" class="showTip el_2458" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://localhost:8000/dua-xe-games/tay-lai-cu-khoi-2">Tay lái cừ khôi 2</a>
+										</div>
+									</div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://localhost:8000/dua-xe-games/tay-lai-toc-do">
+												<img src="http://localhost:8000/images/game_avatar/tay-lai-toc-do-icon-1477103890.jpg" alt="Tay lái tốc độ" class="showTip el_2018" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://localhost:8000/dua-xe-games/tay-lai-toc-do">Tay lái tốc độ</a>
+										</div>
+									</div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://localhost:8000/dua-xe-games/tay-dua-xe-tai">
+												<img src="http://localhost:8000/images/game_avatar/tay-dua-xe-tai-icon-1477103581.jpg" alt="Tay đua xe tải" class="showTip el_2017" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://localhost:8000/dua-xe-games/tay-dua-xe-tai">Tay đua xe tải</a>
+										</div>
+									</div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://localhost:8000/dua-xe-games/lai-xe-vuot-dia-hinh">
+												<img src="http://localhost:8000/images/game_avatar/lai-xe-vuot-dia-hinh-icon-1476150489.jpg" alt="Lái xe vượt địa hình " class="showTip el_1870" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://localhost:8000/dua-xe-games/lai-xe-vuot-dia-hinh">Lái xe vượt địa hình </a>
+										</div>
+									</div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://localhost:8000/dua-xe-games/do-xe-dung-cach-4">
+												<img src="http://localhost:8000/images/game_avatar/do-xe-dung-cach-4-icon-1470723643.jpg" alt="Đỗ xe đúng cách 4" class="showTip el_1242" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://localhost:8000/dua-xe-games/do-xe-dung-cach-4">Đỗ xe đúng cách 4</a>
+										</div>
+									</div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://localhost:8000/dua-xe-games/do-xe-dung-cach-3">
+												<img src="http://localhost:8000/images/game_avatar/do-xe-dung-cach-3-icon-1470016803.jpg" alt="Đỗ xe đúng cách 3" class="showTip el_1173" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://localhost:8000/dua-xe-games/do-xe-dung-cach-3">Đỗ xe đúng cách 3</a>
+										</div>
+									</div>
+																	</div>
+													</div>
+					</div>
+				</div>
+												<div class="col-sm-4">
+					<div class="boxmini">
+						<div class="boxmini-title">
+							<h3><a href="http://localhost:8000/vui-nhon-games">Vui nhộn  Games</a></h3>
+							<a href="http://localhost:8000/vui-nhon-games" class="boxmini-seemore">Show all</a>
+						</div>
+						<div class="row">
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://localhost:8000/vui-nhon-games/lily-nghich-ngom">
+												<img src="http://localhost:8000/images/game_avatar/lily-nghich-ngom-icon-1485230117.jpg" alt="Lily nghịch ngợm" class="showTip el_2577" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://localhost:8000/vui-nhon-games/lily-nghich-ngom">Lily nghịch ngợm</a>
+										</div>
+									</div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://localhost:8000/vui-nhon-games/dora-nghich-ngom">
+												<img src="http://localhost:8000/images/game_avatar/dora-nghich-ngom-icon-1485228317.jpg" alt="Dora nghịch ngợm" class="showTip el_2574" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://localhost:8000/vui-nhon-games/dora-nghich-ngom">Dora nghịch ngợm</a>
+										</div>
+									</div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://localhost:8000/vui-nhon-games/santa-luom-qua">
+												<img src="http://localhost:8000/images/game_avatar/santa-luom-qua-icon-1483586415.jpg" alt="Santa lượm quà" class="showTip el_2467" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://localhost:8000/vui-nhon-games/santa-luom-qua">Santa lượm quà</a>
+										</div>
+									</div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://localhost:8000/vui-nhon-games/truot-van-nuoc">
+												<img src="http://localhost:8000/images/game_avatar/truot-van-nuoc-icon-1483581820.jpg" alt="Trượt ván nước" class="showTip el_2461" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://localhost:8000/vui-nhon-games/truot-van-nuoc">Trượt ván nước</a>
+										</div>
+									</div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://localhost:8000/vui-nhon-games/ban-bong-bay">
+												<img src="http://localhost:8000/images/game_avatar/ban-bong-bay-icon-1483504203.jpg" alt="Bắn bóng bay" class="showTip el_2457" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://localhost:8000/vui-nhon-games/ban-bong-bay">Bắn bóng bay</a>
+										</div>
+									</div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://localhost:8000/vui-nhon-games/dap-pha-sieu-xe">
+												<img src="http://localhost:8000/images/game_avatar/dap-pha-sieu-xe-icon-1479713732.jpg" alt="Đập phá siêu xe" class="showTip el_2287" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://localhost:8000/vui-nhon-games/dap-pha-sieu-xe">Đập phá siêu xe</a>
+										</div>
+									</div>
+																	</div>
+													</div>
+					</div>
+				</div>
+												<div class="col-sm-4">
+					<div class="boxmini">
+						<div class="boxmini-title">
+							<h3><a href="http://localhost:8000/thoi-trang-games">Thời trang Games</a></h3>
+							<a href="http://localhost:8000/thoi-trang-games" class="boxmini-seemore">Show all</a>
+						</div>
+						<div class="row">
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://localhost:8000/thoi-trang-games/thoi-trang-cua-anna">
+												<img src="http://localhost:8000/images/game_avatar/thoi-trang-cua-anna-icon-1485231468.jpg" alt="Thời trang của Anna" class="showTip el_2580" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://localhost:8000/thoi-trang-games/thoi-trang-cua-anna">Thời trang của Anna</a>
+										</div>
+									</div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://localhost:8000/thoi-trang-games/thoi-trang-nu-hoang-2">
+												<img src="http://localhost:8000/images/game_avatar/thoi-trang-nu-hoang-2-icon-1483583132.jpg" alt="Thời trang nữ hoàng 2" class="showTip el_2463" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://localhost:8000/thoi-trang-games/thoi-trang-nu-hoang-2">Thời trang nữ hoàng 2</a>
+										</div>
+									</div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://localhost:8000/thoi-trang-games/thoi-trang-cua-annie">
+												<img src="http://localhost:8000/images/game_avatar/thoi-trang-cua-annie-icon-1483495147.jpg" alt="Thời trang của Annie" class="showTip el_2455" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://localhost:8000/thoi-trang-games/thoi-trang-cua-annie">Thời trang của Annie</a>
+										</div>
+									</div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://localhost:8000/thoi-trang-games/thoi-trang-cua-mia">
+												<img src="http://localhost:8000/images/game_avatar/thoi-trang-cua-mia-icon-1479714574.jpg" alt="Thời trang của Mia" class="showTip el_2292" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://localhost:8000/thoi-trang-games/thoi-trang-cua-mia">Thời trang của Mia</a>
+										</div>
+									</div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://localhost:8000/thoi-trang-games/mua-sam-cung-barbie">
+												<img src="http://localhost:8000/images/game_avatar/mua-sam-cung-barbie-icon-1479714099.jpg" alt="Mua sắm cùng Barbie" class="showTip el_2289" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://localhost:8000/thoi-trang-games/mua-sam-cung-barbie">Mua sắm cùng Barbie</a>
+										</div>
+									</div>
+																	</div>
+																							<div class="col-xs-4">
+									<div class="item">
+									    <div class="item-image">
+											<a href="http://localhost:8000/thoi-trang-games/elsa-di-picnic">
+												<img src="http://localhost:8000/images/game_avatar/elsa-di-picnic-icon-1477102562.jpg" alt="Elsa đi picnic" class="showTip el_2014" />
+											</a>
+									    </div>
+									    <div class="item-title">
+											<a href="http://localhost:8000/thoi-trang-games/elsa-di-picnic">Elsa đi picnic</a>
+										</div>
+									</div>
+																	</div>
+													</div>
+					</div>
+				</div>
+						</div>
 </div>
 
-<script src="http://teengame.net/assets/js/swiper.min.js"></script>
+<script src="http://localhost:8000/assets/js/swiper.min.js"></script>
 
-<link media="all" type="text/css" rel="stylesheet" href="http://teengame.net/assets/css/swiper.min.css">
+<link media="all" type="text/css" rel="stylesheet" href="http://localhost:8000/assets/css/swiper.min.css">
 
 <style rel="stylesheet" type="text/css" media="all">
 	.boxgame-pagination {
@@ -236,14 +3069,38 @@
 
 				<div class="tags">
 	<ul>
+			<li><a href="http://localhost:8000/kinh-dien-games">Game Kinh dien</a><span>|</span></li>
+			<li><a href="http://localhost:8000/lam-banh-games">Game Lam banh</a><span>|</span></li>
+			<li><a href="http://localhost:8000/xep-hinh-games">Game Xep hinh</a><span>|</span></li>
+			<li><a href="http://localhost:8000/zombie-games">Game Zombie</a><span>|</span></li>
+			<li><a href="http://localhost:8000/mario-games">Game Mario</a><span>|</span></li>
+			<li><a href="http://localhost:8000/bong-da-games">Game Bong da</a><span>|</span></li>
+			<li><a href="http://localhost:8000/kinh-di-games">Game Kinh di</a><span>|</span></li>
+			<li><a href="http://localhost:8000/2-nguoi-choi-games">Game 2 nguoi choi</a><span>|</span></li>
+			<li><a href="http://localhost:8000/nong-trai-games">Game Nong trai</a><span>|</span></li>
+			<li><a href="http://localhost:8000/phieu-luu-games">Game Phieu luu</a><span>|</span></li>
+			<li><a href="http://localhost:8000/dua-xe-dia-hinh-games">Game Dua xe dia hinh</a><span>|</span></li>
+			<li><a href="http://localhost:8000/dat-boom-games">Game Dat boom</a><span>|</span></li>
+			<li><a href="http://localhost:8000/tom-and-jerry-games">Game Tom and Jerry</a><span>|</span></li>
+			<li><a href="http://localhost:8000/minion-games">Game Minion</a><span>|</span></li>
+			<li><a href="http://localhost:8000/hoat-hinh-games">Game Hoat hinh</a><span>|</span></li>
+			<li><a href="http://localhost:8000/naruto-games">Game Naruto</a><span>|</span></li>
+			<li><a href="http://localhost:8000/pikachu-games">Game Pikachu</a><span>|</span></li>
+			<li><a href="http://localhost:8000/7-vien-ngoc-rong-games">Game 7 Vien Ngoc Rong</a><span>|</span></li>
+			<li><a href="http://localhost:8000/ban-sung-games">Game Ban sung</a><span>|</span></li>
+			<li><a href="http://localhost:8000/dao-vang-games">Game Dao vang</a><span>|</span></li>
+			<li><a href="http://localhost:8000/doremon-games">Game Doremon</a><span>|</span></li>
+			<li><a href="http://localhost:8000/trang-diem-games">Game Trang diem</a><span>|</span></li>
+			<li><a href="http://localhost:8000/thu-thanh-games">Game Thu thanh</a><span>|</span></li>
+			<li><a href="http://localhost:8000/to-mau-games">Game To Mau</a><span>|</span></li>
 		</ul>
 	<div class="clearfix"></div>
 </div>
 <div class="footer">
 	<ul>
-	  <li><a href="http://teengame.net" >Home</a></li>
-	  <li><a href="http://teengame.net/feedback" >Feedback</a></li>
-	  <li><a href="http://teengame.net/policy" >Policy</a></li>
+	  <li><a href="http://localhost:8000" >Home</a></li>
+	  <li><a href="http://localhost:8000/feedback" >Feedback</a></li>
+	  <li><a href="http://localhost:8000/policy" >Policy</a></li>
 	</ul>
 	<div class="copyright">
 	  	<p>Copyright 2016 by Teengame.net</p>
@@ -255,8 +3112,14 @@
 
 	  	<div class="glass"></div>
 
-					
-		
+	  	<div class="container">
+			<div class="row">
+				<div class="col-xs-12 center">
+											<strong><a href="http://choinhanh.vn/game-hanh-dong" title="game hanh dong,game hành động" target="_blank">game hanh dong</a></strong> - <strong><a href="http://choinhanh.vn" title="choi game mien phi,game mini" target="_blank">choi game mien phi</a></strong> - <strong><a href="http://choinhanh.vn/game-thoi-trang" title="trò chơi thời trang,choi game thoi trang" target="_blank">choi game thoi trang</a></strong> - <strong><a href="http://choinhanh.vn/game-dua-xe" title="game đua xe,tro choi dua xe" target="_blank">tro choi dua xe</a></strong> - <strong><a href="http://choinhanh.vn/game-ban-gai" title="game bạn gái,game ban gai" target="_blank">game ban gai</a></strong> - <strong><a href="http://choinhanh.vn/game-nau-an" title="trò chơi nấu ăn,choi game nau an" target="_blank">choi game nau an</a></strong> - <strong><a href="http://choinhanh.vn/game-vui-nhon" title="tro choi vui,game vui nhon" target="_blank">tro choi vui</a></strong> - <strong><a href="http://choinhanh.vn/game-chien-thuat" title="game chien thuat,trò choi chiến thuật" target="_blank">game chien thuat</a></strong> - <strong><a href="http://choinhanh.vn/game-tri-tue" title="game tri tue,tro choi tri tue" target="_blank">game tri tue</a></strong> - <strong><a href="http://choinhanh.vn/game-hay-nhat" title="game hay nhat, tro choi hay" target="_blank">game hay nhat</a></strong> - <strong><a href="http://choinhanh.vn/game-moi-nhat" title="game moi nhat, game hot" target="_blank">game moi nhat</a></strong>
+									</div>
+			</div>
+		</div>
+
 		<div id="fb-root"></div>
 		<script>(function(d, s, id) {
 			  var js, fjs = d.getElementsByTagName(s)[0];
